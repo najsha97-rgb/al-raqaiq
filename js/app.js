@@ -659,7 +659,7 @@ document.addEventListener('DOMContentLoaded', () => {
       const summaryBox = document.createElement('div');
       summaryBox.className = 'summary-container';
 
-                  const summaryRaw = (sub && sub.summary && sub.summary.trim() !== '') 
+                        const summaryRaw = (sub && sub.summary && sub.summary.trim() !== '') 
         ? sub.summary 
         : (ch && ch.summary && ch.summary.trim() !== '' ? ch.summary : '');
 
@@ -671,13 +671,12 @@ document.addEventListener('DOMContentLoaded', () => {
           .replace(/Halaman\s+Asal[ \t\d–—\-]+/gi, '')
           .replace(/[ \t]*\(MS\s+[\d\s–—\-]+\)/gi, '');
 
-        const ARABIC_WORD_REGEX = /[\u0600-\u06FF\u0750-\u077F\u08A0-\u08FF\uFB50-\uFDFF\uFE70-\uFEFF]+(?:[ \t\u064B-\u0652]+[\u0600-\u06FF\u0750-\u077F\u08A0-\u08FF\uFB50-\uFDFF\uFE70-\uFEFF]+)*/g;
-
         // Format subheaders bertanda ### *(Tajuk Transliterasi - Teks Arab)*
         // Asingkan teks Arab supaya fon Amiri Gold, TEGAK (tidak condong/italic)
         html = html.replace(/^###\s*\*?\((.*?)\)\*?\s*$/gm, function(match, inner) {
           let cleanInner = inner.replace(/[ \t]*\|[ \t]*Halaman\s+Asal[ \t\d–—\-]+/gi, '');
-          let formattedInner = cleanInner.replace(ARABIC_WORD_REGEX, function(ar) {
+          // Pecahkan teks Arab dan Latin
+          let formattedInner = cleanInner.replace(/([\u0600-\u06FF\u0750-\u077F\u08A0-\u08FF\uFB50-\uFDFF\uFE70-\uFEFF\s\u064B-\u0652]+)/g, function(ar) {
             return '<span class="arabic-text-amiri-gold" dir="rtl" style="font-family: \'Amiri\', serif !important; color: var(--gold-light, #fde047) !important; font-style: normal !important; font-weight: 700 !important; font-size: 1.25em !important; display: inline-block;">' + ar.trim() + '</span>';
           });
           return '<div class="summary-subheading-banner" style="font-size: 1.05rem; color: var(--emerald-light, #34d399); font-weight: 600; margin: 0.4rem 0 0.9rem 0;">(' + formattedInner + ')</div>';
@@ -685,7 +684,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
         html = html.replace(/^###\s*(.*?)$/gm, function(match, inner) {
           let cleanInner = inner.replace(/[ \t]*\|[ \t]*Halaman\s+Asal[ \t\d–—\-]+/gi, '');
-          let formattedInner = cleanInner.replace(ARABIC_WORD_REGEX, function(ar) {
+          let formattedInner = cleanInner.replace(/([\u0600-\u06FF\u0750-\u077F\u08A0-\u08FF\uFB50-\uFDFF\uFE70-\uFEFF\s\u064B-\u0652]+)/g, function(ar) {
             return '<span class="arabic-text-amiri-gold" dir="rtl" style="font-family: \'Amiri\', serif !important; color: var(--gold-light, #fde047) !important; font-style: normal !important; font-weight: 700 !important; font-size: 1.25em !important; display: inline-block;">' + ar.trim() + '</span>';
           });
           return '<h4 style="color: var(--gold-light, #fde047); margin-top: 1.2rem; margin-bottom: 0.4rem; font-size: 1.05rem; font-weight: 700;">' + formattedInner + '</h4>';
@@ -697,7 +696,7 @@ document.addEventListener('DOMContentLoaded', () => {
         // Format italic sambil melindungi teks Arab agar TIDAK menjadi condong
         html = html.replace(/(?<!\*)\*(?!\*)(.*?)(?<!\*)\*(?!\*)/g, function(match, p1) {
           if (/[\u0600-\u06FF]/.test(p1)) {
-            return p1.replace(ARABIC_WORD_REGEX, function(ar) {
+            return p1.replace(/([\u0600-\u06FF\u0750-\u077F\u08A0-\u08FF\uFB50-\uFDFF\uFE70-\uFEFF\s\u064B-\u0652]+)/g, function(ar) {
               return '<span class="arabic-text-amiri-gold" dir="rtl" style="font-family: \'Amiri\', serif !important; color: var(--gold-light, #fde047) !important; font-style: normal !important; font-weight: 700 !important;">' + ar.trim() + '</span>';
             });
           }

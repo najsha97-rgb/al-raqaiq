@@ -1,11 +1,11 @@
-# INTISARI ILMIAH & FIQH HARAKI SUBTOPIK AL-RAQĀ'IQ (الرقائق)
-## Pelembut-pelembut Hati: Analisis Diagnostik Subtopik 4 Tiang Fiqh Haraki
+# INTISARI ILMIAH & FIQH HARAKI subtajuk AL-RAQĀ'IQ (الرقائق)
+## Pelembut-pelembut Hati: Analisis Diagnostik subtajuk 4 Tiang Fiqh Haraki
 **Karya Asal:** Al-Fadhil Syeikh Muhammad Ahmad al-Rasyid *rahimahullah*  
 **Penyelarasan & Terjemahan:** Projek Terjemahan Akademik Lengkap *Al-Raqā'iq* (Format Fiqh Haraki 4 Tiang)
 
 ---
 
-# 🌺 MUKADIMAH: JIWA YANG BERIMAN (MS 7 – 14)
+# 🌺 MUKADIMAH: JIWA YANG BERIMAN
 ### *(Al-Nafs al-Mu’minah - النَّفْسُ المُؤْمِنَةُ)*
 
 * **💎 Mutiara Kata Hikmah:**  
@@ -15,7 +15,7 @@
 
 ---
 
-### • Subtopik: *Gerakan Islamiah Wajib Memiliki Firasat Meneliti Dirinya Sendiri (10 Disiplin Asas Kader Rabbani)*
+### • subtajuk: *Gerakan Islamiah Wajib Memiliki Firasat Meneliti Dirinya Sendiri (10 Disiplin Asas Kader Rabbani)*
 * **1. Diagnosis Halangan / Rawatan Jiwa (*Al-Ghaflah / Al-Raqīqah*):**  
   *Bahaya Kebankrapan Kader & Tarbiah Semberono* — Ancaman paling dahsyat yang boleh meruntuhkan harakah Islamiah bukanlah kezaliman musuh dari luar, sebaliknya "kebankrapan kader" (*iflas al-kadar*) apabila tokoh-tokoh pembimbing pergi menghadap Ilahi tanpa ada barisan pelapis yang diacu dengan kualiti tarbiah yang setaraf.
 * **2. Modus Operandi & Gejala Penyelusupan:**  
@@ -37,7 +37,7 @@
 
 ---
 
-# 🛡️ BAB 1: TASBIH MENGUKUHKAN KEKUASAAN (MS 15 – 26)
+# 🛡️ BAB 1: TASBIH MENGUKUHKAN KEKUASAAN
 ### *(Tasbīh Yasyuddu al-Mulk - تَسْبِيحٌ يَشُدُّ المُلْكَ)*
 
 * **💎 Mutiara Kata Hikmah:**  
@@ -47,7 +47,7 @@
 
 ---
 
-### 1. Subtopik: *Sahutlah Seruan Nabimu SAW*
+### 1. subtajuk: *Sahutlah Seruan Nabimu SAW*
 * **1. Diagnosis Halangan / Rawatan Jiwa:**  
   *Penyakit Kelalaian Zikir & Kehilangan Sambungan Rabbani* — Aktivis yang tenggelam dalam kesibukan urusan duniawi dan gerak kerja teknikal tanzim sehingga lidahnya kering daripada menyebut nama Allah Taala.
 * **2. Modus Operandi & Gejala Penyelusupan:**  
@@ -59,7 +59,7 @@
 
 ---
 
-### 2. Subtopik: *Keutamaan Golongan Terdahulu Menjaga Solat*
+### 2. subtajuk: *Keutamaan Golongan Terdahulu Menjaga Solat*
 * **1. Diagnosis Halangan / Rawatan Jiwa:**  
   *Kelesuan Menunaikan Solat Berjemaah di Masjid* — Menganggap solat fardhu sekadar melepaskan batuk di tangga atau menundanya ke hujung waktu atas alasan kekangan masa dan tugas.
 * **2. Modus Operandi & Gejala Penyelusupan:**  
@@ -71,7 +71,7 @@
 
 ---
 
-### 3. Subtopik: *Dakwah yang Menimba Pengajaran daripada Nabi Daud AS*
+### 3. subtajuk: *Dakwah yang Menimba Pengajaran daripada Nabi Daud AS*
 * **1. Diagnosis Halangan / Rawatan Jiwa:**  
   *Ilusi Bahawa Kuasa Politik Berdiri Sendiri Tanpa Mihrab* — Kegagalan memahami hubungan organik antara keteguhan kerajaan (*syaddul mulk*) dengan kedalaman ibadah malam dan tasbih.
 * **2. Modus Operandi & Gejala Penyelusupan:**  
@@ -83,7 +83,7 @@
 
 ---
 
-# 🌙 BAB 2: MINIT-MINIT YANG BERHARGA (MS 27 – 37)
+# 🌙 BAB 2: MINIT-MINIT YANG BERHARGA
 ### *(Al-Daqā'iq al-Ghāliyah - الدَّقَائِقُ الغَالِيَةُ)*
 
 * **💎 Mutiara Kata Hikmah:**  
@@ -93,7 +93,7 @@
 
 ---
 
-### 1. Subtopik: *Tokoh-Tokoh Madrasah Malam*
+### 1. subtajuk: *Tokoh-Tokoh Madrasah Malam*
 * **1. Diagnosis Halangan / Rawatan Jiwa:**  
   *Penyakit Tilam Empuk & Kelesuan Qiamullail* — Hati yang berat untuk bangun malam kerana kekenyangan makan malam, tenggelam dalam perbualan kosong, atau melayan keletihan jasad tanpa mujahadah.
 * **2. Modus Operandi & Gejala Penyelusupan:**  
@@ -105,7 +105,7 @@
 
 ---
 
-### 2. Subtopik: *Adakah Burung Merpati Mendahuluimu?*
+### 2. subtajuk: *Adakah Burung Merpati Mendahuluimu?*
 * **1. Diagnosis Halangan / Rawatan Jiwa:**  
   *Rasa Malu Terhadap Makhluk yang Bertasbih* — Kelalaian insan berakal yang tewas kepada haiwan yang tidak berakal dalam mengingati dan memuji Allah pada fajar hari.
 * **2. Modus Operandi & Gejala Penyelusupan:**  
@@ -120,7 +120,7 @@
 
 ---
 
-# 🚀 BAB 3: PERMULAAN (MS 39 – 48)
+# 🚀 BAB 3: PERMULAAN
 ### *(Al-Ibtidā' - الابْتِدَاءُ)*
 
 * **💎 Mutiara Kata Hikmah:**  
@@ -130,7 +130,7 @@
 
 ---
 
-### 1. Subtopik: *Kejernihan Langkah Permulaan*
+### 1. subtajuk: *Kejernihan Langkah Permulaan*
 * **1. Diagnosis Halangan / Rawatan Jiwa:**  
   *Kekaburan Matlamat & Kecuaian Menimbang Langkah Awal* — Menyertai barisan dakwah kerana terikut-ikut kawan, terpesona dengan retorik kepimpinan, atau mencari wadah pergaulan sosial tanpa komitmen ibadah.
 * **2. Modus Operandi & Gejala Penyelusupan:**  
@@ -142,7 +142,7 @@
 
 ---
 
-### 2. Subtopik: *Iaitu Niat yang Bebas Ikhlas*
+### 2. subtajuk: *Iaitu Niat yang Bebas Ikhlas*
 * **1. Diagnosis Halangan / Rawatan Jiwa:**  
   *Penyakit Riak, Sum'ah & Kehendak Tersembunyi (Syahwat Khafiyyah)* — Keinginan agar diri dipandang hebat, dipuji di atas pentas, atau diangkat sebagai rujukan utama.
 * **2. Modus Operandi & Gejala Penyelusupan:**  
@@ -154,7 +154,7 @@
 
 ---
 
-### 3. Subtopik: *Iaitu Mengorak Langkah Mengharungi Kesukaran*
+### 3. subtajuk: *Iaitu Mengorak Langkah Mengharungi Kesukaran*
 * **1. Diagnosis Halangan / Rawatan Jiwa:**  
   *Sikap Mencari Keselesaan & Takut kepada Kepayahan* — Berangan-angan bahawa jalan menegakkan syariat Islam adalah lebuh raya berturap permaidani merah tanpa titisan keringat dan darah.
 * **2. Modus Operandi & Gejala Penyelusupan:**  
@@ -166,7 +166,7 @@
 
 ---
 
-# 🏔️ BAB 4: MENUJU KEGEMBIRAAN AKHIRAT (MS 49 – 62)
+# 🏔️ BAB 4: MENUJU KEGEMBIRAAN AKHIRAT
 ### *(Nahwa Afrāh al-Ākhirah - نَحْوَ أَفْرَاحِ الآخِرَةِ)*
 
 * **💎 Mutiara Kata Hikmah:**  
@@ -176,7 +176,7 @@
 
 ---
 
-### 1. Subtopik: *Ketinggian Martabat... Harganya Ialah Keletihan*
+### 1. subtajuk: *Ketinggian Martabat... Harganya Ialah Keletihan*
 * **1. Diagnosis Halangan / Rawatan Jiwa:**  
   *Keinginan Mencapai Kedudukan Tinggi Tanpa Berpeluh* — Berangan-angan memperoleh fadhilat syahid dan kedudukan bersama para siddiqin tanpa mahu mengorbankan waktu tidur dan tenaga fizikal.
 * **2. Modus Operandi & Gejala Penyelusupan:**  
@@ -188,7 +188,7 @@
 
 ---
 
-### 2. Subtopik: *Dan Engkau Pemilik Iman*
+### 2. subtajuk: *Dan Engkau Pemilik Iman*
 * **1. Diagnosis Halangan / Rawatan Jiwa:**  
   *Rasa Rendah Diri (Minderwertigkeitsgefühl) di Hadapan Kebendaan Jahiliah* — Daie merasa kerdil melihat kemegahan bangunan, teknologi, dan kekayaan material para pendukung kebatilan.
 * **2. Modus Operandi & Gejala Penyelusupan:**  
@@ -201,7 +201,7 @@
 
 ---
 
-### 3. Subtopik: *Dan Manusia yang Paling Penat Ialah yang Agong Tuntutan Cita-Citanya*
+### 3. subtajuk: *Dan Manusia yang Paling Penat Ialah yang Agong Tuntutan Cita-Citanya*
 * **1. Diagnosis Halangan / Rawatan Jiwa:**  
   *Kelemahan Himmah (Cita-Cita Kerdil)* — Berpuas hati menjadi orang awam yang pasif, mencukupi diri dengan solat fardhu dan zikir sendirian tanpa memikirkan nasib ummah yang dizalimi.
 * **2. Modus Operandi & Gejala Penyelusupan:**  
@@ -216,7 +216,7 @@
 
 ---
 
-### 4. Subtopik: *Dan Engkau Insan Merdeka yang Mulia*
+### 4. subtajuk: *Dan Engkau Insan Merdeka yang Mulia*
 * **1. Diagnosis Halangan / Rawatan Jiwa:**  
   *Kehambaan kepada Harta & Pangkat* — Tergoda dengan tawaran habuan material atau takut kehilangan pekerjaan sekiranya bertegas menyatakan kebenaran.
 * **2. Modus Operandi & Gejala Penyelusupan:**  
@@ -228,7 +228,7 @@
 
 ---
 
-### 5. Subtopik: *Dan Engkau Pemilik Matlamat*
+### 5. subtajuk: *Dan Engkau Pemilik Matlamat*
 * **1. Diagnosis Halangan / Rawatan Jiwa:**  
   *Hanyut dalam Urusan Ranting & Lupa Matlamat Utama* — Sibuk bertengkar mengenai isu-isu khilafiah cabang atau perselisihan teknikal sehingga melupakan matlamat mendaulatkan syariat.
 * **2. Modus Operandi & Gejala Penyelusupan:**  
@@ -240,7 +240,7 @@
 
 ---
 
-### 6. Subtopik: *Dan Engkau Penuntut Akses Menuju Allah*
+### 6. subtajuk: *Dan Engkau Penuntut Akses Menuju Allah*
 * **1. Diagnosis Halangan / Rawatan Jiwa:**  
   *Terputus Hubungan Hati dengan Sumber Wahyu* — Menjadikan akal fikiran dan teori organisasi semata-mata sebagai sandaran tanpa memohon bimbingan ilham daripada Allah SWT.
 * **2. Modus Operandi & Gejala Penyelusupan:**  
@@ -252,7 +252,7 @@
 
 ---
 
-### 7. Subtopik: *Ujian Kelapangan Masa dan Kelalaian*
+### 7. subtajuk: *Ujian Kelapangan Masa dan Kelalaian*
 * **1. Diagnosis Halangan / Rawatan Jiwa:**  
   *Pembaziran Waktu Terluang (Al-Faragh)* — Masa lapang yang tidak diisi dengan amal kebajikan akan diisi oleh syaitan dengan bisikan maksiat dan kelalaian.
 * **2. Modus Operandi & Gejala Penyelusupan:**  
@@ -264,7 +264,7 @@
 
 ---
 
-# 🤝 BAB 5: PERSAUDARAAN SYIAR DAKWAH KITA (MS 63 – 76)
+# 🤝 BAB 5: PERSAUDARAAN SYIAR DAKWAH KITA
 ### *(Al-Ukhuwwah Syi'ār Da'watinā - الأُخُوَّةُ شِعَارُ دَعْوَتِنَا)*
 
 * **💎 Mutiara Kata Hikmah:**  
@@ -274,7 +274,7 @@
 
 ---
 
-### 1. Subtopik: *Ketakwaan Terlebih Dahulu & Mengiringinya dengan Persaudaraan*
+### 1. subtajuk: *Ketakwaan Terlebih Dahulu & Mengiringinya dengan Persaudaraan*
 * **1. Diagnosis Halangan / Rawatan Jiwa:**  
   *Ukhuwah Palsu Berpaksikan Kepentingan Duniawi* — Berkawan kerana kepentingan perniagaan, populariti, atau sekadar keserasian hobi semata-mata.
 * **2. Modus Operandi & Gejala Penyelusupan:**  
@@ -286,7 +286,7 @@
 
 ---
 
-### 2. Subtopik: *Ikatan Perjanjian Persaudaraan & Neraca Persahabatan*
+### 2. subtajuk: *Ikatan Perjanjian Persaudaraan & Neraca Persahabatan*
 * **1. Diagnosis Halangan / Rawatan Jiwa:**  
   *Gagal Menepati Hak-Hak Sahabat* — Menuntut saudara memahami diri sendiri tanpa mahu bertolak ansur dan berkorban untuk saudara yang lain.
 * **2. Modus Operandi & Gejala Penyelusupan:**  
@@ -298,7 +298,7 @@
 
 ---
 
-### 3. Subtopik: *Sifat-Sifat Utama Sahabat Sejati (Tutur Kata Baik, Mengangkat Beban Kepura-puraan & I'tsar)*
+### 3. subtajuk: *Sifat-Sifat Utama Sahabat Sejati (Tutur Kata Baik, Mengangkat Beban Kepura-puraan & I'tsar)*
 * **1. Diagnosis Halangan / Rawatan Jiwa:**  
   *Penyakit Mengkritik Kasar, Beban Kepura-puraan (*Takalluf*) & Sifat Tamak* — Lidah yang tajam melukakan hati saudara, sikap berpura-pura baik di hadapan tetapi mengumpat di belakang, serta kedekut menghulurkan bantuan kewangan.
 * **2. Modus Operandi & Gejala Penyelusupan:**  
@@ -310,7 +310,7 @@
 
 ---
 
-### 4. Subtopik: *Penyakit-Penyakit Majlis & Berasa Hairan dengan Kesalahan Kecil Orang Lain*
+### 4. subtajuk: *Penyakit-Penyakit Majlis & Berasa Hairan dengan Kesalahan Kecil Orang Lain*
 * **1. Diagnosis Halangan / Rawatan Jiwa:**  
   *Tabiat Mengumpat (*Ghibah*) & Membesar-besarkan Kuman di Seberang Laut* — Menjadikan kelemahan peribadi pimpinan atau rakan usrah sebagai topik bualan santai di meja makan.
 * **2. Modus Operandi & Gejala Penyelusupan:**  
@@ -322,7 +322,7 @@
 
 ---
 
-# 🌳 BAB 6: POHON-POHON KEIMANAN (MS 77 – 90)
+# 🌳 BAB 6: POHON-POHON KEIMANAN
 ### *(Asyjār al-Īmān - أَشْجَارُ الإِيمَانِ)*
 
 * **💎 Mutiara Kata Hikmah:**  
@@ -332,7 +332,7 @@
 
 ---
 
-### 1. Subtopik: *Pohon Tauhid & Pohon Kedekatan (al-Qurb)*
+### 1. subtajuk: *Pohon Tauhid & Pohon Kedekatan (al-Qurb)*
 * **1. Diagnosis Halangan / Rawatan Jiwa:**  
   *Tauhid Teori Tanpa Rasa Manis Kedekatan Rabbani* — Memahami konsep tauhid sekadar hafalan formula mantik dan perbahasan kalam tanpa merasai keagungan Allah di dalam lubuk hati.
 * **2. Modus Operandi & Gejala Penyelusupan:**  
@@ -344,7 +344,7 @@
 
 ---
 
-### 2. Subtopik: *Mehnah Sebagai Jalan Menuju Kurniaan & Tanaman Nabawi*
+### 2. subtajuk: *Mehnah Sebagai Jalan Menuju Kurniaan & Tanaman Nabawi*
 * **1. Diagnosis Halangan / Rawatan Jiwa:**  
   *Kekecewaan dan Panik Tatkala Ditimpa Mehnah* — Beranggapan bahawa ujian penindasan, fitnah penjara, atau kemiskinan adalah tanda kemurkaan Allah atau kegagalan strategi dakwah.
 * **2. Modus Operandi & Gejala Penyelusupan:**  
@@ -356,7 +356,7 @@
 
 ---
 
-### 3. Subtopik: *Pohon Keteguhan (Tsabat), Pohon Ketenangan (al-Uns) & Pohon Pemisahan (al-Mufasalah)*
+### 3. subtajuk: *Pohon Keteguhan (Tsabat), Pohon Ketenangan (al-Uns) & Pohon Pemisahan (al-Mufasalah)*
 * **1. Diagnosis Halangan / Rawatan Jiwa:**  
   *Goyah Pendirian, Keresahan Jiwa & Sikap Menggadai Prinsip* — Mengelamun mahukan kemenangan mudah dengan berkompromi terhadap dasar-dasar akidah demi mengambil hati golongan taghut.
 * **2. Modus Operandi & Gejala Penyelusupan:**  
@@ -371,7 +371,7 @@
 
 ---
 
-### 4. Subtopik: *Menghayati Seni Menanam Pohon Keimanan Imam Hasan al-Banna*
+### 4. subtajuk: *Menghayati Seni Menanam Pohon Keimanan Imam Hasan al-Banna*
 * **1. Diagnosis Halangan / Rawatan Jiwa:**  
   *Kecelaruan Kaedah Tarbiah & Mengabaikan Pembinaan Rijal* — Menumpukan kepada demonstrasi dan publisiti massa tanpa menitikberatkan pembinaan usrah yang kukuh.
 * **2. Modus Operandi & Gejala Penyelusupan:**  
@@ -379,11 +379,11 @@
 * **3. Implikasi Terhadap Saf Haraki:**  
   Generasi muda yang rapuh asas akidahnya, bersemangat membara tetapi tiada ketahanan rohani untuk mengharungi perjalanan panjang.
 * **4. Preskripsi Penawar (*Fiqh as-Sulūk*) & Petunjuk Salaf:**  
-  *Seni Tarbiah Rabbani*: Mencontohi Imam al-Banna yang menanam benih keimanan di dalam jiwa murid-muridnya secara teliti, menyiraminya dengan tilawah, qiamullail, dan persaudaraan sejati sehingga melahirkan generasi pahlawan yang menggoncang empayar kebatilan.
+  *Seni Tarbiah Rabbani*: Mencontohi Imam al-Banna yang menanam benih keimanan dalam jiwa murid-muridnya secara teliti, menyiraminya dengan tilawah, qiamullail, dan persaudaraan sejati sehingga melahirkan generasi pahlawan yang menggoncang empayar kebatilan.
 
 ---
 
-# ⏳ BAB 7: KEPUNGAN ANGAN-ANGAN (MS 91 – 107)
+# ⏳ BAB 7: KEPUNGAN ANGAN-ANGAN
 ### *(Hisār al-Amal - حِصَارُ الأَمَلِ)*
 
 * **💎 Mutiara Kata Hikmah:**  
@@ -393,7 +393,7 @@
 
 ---
 
-### 1. Subtopik: *Keagungan Perkara yang Disaksikan & Lukisan Seni Kesenian Nabawi*
+### 1. subtajuk: *Keagungan Perkara yang Disaksikan & Lukisan Seni Kesenian Nabawi*
 * **1. Diagnosis Halangan / Rawatan Jiwa:**  
   *Penyakit Angan-Angan Panjang (Thūlul Amal)* — Mengira bahawa umur masih panjang, lalu menangguhkan taubat dan menangguhkan pengorbanan dakwah ke hari tua.
 * **2. Modus Operandi & Gejala Penyelusupan:**  
@@ -405,7 +405,7 @@
 
 ---
 
-### 2. Subtopik: *Pandangan yang Menjangkau Jauh & Melupakan Kematian Permulaan Penyelewengan*
+### 2. subtajuk: *Pandangan yang Menjangkau Jauh & Melupakan Kematian Permulaan Penyelewengan*
 * **1. Diagnosis Halangan / Rawatan Jiwa:**  
   *Kebutaan Bashirah Terhadap Hari Akhirat* — Pandangan mata yang hanya tertumpu kepada keindahan sempadan dunia tanpa menembusi tirai alam barzakh dan mahsyar.
 * **2. Modus Operandi & Gejala Penyelusupan:**  
@@ -417,7 +417,7 @@
 
 ---
 
-### 3. Subtopik: *Menghidupkan Umat dengan Mengingati Kematian & Syair Melangkau Garisan Ajal*
+### 3. subtajuk: *Menghidupkan Umat dengan Mengingati Kematian & Syair Melangkau Garisan Ajal*
 * **1. Diagnosis Halangan / Rawatan Jiwa:**  
   *Kematian Hati Umat Akibat Cintakan Dunia & Takutkan Mati (Penyakit Al-Wahan)* — Umat Islam menjadi buih di lautan kerana takut mati syahid.
 * **2. Modus Operandi & Gejala Penyelusupan:**  
@@ -433,7 +433,7 @@
 
 ---
 
-# 🌾 BAB 8: BUKIT-BUKIT KITA YANG KAKU (MS 108 – 123)
+# 🌾 BAB 8: BUKIT-BUKIT KITA YANG KAKU
 ### *(Tilālunā Hāmidah - تِلَالُنَا هَامِدَةٌ)*
 
 * **💎 Mutiara Kata Hikmah:**  
@@ -443,7 +443,7 @@
 
 ---
 
-### 1. Subtopik: *Hari Penuaian & Hari Tidur yang Panjang*
+### 1. subtajuk: *Hari Penuaian & Hari Tidur yang Panjang*
 * **1. Diagnosis Halangan / Rawatan Jiwa:**  
   *Penyakit Malas Beramal & Berangan Menunggu Hari Esok* — Daie menganggap bahawa musim beramal masih panjang dan ada masa untuk menggantikan peluang yang disia-siakan.
 * **2. Modus Operandi & Gejala Penyelusupan:**  
@@ -455,7 +455,7 @@
 
 ---
 
-### 2. Subtopik: *Hisab dan Kitab Amalan yang Tidak Meninggalkan Perkara Kecil*
+### 2. subtajuk: *Hisab dan Kitab Amalan yang Tidak Meninggalkan Perkara Kecil*
 * **1. Diagnosis Halangan / Rawatan Jiwa:**  
   *Memperkecilkan Dosa-Dosa Kecil & Mengabaikan Amanah Halus* — Menganggap remeh kelewatan 5 minit ke mesyuarat, meringankan amanah wang tanzim yang kecil, atau pandangan liar yang tidak dijaga.
 * **2. Modus Operandi & Gejala Penyelusupan:**  
@@ -467,7 +467,7 @@
 
 ---
 
-### 3. Subtopik: *Tiada Selepas Ini Melainkan Menyingsing Lengan Baju*
+### 3. subtajuk: *Tiada Selepas Ini Melainkan Menyingsing Lengan Baju*
 * **1. Diagnosis Halangan / Rawatan Jiwa:**  
   *Kelesuan Bertindak & Sifat Suka Berlengah* — Berpuas hati dengan teori dan perbincangan seminar tanpa turun ke lapangan masyarakat untuk melaksanakan kerja islah.
 * **2. Modus Operandi & Gejala Penyelusupan:**  
@@ -479,7 +479,7 @@
 
 ---
 
-# 🏛️ BAB 9: SEKOLAH-SEKOLAH KEMATIAN (MS 124 – 137)
+# 🏛️ BAB 9: SEKOLAH-SEKOLAH KEMATIAN
 ### *(Madāris al-Mawt - مَدَارِسُ المَوْتِ)*
 
 * **💎 Mutiara Kata Hikmah:**  
@@ -489,7 +489,7 @@
 
 ---
 
-### 1. Subtopik: *Madrasah Kufah & Al-Rabi' bin Khutsaim Menggali Kubur di Rumahnya*
+### 1. subtajuk: *Madrasah Kufah & Al-Rabi' bin Khutsaim Menggali Kubur di Rumahnya*
 * **1. Diagnosis Halangan / Rawatan Jiwa:**  
   *Kekerasan Hati yang Sukar Menitiskan Air Mata* — Jiwa yang membeku, tidak terkesan dengan ayat-ayat ancaman azab kubur dan neraka.
 * **2. Modus Operandi & Gejala Penyelusupan:**  
@@ -501,7 +501,7 @@
 
 ---
 
-### 2. Subtopik: *Lalu Muncul Umar di Syam (Khalifah Umar bin Abdul Aziz)*
+### 2. subtajuk: *Lalu Muncul Umar di Syam (Khalifah Umar bin Abdul Aziz)*
 * **1. Diagnosis Halangan / Rawatan Jiwa:**  
   *Mabuk Kuasa & Kemegahan Istana Kepimpinan* — Sikap pemimpin yang terlena dengan protokol, pujian pengampu, dan keselesaan takhta.
 * **2. Modus Operandi & Gejala Penyelusupan:**  
@@ -513,7 +513,7 @@
 
 ---
 
-### 3. Subtopik: *Madrasah Basrah Menyokong & Neraca Basrah dalam Fiqh Dakwah*
+### 3. subtajuk: *Madrasah Basrah Menyokong & Neraca Basrah dalam Fiqh Dakwah*
 * **1. Diagnosis Halangan / Rawatan Jiwa:**  
   *Ketidakseimbangan Antara Urusan Mencari Rezeki dengan Tuntutan Akhirat* — Terjerumus ke dalam ketamakan perniagaan sehingga meninggalkan usrah dan program dakwah.
 * **2. Modus Operandi & Gejala Penyelusupan:**  
@@ -525,7 +525,7 @@
 
 ---
 
-### 4. Subtopik: *Madrasah Baghdad Cenderung kepada Kesederhanaan & Tarbiah Melalui Pengakuan*
+### 4. subtajuk: *Madrasah Baghdad Cenderung kepada Kesederhanaan & Tarbiah Melalui Pengakuan*
 * **1. Diagnosis Halangan / Rawatan Jiwa:**  
   *Kecenderungan kepada Kemewahan Gaya Hidup & Keengganan Mengakui Kelemahan Diri* — Mengidamkan kehidupan mewah bertaraf elit dan angkuh daripada mengakui kesilapan di hadapan jemaah.
 * **2. Modus Operandi & Gejala Penyelusupan:**  
@@ -537,7 +537,7 @@
 
 ---
 
-# ⛓️ BAB 10: JANGAN.. WAHAI BELENGGU-BELENGGU BUMI! (MS 138 – 149)
+# ⛓️ BAB 10: JANGAN.. WAHAI BELENGGU-BELENGGU BUMI!
 ### *(Lā.. Yā Quyūd al-Arḍ - لَا.. يَا قُيُودَ الأَرْضِ)*
 
 * **💎 Mutiara Kata Hikmah:**  
@@ -547,7 +547,7 @@
 
 ---
 
-### 1. Subtopik: *Hakikat Belenggu Dunia dan Rayuannya*
+### 1. subtajuk: *Hakikat Belenggu Dunia dan Rayuannya*
 * **1. Diagnosis Halangan / Rawatan Jiwa:**  
   *Tarikan Graviti Belenggu Bumi (Quyūd al-Arḍ)* — Harta kekayaan, rumah agam, anak isteri yang manja, dan jawatan berprestij yang menjadi rantai besi mengikat leher aktivis.
 * **2. Modus Operandi & Gejala Penyelusupan:**  
@@ -559,7 +559,7 @@
 
 ---
 
-### 2. Subtopik: *Mengutamakan Akhirat daripada Harta dan Keselesaan*
+### 2. subtajuk: *Mengutamakan Akhirat daripada Harta dan Keselesaan*
 * **1. Diagnosis Halangan / Rawatan Jiwa:**  
   *Ketakutan Menjadi Miskin & Sayang kepada Kemewahan* — Was-was syaitan yang menjanjikan kefakiran sekiranya aktif berdakwah.
 * **2. Modus Operandi & Gejala Penyelusupan:**  
@@ -571,7 +571,7 @@
 
 ---
 
-### 3. Subtopik: *Dan Selepas Itu... (Kelapangan Jiwa Selepas Memutuskan Belenggu)*
+### 3. subtajuk: *Dan Selepas Itu... (Kelapangan Jiwa Selepas Memutuskan Belenggu)*
 * **1. Diagnosis Halangan / Rawatan Jiwa:**  
   *Kesesakan Dada Akibat Terikat dengan Syahwat Duniawi* — Kegelisahan dan tekanan jiwa (*anxiety*) kerana takut kehilangan aset dan sanjungan manusia.
 * **2. Modus Operandi & Gejala Penyelusupan:**  
@@ -583,7 +583,7 @@
 
 ---
 
-# 🕊️ BAB 11: HAMBA YANG MERDEKA (MS 150 – 162)
+# 🕊️ BAB 11: HAMBA YANG MERDEKA
 ### *(Al-'Abd al-Hurr - العَبْدُ الحُرُّ)*
 
 * **💎 Mutiara Kata Hikmah:**  
@@ -593,7 +593,7 @@
 
 ---
 
-### 1. Subtopik: *Pembebasan Jiwa daripada Kehambaan Hawa Nafsu & Kemasyhuran*
+### 1. subtajuk: *Pembebasan Jiwa daripada Kehambaan Hawa Nafsu & Kemasyhuran*
 * **1. Diagnosis Halangan / Rawatan Jiwa:**  
   *Perhambaan Halus kepada Populariti & 'Likes' Manusia* — Jiwa yang ketagih kepada pujian khalayak dan merasa hancur apabila kritikannya tidak disukai.
 * **2. Modus Operandi & Gejala Penyelusupan:**  
@@ -605,7 +605,7 @@
 
 ---
 
-### 2. Subtopik: *Izzah Seorang Mukmin Berdepan Penguasa Dunia (Kisah Sa'id bin al-Musayyab & Sa'id bin Jubair)*
+### 2. subtajuk: *Izzah Seorang Mukmin Berdepan Penguasa Dunia (Kisah Sa'id bin al-Musayyab & Sa'id bin Jubair)*
 * **1. Diagnosis Halangan / Rawatan Jiwa:**  
   *Ketakutan Melampau Terhadap Penjara dan Algojo Thaghut* — Berdiam diri daripada nahi mungkar kerana takut diseksa, disingkirkan jawatan, atau dibunuh.
 * **2. Modus Operandi & Gejala Penyelusupan:**  
@@ -617,7 +617,7 @@
 
 ---
 
-### 3. Subtopik: *Kemanisan Ketaatan Hakiki & Kelazatan Beribadah*
+### 3. subtajuk: *Kemanisan Ketaatan Hakiki & Kelazatan Beribadah*
 * **1. Diagnosis Halangan / Rawatan Jiwa:**  
   *Memandang Syariat Sebagai Bebanan (Taklif yang Menyeksa)* — Melaksanakan ibadah dan perintah tanzim dengan rasa terpaksa, lesu, dan berat hati.
 * **2. Modus Operandi & Gejala Penyelusupan:**  
@@ -629,7 +629,7 @@
 
 ---
 
-# ⚔️ BAB 12: KISAH-KISAH "HIBURAN" PARA DAIE (MS 163 – 175)
+# ⚔️ BAB 12: KISAH-KISAH "HIBURAN" PARA DAIE
 ### *(Qiṣaṣ min Lahw al-Du'āt - قِصَصٌ مِنْ لَهْوِ الدُّعَاةِ)*
 
 * **💎 Mutiara Kata Hikmah:**  
@@ -639,7 +639,7 @@
 
 ---
 
-### 1. Subtopik: *Kemuliaan dalam Kehidupan & Falsafah "Hiburan" Haraki*
+### 1. subtajuk: *Kemuliaan dalam Kehidupan & Falsafah "Hiburan" Haraki*
 * **1. Diagnosis Halangan / Rawatan Jiwa:**  
   *Salah Faham Konsep Hiburan & Kerehatan* — Menganggap aktivis dakwah perlu menghabiskan masa berjam-jam menonton wayang, berkelah melampaui batas, atau bermain game untuk "menghilangkan stres".
 * **2. Modus Operandi & Gejala Penyelusupan:**  
@@ -651,7 +651,7 @@
 
 ---
 
-### 2. Subtopik: *Berbicara Siang dan Malam (Nabi Nuh AS)*
+### 2. subtajuk: *Berbicara Siang dan Malam (Nabi Nuh AS)*
 * **1. Diagnosis Halangan / Rawatan Jiwa:**  
   *Cepat Berputus Asa Tatkala Dakwah Ditolak* — Menyerah kalah selepas dua tiga kali mengajak kawan ke usrah lalu berhenti berdakwah.
 * **2. Modus Operandi & Gejala Penyelusupan:**  
@@ -663,7 +663,7 @@
 
 ---
 
-### 3. Subtopik: *Berbicara Ketika Langkah-Langkah Hijrah (Nabi SAW & Buraidah)*
+### 3. subtajuk: *Berbicara Ketika Langkah-Langkah Hijrah (Nabi SAW & Buraidah)*
 * **1. Diagnosis Halangan / Rawatan Jiwa:**  
   *Meninggalkan Dakwah Tatkala Berada dalam Krisis Peribadi* — Menganggap tugas mengajak kepada Islam hanya boleh dibuat ketika keadaan aman dan senang.
 * **2. Modus Operandi & Gejala Penyelusupan:**  
@@ -675,7 +675,7 @@
 
 ---
 
-### 4. Subtopik: *Berbicara di dalam Penjara (Nabi Yusuf AS)*
+### 4. subtajuk: *Berbicara di dalam Penjara (Nabi Yusuf AS)*
 * **1. Diagnosis Halangan / Rawatan Jiwa:**  
   *Terkurung Minda di Balik Tirai Besi* — Meratapi nasib di dalam penjara atau wad hospital tanpa melihat potensi dakwah di sekeliling.
 * **2. Modus Operandi & Gejala Penyelusupan:**  
@@ -687,7 +687,7 @@
 
 ---
 
-### 5. Subtopik: *Petunjuk Menghalang Rasa Mengantuk (Abu Bakar al-Siddiq RA)*
+### 5. subtajuk: *Petunjuk Menghalang Rasa Mengantuk (Abu Bakar al-Siddiq RA)*
 * **1. Diagnosis Halangan / Rawatan Jiwa:**  
   *Tidur Berlebihan & Lemah Daya Kepekaan terhadap Krisis Umat* — Tidur lena berjam-jam sedangkan ummah sedang disembelih dan agama sedang dicabar.
 * **2. Modus Operandi & Gejala Penyelusupan:**  
@@ -699,7 +699,7 @@
 
 ---
 
-### 6. Subtopik: *Debu di Hadapan Pintu (Ibnu Abbas RA) & Uncang Ilmu (Al-Kausaj)*
+### 6. subtajuk: *Debu di Hadapan Pintu (Ibnu Abbas RA) & Uncang Ilmu (Al-Kausaj)*
 * **1. Diagnosis Halangan / Rawatan Jiwa:**  
   *Kemalasan Menuntut Ilmu & Mengharapkan Ilmu Datang Bergolek* — Enggan membaca kitab-kitab tebal, malas hadir halaqah, dan merasa cukup dengan cebisan video pendek di media sosial.
 * **2. Modus Operandi & Gejala Penyelusupan:**  
@@ -711,7 +711,7 @@
 
 ---
 
-### 7. Subtopik: *Kegemaran Mengangkat Beban Berat (Bani Nakha') & Kubu Abu Wa'il*
+### 7. subtajuk: *Kegemaran Mengangkat Beban Berat (Bani Nakha') & Kubu Abu Wa'il*
 * **1. Diagnosis Halangan / Rawatan Jiwa:**  
   *Mengelak Tugas Sukar & Mencari Posisi Selesa* — Berebut tugas yang mudah dan menolak tugasan yang berisiko tinggi atau memerlukan kerja lebih masa.
 * **2. Modus Operandi & Gejala Penyelusupan:**  
@@ -723,7 +723,7 @@
 
 ---
 
-### 8. Subtopik: *Lenyaplah Waktu Terluang! (Umar bin Abdul Aziz)*
+### 8. subtajuk: *Lenyaplah Waktu Terluang! (Umar bin Abdul Aziz)*
 * **1. Diagnosis Halangan / Rawatan Jiwa:**  
   *Mencari Masa Lapang untuk Berbulan Madu di Tengah Medan Perang* — Menuntut hak cuti panjang dan rehat berlebihan tatkala dakwah sedang diasak musuh.
 * **2. Modus Operandi & Gejala Penyelusupan:**  
@@ -735,7 +735,7 @@
 
 ---
 
-### 9. Subtopik: *Ulama Hanabilah Memelihara Keterampilan (Ibnu Aqil & Al-Dabbahi)*
+### 9. subtajuk: *Ulama Hanabilah Memelihara Keterampilan (Ibnu Aqil & Al-Dabbahi)*
 * **1. Diagnosis Halangan / Rawatan Jiwa:**  
   *Sikap Comot, Cuai Memelihara Masa & Wibawa* — Membuang masa mengunyah makanan berat dan membiarkan penampilan diri comot sehingga merendahkan martabat ilmu dakwah.
 * **2. Modus Operandi & Gejala Penyelusupan:**  
@@ -747,7 +747,7 @@
 
 ---
 
-### 10. Subtopik: *Sahabat-Sahabat Imam al-Banna & Kemuliaan Tatkala Kematian (Abu Safwan al-Dabbagh)*
+### 10. subtajuk: *Sahabat-Sahabat Imam al-Banna & Kemuliaan Tatkala Kematian (Abu Safwan al-Dabbagh)*
 * **1. Diagnosis Halangan / Rawatan Jiwa:**  
   *Kelesuan di Garisan Penamat (Su'ul Khatimah Haraki)* — Daie yang berjuang puluhan tahun namun di hujung usianya merajuk dengan jemaah dan berpaling tadah.
 * **2. Modus Operandi & Gejala Penyelusupan:**  
@@ -759,7 +759,7 @@
 
 ---
 
-# ⚡ KHATIMAH: NANTIKANLAH KITAB «AL-BAWARIQ» (MS 175)
+# ⚡ KHATIMAH: NANTIKANLAH KITAB «AL-BAWARIQ»
 ### *(Wa Intazhir «al-Bawāriq» - وَانْتَظِرْ «البَوَارِقَ»)*
 
 * **💎 Mutiara Kata Hikmah:**  

@@ -418,7 +418,7 @@ Begitu juga kisahnya dengan Ibrahim bin Maimun al-Marwazi, salah seorang pendakw
 
 Pernah ditanya kepada Katsir bin 'Ubaid al-Himsyi tentang punca beliau tidak pernah terlupa atau tersilap dalam solatnya sama sekali, padahal beliau telah mengimamkan penduduk Hims selama enam puluh tahun genap. Maka beliau menjawab: 
 
-> *“Aku tidak pernah melangkah masuk menerusi pintu masjid sama sekali, sedang di dalam jiwaku ada ingatan kepada selain Allah.”* [22]
+> *“Aku tidak pernah melangkah masuk menerusi pintu masjid sama sekali, sedang dalam jiwaku ada ingatan kepada selain Allah.”* [22]
 
 Ketua Hakim Syam, Sulaiman bin Hamzah al-Maqdisi—iaitu salah seorang keturunan Ibnu Qudamah pemilik kitab *al-Mughni*—pernah berkata: 
 
@@ -588,7 +588,7 @@ Seolah-olah kemenangan itu dihalang daripada kita kerana kita memohonnya dari se
 
 Sesungguhnya kemenangan itu merupakan anugerah mutlak daripada Allah SWT; yang dengannya Dia menyejukkan pandangan mata sesiapa yang dikehendaki-Nya dalam kalangan tokoh-tokoh Madrasah Malam di dunia ini, tanpa mengurangkan sedikit pun ganjaran bagi mereka yang belum sempat melihatnya di akhirat kelak, bahkan mencatatkan pahala mereka di sisi-Nya.
 
-Mempelajari keikhlasan dan menelanjangi angan-angan duniawi yang dusta merupakan kurniaan paling berharga daripada Madrasah Malam, sebagaimana yang diungkapkan oleh Walid al-A'zami; dan itulah perkara yang wajib ditekankan serta diperdalamkan oleh tarbiah kita di dalam jiwa.
+Mempelajari keikhlasan dan menelanjangi angan-angan duniawi yang dusta merupakan kurniaan paling berharga daripada Madrasah Malam, sebagaimana yang diungkapkan oleh Walid al-A'zami; dan itulah perkara yang wajib ditekankan serta diperdalamkan oleh tarbiah kita dalam jiwa.
 
 Beliau bermadah—dan benar sekali apa yang diucapkannya:
 
@@ -958,7 +958,7 @@ Dr. Abdul Wahhab 'Azzam memberikan amaran kepadamu dan menyedarkanmu bahawa:
 >
 > *Dan sekiranya engkau tidak menggunakannya pada jalan kebaikan: nescaya ia akan beroperasi pada jalan kejahatan.*
 >
-> *Sesungguhnya di dalam jiwa manusia terdapat kecenderungan kepada perkara yang lazat dan mudah, serta penolakan terhadap perkara yang dibenci dan sukar. Oleh itu, angkatlah dirimu sedaya mampumu menuju kepada perkara yang bermanfaat lagi sukar; latih dan didiklah jiwamu menanggung perkara yang tidak disukai tetapi membawa kebaikan yang terbaik; sehinggalah ia terbiasa dengan urusan-urusan yang agung serta bercita-cita mencapai kemuncaknya, dan sehinggalah ia menjauhi segala kerendahan serta jijik terhadap segala perkara yang remeh.*
+> *Sesungguhnya dalam jiwa manusia terdapat kecenderungan kepada perkara yang lazat dan mudah, serta penolakan terhadap perkara yang dibenci dan sukar. Oleh itu, angkatlah dirimu sedaya mampumu menuju kepada perkara yang bermanfaat lagi sukar; latih dan didiklah jiwamu menanggung perkara yang tidak disukai tetapi membawa kebaikan yang terbaik; sehinggalah ia terbiasa dengan urusan-urusan yang agung serta bercita-cita mencapai kemuncaknya, dan sehinggalah ia menjauhi segala kerendahan serta jijik terhadap segala perkara yang remeh.*
 >
 > *Ajarkan jiwamu untuk terbang tinggi: nescaya ia membenci kerendahan.*
 >
@@ -1464,7 +1464,7 @@ Sesungguhnya nas-nas klasik daripada fiqh persaudaraan berasaskan keimanan ini t
 **فَهُوَ مُرٌّ عَلَى البُغَاةِ عَصُوْفُ**
 **وَهُوَ عَذْبٌ لِصَاحِبِي وَصَفَاءُ**
 
-*Di dalam jiwaku terdapat dua lautan: masin dan tawar,*
+*Dalam jiwaku terdapat dua lautan: masin dan tawar,*
 *dan padanya ada angin ribut yang kencang serta angin sepoi yang tenang.*
 *Ia terasa pahit dan membadai dahsyat ke atas golongan penderhaka yang zalim,*
 *namun ia manis dan jernih penuh kedamaian buat sahabat karibku.* [23]
@@ -2855,7 +2855,7 @@ Tatkala keistimewaan pemisahan ini terserlah dalam bentuk yang lebih jelas di Ma
 
 Kemudian apabila masyarakat Islam semakin meluas, beroleh kemenangan, dan seluruh Semenanjung tunduk patuh kepada agama Allah: keperluan untuk memisahkan diri daripada sisa-sisa jahiliah tetap berterusan, iaitu sisa-sisa yang terjelma dalam bentuk kemunafikan dan dorongan mengikut hawa nafsu.
 
-Ia adalah pemisahan kedua yang turut menjadi suatu kewajipan. Sebagaimana pemisahan pertama dahulu telah berjaya mewujudkan kemuliaan iman di dalam jiwa orang-orang yang berpegang teguh dengannya serta menjadikan Madinah sebagai mercu tanda tempat berteduhnya orang yang mencari kebenaran; maka pemisahan kedua ini amat perlu bagi memelihara ketulenan sistem negara Islam yang menjaga ciri-ciri pemerintahan, kefahaman, tarbiah, dan pembukaannya.
+Ia adalah pemisahan kedua yang turut menjadi suatu kewajipan. Sebagaimana pemisahan pertama dahulu telah berjaya mewujudkan kemuliaan iman dalam jiwa orang-orang yang berpegang teguh dengannya serta menjadikan Madinah sebagai mercu tanda tempat berteduhnya orang yang mencari kebenaran; maka pemisahan kedua ini amat perlu bagi memelihara ketulenan sistem negara Islam yang menjaga ciri-ciri pemerintahan, kefahaman, tarbiah, dan pembukaannya.
 
 Daripada sinilah Umar bin al-Khattab RA menyeru kepada pemisahan kedua ini melalui ungkapan yang padat lagi memukau, seraya berkata:
 
