@@ -97,7 +97,7 @@ BAB 11: HAMBA YANG MERDEKA (العبد الحر) ...............................
    • Izzah Seorang Mukmin Berdepan Penguasa Dunia .................................. 95
    • Kemanisan Ketaatan Hakiki ..................................................... 98
 
-BAB 12: KISAH-KISAH "HIBURAN" PARA DAIE (قصص من لهو الدعاة) ....................... 100
+BAB 12: KISAH-KISAH "HIBURAN" PARA DA'I (قصص من لهو الدعاة) ....................... 100
    • Kemuliaan dalam Kehidupan... ................................................. 100
    • Berbicara Siang dan Malam .................................................... 101
    • Berbicara Ketika Langkah-Langkah Hijrah ...................................... 101
@@ -451,11 +451,11 @@ Sesungguhnya amalan saling berpesan untuk memelihara solat merupakan suatu kebai
 [1] Ibnu Qutaibah, *'Uyun al-Akhbar*, jld. 3, hlm. 3.  
 [2] Al-Rafi'i, *Wahy al-Qalam*, jld. 1, hlm. 357–358.  
 [3] *Ibid.*  
-[4] Yasin Khalil, majalah *al-Tarbiyah al-Islamiyyah* (Iraq), jld. 5, hlm. 600.  
+[4] Yasin Khalil, majalah *al-Tarbiah al-Islamiah* (Iraq), jld. 5, hlm. 600.  
 [5] Al-Subki, *Tabaqat al-Syafi'iyyah*, jld. 1, hlm. 286.  
 [6] Majalah *al-Da'wah*, keluaran pertama, bil. 8, tahun 1951.  
 [7] Badi'uzzaman Said al-Nursi, *al-Mathnawi al-'Arabi*, hlm. 283.  
-[8] Al-Maududi, *al-Usus al-Akhlaqiyyah li al-Harakah al-Islamiyyah*, hlm. 72.  
+[8] Al-Maududi, *al-Usus al-Akhlaqiyyah li al-Harakah al-Islamiah*, hlm. 72.  
 [9] *Sahih Muslim*, jld. 2, hlm. 131.  
 [10] *Sahih al-Bukhari*, jld. 1, hlm. 157–159.  
 [11] *Ibid.*  
@@ -726,7 +726,7 @@ Mereka turut membimbing orang-orang berdosa yang tersilap langkah menuju ke jala
 
 ### Nota Kaki:
 
-[1] Walid al-A'zami, majalah *al-Tarbiyah al-Islamiyyah*, jld. 7, hlm. 637.  
+[1] Walid al-A'zami, majalah *al-Tarbiah al-Islamiah*, jld. 7, hlm. 637.  
 [2] Mustafa Sadiq al-Rafi'i, *Wahy al-Qalam*, jld. 1, hlm. 359–364.  
 [3] *Ibid.*  
 [4] Muhammad Iqbal, *Diwan al-Asrar wa al-Rumuz*, hlm. 79.  
@@ -735,7 +735,7 @@ Mereka turut membimbing orang-orang berdosa yang tersilap langkah menuju ke jala
 [7] Al-Subki, *Tabaqat al-Syafi'iyyah*, jld. 3, hlm. 171.  
 [8] Ibnu al-Qayyim, *Ighathat al-Lahfan*, hlm. 255.  
 [9] Abdul Wahhab 'Azzam, *Diwan al-Mathani*, hlm. 35.  
-[10] Walid al-A'zami, majalah *al-Tarbiyah al-Islamiyyah*, jld. 7, hlm. 636.  
+[10] Walid al-A'zami, majalah *al-Tarbiah al-Islamiah*, jld. 7, hlm. 636.  
 [11] Walid al-A'zami, *Aghani al-Ma'rakah*, hlm. 94.
 
 
@@ -1274,7 +1274,7 @@ Oleh yang demikian, tiada amal yang lebih bernilai bagi seorang da'i Muslim pada
 
 • **Neraca Persahabatan**
 
-Demikianlah persaudaraan sesama da'i menjadi rukun yang terpenting dalam tarbiah kita selepas solat dan tasbih. Tiada satu bahagian pun daripada harakah Islamiah yang melepaskan dirinya terjun ke medan amal umum sebelum menyemai dan menghidupkan makna-makna persaudaraan yang berteraskan keimanan di kalangan anggotanya, melainkan ia pasti akan mengecap padah buruk daripada sikap sambil lewa dan kecuaiannya itu. Tiada pilihan lain bagi seorang da'i melainkan permulaan langkahnya mesti melalui jalan keimanan dan memanfaatkan minit-minit malam yang berharga; serta adab persaudaraan diterjemahkan dalam bentuk saling menasihati, saling membantu dan saling mengasihi yang menghimpunkan hati-hati. Adab ini mendidiknya bersikap santun dan menahan marah (*al-tahallum*) — jika belum mampu bersikap santun sepenuhnya (*al-hilm*) — ketika menghadapi kelambatan orang yang mencuaikan kewajipan serta memaafkan ketelanjuran orang yang mendesak; sama seperti ia mendidiknya memberi ganjaran, menepati janji dan berterima kasih ketika saudaranya bersegera mengambil inisiatif, serta bersikap tawaduk dan merendah diri.
+Demikianlah persaudaraan sesama da'i menjadi rukun yang terpenting dalam tarbiah kita selepas solat dan tasbih. Tiada satu bahagian pun daripada harakah Islamiah yang melepaskan dirinya terjun ke medan amal umum sebelum menyemai dan menghidupkan makna-makna persaudaraan yang berteraskan keimanan dalam kalangan anggotanya, melainkan ia pasti akan mengecap padah buruk daripada sikap sambil lewa dan kecuaiannya itu. Tiada pilihan lain bagi seorang da'i melainkan permulaan langkahnya mesti melalui jalan keimanan dan memanfaatkan minit-minit malam yang berharga; serta adab persaudaraan diterjemahkan dalam bentuk saling menasihati, saling membantu dan saling mengasihi yang menghimpunkan hati-hati. Adab ini mendidiknya bersikap santun dan menahan marah (*al-tahallum*) — jika belum mampu bersikap santun sepenuhnya (*al-hilm*) — ketika menghadapi kelambatan orang yang mencuaikan kewajipan serta memaafkan ketelanjuran orang yang mendesak; sama seperti ia mendidiknya memberi ganjaran, menepati janji dan berterima kasih ketika saudaranya bersegera mengambil inisiatif, serta bersikap tawaduk dan merendah diri.
 
 Imam al-Banna *rahimahullah* amat menyukai adab ini untuk para da'i, lalu beliau meletakkan manhaj baginya agar: ( "Mengangkat persaudaraan mereka daripada tahap percakapan dan teori semata-mata kepada tahap perbuatan dan amali." ) [11] Beliau — semoga Allah merahmati beliau — telah melihat persaudaraan generasi awal yang menyejukkan pandangan matanya ketika hayatnya, serta menjadi bukti hidup buat orang-orang yang mencintainya selepas ketiadaannya, agar mereka sentiasa berpegang dengan keindahan adab ini, dan segera kembali kepadanya apabila tersedar daripada kealpaan.
 
@@ -1407,7 +1407,7 @@ Pertama: Sebahagian mereka berhias-hias (berpura-pura menzahirkan kebaikan) untu
 Kedua: Berbual dan bergaul melebihi kadar keperluan.
 Ketiga: Pertemuan itu berubah menjadi suatu syahwat (keinginan nafsu) dan kebiasaan yang memutuskannya daripada matlamat asal." ) [22]
 
-Apa yang mendukacitakan ialah kebimbangan Ibnu al-Qayyim ini telah bertukar menjadi suatu realiti yang sedang dialami oleh sebahagian majlis para da'i pada masa kini: sikap berhias-hias mencari jalan untuk muncul di kalangan kita, manakala pergaulan sesama da'i meningkat melebihi kadar yang diperlukan oleh dakwah, lalu bertukar menjadi seakan-akan pengangguran dan kehendak nafsu yang melalaikan daripada matlamat sebenar perhimpunan kita dalam memantau kerja bersama generasi muda dan anggota-anggota baharu, serta melangkah mara merentas masyarakat umum untuk menyampaikan kalimah Islam kepada mereka.
+Apa yang mendukacitakan ialah kebimbangan Ibnu al-Qayyim ini telah bertukar menjadi suatu realiti yang sedang dialami oleh sebahagian majlis para da'i pada masa kini: sikap berhias-hias mencari jalan untuk muncul dalam kalangan kita, manakala pergaulan sesama da'i meningkat melebihi kadar yang diperlukan oleh dakwah, lalu bertukar menjadi seakan-akan pengangguran dan kehendak nafsu yang melalaikan daripada matlamat sebenar perhimpunan kita dalam memantau kerja bersama generasi muda dan anggota-anggota baharu, serta melangkah mara merentas masyarakat umum untuk menyampaikan kalimah Islam kepada mereka.
 
 • **Seseorang Berasa Hairan dengan Kesalahan Kecil Orang Lain!**
 
@@ -1493,7 +1493,7 @@ Maka engkau dituntut, wahai da'i Muslim, agar memenuhi hatimu dengan perasaan pe
 [16] Al-Ghazālī, *Iḥyā' 'Ulūm al-Dīn*, jld. 2, hlm. 188.  
 [17] Ibnu al-Jauzī, *Manāqib al-Imām Aḥmad*, hlm. 114.  
 [18] Al-Ghazālī, *Iḥyā' 'Ulūm al-Dīn*, jld. 2, hlm. 176.  
-[19] Majalah *al-Tarbiyah al-Islāmiyyah*, jld. 7, hlm. 55.  
+[19] Majalah *al-Tarbiah al-Islāmiah*, jld. 7, hlm. 55.  
 [20] Ibnu Hajar, *Tahzib al-Tahzib*, jld. 3, hlm. 396.  
 [21] Muhammad Iqbal, *Dīwān al-Asrār wa al-Rumūz*, hlm. 72.  
 [22] Ibnu al-Qayyim, *al-Fawā'id*, hlm. 51.  
@@ -1599,7 +1599,7 @@ Iaitu seperti suara unta bunting yang menanggung beban berat dalam kandungannya 
 
 Batang pohon itu dikurniakan kemuliaan, maka ia menepati janji; padanya berhimpun kerinduan yang mendalam, lalu kerinduan itu menguasai dirinya sehingga mengalirkan rintihan tangis yang mengharukan.
 
-Tiada seorang pun di kalangan kita melainkan di dalam rumahnya terdapat kitab himpunan hadis; seolah-olah Nabi SAW berdiri di sisinya untuk mengajarnya urusan agama dan mendidiknya syariat Islam. Maka kesetiaan yang selayaknya bagi orang seperti kita adalah mencontohi batang tamar tersebut, lalu kita menterjemahkannya dalam bentuk kepatuhan dan peneladanan yang sungguh-sungguh.
+Tiada seorang pun dalam kalangan kita melainkan di dalam rumahnya terdapat kitab himpunan hadis; seolah-olah Nabi SAW berdiri di sisinya untuk mengajarnya urusan agama dan mendidiknya syariat Islam. Maka kesetiaan yang selayaknya bagi orang seperti kita adalah mencontohi batang tamar tersebut, lalu kita menterjemahkannya dalam bentuk kepatuhan dan peneladanan yang sungguh-sungguh.
 
 • **Dan Pohon Kelima Dinamakan Pohon Keteguhan (Tsabat)**
 
@@ -1633,7 +1633,7 @@ Maka ketetapan ini kekal sebagai suatu kaedah dasar yang tidak dimasuki sebarang
 
 Pada hari ini, pelbagai pakatan musuh mengepung seruan dakwah yang benar; mereka menyebarkan dakyah palsu, menuduh gerakan dakwah ketinggalan daripada arus perikatan politik masyarakat. Maka para da'i menuju ke pohon-pohon mercu tanda yang agung ini, lalu mereka menyaksikan runtuhnya sikap bergantung harap kepada selain Allah, serta melihat betapa aibnya kerendahan jiwa selepas mengecap kemuliaan iman.
 
-• **Dan Apabila Manusia Memahami Perumpamaan-perumpamaan Ini: Mereka Berlumba-lumba Menanam, Lalu Muncullah Pohon Kelapan yang Dikenali di Kalangan Mereka Sebagai Pohon Memaafkan (al-Ightifar)**
+• **Dan Apabila Manusia Memahami Perumpamaan-perumpamaan Ini: Mereka Berlumba-lumba Menanam, Lalu Muncullah Pohon Kelapan yang Dikenali dalam Kalangan Mereka Sebagai Pohon Memaafkan (al-Ightifar)**
 
 Ia adalah sebatang pokok anggur yang lebat buahnya; pemilik yang menanamnya, setiap kali seorang sahabatnya lalu di situ, dia memetikkan segugus buah anggur lalu menjemputnya makan, maka sahabatnya itu memakannya dan beredar dengan ucapan terima kasih.
 
@@ -1678,7 +1678,7 @@ Ia adalah pohon sanubari yang tiada tandingan; tiada sesiapa pun yang pernah men
 **بَيْعَةُ الرِّضْوَانِ تَحْتَ الشَّجَرَهْ**  
 *baiah al-Ridhwan di bawah pohon yang bersejarah itu.*
 
-Maka perhatikanlah peringkat-peringkat penjagaannya terhadap pohon itu dan keprihatinannya padanya: bagaimana dia memulakannya dengan menyucikan hatinya daripada bebatuan hasad dengki, riyak, takbur dan sangka buruk; bagaimana dia menyiramnya dengan air mata khusyuk pada waktu sepertiga malam yang terakhir; dan bagaimana dia menghalau syaitan-syaitan manusia dan jin apabila mereka berlegar-legar di sekeliling benihnya untuk meragutnya! Terapkanlah tindakannya dan contohilah teladannya: nescaya pohon itu akan mengeluarkan daun-daun yang merimbun untukmu, serta mekar kuntuman bunganya dengan aneka warna dan haruman wangi. Lalu engkau tidur lena di bawah naungannya sebagaimana dia tidur, menghayati perasaan ahli Baiah al-Ridhwan; seolah-olah engkau berada di kalangan mereka dan bersama mereka, diselubungi kemanisan baiah untuk mati di jalan Allah demi mempertahankan Islam.
+Maka perhatikanlah peringkat-peringkat penjagaannya terhadap pohon itu dan keprihatinannya padanya: bagaimana dia memulakannya dengan menyucikan hatinya daripada bebatuan hasad dengki, riyak, takbur dan sangka buruk; bagaimana dia menyiramnya dengan air mata khusyuk pada waktu sepertiga malam yang terakhir; dan bagaimana dia menghalau syaitan-syaitan manusia dan jin apabila mereka berlegar-legar di sekeliling benihnya untuk meragutnya! Terapkanlah tindakannya dan contohilah teladannya: nescaya pohon itu akan mengeluarkan daun-daun yang merimbun untukmu, serta mekar kuntuman bunganya dengan aneka warna dan haruman wangi. Lalu engkau tidur lena di bawah naungannya sebagaimana dia tidur, menghayati perasaan ahli Baiah al-Ridhwan; seolah-olah engkau berada dalam kalangan mereka dan bersama mereka, diselubungi kemanisan baiah untuk mati di jalan Allah demi mempertahankan Islam.
 
 • **Dan Imam Hasan al-Banna — Rahimahullah — Memahami Seni Menanam Pohon-pohon Keimanan, Lalu Beliau Menanamkan untukmu Pohon yang Kesepuluh, Iaitu Pohon Santun (al-Hilm)**
 
@@ -1859,7 +1859,7 @@ Namun begitu, kesedihan pejuang yang faqih ini tidak sesekali menjatuhkan Abu al
 
 ( "Wahai penduduk Damsyik! Tidakkah kamu mahu mendengar nasihat daripada seorang saudara yang ikhlas menasihati kamu? Sesungguhnya orang-orang sebelum kamu dahulunya mengumpulkan harta yang amat banyak, membina bangunan-bangunan yang kukuh, dan menaruh angan-angan yang teramat jauh; kesudahannya himpunan harta mereka musnah binasa, binaan mahligai mereka menjadi kuburan, dan angan-angan mereka menjadi tipu daya yang memperdayakan!" ) [7]
 
-Beliau menetap di kalangan penduduk Damsyik selama bertahun-tahun untuk meredakan gelombang limpahan harta kebendaan yang mula mencemari kehidupan masyarakatnya. Pernah seorang lelaki datang menemui isteri beliau, Ummu al-Darda', untuk meminta nasihat, seraya berkata:
+Beliau menetap dalam kalangan penduduk Damsyik selama bertahun-tahun untuk meredakan gelombang limpahan harta kebendaan yang mula mencemari kehidupan masyarakatnya. Pernah seorang lelaki datang menemui isteri beliau, Ummu al-Darda', untuk meminta nasihat, seraya berkata:
 
 ( "Sesungguhnya aku mendapati di dalam hatiku suatu penyakit yang tidak kutemui ubatnya: iaitu aku mendapati kekerasan hati yang amat sangat dan angan-angan yang teramat jauh!" )
 
@@ -2299,11 +2299,11 @@ Hal itu berlaku tatkala seorang Majusi menikam Abu Hafs (Umar RA) dengan tikaman
 
 > *“Adapun kecemasan yang engkau lihat padaku ini, tiadalah ia melainkan keranamu dan kerana sahabat-sahabatmu!”* [1]
 
-Melalui patah-patah perkataan ini, beliau RA menutup lembaran sirah kehidupan yang telah meletihkan seluruh daie Islam selepasnya.
+Melalui patah-patah perkataan ini, beliau RA menutup lembaran sirah kehidupan yang telah meletihkan seluruh da'i Islam selepasnya.
 
-Sesungguhnya kehidupan ini dituntut dan dicari oleh seorang daie yang cemburu terhadap agamanya, dan dia berasa amat cemas menghadapi kehadiran maut, disebabkan maut itulah yang bakal menghalang antaranya dengan khidmat bakti kepada kaum muslimin serta pelaksanaan urusan dakwah Islam.
+Sesungguhnya kehidupan ini dituntut dan dicari oleh seorang da'i yang cemburu terhadap agamanya, dan dia berasa amat cemas menghadapi kehadiran maut, disebabkan maut itulah yang bakal menghalang antaranya dengan khidmat bakti kepada kaum muslimin serta pelaksanaan urusan dakwah Islam.
 
-Lalu konsep ini — dengan kadar timbangan seumpama ini — menjadi wajah pelengkap bagi tarbiah harakah yang mengekang ledakan angan-angan keduniaan. Seorang daie, melalui pandangannya yang berulang kali terhadap konsep ini, mengamalkan suatu kepositifan yang menjauhkannya daripada keputusasaan yang pasif serta sikap memandang remeh terhadap amal yang berpunca daripada pandangan sempit yang sekadar mengekang angan-angan semata-mata.
+Lalu konsep ini — dengan kadar timbangan seumpama ini — menjadi wajah pelengkap bagi tarbiah harakah yang mengekang ledakan angan-angan keduniaan. Seorang da'i, melalui pandangannya yang berulang kali terhadap konsep ini, mengamalkan suatu kepositifan yang menjauhkannya daripada keputusasaan yang pasif serta sikap memandang remeh terhadap amal yang berpunca daripada pandangan sempit yang sekadar mengekang angan-angan semata-mata.
 
 • **Madrasah Kufah Meneruskan Peringatan**
 
@@ -2535,7 +2535,7 @@ Nota Kaki:
 
 # BAB 10: JANGAN.. WAHAI BELENGGU-BELENGGU BUMI! (La.. Ya Quyud al-Ard)
 
-Sekiranya para pendakwah kepada Allah telah memahami jalan untuk membuat pembetulan (*istidrāk*), enggan tunduk kepada kerosakan yang semakin berleluasa, memberontak terhadap proses penjinakan jiwa, serta memulakan usaha-usaha peneguhan dan tarbiah bagi mereka yang memiliki fitrah yang sejahtera; sesungguhnya selain mereka pula hanya mampu meratapi realiti kaum muslimin sambil mengeluh dan mengaduh. Mereka tidak melangkah lebih daripada sekadar menzahirkan kesedihan, lalu berkurung di rumah atau di masjid masing-masing dalam keadaan diselubungi keputusasaan, meninggalkan para daie Islam bersendirian di medan pertempuran, sambil menyangka bahawa dengan kesedihannya itu dia telah melepaskan tanggungjawabnya, bahkan barangkali menyangka bahawa dia telah meraih keutamaan dan darjat kepujian.
+Sekiranya para pendakwah kepada Allah telah memahami jalan untuk membuat pembetulan (*istidrāk*), enggan tunduk kepada kerosakan yang semakin berleluasa, memberontak terhadap proses penjinakan jiwa, serta memulakan usaha-usaha peneguhan dan tarbiah bagi mereka yang memiliki fitrah yang sejahtera; sesungguhnya selain mereka pula hanya mampu meratapi realiti kaum muslimin sambil mengeluh dan mengaduh. Mereka tidak melangkah lebih daripada sekadar menzahirkan kesedihan, lalu berkurung di rumah atau di masjid masing-masing dalam keadaan diselubungi keputusasaan, meninggalkan para da'i Islam bersendirian di medan pertempuran, sambil menyangka bahawa dengan kesedihannya itu dia telah melepaskan tanggungjawabnya, bahkan barangkali menyangka bahawa dia telah meraih keutamaan dan darjat kepujian.
 
 Hakikatnya tidaklah seperti yang disangkanya, meskipun kesedihannya itu mungkin disertai dengan sesuatu yang diberi pahala dan ganjaran. Sesungguhnya seorang Muslim yang menginginkan darjat kesempurnaan turut berasa sedih melihat realiti umat Islam, namun dia mencampakkan rumahnya ke belakang punggungnya lalu tampil berhadapan dengan masyarakat; sebagai pemberi nasihat, pembimbing, pendidik, dan memimpin mereka meredah jalan-jalan jihad.
 
@@ -2597,7 +2597,7 @@ Dan kamus hidup kita tidak pernah berbicara melainkan dengan bahasa pengorbanan:
 
 > *“Akan tetapi orang-orang yang berhati kasar tersilap dalam memahami erti kehidupan; di mana mereka menyangka bahawa kehidupan itu adalah bersenang-lenang dengan pelbagai makanan, minuman, pakaian, dan perkahwinan, atau kelazatan takhta, harta, menundukkan musuh, serta mempelbagaikan aneka syahwat. Tidak syak lagi bahawa ini semua adalah kelazatan yang turut dikongsi bersama binatang ternakan, bahkan bahagian kebanyakan binatang daripadanya kadangkala jauh lebih banyak daripada bahagian manusia. Maka sesiapa yang tidak memiliki kelazatan melainkan kelazatan yang dikongsi bersama oleh binatang buas, haiwan melata, dan binatang ternakan, orang itu adalah daripada kalangan mereka yang diseru dari tempat yang jauh! Akan tetapi, di manakah kelazatan ini jika dibandingkan dengan kelazatan suatu urusan yang apabila kemanisannya menyerap ke dalam sanubari, dia akan melupakan anak-anak, isteri, tanah air, harta benda, sahabat-handai, dan tempat kediaman; lalu dia rela meninggalkan kesemuanya sekali dan keluar daripadanya secara total, serta mendedahkan dirinya kepada pelbagai perkara yang tidak disukai dan kepayahan yang berat, dalam keadaan dadanya lapang dan tenang dengannya. Dia berasa bahagia untuk meninggalkan anak, ayah, isteri, dan saudaranya tanpa mempedulikan sebarang celaan orang yang mencela; sehinggakan salah seorang daripada mereka tatkala lembing menusuk tepat ke dadanya, dia berseru: 'Demi Tuhan Kaabah, aku telah berjaya!' Manakala seorang lagi merasakan bahawa hidupnya terlalu panjang tatkala dia mencampakkan kurma dari tangannya seraya berkata: 'Sesungguhnya ia adalah kehidupan yang terlalu panjang sekiranya aku bersabar sehingga habis memakannya!' Kemudian dia melangkah mara menuju kematian dalam keadaan gembira dan berseri-seri!”* [5]
 
-Inilah hakikat yang kita kenali mengenai keperibadian seorang daie. Tidak akan sempurna penghambaannya kepada Allah sehinggalah dia mencapai keadaan seumpama Nabi Ibrahim AS, tatkala baginda berserah diri, patuh taat, dan meletakkan mata pisau di leher anak kesayangannya.
+Inilah hakikat yang kita kenali mengenai keperibadian seorang da'i. Tidak akan sempurna penghambaannya kepada Allah sehinggalah dia mencapai keadaan seumpama Nabi Ibrahim AS, tatkala baginda berserah diri, patuh taat, dan meletakkan mata pisau di leher anak kesayangannya.
 
 Dan dengan sifat inilah Iqbal menyifatkannya:
 
@@ -2621,7 +2621,7 @@ Sesungguhnya kewajipan seorang Muslim dalam usaha mengembalikan semula kehidupan
 Begitulah bukti nyata yang diberikan oleh seorang Muslim sebagai tanda kejujuran imannya.  
 Dan begitulah hakikatnya tindakan gelora kerinduan apabila ia benar-benar tulus.  
 Pada saat itu, pemiliknya enggan melainkan berhijrah dan menggabungkan diri ke dalam kafilah dakwah.  
-Dia meninggalkan setiap rakan yang melemahkannya dan menghiasi sikap mengutamakan keselamatan diri, melainkan seorang daie yang berkongsi cita-cita bersamanya, bekerjasama dengannya meredah jalan jihad, serta mengajarkannya ilmu pengorbanan, fiqh dakwah, dan khabar gembira.
+Dia meninggalkan setiap rakan yang melemahkannya dan menghiasi sikap mengutamakan keselamatan diri, melainkan seorang da'i yang berkongsi cita-cita bersamanya, bekerjasama dengannya meredah jalan jihad, serta mengajarkannya ilmu pengorbanan, fiqh dakwah, dan khabar gembira.
 
 **فَحَيَّهَلاَ إِنْ كُنْتَ ذَا هِمَّةٍ فَقَدْ**  
 *Maka marilah segera jika engkau memiliki keazaman yang tinggi, sesungguhnya,*  
@@ -2770,7 +2770,7 @@ Nota Kaki:
 
 [1] Ibnu Taimiyah, *Majmū' Fatāwā*, jld. 10, hlm. 17.  
 [2] Mahmud Al Ja'far, *Ḥanīn ilā al-Fajr*, hlm. 140.  
-[3] Salahuddin Majid, majalah *al-Tarbiyah al-Islāmiyyah*, jld. 5, hlm. 594.  
+[3] Salahuddin Majid, majalah *al-Tarbiah al-Islāmiah*, jld. 5, hlm. 594.  
 [4] Abdul Qadir al-Kailani, *al-Fatḥ al-Rabbānī*, hlm. 298.  
 [5] Ibnu al-Qayyim, *Miftāḥ Dār al-Sa'ādah*, jld. 1, hlm. 35.  
 [6] Muhammad Iqbal, *Dīwān al-Asrār wa al-Rumūz*, hlm. 39.  
@@ -2819,7 +2819,7 @@ Para pembawa panji Islam hanyasanya bertolak daripada kefahaman Islam yang jelas
 > *“Dan orang-orang kafir tidak akan sesekali reda kepada orang-orang beriman yang memurnikan agama mereka untuk Allah semata-mata serta menyembah-Nya tanpa menyekutukan-Nya dengan sesuatu yang lain. Langsung tiada harapan bahawa mereka akan meredai perkara ini walau bagaimana sekalipun orang beriman berlembut dengan mereka, berdamai dengan mereka, ataupun mencari keredaan mereka melalui pelbagai pendekatan.*  
 > *Oleh itu, biarlah orang-orang beriman meneruskan matlamat dan haluan mereka; menyembah Tuhan mereka Yang Maha Esa, mengikhlaskan akidah mereka untuk-Nya, dan membersihkan hati mereka bagi-Nya. Janganlah mereka mempedulikan sama ada orang-orang kafir itu reda ataupun murka, kerana mereka sememangnya tidak akan pernah reda selama-lamanya!”* [3]
 
-Selagi mana kesimpulan ini adalah suatu ketetapan yang pasti — bahawa orang-orang kafir tidak akan pernah reda kepada orang-orang beriman — maka hendaklah para daie menempuh mukadimah yang serasi dengannya, iaitu mukadimah yang membalas penolakan kufur dan kedegilannya terhadap iman.
+Selagi mana kesimpulan ini adalah suatu ketetapan yang pasti — bahawa orang-orang kafir tidak akan pernah reda kepada orang-orang beriman — maka hendaklah para da'i menempuh mukadimah yang serasi dengannya, iaitu mukadimah yang membalas penolakan kufur dan kedegilannya terhadap iman.
 
 Dan tindak balas ini tidak lain hanyalah penzahiran perbezaan prinsip (*al-tamayyuz*) dan pemisahan (*al-infiṣāl*) daripadanya.
 
@@ -2839,7 +2839,7 @@ Rasailah keagungan kesan tarbiah ini, dan bagaimana ia bertukar menjadi keteguha
 
 Gambarkanlah perkampungan Islam yang unik dan berbeza ini di tengah-tengah Semenanjung yang kufur!
 
-Wujud di sana suatu barisan pelopor Islam (*ṭalī'ah islāmiyyah*):
+Wujud di sana suatu barisan pelopor Islam (*ṭalī'ah islāmiah*):
 
 > *“Yang mengamalkan semacam pemisahan (*'uzlah*) di satu pihak, dan semacam hubungan pergaulan di pihak yang lain dengan jahiliah di sekelilingnya.”* [5]
 
@@ -2865,13 +2865,13 @@ Beliau telah menggunakan perkataan *al-hajr* (meninggalkan/memulaukan) bagi menu
 
 Hal ini bererti bahawa unsur kemunafikan dan dorongan mengikut hawa nafsu, setiap kali ia bertambah di dalam masyarakat, maka semakin bertambahlah keperluan kepada jenis pemisahan kedua ini secara berkadar terus. Tujuannya adalah agar kebatilan itu kekal sebagai kebatilan yang ditunjuk dengan jari tuduhan; dan agar peredaran zaman tidak mengubahnya menjadi suatu kebenaran palsu dalam minda orang-orang yang tidak celik, lalu kepalsuannya diterima dan manusia melupakan kebengkokannya, serta agar jiwa-jiwa tidak menganggapnya biasa apabila masa telah berlalu panjang.
 
-Oleh yang demikian, dakwah Islamiah pada hari ini — dalam menghadapi pertambahan kemunafikan, kefasikan, dan pengikut hawa nafsu di dalam masyarakat masa kini — tidak dapat tidak mesti menegakkan pemisahan ini dan penzahiran perbezaan prinsip ini secara jelas dan terang-terangan. Ini penting agar gambaran Islam itu kekal cemerlang dan nyata pada gilirannya; dapat dilihat oleh sesiapa yang ingin memerhatikannya dalam kalangan mereka yang disuntik semangatnya oleh kata-kata para daie untuk meneroka dimensi gambaran ini, mencarinya, dan menatap teladan praktikalnya.
+Oleh yang demikian, dakwah Islamiah pada hari ini — dalam menghadapi pertambahan kemunafikan, kefasikan, dan pengikut hawa nafsu di dalam masyarakat masa kini — tidak dapat tidak mesti menegakkan pemisahan ini dan penzahiran perbezaan prinsip ini secara jelas dan terang-terangan. Ini penting agar gambaran Islam itu kekal cemerlang dan nyata pada gilirannya; dapat dilihat oleh sesiapa yang ingin memerhatikannya dalam kalangan mereka yang disuntik semangatnya oleh kata-kata para da'i untuk meneroka dimensi gambaran ini, mencarinya, dan menatap teladan praktikalnya.
 
-Hakikatnya, sekalipun para daie pada kurun ini ketiadaan gambaran pemerintahan Islam yang layak dijadikan contoh bagi pelaksanaan Islam, namun contoh teladan ini boleh terjelma pada beberapa orang individu dalam kalangan para pendakwah. Di dalam diri merekalah terserlah makna-makna Islam yang hakiki; mereka meraih sebahagian daripada kewibawaannya, dan mencapai puncak ketinggian dalam keimanan, *tajarrud* (keikhlasan total), serta pelaksanaan Sunnah Nabawiyyah yang mulia.
+Hakikatnya, sekalipun para da'i pada kurun ini ketiadaan gambaran pemerintahan Islam yang layak dijadikan contoh bagi pelaksanaan Islam, namun contoh teladan ini boleh terjelma pada beberapa orang individu dalam kalangan para pendakwah. Di dalam diri merekalah terserlah makna-makna Islam yang hakiki; mereka meraih sebahagian daripada kewibawaannya, dan mencapai puncak ketinggian dalam keimanan, *tajarrud* (keikhlasan total), serta pelaksanaan Sunnah Nabawiyyah yang mulia.
 
 Dan inilah makna *qudwah* (teladan) dalam bentuknya yang murni.
 
-Sesungguhnya kewujudan teladan Islam (*al-qudwah al-islāmiyyah*) bererti wujudnya suatu peribadi yang apabila seseorang memandangnya, dia menyedari bahawa individu itu bebas merdeka dalam pemikirannya, akidahnya, diamnya, dan gerak-gerinya daripada apa yang ada di sekelilingnya dan daripada orang-orang di sekitarnya. Dia terpisah daripada mereka; pandangan mata dapat mengenal pasti perbezaannya sebelum berurusan dengannya, melalui ketenangan, kehebatan, dan ketegasan yang terpancar pada wajahnya, yang Allah kehendaki untuk dimiliki secara khusus oleh seorang Muslim dan bukan selainnya. Dengan itu, dia menggantikan ketiadaan gambaran pemerintahan Islam tersebut, menjadi bukti nyata bahawa Islam berupaya melahirkan model-model kemanusiaan yang luhur seumpama ini; atau lebih tepat lagi: menjadi bukti bahawa model-model sedemikian tidak mungkin dihasilkan melainkan oleh Islam semata-mata.
+Sesungguhnya kewujudan teladan Islam (*al-qudwah al-islāmiah*) bererti wujudnya suatu peribadi yang apabila seseorang memandangnya, dia menyedari bahawa individu itu bebas merdeka dalam pemikirannya, akidahnya, diamnya, dan gerak-gerinya daripada apa yang ada di sekelilingnya dan daripada orang-orang di sekitarnya. Dia terpisah daripada mereka; pandangan mata dapat mengenal pasti perbezaannya sebelum berurusan dengannya, melalui ketenangan, kehebatan, dan ketegasan yang terpancar pada wajahnya, yang Allah kehendaki untuk dimiliki secara khusus oleh seorang Muslim dan bukan selainnya. Dengan itu, dia menggantikan ketiadaan gambaran pemerintahan Islam tersebut, menjadi bukti nyata bahawa Islam berupaya melahirkan model-model kemanusiaan yang luhur seumpama ini; atau lebih tepat lagi: menjadi bukti bahawa model-model sedemikian tidak mungkin dihasilkan melainkan oleh Islam semata-mata.
 
 Abu al-Qasim al-Junaid rahimahullah mengungkapkan pemisahan teladan Islam ini dengan ungkapan: *“Kemerdekaan daripada segala sesuatu selain Allah”* (*al-ḥurriyyah 'ammā siwā Allāh*); iaitu tiada antara dirinya dengan apa jua selain Allah sebarang ikatan, belenggu, keturunan, kecenderungan, mahupun keinginan nafsu. Bahkan ia adalah kemerdekaan dengan pengertian yang difahami oleh setiap insan yang berjiwa merdeka, seraya beliau berkata:
 
@@ -2919,13 +2919,13 @@ Maka kemerdekaan jiwa dan hati adalah pemisahan perasaan (*al-mufāṣalah al-sy
 Manakala kemerdekaan pemikiran adalah tidak mencampuradukkan syariat dengan tasawur-tasawur ciptaan bumi yang bidaah, yang telah menyesatkan pelbagai parti dan golongan.  
 Dan kemerdekaan amal adalah penzahiran keunikan diri di dalam saf dakwah, serta meninggalkan perikatan-perikatan yang merugikan.
 
-Sebagaimana tugas ini adalah amanah para daie dalam mendidik generasi muda, ia juga merupakan kewajipan mereka untuk sentiasa berwaspada terhadap diri mereka sendiri, dan beristiqamah di atas pemisahan ini.
+Sebagaimana tugas ini adalah amanah para da'i dalam mendidik generasi muda, ia juga merupakan kewajipan mereka untuk sentiasa berwaspada terhadap diri mereka sendiri, dan beristiqamah di atas pemisahan ini.
 
 Atau sebagaimana pesan al-Imam:
 
 > *“Janganlah kamu menganggap kerdil diri kamu sendiri lalu kamu menyamakan diri kamu dengan orang lain; atau kamu menempuh dalam dakwah kamu jalan selain jalan orang-orang beriman; atau kamu menyamaratakan antara dakwah kamu yang mengambil cahayanya daripada cahaya Allah dan manhajnya daripada Sunnah Rasul-Nya, dengan dakwah-dakwah lain yang diciptakan oleh desakan suasana serta bakal lenyap ditelan zaman dan peristiwa!”* [13]
 
-Antara penyempurna dan keperluan utama bagi perkara ini ialah memelihara keaslian permulaan (*ṣafā' al-ibtidā'*) dan ketulenannya. Sebagaimana seorang daie wajib memelihara himmah bagi orang-orang yang diserunya serta membawa mereka berjalan bersama himmah yang tinggi; maka dia juga wajib memelihara keaslian permulaan dakwah mereka. Ini kerana hari-hari pertama melangkah di jalan dakwah akan menentukan tahap ketulenan sebagaimana ia menentukan darjat himmah.
+Antara penyempurna dan keperluan utama bagi perkara ini ialah memelihara keaslian permulaan (*ṣafā' al-ibtidā'*) dan ketulenannya. Sebagaimana seorang da'i wajib memelihara himmah bagi orang-orang yang diserunya serta membawa mereka berjalan bersama himmah yang tinggi; maka dia juga wajib memelihara keaslian permulaan dakwah mereka. Ini kerana hari-hari pertama melangkah di jalan dakwah akan menentukan tahap ketulenan sebagaimana ia menentukan darjat himmah.
 
 Sesungguhnya sesiapa yang membuka matanya di atas kefahaman-kefahaman Islam yang jernih — yang bersumberkan daripada al-Quran dan al-Sunnah semata-mata, tanpa dicemari oleh dongengan-dongengan asing yang bukan daripada Islam — maka dia akan bermula, membesar, dewasa, menua, dan mati di atas kefahaman yang suci ini. Manakala sesiapa yang disuapkan dengan campuran yang mengandungi pelbagai kekotoran fikiran, nescaya amat sukar baginya untuk melakukan pembersihan selepas itu.
 
@@ -2933,7 +2933,7 @@ Sesungguhnya Abu al-Qasim Ibrahim bin Muhammad al-Nasr-Abadi (meninggal dunia pa
 
 > *“Tiada seorang pun yang tersesat di jalan ini melainkan disebabkan kerosakan pada permulaan langkahnya; kerana sesungguhnya kerosakan pada permulaan pasti akan memberi kesan kepada kesudahannya!”*
 
-Maka perelokkanlah permulaan langkahmu dan sempurnakannya dengan sebaik-baiknya, wahai daie Islam!
+Maka perelokkanlah permulaan langkahmu dan sempurnakannya dengan sebaik-baiknya, wahai da'i Islam!
 
 ---
 
@@ -2955,14 +2955,14 @@ Nota Kaki:
 
 ---
 
-# BAB 12: KISAH-KISAH "HIBURAN" PARA DAIE (Qisas min Lahw al-Du'at)
+# BAB 12: KISAH-KISAH "HIBURAN" PARA DA'I (Qisas min Lahw al-Du'at)
 ( قِصَصٌ مِنْ لَهْوِ الدُّعَاةِ )
 
 Tidak wajarlah bagi warga gerakan Islam dan mereka yang berada di sekeliling mereka daripada angkatan pemula untuk tercicir daripada melangkah menuju kegembiraan akhirat, dan tidak wajarlah mereka lebih mementingkan diri mereka sendiri berbanding keperluan-keperluan dakwah. Hal ini kerana tidak menimpa mereka dahaga, tidak juga kepenatan, dan tidak pula debu di jalan Allah; serta tidaklah mereka melontarkan sepatah kata yang menimbulkan kemarahan parti-parti dan pakatan duniawi, dan tidak pula mereka menimpakan suatu kemudaratan ke atas golongan mulhid (ateis penentang agama), melainkan kesemuanya dituliskan untuk mereka sebagai satu amal soleh. Sesungguhnya Allah tidak mensia-siakan pahala orang-orang yang berbuat kebaikan.
 
 Dan tidaklah mereka menafkahkan walau sekadar kepenatan yang kecil mahupun kesukaran yang besar, dan tidaklah mereka merentas mana-mana kawasan kejiranan, sekolah, universiti mahupun kilang melainkan dituliskan untuk mereka, agar Allah membalas mereka dengan sebaik-baik balasan atas apa yang telah mereka kerjakan.
 
-Maka bagaimanakah seorang daie dapat mengecapi kenikmatan dalam kerehatan, sedangkan sejak hari pertama lagi mereka telah diajarkan untuk melantunkan bait:
+Maka bagaimanakah seorang da'i dapat mengecapi kenikmatan dalam kerehatan, sedangkan sejak hari pertama lagi mereka telah diajarkan untuk melantunkan bait:
 
 **فِي ضَمِيرِي دَائِمًا صَوْتُ النَّبِي ... آمِرًا : جَاهِدْ ، وَكَابِدْ ، وَاتْعَبِ**  
 *Di dalam sanubariku sentiasa bergema suara Nabi ... memerintahkan: berjuanglah, hadapilah kepayahan, dan berpenat-lelah!*  
@@ -2976,11 +2976,11 @@ Bagaimanakah pula dia boleh cenderung kepada kelesuan dan bermalas-malas, sedang
 **لَنَا يَدٌ ، وَالعَمَلُ ... لَنَا غَدٌ ، وَالأَمَلُ ؟**  
 *Bagi kita ada tangan dan amal usaha ... bagi kita ada hari esok dan harapan impian?*
 
-Sesungguhnya kebebasan seorang daie serta harapan yang diyakininya: kedua-duanya mendorongnya secara kuat menuju pengorbanan yang melimpah ruah.
+Sesungguhnya kebebasan seorang da'i serta harapan yang diyakininya: kedua-duanya mendorongnya secara kuat menuju pengorbanan yang melimpah ruah.
 
 • **Kemuliaan dalam Kehidupan...**
 
-Kebebasan... dan harapan. Kebebasan yang mematahkan belenggu syahwat, dan harapan terhadap ganjaran pahala serta keyakinan terhadap pertolongan kemenangan. Dua kalimah yang ringan pada lidah, tetapi amat berat pada neraca pertembungan akidah. Kedua-duanya sentiasa, sepanjang lipatan sejarah tauhid yang panjang, menuntut kepenatan daripada generasi-generasi daie terdahulu: daripada kalangan para nabi, orang-orang yang benar (al-siddiqin), para khalifah yang mendapat petunjuk, para tabi'in, serta mereka yang menyusuli mereka dengan penuh kebaikan merentasi kurun-kurun zaman. Maka mereka semua bergembira dengan keletihan dan kepenatan, mereka enggan menerima melainkan kemuliaan dalam kehidupan; dan kita pula — insya-Allah — adalah orang-orang yang meneladani mereka.
+Kebebasan... dan harapan. Kebebasan yang mematahkan belenggu syahwat, dan harapan terhadap ganjaran pahala serta keyakinan terhadap pertolongan kemenangan. Dua kalimah yang ringan pada lidah, tetapi amat berat pada neraca pertembungan akidah. Kedua-duanya sentiasa, sepanjang lipatan sejarah tauhid yang panjang, menuntut kepenatan daripada generasi-generasi da'i terdahulu: daripada kalangan para nabi, orang-orang yang benar (al-siddiqin), para khalifah yang mendapat petunjuk, para tabi'in, serta mereka yang menyusuli mereka dengan penuh kebaikan merentasi kurun-kurun zaman. Maka mereka semua bergembira dengan keletihan dan kepenatan, mereka enggan menerima melainkan kemuliaan dalam kehidupan; dan kita pula — insya-Allah — adalah orang-orang yang meneladani mereka.
 
 Keletihan mereka adakalanya diterjemahkan dalam bentuk pergerakan harian yang berterusan dalam memberi peringatan amaran dan khabar gembira, menghimpunkan manusia dan memberi pencerahan, atau berjaga malam menjaga kemaslahatan kaum muslimin.
 
@@ -2990,7 +2990,7 @@ Dan dizahirkan pada ketika yang lain dalam bentuk pertempuran perang, dan sentia
 
 Dan pada saat yang lain pula, dalam menyibukkan fikiran dengan perancangan. Sekiranya mereka mengambil masa untuk berehat dan berbaring menelentang di atas belakang mereka, sesungguhnya fikiran mereka tetap giat memburu lintasan idea dan gagasan baharu.
 
-Segala itu telah diceritakan oleh lipatan sejarah, agar menjadi pengajaran kepada para daie masa kini.
+Segala itu telah diceritakan oleh lipatan sejarah, agar menjadi pengajaran kepada para da'i masa kini.
 
 • **Berbicara Siang dan Malam**
 
@@ -3010,7 +3010,7 @@ Kemudian baginda berkata:
 
 • **Berbicara Ketika Langkah-Langkah Hijrah**
 
-> *“Dan realitinya, seorang daie itu apabila benar-benar jujur dalam dakwahnya, dia akan sentiasa disibukkan dengannya. Dia tidak berfikir melainkan tentangnya, tidak bergerak melainkan kerananya, dan tidak bakhil mengorbankan apa sahaja daripada usaha dan masanya demi dakwah tersebut; tiada sebarang kesibukan yang dapat melalaikannya daripada dakwah walau dalam saat-saat yang paling genting dan suasana yang paling sempit. Begitulah keadaan Rasul kita, Muhammad SAW; ketika baginda berhijrah ke Madinah bersama-sama Abu Bakar al-Siddiq RA, baginda bertemu di tengah perjalanannya dengan Buraidah bin al-Husaib al-Aslami dalam satu rombongan kaumnya di antara Makkah dan Madinah. Maka baginda menyeru mereka kepada Islam, lalu mereka pun memeluk Islam. Hal ini membuktikan bahawa baginda SAW tidak pernah lalai daripada berdakwah ke jalan Allah, sehinggakan ketika baginda sedang dalam perjalanan berhijrah ke Madinah sementara pihak musuh pula sedang giat memburu baginda.”* [1]
+> *“Dan realitinya, seorang da'i itu apabila benar-benar jujur dalam dakwahnya, dia akan sentiasa disibukkan dengannya. Dia tidak berfikir melainkan tentangnya, tidak bergerak melainkan kerananya, dan tidak bakhil mengorbankan apa sahaja daripada usaha dan masanya demi dakwah tersebut; tiada sebarang kesibukan yang dapat melalaikannya daripada dakwah walau dalam saat-saat yang paling genting dan suasana yang paling sempit. Begitulah keadaan Rasul kita, Muhammad SAW; ketika baginda berhijrah ke Madinah bersama-sama Abu Bakar al-Siddiq RA, baginda bertemu di tengah perjalanannya dengan Buraidah bin al-Husaib al-Aslami dalam satu rombongan kaumnya di antara Makkah dan Madinah. Maka baginda menyeru mereka kepada Islam, lalu mereka pun memeluk Islam. Hal ini membuktikan bahawa baginda SAW tidak pernah lalai daripada berdakwah ke jalan Allah, sehinggakan ketika baginda sedang dalam perjalanan berhijrah ke Madinah sementara pihak musuh pula sedang giat memburu baginda.”* [1]
 
 • **Berbicara di dalam Penjara**
 
@@ -3040,7 +3040,7 @@ Sekiranya beliau mahu, beliau boleh sahaja meminta orang membangunkannya dan sah
 
 • **Kegemaran Mengangkat Beban yang Berat**
 
-Daie yang bijaksana sentiasa berlumba-lumba mendahului para sahabatnya untuk memikul segala urusan yang berat; agar pada hari perhimpunan kelak dia menjadi pemilik neraca timbangan yang sarat memberat, sebagaimana kabilah al-Nakha' berlumba-lumba dalam perang al-Qadisiyyah.
+Da'i yang bijaksana sentiasa berlumba-lumba mendahului para sahabatnya untuk memikul segala urusan yang berat; agar pada hari perhimpunan kelak dia menjadi pemilik neraca timbangan yang sarat memberat, sebagaimana kabilah al-Nakha' berlumba-lumba dalam perang al-Qadisiyyah.
 
 Salah seorang sahabat daripada kalangan mereka menceritakan:
 
@@ -3050,13 +3050,13 @@ Maka Umar RA ditanya tentang perkara itu, lalu beliau menjawab:
 
 > *“Sesungguhnya kabilah al-Nakha' memikul sendiri bebanan urusan yang besar itu.”* [5]
 
-Tiada seorang pun daripada mereka yang hadir di al-Qadisiyyah melainkan telah berjuang habis-habisan; akan tetapi para daie yang ikhlas kepada Allah mempunyai kecenderungan dan kegemaran untuk berlumba-lumba mengangkat bebanan yang paling berat.
+Tiada seorang pun daripada mereka yang hadir di al-Qadisiyyah melainkan telah berjuang habis-habisan; akan tetapi para da'i yang ikhlas kepada Allah mempunyai kecenderungan dan kegemaran untuk berlumba-lumba mengangkat bebanan yang paling berat.
 
 • **Kubu Tarbiah al-Asadiyyah**
 
 Kemuncak darjat ini dicapai oleh seorang tokoh tabi'in yang mulia, ahli ibadah, fuqaha, dan muhaddis yang agung, Abu Wa'il Syaqiq bin Salamah al-Asadi, hasil daripada didikan empat orang Khulafa' al-Rasyidin, Ibnu Mas'ud, Sa'ad bin Abi Waqqas dan selain mereka; sesungguhnya beliau meninggalkan perniagaan dan kemewahan rumah kediaman, lalu membina untuk dirinya di Kufah sebuah kubu kecil yang hanya memuatkan dirinya, kudanya, dan senjatanya sahaja; dan beliau menghabiskan seluruh umurnya dalam keadaan sentiasa bersiap siaga untuk berjihad, sehinggakan beliau tidak lagi mengenali neraca urusan pasar yang digunakan oleh manusia dalam perniagaan mereka. [6]
 
-Beliau menzahirkan hakikat pengorbanan mutlak (tajarrud) yang sebenar, maka beliau membuahkan hasil didikan tajarrud yang diwarisi; beliau mengajarkan kepada para daie cara membentuk generasi rijal melalui penggunaan sarana visual yang berbentuk nyata.
+Beliau menzahirkan hakikat pengorbanan mutlak (tajarrud) yang sebenar, maka beliau membuahkan hasil didikan tajarrud yang diwarisi; beliau mengajarkan kepada para da'i cara membentuk generasi rijal melalui penggunaan sarana visual yang berbentuk nyata.
 
 Abu Wa'il telah melahirkan tokoh-tokoh seumpama Sulaiman al-A'masy, Mansur bin al-Mu'tamir, Husain bin Abdul Rahman, Amru bin Murrah, dan selain mereka daripada tokoh-tokoh ulama hadis terbilang.
 
@@ -3070,9 +3070,9 @@ Isteri beliau, Fatimah binti Abdul Malik menceritakan perihal diri beliau sambil
 
 > *“Beliau telah mengorbankan seluruh dirinya untuk kaum muslimin dan menumpukan fikirannya untuk urusan mereka; apabila tiba waktu petang dan masih ada keperluan harian mereka yang belum selesai, beliau akan menyambung siangnya itu dengan malamnya.”* [7]
 
-Umar mengemukakan teladan seumpama itu kepada daie Islam yang berhasrat untuk bersikap jujur dalam dakwahnya dan menunaikan amanahnya.
+Umar mengemukakan teladan seumpama itu kepada da'i Islam yang berhasrat untuk bersikap jujur dalam dakwahnya dan menunaikan amanahnya.
 
-Kejujuran seorang daie adalah dengan memperbaharui jejak langkah Umar: dia mengorbankan dirinya untuk kepentingan kaum muslimin, sehingga engkau tidak melihatnya melakukan sebarang pergerakan duniawi melainkan sekadar kadar darurat yang diperlukan untuk menyara nafkah keluarganya; dan dia mengosongkan fikirannya daripada segala sesuatu, tiada di dalamnya melainkan renungan mendalam tentang maslahat-maslahat dakwah.
+Kejujuran seorang da'i adalah dengan memperbaharui jejak langkah Umar: dia mengorbankan dirinya untuk kepentingan kaum muslimin, sehingga engkau tidak melihatnya melakukan sebarang pergerakan duniawi melainkan sekadar kadar darurat yang diperlukan untuk menyara nafkah keluarganya; dan dia mengosongkan fikirannya daripada segala sesuatu, tiada di dalamnya melainkan renungan mendalam tentang maslahat-maslahat dakwah.
 
 Rakan-rakan lama Umar mengadu kepadanya — iaitu daripada kalangan sahabat karibnya sebelum beliau memegang jawatan khilafah, pada zaman beliau mempunyai waktu terluang; mereka berharap dapat meluangkan masa duduk bersamanya mengimbas kenangan lalu, lalu mereka berkata:
 
@@ -3098,7 +3098,7 @@ Manakala salah seorang daripada kita hari ini duduk bersenang-senang di atas sof
 
 • **Ulama Hanabilah Memelihara Keterampilan dan Wibawa**
 
-Ibnu Aqil — pakar nahu dan faqih Hanbali — melakarkan potret seorang daie yang lintasan fikiran dan kedalaman renungannya — bahkan mimpi-mimpinya tatkala tidur — tidak lain melainkan demi dakwah; dan beliau menjelaskan hal itu melalui kata-katanya:
+Ibnu Aqil — pakar nahu dan faqih Hanbali — melakarkan potret seorang da'i yang lintasan fikiran dan kedalaman renungannya — bahkan mimpi-mimpinya tatkala tidur — tidak lain melainkan demi dakwah; dan beliau menjelaskan hal itu melalui kata-katanya:
 
 > *“Sesungguhnya tidak halal bagiku untuk mensia-siakan walau sesaat daripada usiaku; sehinggakan apabila lidahku terhenti daripada muzakarah dan perbahasan ilmiah, dan mataku terhenti daripada menelaah, aku menyibukkan fikiranku dalam keadaan aku sedang berbaring berehat.”* [11]
 
@@ -3108,11 +3108,11 @@ Langkah beliau disusuli oleh seorang syeikh yang zahid dan faqih, Muhammad bin A
 
 > *“Beliau sentiasa melazimi ibadah, amal yang berterusan, dan kesungguhan yang tidak pernah luntur; beliau menenggelamkan seluruh masanya dalam kebaikan... sangat teguh dalam urusan agama, sentiasa menasihati saudara-saudaranya; dan apabila seseorang melihatnya, nescaya dia dapat mengenali tanda kesungguhan terpancar pada wajahnya.”* [12]
 
-Begitulah sewajarnya, tanda raut wajah para daie sentiasa memancarkan kesungguhan yang ketara, yang tidak dapat disalahertikan oleh sesiapa yang memandang; tiada bahagian bagi mereka dalam senda gurau, gelak tawa yang melampau, mahupun pengangguran.
+Begitulah sewajarnya, tanda raut wajah para da'i sentiasa memancarkan kesungguhan yang ketara, yang tidak dapat disalahertikan oleh sesiapa yang memandang; tiada bahagian bagi mereka dalam senda gurau, gelak tawa yang melampau, mahupun pengangguran.
 
 • **Sahabat-Sahabat Imam al-Banna Memperbaharui Jejak Ini**
 
-Generasi abad ini daripada kalangan para daie di Mesir telah memperbaharui potret-potret gemilang silam itu, demi membuktikan bahawa Islam yang telah melahirkan generasi terdahulu masih tetap hidup bertenaga.
+Generasi abad ini daripada kalangan para da'i di Mesir telah memperbaharui potret-potret gemilang silam itu, demi membuktikan bahawa Islam yang telah melahirkan generasi terdahulu masih tetap hidup bertenaga.
 
 Imam Hassan al-Banna menyifatkan para sahabatnya sambil berkata:
 
@@ -3128,7 +3128,7 @@ Sama seperti di Mesir, daripada angkatan pejuang generasi awal di Iraq ialah: Ab
 
 Seorang perawi yang dipercayai daripada kalangan sahabat seangkatannya menceritakan kepadaku, katanya:
 
-> *“Beliau menghidap penyakit kanser, dan penderitaan sakitnya bertambah tenat pada tahun 1952 M; beliau terlantar di hospital selama beberapa hari. Seakan-akan beliau merasakan saat-saat akhir kehidupannya telah tiba, lalu beliau meminta untuk bertemu dengan pimpinan dakwah ketika itu. Maka pimpinan itu pun datang menziarahinya bersama beberapa orang daie — antaranya ialah perawi kisah ini. Lalu beliau memaklumkan kepada mereka tentang kematiannya yang kian hampir, bersaksi bahawa tiada tuhan melainkan Allah, dan membaca sepotong ayat daripada al-Quran. Kemudian beliau bersalaman dengan pimpinan dakwah, mengisytiharkan pembaharuan baiahnya serta keteguhannya di atas jalan dakwah ini, lalu memesankan kepada mereka salam kepada seluruh daie yang ada ketika itu serta mereka yang bakal menyertai dakwah ini kelak. Kemudian beliau mengulangi kalimah syahadah sekali lagi, lalu beliau menghembuskan nafasnya yang terakhir sejurus selepas memperbaharui baiahnya.”*
+> *“Beliau menghidap penyakit kanser, dan penderitaan sakitnya bertambah tenat pada tahun 1952 M; beliau terlantar di hospital selama beberapa hari. Seakan-akan beliau merasakan saat-saat akhir kehidupannya telah tiba, lalu beliau meminta untuk bertemu dengan pimpinan dakwah ketika itu. Maka pimpinan itu pun datang menziarahinya bersama beberapa orang da'i — antaranya ialah perawi kisah ini. Lalu beliau memaklumkan kepada mereka tentang kematiannya yang kian hampir, bersaksi bahawa tiada tuhan melainkan Allah, dan membaca sepotong ayat daripada al-Quran. Kemudian beliau bersalaman dengan pimpinan dakwah, mengisytiharkan pembaharuan baiahnya serta keteguhannya di atas jalan dakwah ini, lalu memesankan kepada mereka salam kepada seluruh da'i yang ada ketika itu serta mereka yang bakal menyertai dakwah ini kelak. Kemudian beliau mengulangi kalimah syahadah sekali lagi, lalu beliau menghembuskan nafasnya yang terakhir sejurus selepas memperbaharui baiahnya.”*
 
 Rahimahullah.
 
@@ -3142,9 +3142,9 @@ Sesungguhnya pada peristiwa itu terdapat pengajaran yang memadai bagi orang yang
 
 Benarlah bahawa keazaman jiwa (himmah) itu mempunyai darjat tingkatan; dan tidak akan memuncak ketinggian sesuatu keazaman pada saat pengakhirannya dan tatkala kematiannya melainkan sekiranya keazaman itu telah memuncak teguh sejak permulaannya.
 
-Peristiwa dan kisah-kisah yang dilalui oleh seorang daie ini wajar diambil daripadanya pengajaran dan iktibar; dan seorang yang berjiwa besar akan berdoa: *Ya Allah, himpunkanlah kami bersama mereka di negeri kemuliaan-Mu!*
+Peristiwa dan kisah-kisah yang dilalui oleh seorang da'i ini wajar diambil daripadanya pengajaran dan iktibar; dan seorang yang berjiwa besar akan berdoa: *Ya Allah, himpunkanlah kami bersama mereka di negeri kemuliaan-Mu!*
 
-Dan demikianlah Kami kisahkan kisah-kisah ini kepada para daie Islam, moga-moga mereka dapat meneladaninya.
+Dan demikianlah Kami kisahkan kisah-kisah ini kepada para da'i Islam, moga-moga mereka dapat meneladaninya.
 
 ---
 

@@ -44,7 +44,7 @@
     * Tangisan para salaf tatkala terlepas solat berjemaah mencerminkan kepekaan hati yang hidup.
   * **• Dakwah yang Menimba Pengajaran daripada Nabi Daud AS:**
     * Rahsia kekuatan kerajaan Nabi Daud AS ialah baginda seorang raja yang sentiasa merintih (*awwāb*), banyak bertasbih, dan bangun pada sebahagian malam.
-    * Amaran keras terhadap "syaitan kelalaian" yang cuba mencuri waktu-waktu sujud seorang daie di sebalik kesibukan kerja-kerja teknikal harakah.
+    * Amaran keras terhadap "syaitan kelalaian" yang cuba mencuri waktu-waktu sujud seorang da'i di sebalik kesibukan kerja-kerja teknikal harakah.
 
 ---
 
@@ -59,7 +59,7 @@
     * Gambaran qiamullail para pejuang Islam sepanjang zaman; bagaimana mereka membelah malam dengan tilawah, tangisan taubat, dan rintihan hajat.
     * Solat malam melahirkan ketenangan jiwa yang teguh, wajah yang bercahaya, dan ketajaman bashirah.
   * **• Adakah Burung Merpati Mendahuluimu?:**
-    * Refleksi mendalam daripada bait penyair: Malunya seorang daie apabila burung merpati telah bangun bertasbih pada waktu fajar menyingsing, sedangkan manusia yang memikul risalah dakwah masih lena dibalut kehangatan selimut.
+    * Refleksi mendalam daripada bait penyair: Malunya seorang da'i apabila burung merpati telah bangun bertasbih pada waktu fajar menyingsing, sedangkan manusia yang memikul risalah dakwah masih lena dibalut kehangatan selimut.
     * Bangun bertahajud menuntut pengorbanan hawa nafsu dan latihan mujahadah yang berterusan.
 
 ---
@@ -87,7 +87,7 @@
 ### *(Naḥwa Afrāḥ al-Ākhirah - نَحْوَ أَفْرَاحِ الآخِرَةِ)*
 
 * **Ringkasan Am Bab 4:**
-  Perjalanan seorang daie adalah perjalanan merentas dunia yang fana menuju majlis-majlis kegembiraan abadi di syurga (*afrāḥ al-ākhirah*). Dunia ini bukanlah tempat berehat atau bersenang-lenang; martabat yang tinggi di akhirat hanya boleh ditebus dengan keletihan dan kelelahan yang berterusan di dunia.
+  Perjalanan seorang da'i adalah perjalanan merentas dunia yang fana menuju majlis-majlis kegembiraan abadi di syurga (*afrāḥ al-ākhirah*). Dunia ini bukanlah tempat berehat atau bersenang-lenang; martabat yang tinggi di akhirat hanya boleh ditebus dengan keletihan dan kelelahan yang berterusan di dunia.
 
 * **Intisari Subtajuk:**
   * **• Ketinggian Martabat... Harganya Ialah Keletihan:**
@@ -99,7 +99,7 @@
   * **• Dan Engkau Insan Merdeka yang Mulia:**
     * Jiwa yang merdeka tidak sujud kepada kebendaan dan tidak tunduk kepada ugutan penguasa zalim.
   * **• Dan Engkau Pemilik Matlamat:**
-    * Matlamat yang jelas memandu daie agar tidak terpesong oleh godaan remeh di tepi jalan.
+    * Matlamat yang jelas memandu da'i agar tidak terpesong oleh godaan remeh di tepi jalan.
   * **• Dan Engkau Penuntut Akses Menuju Allah:**
     * Mendekatkan diri kepada Allah melalui pintu-pintu ketaatan dan tawajuh yang ikhlas.
   * **• Ujian Kelapangan Masa dan Kelalaian:**
@@ -138,7 +138,7 @@
 ### *(Asyjār al-Īmān - أَشْجَارُ الإِيمَانِ)*
 
 * **Ringkasan Am Bab 6:**
-  Syeikh al-Rasyid membina metafora sastera yang amat memukau: mengibaratkan jiwa mukmin laksana sebuah rimba keimanan yang sarat dengan pohon-pohon yang rendang dan berbuah lebat. Sepuluh pohon keimanan dihuraikan secara artistik dan mendalam sebagai paksi keperibadian daie.
+  Syeikh al-Rasyid membina metafora sastera yang amat memukau: mengibaratkan jiwa mukmin laksana sebuah rimba keimanan yang sarat dengan pohon-pohon yang rendang dan berbuah lebat. Sepuluh pohon keimanan dihuraikan secara artistik dan mendalam sebagai paksi keperibadian da'i.
 
 * **Intisari Sepuluh Pohon Keimanan:**
   1. **• Pohon Tauhid:** Akar umbi yang menembusi bumi keyakinan, menolak segala bentuk syirik dan pergantungan selain Allah.
@@ -158,7 +158,7 @@
 ### *(Ḥiṣār al-Amal - حِصَارُ الأَمَلِ)*
 
 * **Ringkasan Am Bab 7:**
-  Angan-angan panjang (*tūl al-amal*) adalah racun pembunuh yang melalaikan manusia daripada persiapan akhirat. Syeikh al-Rasyid melukiskan bagaimana angan-angan mengepung daie dengan ilusi masa depan duniawi, lalu mencadangkan penawarnya: menghidupkan ingatan terhadap mati dan merasai betapa hampirnya ajal.
+  Angan-angan panjang (*tūl al-amal*) adalah racun pembunuh yang melalaikan manusia daripada persiapan akhirat. Syeikh al-Rasyid melukiskan bagaimana angan-angan mengepung da'i dengan ilusi masa depan duniawi, lalu mencadangkan penawarnya: menghidupkan ingatan terhadap mati dan merasai betapa hampirnya ajal.
 
 * **Intisari Subtajuk:**
   * **• Keagungan Perkara yang Disaksikan: Dalil Perkara Ghaib:**
@@ -170,7 +170,7 @@
   * **• Pandangan yang Menjangkau Jauh:**
     * Menembusi tirai masa kini untuk melihat hakikat kubur dan kebangkitan semula.
   * **• Melupakan Kematian Permulaan Penyelewengan:**
-    * Apabila rasa takut kepada kematian pudar, daie mula berundur ke belakang dan mencari kompromi dengan kebatilan.
+    * Apabila rasa takut kepada kematian pudar, da'i mula berundur ke belakang dan mencari kompromi dengan kebatilan.
   * **• Menghidupkan Umat dengan Mengingati Kematian:**
     * Ingatan maut bukanlah keputusasaan, tetapi suntikan keberanian untuk menjual diri demi syurga Allah.
 
@@ -194,7 +194,7 @@
   * **• Hisab dan Kitab Amalan:**
     * Lembaran amalan yang dibentangkan tanpa ada satu kejahatan atau kebaikan kecil pun yang tertinggal.
   * **• Tiada Selepas Ini Melainkan Menyingsing Lengan Baju:**
-    * Kesedaran bahawa waktu untuk beramal adalah sangat singkat; menyeru para daie untuk segera bangkit menyingsing lengan berkhidmat untuk Islam.
+    * Kesedaran bahawa waktu untuk beramal adalah sangat singkat; menyeru para da'i untuk segera bangkit menyingsing lengan berkhidmat untuk Islam.
 
 ---
 
@@ -232,7 +232,7 @@
   * **• Mengutamakan Akhirat daripada Harta dan Keselesaan:**
     * Memaparkan teladan Mus'ab bin Umair RA yang meninggalkan kekayaan Makkah demi memeluk Islam, serta para sahabat yang menjual perniagaan mereka demi membeli syurga.
   * **• Dan Selepas Itu...:**
-    * Daie yang berjaya melepaskan diri daripada belenggu bumi akan merasai kelapangan jiwa yang luar biasa; langkahnya menjadi ringan dan kata-katanya memiliki wibawa yang menggetarkan musuh.
+    * Da'i yang berjaya melepaskan diri daripada belenggu bumi akan merasai kelapangan jiwa yang luar biasa; langkahnya menjadi ringan dan kata-katanya memiliki wibawa yang menggetarkan musuh.
 
 ---
 
@@ -253,15 +253,15 @@
 
 ---
 
-## 📌 BAB 12: KISAH-KISAH "HIBURAN" PARA DAIE
+## 📌 BAB 12: KISAH-KISAH "HIBURAN" PARA DA'I
 ### *(Qiṣaṣ min Lahw al-Du'āt - قِصَصٌ مِنْ لَهْوِ الدُّعَاةِ)*
 
 * **Ringkasan Am Bab 12:**
-  Bab kemuncak yang penuh dengan sentuhan estetika dan paradoks sastera dakwah: Syeikh al-Rasyid menggunakan istilah *"lahw"* (hiburan/keseronokan) secara ironi. "Hiburan" bagi seorang daie bukanlah bersenang-lenang atau membuang masa, tetapi "hiburan" mereka adalah berpenat-lelah menuntut ilmu, berhijrah, berjihad, meringkuk di penjara, dan syahid di jalan Allah!
+  Bab kemuncak yang penuh dengan sentuhan estetika dan paradoks sastera dakwah: Syeikh al-Rasyid menggunakan istilah *"lahw"* (hiburan/keseronokan) secara ironi. "Hiburan" bagi seorang da'i bukanlah bersenang-lenang atau membuang masa, tetapi "hiburan" mereka adalah berpenat-lelah menuntut ilmu, berhijrah, berjihad, meringkuk di penjara, dan syahid di jalan Allah!
 
 * **Intisari Subtajuk:**
   * **• Kemuliaan dalam Kehidupan...:**
-    * Daie hidup dengan kebebasan yang mematahkan belenggu syahwat dan harapan yang membakar keyakinan kemenangan.
+    * Da'i hidup dengan kebebasan yang mematahkan belenggu syahwat dan harapan yang membakar keyakinan kemenangan.
   * **• Berbicara Siang dan Malam:**
     * Meneladani Nabi Nuh AS yang berdakwah tanpa henti malam dan siang, rahsia mahupun terang-terangan.
   * **• Berbicara Ketika Langkah-Langkah Hijrah:**

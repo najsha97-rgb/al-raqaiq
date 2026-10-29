@@ -11,7 +11,7 @@
 * **💎 Mutiara Kata Hikmah:**  
   > «مَنْ رَأَى عَيْبَ نَفْسِهِ عَمِيَ عَنْ عَيْبِ غَيْرِهِ، وَمَنِ اشْتَغَلَ بِمَا لَا يَعْنِيهِ فَاتَهُ مَا يَعْنِيهِ.»  
   **Terjemahan:** *"Barang siapa yang melihat keaiban dirinya sendiri, nescaya butalah matanya daripada melihat keaiban orang lain; dan barang siapa yang sibuk dengan perkara yang tidak berfaedah baginya, nescaya luputlah daripadanya apa yang benar-benar berfaedah baginya."* — **(Samnun al-Muhibb rahimahullah)**  
-  *Dimensi Haraki:* Firasat dalaman untuk meneliti keaiban diri sendiri (*firasat al-nafs*) adalah prasyarat mutlak sebelum seorang daie mampu memimpin dan menilai realiti umat dengan mata bashirah.
+  *Dimensi Haraki:* Firasat dalaman untuk meneliti keaiban diri sendiri (*firasat al-nafs*) adalah prasyarat mutlak sebelum seorang da'i mampu memimpin dan menilai realiti umat dengan mata bashirah.
 
 ---
 
@@ -19,7 +19,7 @@
 * **1. Diagnosis Halangan / Rawatan Jiwa (*Al-Ghaflah / Al-Raqīqah*):**  
   *Bahaya Kebankrapan Kader & Tarbiah Semberono* — Ancaman paling dahsyat yang boleh meruntuhkan harakah Islamiah bukanlah kezaliman musuh dari luar, sebaliknya "kebankrapan kader" (*iflas al-kadar*) apabila tokoh-tokoh pembimbing pergi menghadap Ilahi tanpa ada barisan pelapis yang diacu dengan kualiti tarbiah yang setaraf.
 * **2. Modus Operandi & Gejala Penyelusupan:**  
-  Gerakan mudah tergelincir apabila ghairah meluaskan keahlian secara kuantiti (angka) tanpa mempedulikan mutu rohani dan kedalaman kefahaman. Daie mula mengabaikan muhasabah dalaman, bersikap leka dengan kejayaan teknikal, dan membiarkan bibit penyakit jiwa merayap tanpa dikesan seawal peringkat rebung.
+  Gerakan mudah tergelincir apabila ghairah meluaskan keahlian secara kuantiti (angka) tanpa mempedulikan mutu rohani dan kedalaman kefahaman. Da'i mula mengabaikan muhasabah dalaman, bersikap leka dengan kejayaan teknikal, dan membiarkan bibit penyakit jiwa merayap tanpa dikesan seawal peringkat rebung.
 * **3. Implikasi Terhadap Saf Haraki:**  
   Saf dipenuhi oleh jasad-jasad aktivis yang keletihan, mudah berpecah apabila diuji dengan kepayahan (*mehnah*), serta hilang daya graviti dakwah di tengah masyarakat kerana kekeringan roh (*inhab ruhi*).
 * **4. Preskripsi Penawar (*Fiqh as-Sulūk*) & Petunjuk Salaf:**  
@@ -53,7 +53,7 @@
 * **2. Modus Operandi & Gejala Penyelusupan:**  
   Syaitan membisikkan bahawa "kerja dakwah juga adalah ibadah", lalu aktivis meringan-ringankan zikir lisan, wirid ma'tsurat, dan doa-doa perlindungan harian, menjadikannya sekadar bacaan hafalan tanpa penghayatan jantung hati.
 * **3. Implikasi Terhadap Saf Haraki:**  
-  Kata-kata daie hilang wibawa dan keberkatan (*barakah*); mesyuarat dan perbincangan haraki dipenuhi ketegangan akal tanpa naungan sakinah malaikat.
+  Kata-kata da'i hilang wibawa dan keberkatan (*barakah*); mesyuarat dan perbincangan haraki dipenuhi ketegangan akal tanpa naungan sakinah malaikat.
 * **4. Preskripsi Penawar (*Fiqh as-Sulūk*) & Petunjuk Salaf:**  
   Menghidupkan zikir yang mencetuskan muraqabah. Menyandarkan setiap ayunan langkah kepada istighfar dan tasbih sepertimana para anbiya' mendahului cabaran umat dengan istighfar.
 
@@ -79,7 +79,7 @@
 * **3. Implikasi Terhadap Saf Haraki:**  
   Kekuasaan yang dibina menjadi rapuh, mudah diruntuhkan oleh konspirasi musuh kerana hilangnya pertolongan ghaib (*al-madad al-ilahi*) yang hanya turun kepada mereka yang banyak bertasbih.
 * **4. Preskripsi Penawar (*Fiqh as-Sulūk*) & Petunjuk Salaf:**  
-  *Menggabungkan Sifat Pemimpin & Ahli Ibadah (Awwāb)* — Nabi Daud AS adalah raja yang menakluki musuh di medan perang, namun baginda sentiasa menangis merintih di mihrabnya, membahagikan malamnya untuk solat dan siangnya untuk berpuasa. Daie wajib memperkukuh saf kekuasaan dengan memperbanyakkan tasbih dan tahajud.
+  *Menggabungkan Sifat Pemimpin & Ahli Ibadah (Awwāb)* — Nabi Daud AS adalah raja yang menakluki musuh di medan perang, namun baginda sentiasa menangis merintih di mihrabnya, membahagikan malamnya untuk solat dan siangnya untuk berpuasa. Da'i wajib memperkukuh saf kekuasaan dengan memperbanyakkan tasbih dan tahajud.
 
 ---
 
@@ -97,7 +97,7 @@
 * **1. Diagnosis Halangan / Rawatan Jiwa:**  
   *Penyakit Tilam Empuk & Kelesuan Qiamullail* — Hati yang berat untuk bangun malam kerana kekenyangan makan malam, tenggelam dalam perbualan kosong, atau melayan keletihan jasad tanpa mujahadah.
 * **2. Modus Operandi & Gejala Penyelusupan:**  
-  Daie meyakinkan dirinya bahawa keletihan bekerja untuk Islam pada siang hari sudah memadai sebagai ganti qiamullail, sehingga berminggu-minggu berlalu tanpa sujud di waktu sahur.
+  Da'i meyakinkan dirinya bahawa keletihan bekerja untuk Islam pada siang hari sudah memadai sebagai ganti qiamullail, sehingga berminggu-minggu berlalu tanpa sujud di waktu sahur.
 * **3. Implikasi Terhadap Saf Haraki:**  
   Wajah-wajah aktivis kehilangan cahaya keikhlasan, percakapan mereka menjadi keras dan kaku, serta saf mudah dihinggapi penyakit dengki dan sensitif terhadap teguran rakan.
 * **4. Preskripsi Penawar (*Fiqh as-Sulūk*) & Petunjuk Salaf:**  
@@ -109,7 +109,7 @@
 * **1. Diagnosis Halangan / Rawatan Jiwa:**  
   *Rasa Malu Terhadap Makhluk yang Bertasbih* — Kelalaian insan berakal yang tewas kepada haiwan yang tidak berakal dalam mengingati dan memuji Allah pada fajar hari.
 * **2. Modus Operandi & Gejala Penyelusupan:**  
-  Daie bangun tergesa-gesa di hujung fajar ketika matahari hampir terbit, manakala burung merpati dan unggas rimba telah lama berkicau bertasbih menyambut fajar menyingsing.
+  Da'i bangun tergesa-gesa di hujung fajar ketika matahari hampir terbit, manakala burung merpati dan unggas rimba telah lama berkicau bertasbih menyambut fajar menyingsing.
 * **3. Implikasi Terhadap Saf Haraki:**  
   Langkah dakwah pada siang hari menjadi pincang, lesu, dan tidak mendapat keberkatan fajar yang didoakan khusus oleh Rasulullah SAW (*«Ya Allah, berkatilah umatku pada awal pagi mereka»*).
 * **4. Preskripsi Penawar (*Fiqh as-Sulūk*) & Petunjuk Salaf:**  
@@ -190,7 +190,7 @@
 
 ### 2. subtajuk: *Dan Engkau Pemilik Iman*
 * **1. Diagnosis Halangan / Rawatan Jiwa:**  
-  *Rasa Rendah Diri (Minderwertigkeitsgefühl) di Hadapan Kebendaan Jahiliah* — Daie merasa kerdil melihat kemegahan bangunan, teknologi, dan kekayaan material para pendukung kebatilan.
+  *Rasa Rendah Diri (Minderwertigkeitsgefühl) di Hadapan Kebendaan Jahiliah* — Da'i merasa kerdil melihat kemegahan bangunan, teknologi, dan kekayaan material para pendukung kebatilan.
 * **2. Modus Operandi & Gejala Penyelusupan:**  
   Mula berkompromi dengan prinsip syariat, merasa segan menzahirkan identiti Islam, dan meniru cara hidup serta budaya pemikiran barat.
 * **3. Implikasi Terhadap Saf Haraki:**  
@@ -205,7 +205,7 @@
 * **1. Diagnosis Halangan / Rawatan Jiwa:**  
   *Kelemahan Himmah (Cita-Cita Kerdil)* — Berpuas hati menjadi orang awam yang pasif, mencukupi diri dengan solat fardhu dan zikir sendirian tanpa memikirkan nasib ummah yang dizalimi.
 * **2. Modus Operandi & Gejala Penyelusupan:**  
-  Jiwa yang kerdil sentiasa mencari alasan untuk pulang awal, mengelak tugas berat, dan merasa cemburu kepada daie yang gigih memikul amanah besar.
+  Jiwa yang kerdil sentiasa mencari alasan untuk pulang awal, mengelak tugas berat, dan merasa cemburu kepada da'i yang gigih memikul amanah besar.
 * **3. Implikasi Terhadap Saf Haraki:**  
   Beban kerja dakwah hanya terpikul di atas bahu sebilangan kecil aktivis (*burnout*), manakala sebahagian besar ahli menjadi penonton yang pasif.
 * **4. Preskripsi Penawar (*Fiqh as-Sulūk*) & Petunjuk Salaf:**  
@@ -224,7 +224,7 @@
 * **3. Implikasi Terhadap Saf Haraki:**  
   Saf kehilangan wibawa; gerakan mudah dibeli dengan geran dana atau ugutan ekonomi oleh pihak musuh.
 * **4. Preskripsi Penawar (*Fiqh as-Sulūk*) & Petunjuk Salaf:**  
-  *Izzah Kemerdekaan Rabbani* — Menghayati kata-kata Rib'i bin Amir di hadapan Rustum: *"Allah mengutuskan kami untuk membebaskan manusia daripada perhambaan sesama hamba kepada perhambaan kepada Allah semata-mata."* Jiwa daie adalah merdeka, tidak sujud melainkan kepada Allah.
+  *Izzah Kemerdekaan Rabbani* — Menghayati kata-kata Rib'i bin Amir di hadapan Rustum: *"Allah mengutuskan kami untuk membebaskan manusia daripada perhambaan sesama hamba kepada perhambaan kepada Allah semata-mata."* Jiwa da'i adalah merdeka, tidak sujud melainkan kepada Allah.
 
 ---
 
@@ -389,7 +389,7 @@
 * **💎 Mutiara Kata Hikmah:**  
   > «خَطَّ النَّبِيُّ ﷺ خَطّاً مُرَبَّعاً، وَخَطَّ خَطّاً فِي الوَسَطِ خَارِجاً مِنْهُ، وَخَطَّ خُطُطاً صِغَاراً... فَقَالَ: هَذَا الإِنْسَانُ، وَهَذَا أَجَلُهُ مُحِيطٌ بِهِ، وَهَذَا الَّذِي هُوَ خَارِجٌ أَمَلُهُ، وَهَذِهِ الخُطُطُ الصِّغَارُ الأَعْرَاضُ؛ فَإِنْ أَخْطَأَهُ هَذَا نَهَشَهُ هَذَا!»  
   **Terjemahan:** *"Nabi SAW melakar satu garisan segi empat, lalu baginda melakar satu garisan lurus di tengah-tengahnya yang keluar melangkaui kotak tersebut, dan baginda melakar beberapa garisan kecil lain menghala ke arah garisan tengah... lalu baginda bersabda: 'Ini adalah insan, dan ini adalah ajalnya yang mengepungnya, dan garisan yang keluar melangkau ini adalah angan-angannya, manakala garisan-garisan kecil ini adalah musibah-musibah kehidupan; sekiranya dia terlepas daripada yang ini, dia disambar oleh yang ini!'"* — **(Hadis Riwayat Al-Bukhari)**  
-  *Dimensi Haraki:* Mengingati kepungan ajal mematahkan angan-angan panjang (*thulul amal*) yang memperdaya daie untuk menangguhkan amal dan berpuas hati dengan dunia.
+  *Dimensi Haraki:* Mengingati kepungan ajal mematahkan angan-angan panjang (*thulul amal*) yang memperdaya da'i untuk menangguhkan amal dan berpuas hati dengan dunia.
 
 ---
 
@@ -397,7 +397,7 @@
 * **1. Diagnosis Halangan / Rawatan Jiwa:**  
   *Penyakit Angan-Angan Panjang (Thūlul Amal)* — Mengira bahawa umur masih panjang, lalu menangguhkan taubat dan menangguhkan pengorbanan dakwah ke hari tua.
 * **2. Modus Operandi & Gejala Penyelusupan:**  
-  Daie merancang projek peribadi untuk tempoh 20 tahun akan datang dengan penuh ketelitian, tetapi tidak menyediakan bekalan untuk kubur yang mungkin ditemuinya petang ini.
+  Da'i merancang projek peribadi untuk tempoh 20 tahun akan datang dengan penuh ketelitian, tetapi tidak menyediakan bekalan untuk kubur yang mungkin ditemuinya petang ini.
 * **3. Implikasi Terhadap Saf Haraki:**  
   Kelesuan dan penangguhan amanah (*taswif*); projek harakah terbengkalai kerana sikap "nanti dahulu".
 * **4. Preskripsi Penawar (*Fiqh as-Sulūk*) & Petunjuk Salaf:**  
@@ -411,7 +411,7 @@
 * **2. Modus Operandi & Gejala Penyelusupan:**  
   Aktivis mula terpesona dengan tawaran jawatan, berebut harta peninggalan keluarga, dan mengabaikan muhasabah kubur.
 * **3. Implikasi Terhadap Saf Haraki:**  
-  Permulaan penyelewengan (*inḥirāf*); daie yang melupakan maut akan mula menjual prinsip perjuangannya demi mengejar keselamatan duniawi.
+  Permulaan penyelewengan (*inḥirāf*); da'i yang melupakan maut akan mula menjual prinsip perjuangannya demi mengejar keselamatan duniawi.
 * **4. Preskripsi Penawar (*Fiqh as-Sulūk*) & Petunjuk Salaf:**  
   *Menghidupkan Budaya Ziarah Kubur*: Duduk merenung tanah pusara. Menginsafi bahawa para pembesar yang pernah berkuasa kini kaku di dalam lubang sempit tanpa seurat benang melainkan kain kafan yang reput.
 
@@ -445,7 +445,7 @@
 
 ### 1. subtajuk: *Hari Penuaian & Hari Tidur yang Panjang*
 * **1. Diagnosis Halangan / Rawatan Jiwa:**  
-  *Penyakit Malas Beramal & Berangan Menunggu Hari Esok* — Daie menganggap bahawa musim beramal masih panjang dan ada masa untuk menggantikan peluang yang disia-siakan.
+  *Penyakit Malas Beramal & Berangan Menunggu Hari Esok* — Da'i menganggap bahawa musim beramal masih panjang dan ada masa untuk menggantikan peluang yang disia-siakan.
 * **2. Modus Operandi & Gejala Penyelusupan:**  
   Masa muda dihabiskan dengan berleka-leka; amanah dakwah ditolak kepada orang lain dengan anggapan "ramai lagi orang lain yang boleh buat".
 * **3. Implikasi Terhadap Saf Haraki:**  
@@ -493,7 +493,7 @@
 * **1. Diagnosis Halangan / Rawatan Jiwa:**  
   *Kekerasan Hati yang Sukar Menitiskan Air Mata* — Jiwa yang membeku, tidak terkesan dengan ayat-ayat ancaman azab kubur dan neraka.
 * **2. Modus Operandi & Gejala Penyelusupan:**  
-  Daie mendengar tazkirah maut tetapi hatinya tetap lalai, menganggap kematian hanya berlaku kepada orang lain yang lanjut usia.
+  Da'i mendengar tazkirah maut tetapi hatinya tetap lalai, menganggap kematian hanya berlaku kepada orang lain yang lanjut usia.
 * **3. Implikasi Terhadap Saf Haraki:**  
   Lahirnya generasi aktivis yang berhati keras, suka bertelagah, dan tiada sifat khusyuk dalam ibadah.
 * **4. Preskripsi Penawar (*Fiqh as-Sulūk*) & Petunjuk Salaf:**  
@@ -529,7 +529,7 @@
 * **1. Diagnosis Halangan / Rawatan Jiwa:**  
   *Kecenderungan kepada Kemewahan Gaya Hidup & Keengganan Mengakui Kelemahan Diri* — Mengidamkan kehidupan mewah bertaraf elit dan angkuh daripada mengakui kesilapan di hadapan jemaah.
 * **2. Modus Operandi & Gejala Penyelusupan:**  
-  Menutup kelemahan diri dengan menyalahkan orang lain (*defensive mechanism*) dan memandang hina daie yang hidup zuhud dan sederhana.
+  Menutup kelemahan diri dengan menyalahkan orang lain (*defensive mechanism*) dan memandang hina da'i yang hidup zuhud dan sederhana.
 * **3. Implikasi Terhadap Saf Haraki:**  
   Budaya kepalsuan dan hipokrasi; hilangnya roh tawaduk yang menjadi perisai daripada sifat ujub.
 * **4. Preskripsi Penawar (*Fiqh as-Sulūk*) & Petunjuk Salaf:**  
@@ -543,7 +543,7 @@
 * **💎 Mutiara Kata Hikmah:**  
   > «يَا أَيُّهَا الَّذِينَ آمَنُوا مَا لَكُمْ إِذَا قِيلَ لَكُمُ انفِرُوا فِي سَبِيلِ اللَّهِ اثَّاقَلْتُمْ إِلَى الْأَرْضِ ۚ أَرَضِيتُم بِالْحَيَاةِ الدُّنْيَا مِنَ الْآخِرَةِ ۚ فَمَا مَتَاعُ الْحَيَاةِ الدُّنْيَا فِي الْآخِرَةِ إِلَّا قَلِيلٌ»  
   **Terjemahan:** *"Wahai orang-orang yang beriman! Mengapakah kamu apabila dikatakan kepada kamu: 'Berangkatlah (berjuang) pada jalan Allah', kamu merasa berat dan terikat ke bumi? Adakah kamu berpuas hati dengan kehidupan dunia mengatasi akhirat? Maka tiadalah kesenangan kehidupan dunia di sisi akhirat melainkan amat sedikit."* — **(Surah At-Taubah: 38)**  
-  *Dimensi Haraki:* Seruan memutuskan belenggu kebendaan bumi yang memberatkan sayap daie daripada terbang tinggi menuju medan jihad dan pengorbanan.
+  *Dimensi Haraki:* Seruan memutuskan belenggu kebendaan bumi yang memberatkan sayap da'i daripada terbang tinggi menuju medan jihad dan pengorbanan.
 
 ---
 
@@ -551,11 +551,11 @@
 * **1. Diagnosis Halangan / Rawatan Jiwa:**  
   *Tarikan Graviti Belenggu Bumi (Quyūd al-Arḍ)* — Harta kekayaan, rumah agam, anak isteri yang manja, dan jawatan berprestij yang menjadi rantai besi mengikat leher aktivis.
 * **2. Modus Operandi & Gejala Penyelusupan:**  
-  Dunia datang merayu secara beransur-ansur; bermula dengan pinjaman rumah yang menuntut lebihan kerja lampau (*overtime*), kenaikan pangkat yang menuntut kesetiaan kepada dasar sekular, sehingga akhirnya daie tiada masa lagi untuk usrah dan dakwah.
+  Dunia datang merayu secara beransur-ansur; bermula dengan pinjaman rumah yang menuntut lebihan kerja lampau (*overtime*), kenaikan pangkat yang menuntut kesetiaan kepada dasar sekular, sehingga akhirnya da'i tiada masa lagi untuk usrah dan dakwah.
 * **3. Implikasi Terhadap Saf Haraki:**  
   Pengkhianatan senyap; aktivis mula menarik diri daripada tanggungjawab barisan hadapan kerana takut terjejas kerjaya atau pendapatan bulanannya.
 * **4. Preskripsi Penawar (*Fiqh as-Sulūk*) & Petunjuk Salaf:**  
-  Menyedari bahawa dunia ini laksana bangkai kambing cacat yang dibuang di tepi jalan. Daie tidak boleh membiarkan hatinya dirantai oleh tanah liat bumi yang fana.
+  Menyedari bahawa dunia ini laksana bangkai kambing cacat yang dibuang di tepi jalan. Da'i tidak boleh membiarkan hatinya dirantai oleh tanah liat bumi yang fana.
 
 ---
 
@@ -579,7 +579,7 @@
 * **3. Implikasi Terhadap Saf Haraki:**  
   Aktivis menjadi lesu emosi, mudah tertekan dengan beban tugas jemaah, dan merungut tidak berhenti.
 * **4. Preskripsi Penawar (*Fiqh as-Sulūk*) & Petunjuk Salaf:**  
-  *Kelazatan Kemerdekaan Jiwa*: Apabila belenggu bumi diputuskan demi Allah, jiwa akan merasai kelapangan yang amat luas. Langkah kaki daie menjadi ringan, senyumannya mekar, dan suaranya menggetarkan hati musuh kerana dia tiada apa-apa lagi untuk ditakutkan hilang di dunia ini.
+  *Kelazatan Kemerdekaan Jiwa*: Apabila belenggu bumi diputuskan demi Allah, jiwa akan merasai kelapangan yang amat luas. Langkah kaki da'i menjadi ringan, senyumannya mekar, dan suaranya menggetarkan hati musuh kerana dia tiada apa-apa lagi untuk ditakutkan hilang di dunia ini.
 
 ---
 
@@ -629,7 +629,7 @@
 
 ---
 
-# ⚔️ BAB 12: KISAH-KISAH "HIBURAN" PARA DAIE
+# ⚔️ BAB 12: KISAH-KISAH "HIBURAN" PARA DA'I
 ### *(Qiṣaṣ min Lahw al-Du'āt - قِصَصٌ مِنْ لَهْوِ الدُّعَاةِ)*
 
 * **💎 Mutiara Kata Hikmah:**  
@@ -647,7 +647,7 @@
 * **3. Implikasi Terhadap Saf Haraki:**  
   Kelesuan jiwa para perajurit; hilangnya ketajaman semangat kepahlawanan (*al-ruhul jundiyyah*).
 * **4. Preskripsi Penawar (*Fiqh as-Sulūk*) & Petunjuk Salaf:**  
-  *Menghayati Falsafah "Lahw al-Du'at"*: Merasai nikmat kegembiraan yang luar biasa tatkala berjaya mentarbiah seorang pemuda, mengkhatamkan sebuah kitab rujukan, atau berkhidmat menolong orang susah. Itulah hiburan daie yang hakiki!
+  *Menghayati Falsafah "Lahw al-Du'at"*: Merasai nikmat kegembiraan yang luar biasa tatkala berjaya mentarbiah seorang pemuda, mengkhatamkan sebuah kitab rujukan, atau berkhidmat menolong orang susah. Itulah hiburan da'i yang hakiki!
 
 ---
 
@@ -683,7 +683,7 @@
 * **3. Implikasi Terhadap Saf Haraki:**  
   Kehilangan pengaruh di kubu-kubu ujian; musuh berjaya mematahkan semangat perjuangan.
 * **4. Preskripsi Penawar (*Fiqh as-Sulūk*) & Petunjuk Salaf:**  
-  *Fiqh Nabi Yusuf AS*: Masuk ke dalam penjara bawah tanah, namun sebelum mentafsir mimpi dua banduan di sisinya, baginda mendahuluinya dengan dakwah tauhid: *«Wahai dua rakan sepejara! Adakah tuhan-tuhan yang berbilang-bilang itu lebih baik ataukah Allah Yang Maha Esa lagi Maha Perkasa?»* Di mana sahaja kaki daie memijak bumi, di situlah madrasah dakwah ditegakkan.
+  *Fiqh Nabi Yusuf AS*: Masuk ke dalam penjara bawah tanah, namun sebelum mentafsir mimpi dua banduan di sisinya, baginda mendahuluinya dengan dakwah tauhid: *«Wahai dua rakan sepejara! Adakah tuhan-tuhan yang berbilang-bilang itu lebih baik ataukah Allah Yang Maha Esa lagi Maha Perkasa?»* Di mana sahaja kaki da'i memijak bumi, di situlah madrasah dakwah ditegakkan.
 
 ---
 
@@ -749,7 +749,7 @@
 
 ### 10. subtajuk: *Sahabat-Sahabat Imam al-Banna & Kemuliaan Tatkala Kematian (Abu Safwan al-Dabbagh)*
 * **1. Diagnosis Halangan / Rawatan Jiwa:**  
-  *Kelesuan di Garisan Penamat (Su'ul Khatimah Haraki)* — Daie yang berjuang puluhan tahun namun di hujung usianya merajuk dengan jemaah dan berpaling tadah.
+  *Kelesuan di Garisan Penamat (Su'ul Khatimah Haraki)* — Da'i yang berjuang puluhan tahun namun di hujung usianya merajuk dengan jemaah dan berpaling tadah.
 * **2. Modus Operandi & Gejala Penyelusupan:**  
   Perasaan kecewa kerana tidak dihargai atau tidak diberi jawatan di hujung usia menjadikannya melepaskan baiah.
 * **3. Implikasi Terhadap Saf Haraki:**  

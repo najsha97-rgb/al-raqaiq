@@ -77,7 +77,7 @@ Seruan sunnah Nabi SAW sentiasa menuntut perjuangan tanpa henti. Jiwa yang merde
 Dan adakah burung-burung mendahuluimu pada waktu-waktunya ... lantas ia berlindung kepada Allah atau bersujud?!*
 
 **⚔️ Dimensi Fiqh Haraki & Pengajaran:**  
-Rasa malu seorang daie tatkala makhluk lain bangun bertasbih pada waktu sahur, sedangkan dia masih dibalut lena. Waktu sahur adalah punca kekuatan rohani haraki.
+Rasa malu seorang da'i tatkala makhluk lain bangun bertasbih pada waktu sahur, sedangkan dia masih dibalut lena. Waktu sahur adalah punca kekuatan rohani haraki.
 
 ---
 
@@ -163,7 +163,7 @@ Ukhuwwah sejati adalah hubungan yang bebas daripada kepura-puraan (*takalluf*). 
 *“Lazimilah bersama sahabat-sahabat yang jujur, engkau akan hidup di bawah naungan perlindungan mereka; sesungguhnya mereka adalah perhiasan pada waktu senang, dan bekalan kekuatan pada waktu ditimpa bala ujian.”*
 
 **⚔️ Dimensi Fiqh Haraki & Pengajaran:**  
-Sahabat seperjuangan yang ikhlas adalah perisai pelindung daie ketika berhadapan dengan gelombang fitnah duniawi.
+Sahabat seperjuangan yang ikhlas adalah perisai pelindung da'i ketika berhadapan dengan gelombang fitnah duniawi.
 
 ---
 
@@ -221,7 +221,7 @@ Lukisan puitis yang menghancurkan ilusi angan-angan panjang; mengingatkan kader 
 *“Ada tiga perkara yang membuatkan aku hairan sehingga membuatkan aku ketawa: orang yang mengejar dunia sedangkan maut giat memburunya; orang yang lalai sedangkan Allah tidak pernah lalai terhadapnya; dan orang yang ketawa terbahak-bahak memenuhi mulutnya sedangkan dia tidak tahu adakah Tuhannya murka atau reda kepadanya.”*
 
 **⚔️ Dimensi Fiqh Haraki & Pengajaran:**  
-Muhasabah tajam terhadap kelekaan manusiawi. Daie tidak tertipu dengan kemewahan sementara kerana matanya sentiasa memandang bukit-bukit kubur yang kaku.
+Muhasabah tajam terhadap kelekaan manusiawi. Da'i tidak tertipu dengan kemewahan sementara kerana matanya sentiasa memandang bukit-bukit kubur yang kaku.
 
 ---
 
@@ -273,7 +273,7 @@ Manifes kemerdekaan sejati. Misi dakwah adalah membebaskan manusia daripada bele
 
 ---
 
-## 📌 BAB 12: KISAH-KISAH "HIBURAN" PARA DAIE
+## 📌 BAB 12: KISAH-KISAH "HIBURAN" PARA DA'I
 
 ---
 
@@ -297,7 +297,7 @@ Prinsip agung aktivis Islam: masa lapang telah lenyap sebaik sahaja seseorang me
 *“Sesungguhnya tidak halal bagiku untuk mensia-siakan walau sesaat daripada usiaku; sehinggakan apabila lidahku terhenti daripada muzakarah dan perbahasan ilmiah, dan mataku terhenti daripada menelaah: aku menyibukkan fikiranku (tentang dakwah dan ilmu) dalam keadaan aku sedang berbaring berehat.”*
 
 **⚔️ Dimensi Fiqh Haraki & Pengajaran:**  
-Pengurusan masa yang radikal dan teliti. Fikiran daie sentiasa bekerja mencari idea dan strategi dakwah walau pada saat jasadnya menuntut rehat.
+Pengurusan masa yang radikal dan teliti. Fikiran da'i sentiasa bekerja mencari idea dan strategi dakwah walau pada saat jasadnya menuntut rehat.
 
 ---
 
