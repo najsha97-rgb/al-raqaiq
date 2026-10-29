@@ -1,0 +1,296 @@
+# INTISARI ILMIAH LENGKAP KITAB AL-RAQĀ'IQ (الرقائق)
+## Pelembut-pelembut Hati (Intisari Ilmiah Lengkap Setiap Bab)
+**Karya Asal:** Al-Fadhil Syeikh Muhammad Ahmad al-Rasyid *rahimahullah*  
+**Penyelarasan & Terjemahan:** Projek Terjemahan Akademik Lengkap *Al-Raqā'iq* (Format Bahasa Melayu Standard Laras Sastera Dakwah)
+
+---
+
+## 📌 MUKADIMAH: JIWA YANG BERIMAN
+### *(Al-Nafs al-Mu’minah - النَّفْسُ المُؤْمِنَةُ)* | Halaman Asal 7 – 14
+
+* **Ringkasan Am Mukadimah:**
+  Gerakan dakwah Islamiah berdiri di atas dua rukun utama: memilih pemuda yang berani dan cerdas, serta mentarbiah mereka dengan tarbiah yang mendalam, syumul dan kental. Syeikh al-Rasyid menegaskan bahawa bahaya terbesar sesebuah harakah adalah "kebankrapan kader" apabila tokoh-tokohnya lenyap seorang demi seorang tanpa pengganti yang setaraf. Jiwa yang beriman adalah benteng pertahanan terakhir; tanpa penyucian jiwa dan pelembut hati (*al-raqā'iq*), gerakan akan menjadi jasad kaku yang kehilangan roh perjuangan.
+
+* **Intisari Subtajuk:**
+  * **• Gerakan Islamiah Wajib Memiliki Firasat Meneliti Dirinya Sendiri:**
+    * **Firasat Dalaman Mendahului Firasat Luaran:** Menuruti mutiara kata Samnun al-Muhibb, sesiapa yang celik meneliti aib dan kelemahan dirinya, firasatnya terhadap orang lain dan musuh akan menjadi tajam dan tepat.
+    * **Keutamaan Amal (*Al-Mufadhalah*):** Mengelakkan tarbiah semberono; harakah mesti mendahulukan perkara yang paling mendesak mengikut tuntutan fasa perjuangan.
+    * **Sepuluh Disiplin Asas Kader Rabbani:** 
+      1. Menjaga solat dan memperkukuh akidah.
+      2. Beriltizam dengan adab persaudaraan (*ukhuwwah*).
+      3. Bergembira dengan keletihan dan pengorbanan harian.
+      4. Rindu kepada jihad dan syahid tanpa terburu-buru.
+      5. Berdisiplin dengan ketaatan jemaah.
+      6. Memadai dengan dunia yang sedikit dan mencari keringanan beban di akhirat.
+      7. Mengintai kedatangan maut dan mematikan angan-angan palsu.
+      8. Mencintai Allah SWT yang dikawal oleh rasa takut (*khawf*).
+      9. Bersikap tegas memisahkan diri (*al-mufāṣalah*) daripada kekufuran dan nifak.
+      10. Bersabar menempuh mehnah dan ujian.
+
+---
+
+## 📌 BAB 1: TASBIH MENGUKUHKAN KEKUASAAN
+### *(Tasbīh Yasyuddu al-Mulk - تَسْبِيحٌ يَشُدُّ المُلْكَ)* | Halaman Asal 15 – 26
+
+* **Ringkasan Am Bab 1:**
+  Kekuasaan, kepimpinan, dan kemenangan haraki tidak akan teguh dengan kehebatan strategi semata-mata, sebaliknya berpaksi kukuh pada tasbih, istighfar, dan ketundukan sujud di hadapan Allah SWT. Meneladani Nabi Daud AS yang dianugerahkan kerajaan agung kerana sentiasa bertasbih dan bertahajud, aktivis dakwah diingatkan bahawa solat yang khusyuk dan rukuk yang panjang adalah sumber ketahanan empayar Islam.
+
+* **Intisari Subtajuk:**
+  * **• Sahutlah Seruan Nabimu SAW:**
+    * Menyuburkan jiwa dengan zikir dan doa harian; bukan zikir lisan yang kosong, tetapi zikir yang menghidupkan muraqabah.
+    * Solat fardhu berjemaah di masjid adalah nadi utama yang membezakan pejuang ikhlas dengan penuntut keselesaan duniawi.
+  * **• Keutamaan Golongan Terdahulu Menjaga Solat:**
+    * Menyorot teladan para sahabat dan tabi'in (seperti Sa'id bin al-Musayyab yang tidak pernah terlepas takbiratul ihram selama 40 tahun).
+    * Tangisan para salaf tatkala terlepas solat berjemaah mencerminkan kepekaan hati yang hidup.
+  * **• Dakwah yang Menimba Pengajaran daripada Nabi Daud AS:**
+    * Rahsia kekuatan kerajaan Nabi Daud AS ialah baginda seorang raja yang sentiasa merintih (*awwāb*), banyak bertasbih, dan bangun pada sebahagian malam.
+    * Amaran keras terhadap "syaitan kelalaian" yang cuba mencuri waktu-waktu sujud seorang daie di sebalik kesibukan kerja-kerja teknikal harakah.
+
+---
+
+## 📌 BAB 2: MINIT-MINIT YANG BERHARGA
+### *(Al-Daqā'iq al-Ghāliyah - الدَّقَائِقُ الغَالِيَةُ)* | Halaman Asal 27 – 37
+
+* **Ringkasan Am Bab 2:**
+  Waktu sepertiga malam terakhir (waktu sahur) adalah "minit-minit emas" yang menjadi pemutus darjat di sisi Allah Taala. Kemenangan dakwah pada siang hari ditentukan oleh air mata munajat para pendakwah pada malam hari. Barang siapa yang gagal menakluk tilam tidurnya pada waktu malam, dia pasti tewas berhadapan dengan gelombang musuh pada siang hari.
+
+* **Intisari Subtajuk:**
+  * **• Tokoh-Tokoh Madrasah Malam:**
+    * Gambaran qiamullail para pejuang Islam sepanjang zaman; bagaimana mereka membelah malam dengan tilawah, tangisan taubat, dan rintihan hajat.
+    * Solat malam melahirkan ketenangan jiwa yang teguh, wajah yang bercahaya, dan ketajaman bashirah.
+  * **• Adakah Burung Merpati Mendahuluimu?:**
+    * Refleksi mendalam daripada bait penyair: Malunya seorang daie apabila burung merpati telah bangun bertasbih pada waktu fajar menyingsing, sedangkan manusia yang memikul risalah dakwah masih lena dibalut kehangatan selimut.
+    * Bangun bertahajud menuntut pengorbanan hawa nafsu dan latihan mujahadah yang berterusan.
+
+---
+
+## 📌 BAB 3: PERMULAAN
+### *(Al-Ibtidā' - الابْتِدَاءُ)* | Halaman Asal 39 – 48
+
+* **Ringkasan Am Bab 3:**
+  Langkah pertama menentukan ke mana arah pengakhiran. Kejernihan niat pada permulaan langkah (*tajarrud*) adalah syarat mutlak bagi menjamin keikhlasan yang berkekalan. Setiap langkah awal yang dicemari oleh tuntutan syahwat tersembunyi, cita-cita kedudukan, atau mencari pujian manusia akan berakhir dengan kegagalan, kekecewaan, dan kehancuran tarbiah.
+
+* **Intisari Subtajuk:**
+  * **• Kejernihan Langkah Permulaan:**
+    * Memulakan perjalanan dakwah dengan hati yang bersih daripada sebarang kepentingan peribadi.
+    * Membina persepsi bahawa dakwah adalah medan memberi dan berkorban, bukan medan mengambil atau menuai faedah duniawi.
+  * **• Niat yang Bebas Ikhlas:**
+    * Niat yang tulus ikhlas adalah "ruh" bagi setiap gerak kerja; tanpa keikhlasan, amal sebesar gunung akan hancur menjadi debu berterbangan.
+    * Sentiasa memperbaharui dan memeriksa niat pada setiap persimpangan jalan agar tidak diragut oleh penyakit riak dan ujub.
+  * **• Mengorak Langkah Mengharungi Kesukaran:**
+    * Kesediaan mental dan rohani untuk menghadapi jalan dakwah yang sememangnya dipagari oleh kepayahan (*makārih*), cemuhan manusia, dan keletihan fizikal.
+    * Sikap istiqamah adalah buah daripada permulaan yang sahih.
+
+---
+
+## 📌 BAB 4: MENUJU KEGEMBIRAAN AKHIRAT
+### *(Naḥwa Afrāḥ al-Ākhirah - نَحْوَ أَفْرَاحِ الآخِرَةِ)* | Halaman Asal 49 – 62
+
+* **Ringkasan Am Bab 4:**
+  Perjalanan seorang daie adalah perjalanan merentas dunia yang fana menuju majlis-majlis kegembiraan abadi di syurga (*afrāḥ al-ākhirah*). Dunia ini bukanlah tempat berehat atau bersenang-lenang; martabat yang tinggi di akhirat hanya boleh ditebus dengan keletihan dan kelelahan yang berterusan di dunia.
+
+* **Intisari Subtajuk:**
+  * **• Ketinggian Martabat... Harganya Ialah Keletihan:**
+    * Kebahagiaan abadi tidak dapat diraih melalui keselesaan jasad; siapa yang inginkan kerehatan di akhirat mesti sanggup meletihkan dirinya di dunia.
+  * **• Dan Engkau Pemilik Iman:**
+    * Iman yang mendalam memberikan daya tahan luar biasa kepada aktivis untuk mengharungi tekanan dan mehnah.
+  * **• Dan Manusia yang Paling Penat Ialah yang Agung Tuntutan Cita-Citanya:**
+    * Semakin tinggi himmah (cita-cita) seorang insan, semakin penat jasadnya memikul tuntutan jiwa tersebut.
+  * **• Dan Engkau Insan Merdeka yang Mulia:**
+    * Jiwa yang merdeka tidak sujud kepada kebendaan dan tidak tunduk kepada ugutan penguasa zalim.
+  * **• Dan Engkau Pemilik Matlamat:**
+    * Matlamat yang jelas memandu daie agar tidak terpesong oleh godaan remeh di tepi jalan.
+  * **• Dan Engkau Penuntut Akses Menuju Allah:**
+    * Mendekatkan diri kepada Allah melalui pintu-pintu ketaatan dan tawajuh yang ikhlas.
+  * **• Ujian Kelapangan Masa dan Kelalaian:**
+    * Masa lapang adalah jerangkap maut bagi aktivis; ruang kosong yang tidak diisi dengan kebaikan pasti akan diracuni oleh fitnah syubhat dan syahwat.
+
+---
+
+## 📌 BAB 5: PERSAUDARAAN SYIAR DAKWAH KITA
+### *(Al-Ukhuwwah Syi'ār Da'watinā - الأُخُوَّةُ شِعَارُ دَعْوَتِنَا)* | Halaman Asal 63 – 82
+
+* **Ringkasan Am Bab 5:**
+  Persaudaraan Islamiah (*ukhuwwah*) bukanlah sekadar slogan retorik atau kemesraan luaran, sebaliknya ia adalah tiang penegak tanzim dakwah yang berakar umbi pada ketakwaan. Syeikh al-Rasyid memperincikan etika pergaulan para kader serta amaran keras terhadap penyakit-penyakit majlis yang boleh meretakkan saf perjuangan.
+
+* **Intisari Subtajuk:**
+  * **• Ketakwaan Terlebih Dahulu:**
+    * Persaudaraan yang hakiki tidak akan tegak melainkan di atas paksi takwa; ikatan tanpa takwa akan bertukar menjadi permusuhan di akhirat.
+  * **• Dan Kita Mengiringinya dengan Persaudaraan...:**
+    * Mengintegrasikan hubungan ukhuwwah dengan amalan ibadah malam dan zikir bersama.
+  * **• Ikatan Perjanjian Persaudaraan:**
+    * Menjaga hak-hak persaudaraan seperti menjaga amanah akidah.
+  * **• Neraca Persahabatan:**
+    * Menilai sahabat berdasarkan ketaatan mereka kepada syariat, bukan kepentingan material.
+  * **• Enam Sifat Rabbani Sahabat Sejati:**
+    1. *Pertuturan yang baik:* Berbicara dengan perkataan yang menyejukkan hati.
+    2. *Mengangkat beban kepura-puraan (takalluf):* Hubungan yang tulus, bersahaja, dan tiada rasa kekok.
+    3. *Meninggalkan kehinaan dinar dan dirham:* Bebas daripada sifat tamak dan berkira harta.
+    4. *Saling mengingatkan tentang akhirat:* Pertemuan yang sentiasa menghidupkan jiwa.
+    5. *Mengutamakan orang lain (al-i'tsār):* Sedia berkorban demi saudara seakidah.
+    6. *Sedia mencurahkan nasihat:* Menegur dengan kasih sayang dan adab.
+  * **• Penyakit-penyakit Majlis & Memperbesarkan Kesilapan Kecil:**
+    * Bahaya mengumpat, berdebat kusir, mencari aib saudara, serta bersikap sinis yang meruntuhkan mahabbah dalam jemaah.
+
+---
+
+## 📌 BAB 6: POHON-POHON KEIMANAN
+### *(Asyjār al-Īmān - أَشْجَارُ الإِيمَانِ)* | Halaman Asal 83 – 96
+
+* **Ringkasan Am Bab 6:**
+  Syeikh al-Rasyid membina metafora sastera yang amat memukau: mengibaratkan jiwa mukmin laksana sebuah rimba keimanan yang sarat dengan pohon-pohon yang rendang dan berbuah lebat. Sepuluh pohon keimanan dihuraikan secara artistik dan mendalam sebagai paksi keperibadian daie.
+
+* **Intisari Sepuluh Pohon Keimanan:**
+  1. **• Pohon Tauhid:** Akar umbi yang menembusi bumi keyakinan, menolak segala bentuk syirik dan pergantungan selain Allah.
+  2. **• Pohon Ketaatan:** Sentiasa berbunga dengan ketaatan melaksanakan perintah syariat dan tanzim.
+  3. **• Pohon Keikhlasan:** Melindungi diri daripada debu-debu riak; mehnah adalah air yang menyiram kesuburannya.
+  4. **• Pohon Sabar:** Ditanam oleh sunnah Nabi SAW; bertahan ketika diuji dan teguh ketika diserang.
+  5. **• Pohon Keteguhan (Tsabāt):** Tidak goyah oleh tiupan angin fitnah atau godaan kebendaan.
+  6. **• Pohon Ketenangan (al-Uns):** Memberikan ketenteraman tatkala bersendirian bermunajat bersama Allah.
+  7. **• Pohon Pemisahan Mutlak (al-Mufāṣalah):** Garis pemisah yang tegas antara iman dan kufur, haq dan batil.
+  8. **• Pohon Memaafkan (al-Ightifār):** Berlapang dada terhadap kesilapan saudara dan memaafkan kelemahan manusia.
+  9. **• Pohon Zuhud:** Memandang dunia dengan kadar keperluannya, melepaskan keterikatan hati daripada kemewahan.
+  10. **• Pohon Santun (al-Ḥilm) — Sulaman Hasan al-Banna:** Bersikap lemah-lembut, menahan kemarahan, dan mendidik mad'u dengan hikmah yang mendalam.
+
+---
+
+## 📌 BAB 7: KEPUNGAN ANGAN-ANGAN
+### *(Ḥiṣār al-Amal - حِصَارُ الأَمَلِ)* | Halaman Asal 97 – 112
+
+* **Ringkasan Am Bab 7:**
+  Angan-angan panjang (*tūl al-amal*) adalah racun pembunuh yang melalaikan manusia daripada persiapan akhirat. Syeikh al-Rasyid melukiskan bagaimana angan-angan mengepung daie dengan ilusi masa depan duniawi, lalu mencadangkan penawarnya: menghidupkan ingatan terhadap mati dan merasai betapa hampirnya ajal.
+
+* **Intisari Subtajuk:**
+  * **• Keagungan Perkara yang Disaksikan: Dalil Perkara Ghaib:**
+    * Memerhatikan kematian orang lain sebagai bukti nyata bahawa giliran kita pasti akan tiba.
+  * **• Lukisan daripada Seni Kesenian Islam:**
+    * Menghayati hadis garisan Nabi SAW di atas pasir: kotak yang mengepung manusia, cita-cita yang menjulur keluar, dan ajal yang memintas tiba-tiba.
+  * **• Puisi Bebas Syeikh al-Rasyid:**
+    * *"Maka penantiannya yang indah itu akhirnya bertukar menjadi keresahan yang mencengkam; naungannya yang rendang semakin mengecut; cita-citanya yang menjangkau lembah dan padang pasir tidak akan mampu melangkau apa yang telah ditakdirkan untuknya..."*
+  * **• Pandangan yang Menjangkau Jauh:**
+    * Menembusi tirai masa kini untuk melihat hakikat kubur dan kebangkitan semula.
+  * **• Melupakan Kematian Permulaan Penyelewengan:**
+    * Apabila rasa takut kepada kematian pudar, daie mula berundur ke belakang dan mencari kompromi dengan kebatilan.
+  * **• Menghidupkan Umat dengan Mengingati Kematian:**
+    * Ingatan maut bukanlah keputusasaan, tetapi suntikan keberanian untuk menjual diri demi syurga Allah.
+
+---
+
+## 📌 BAB 8: BUKIT-BUKIT KITA YANG KAKU
+### *(Tilālunā al-Hāmidah - تِلاَلُنَا الهَامِدَةُ)* | Halaman Asal 113 – 123
+
+* **Ringkasan Am Bab 8:**
+  Menggambarkan kubur-kubur yang sunyi sepi ("bukit-bukit kita yang kaku") di mana jasad manusia terbujur kaku di bawah timbunan tanah debu. Melalui dialog penuh hikmah Abu al-Darda' RA, bab ini mengupas kepalsuan gelak tawa manusia yang lalai sedangkan maut sedang mengejar di belakangnya.
+
+* **Intisari Subtajuk:**
+  * **• Tiga Perkara yang Menggelikan Hati Abu al-Darda' RA:**
+    1. Orang yang mengejar dunia sedangkan maut giat memburunya.
+    2. Orang yang lalai sedangkan Allah tidak pernah lalai terhadapnya.
+    3. Orang yang ketawa terbahak-bahak sedangkan dia tidak tahu adakah Tuhannya reda atau murka kepadanya.
+  * **• Hari Penuaian:**
+    * Saat kematian tiba menuai nyawa manusia laksana sabit menuai tanaman yang telah masak; tiada penangguhan walau sesaat.
+  * **• Kemudian Hari Tidur yang Panjang:**
+    * Tempoh penantian alam barzakh di bawah timbunan tanah, menunggu tiupan sangkakala.
+  * **• Hisab dan Kitab Amalan:**
+    * Lembaran amalan yang dibentangkan tanpa ada satu kejahatan atau kebaikan kecil pun yang tertinggal.
+  * **• Tiada Selepas Ini Melainkan Menyingsing Lengan Baju:**
+    * Kesedaran bahawa waktu untuk beramal adalah sangat singkat; menyeru para daie untuk segera bangkit menyingsing lengan berkhidmat untuk Islam.
+
+---
+
+## 📌 BAB 9: SEKOLAH-SEKOLAH KEMATIAN
+### *(Madāris al-Mawt - مَدَارِسُ المَوْتِ)* | Halaman Asal 124 – 137
+
+* **Ringkasan Am Bab 9:**
+  Mengembara menelusuri sejarah keemasan Islam untuk melihat bagaimana empat madrasah tarbiah agung (Kufah, Syam, Basrah, dan Baghdad) mendidik para rijal dengan zikir kematian sehingga mereka menjadi tokoh-tokoh pembimbing umat yang zuhud dan berani.
+
+* **Intisari Subtajuk:**
+  * **• Madrasah Kufah Meneruskan Peringatan:**
+    * Dipimpin oleh sahabat agung Abdullah bin Mas'ud RA dan murid-muridnya (seperti Al-Rabi' bin Khutsaim yang menggali kubur di dalam rumahnya untuk mengingati maut).
+  * **• Lalu Muncul Umar di Syam:**
+    * Khalifah Umar bin Abdul Aziz mentarbiah para gabenor dan tenteranya dengan peringatan maut, meruntuhkan keangkuhan kuasa dan mengalirkan air mata keinsafan.
+  * **• Madrasah Basrah Menyokong:**
+    * Al-Hasan al-Basri memimpin gelombang zuhud di Basrah; kata-katanya laksana panah yang merobek kelalaian hati para pembesar dan pedagang.
+  * **• Neraca Basrah dalam Fiqh Dakwah:**
+    * Mengimbangi antara tuntutan mencari rezeki dengan penumpuan jiwa kepada dakwah; dunia di tangan, akhirat di hati.
+  * **• Madrasah Baghdad Cenderung kepada Kesederhanaan:**
+    * Dipelopori oleh Imam Ahmad bin Hanbal dan para muhaddisin; kesederhanaan hidup yang menewaskan fitnah kemewahan khalifah Abbasiyyah.
+  * **• Tarbiah Melalui Pengakuan & Dan Selepas Itu...:**
+    * Muhasabah harian secara jujur dan berterusan; pengakuan terhadap kelemahan diri di hadapan Allah melahirkan kekuatan luar biasa di medan masyarakat.
+
+---
+
+## 📌 BAB 10: JANGAN.. WAHAI BELENGGU-BELENGGU BUMI!
+### *(Lā.. Yā Quyūd al-Arḍ - لاَ.. يَا قُيُودَ الأَرْضِ)* | Halaman Asal 138 – 149
+
+* **Ringkasan Am Bab 10:**
+  Bab ini merupakan jeritan pembebasan daripada "belenggu-belenggu bumi" (*quyūd al-arḍ*) — iaitu harta benda, kemewahan kediaman, jawatan berprestij, sanjungan keluarga, dan ketakutan kehilangan rezeki. Syeikh al-Rasyid menyeru para pemuda dakwah agar memutuskan belenggu ini sebelum ia mengikat leher mereka dan mengheret mereka ke lembah pengkhianatan haraki.
+
+* **Intisari Subtajuk:**
+  * **• Hakikat Belenggu Dunia dan Rayuannya:**
+    * Dunia datang memikat dengan pelbagai hiasan yang mempesonakan; aktivis yang lemah azamnya akan perlahan-lahan terjerat dan mula meninggalkan medan perjuangan.
+  * **• Mengutamakan Akhirat daripada Harta dan Keselesaan:**
+    * Memaparkan teladan Mus'ab bin Umair RA yang meninggalkan kekayaan Makkah demi memeluk Islam, serta para sahabat yang menjual perniagaan mereka demi membeli syurga.
+  * **• Dan Selepas Itu...:**
+    * Daie yang berjaya melepaskan diri daripada belenggu bumi akan merasai kelapangan jiwa yang luar biasa; langkahnya menjadi ringan dan kata-katanya memiliki wibawa yang menggetarkan musuh.
+
+---
+
+## 📌 BAB 11: HAMBA YANG MERDEKA
+### *(Al-'Abd al-Hurr - العَبْدُ الحُرُّ)* | Halaman Asal 150 – 162
+
+* **Ringkasan Am Bab 11:**
+  Paradoks agung dalam Islam: seseorang insan hanya akan mencapai kemerdekaan hakiki apabila dia menzahirkan penghambaan mutlak (*'ubudiyyah*) kepada Allah Taala semata-mata. Hamba yang merdeka adalah insan yang jiwanya bebas daripada tunduk kepada hawa nafsu dan kezaliman penguasa thaghut.
+
+* **Intisari Subtajuk:**
+  * **• Pembebasan Jiwa daripada Kehambaan Hawa Nafsu:**
+    * Menghambakan diri kepada nafsu adalah seburuk-buruk perhambaan; orang yang mengejar kemasyhuran sebenarnya diperhamba oleh pandangan manusia.
+  * **• Izzah Seorang Mukmin Berdepan Penguasa Dunia:**
+    * Menyorot keberanian para ulama salaf (seperti Sa'id bin al-Musayyab dan Sa'id bin Jubair) yang berdiri teguh tanpa gentar di hadapan al-Hajjaj bin Yusuf dan raja-raja Bani Umayyah.
+    * Kematian di jalan Allah adalah kemuncak kemerdekaan jiwa.
+  * **• Kemanisan Ketaatan Hakiki:**
+    * Ketaatan kepada syariat bukanlah bebanan yang menyeksa, sebaliknya ia adalah sumber kelazatan rohani yang tidak dapat ditandingi oleh mana-mana kenikmatan duniawi.
+
+---
+
+## 📌 BAB 12: KISAH-KISAH "HIBURAN" PARA DAIE
+### *(Qiṣaṣ min Lahw al-Du'āt - قِصَصٌ مِنْ لَهْوِ الدُّعَاةِ)* | Halaman Asal 163 – 175
+
+* **Ringkasan Am Bab 12:**
+  Bab kemuncak yang penuh dengan sentuhan estetika dan paradoks sastera dakwah: Syeikh al-Rasyid menggunakan istilah *"lahw"* (hiburan/keseronokan) secara ironi. "Hiburan" bagi seorang daie bukanlah bersenang-lenang atau membuang masa, tetapi "hiburan" mereka adalah berpenat-lelah menuntut ilmu, berhijrah, berjihad, meringkuk di penjara, dan syahid di jalan Allah!
+
+* **Intisari Subtajuk:**
+  * **• Kemuliaan dalam Kehidupan...:**
+    * Daie hidup dengan kebebasan yang mematahkan belenggu syahwat dan harapan yang membakar keyakinan kemenangan.
+  * **• Berbicara Siang dan Malam:**
+    * Meneladani Nabi Nuh AS yang berdakwah tanpa henti malam dan siang, rahsia mahupun terang-terangan.
+  * **• Berbicara Ketika Langkah-Langkah Hijrah:**
+    * Nabi SAW tidak pernah lalai daripada berdakwah walau ketika diburu musuh dalam perjalanan hijrah (mengislamkan Buraidah al-Aslami).
+  * **• Berbicara di dalam Penjara:**
+    * Nabi Yusuf AS segera merebut peluang mentauhidkan dua penghuni penjara sebelum mentafsirkan mimpi mereka.
+  * **• Petunjuk Menghalang Rasa Mengantuk:**
+    * Abu Bakar al-Siddiq RA tidak pernah lena sehingga bermimpi kerana memikul beban riddah dan kedaulatan negara Islam.
+  * **• Debu... !:**
+    * Abdullah bin Abbas RA tidur di hadapan pintu rumah sahabat demi menuntut hadis sehingga diselubungi debu angin panas.
+  * **• Kegemaran Mengangkat Beban yang Berat:**
+    * Kabilah al-Nakha' dalam perang al-Qadisiyyah berlumba-lumba memikul beban pertempuran paling sukar.
+  * **• Kubu Tarbiah al-Asadiyyah:**
+    * Abu Wa'il Syaqiq membina kubu sempit di Kufah hanya untuk dirinya, kudanya dan senjatanya demi bersiap sedia untuk jihad.
+  * **• Lenyaplah Waktu Terluang... !:**
+    * Umar bin Abdul Aziz menolak pelawaan rakan lamanya untuk berehat dengan lafaz: *"Di manakah lagi adanya waktu terluang? Lenyaplah waktu terluang, maka tiada lagi masa lapang melainkan di sisi Allah!"*
+  * **• Menggalas Uncang Ilmu dengan Berjalan Kaki:**
+    * Al-Kausaj berjalan kaki dari Khurasan ke Baghdad demi mengesahkan masalah fiqh di hadapan Imam Ahmad.
+  * **• Ulama Hanabilah Memelihara Keterampilan dan Wibawa:**
+    * Ibnu Aqil tidak mensia-siakan walau sesaat, berfikir tentang dakwah tatkala berbaring; Muhammad bin Ahmad al-Dabbahi yang memancarkan tanda kesungguhan pada raut wajahnya.
+  * **• Sahabat-Sahabat Imam al-Banna Memperbaharui Jejak Ini:**
+    * Berjaga malam, bekerja dari asar hingga tengah malam, dan mendermakan gaji bulanan untuk tanzim dakwah.
+  * **• Dan Kemuliaan Tatkala Saat Kematian... !:**
+    * Kisah Abu Safwan al-Dabbagh di Iraq (1952 M) yang memperbaharui baiah di atas katil hospital sejurus sebelum menghembuskan nafas terakhir.
+
+---
+
+## 📌 KHATIMAH: NANTIKANLAH KITAB «AL-BAWARIQ»
+### *(Wa Intazhir «al-Bawāriq» - وَانْتَظِرْ «البَوَارِقَ»)* | Halaman Asal 175
+
+* **Intisari Penutup Agung:**
+  Syeikh Muhammad Ahmad al-Rasyid menutup mahakarya *al-Raqā'iq* ini dengan menjanjikan kemunculan siri seterusnya: **«Al-Bawāriq»** (Kilauan Pedang Perjuangan) — sebuah naskhah dokumentasi mengenai kehangatan semangat jihad (*al-hamāsah*), fiqh pengorbanan, kepahlawanan ulama, serta penggemblengan pemuda Islam untuk mencegah kemungkaran dan menumbangkan kezaliman golongan thaghut di muka bumi.
