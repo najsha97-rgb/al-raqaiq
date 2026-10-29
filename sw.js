@@ -1,4 +1,4 @@
-const CACHE_NAME = 'alraqaiq-cache-v8-dalam-jiwa-8084';
+const CACHE_NAME = 'alraqaiq-cache-v9-subtopic-footnotes-8084';
 const ASSETS_TO_CACHE = [
   './',
   './index.html',
