@@ -1,4 +1,4 @@
-const CACHE_NAME = 'alraqaiq-cache-v1';
+const CACHE_NAME = 'alraqaiq-cache-v2-port8084';
 const ASSETS_TO_CACHE = [
   './',
   './index.html',

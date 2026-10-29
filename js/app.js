@@ -1,6 +1,6 @@
 /**
- * AL-AWAIQ PWA - CORE LOGIC
- * Halangan-Halangan Dakwah - Syeikh Muhammad Ahmad Ar-Rasyid
+ * AL-RAQĀ'IQ PWA - CORE LOGIC
+ * Pelembut-pelembut Hati - Syeikh Muhammad Ahmad Ar-Rasyid
  */
 
 document.addEventListener('DOMContentLoaded', () => {
@@ -1830,7 +1830,7 @@ document.addEventListener('DOMContentLoaded', () => {
       `📚 Sumber: ${chNum} — ${chTitle}\n` +
       `📑 Topik: ${subTitle}\n` +
       `🌟 Kitab Al-Raqaiq — Syeikh Muhammad Ahmad Ar-Rasyid\n` +
-      `🌐 https://najsha97-rgb.github.io/al-awaiq-pwa/`;
+      `🌐 https://najsha97-rgb.github.io/al-raqaiq-pwa/`;
 
     if (navigator.clipboard && navigator.clipboard.writeText) {
       navigator.clipboard.writeText(textToCopy).then(() => {

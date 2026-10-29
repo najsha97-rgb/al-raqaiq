@@ -4,15 +4,15 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
   <meta name="theme-color" content="#052e16">
-  <meta name="description" content="Aplikasi PWA Al-Awaiq (العَـوَائِق) - Strategi, Polisi & Fiqh Perancangan Dakwah Harakah Islamiyah karya Syeikh Muhammad Ahmad Ar-Rasyid.">
+  <meta name="description" content="Aplikasi PWA Al-Raqaiq (الرَّقَـائِق) - Strategi, Polisi & Fiqh Perancangan Dakwah Harakah Islamiyah karya Syeikh Muhammad Ahmad Ar-Rasyid.">
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <title>Al-Raqaiq | Pelembut-pelembut Hati</title>
   
-  <link rel="icon" type="image/jpeg" href="./alraqaiq_islamic_icon.jpg">
-  <link rel="apple-touch-icon" href="./alraqaiq_islamic_icon.jpg">
+  <link rel="icon" type="image/jpeg" href="./icons/icon-192.png">
+  <link rel="apple-touch-icon" href="./icons/icon-192.png">
   <link rel="manifest" href="./manifest.json">
-  <link rel="stylesheet" href="./css/style.css?v=20261042_v23_opt">
+  <link rel="stylesheet" href="./css/style.css?v=20261029_alraqaiq_v1">
 
   <!-- Google Fonts: Premium Manuscript Typography -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -20,7 +20,7 @@
   <link href="https://fonts.googleapis.com/css2?family=Amiri:ital,wght@0,400;0,700;1,400&family=Outfit:wght@400;500;600;700;800&family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
 
   <style>
-    /* Curved Pill Button & Capsule Styles - Al-Awaiq Royal Sapphire Theme */
+    /* Curved Pill Button & Capsule Styles - Al-Raqaiq Royal Sapphire Theme */
     .hikmah-action-btn {
       border-radius: 9999px !important;
       padding: 10px 24px !important;
@@ -214,16 +214,16 @@
   <!-- ================= APP HEADER ================= -->
   <header class="app-header">
     <div class="brand-wrapper" id="brandHomeBtn">
-      <button class="icon-btn mobile-menu-btn" id="mobileMenuBtn" aria-label="Buka Menu Kandungan Al-Awaiq" title="Buka Menu Kandungan (20 Bab & Topik)">
+      <button class="icon-btn mobile-menu-btn" id="mobileMenuBtn" aria-label="Buka Menu Kandungan Al-Raqaiq" title="Buka Menu Kandungan (13 Bab & Subtopik)">
         <svg class="menu-icon-svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
           <line x1="3" y1="6" x2="21" y2="6"></line>
           <line x1="3" y1="12" x2="21" y2="12"></line>
           <line x1="3" y1="18" x2="21" y2="18"></line>
         </svg>
       </button>
-      <img src="./alraqaiq_islamic_icon.jpg" alt="Logo Al-Awaiq" class="brand-logo">
+      <img src="./icons/icon-192.png" alt="Logo Al-Raqaiq" class="brand-logo">
       <div class="brand-text">
-        <h1>AL-AWAIQ <span class="ar-badge">العَـوَائِق</span></h1>
+        <h1>AL-RAQĀ'IQ <span class="ar-badge">الرَّقَـائِق</span></h1>
         <div class="brand-subtitle">Pelembut-pelembut Hati Harakah Islamiyah</div>
       </div>
     </div>
@@ -265,7 +265,7 @@
       <div class="sidebar-hikmah-promo" id="sidebarHikmahBtn" role="button" tabindex="0" title="Buka Koleksi Mutiara Hikmah Dakwah">
         <div class="hikmah-promo-icon">💎</div>
         <div class="hikmah-promo-info">
-          <span class="hikmah-promo-title">227 Mutiara Kata</span>
+          <span class="hikmah-promo-title">20 Mutiara Kata Hikmah</span>
           <span class="hikmah-promo-sub">(Hadis Nabi SAW + Tokoh & Pejuang)</span>
         </div>
         <span class="hikmah-promo-badge">Rawak</span>
@@ -283,7 +283,7 @@
       <!-- Hero / Introduction Card -->
       <div class="hero-card" id="heroCard">
         <span class="hero-badge">— SIRI MENGHIDUPKAN FIQH DAKWAH —</span>
-        <h2 class="hero-title">AL-AWAIQ <span class="hero-ar-title">(العَـوَائِق)</span></h2>
+        <h2 class="hero-title">AL-RAQĀ'IQ <span class="hero-ar-title">(الرَّقَـائِق)</span></h2>
         <p class="hero-desc">
           Karya agung As-Syeikh Muhammad Ahmad Ar-Rasyid (رحمه الله) yang mengupas batu-batu penghalang, jerangkap nafsu, dan ranjau di sepanjang lebuh raya dakwah harakah Islamiyah serta menyuluhnya dengan 30 suluhan cahaya kebijaksanaan.
         </p>
@@ -380,7 +380,7 @@
         <div class="ch-modal-badge" id="chModalBadge">BAB 1</div>
         <button class="icon-btn ch-modal-close" id="btnCloseChModal" aria-label="Tutup">✕</button>
       </div>
-      <h3 class="ch-modal-title" id="chModalTitle">KELOMPOK SEHATI SEJIWA</h3>
+      <h3 class="ch-modal-title" id="chModalTitle">JIWA YANG BERIMAN</h3>
       <div class="ch-modal-arabic" id="chModalArabic">زُمْرَةُ القَلْبِ الوَاحِدِ</div>
       <p class="ch-modal-desc">Sila pilih mod bacaan yang anda inginkan untuk bab ini:</p>
       
@@ -417,10 +417,10 @@
   </div>
 
   <!-- Data Scripts (Offline Direct Access) -->
-  <script src="./data/alraqaiq_quotes.js?v=20261028_v24_cahaya_menu_clean"></script>
-  <script src="./data/alraqaiq_data.js?v=20261028_v24_cahaya_menu_clean"></script>
+  <script src="./data/alraqaiq_quotes.js?v=20261029_alraqaiq_v1"></script>
+  <script src="./data/alraqaiq_data.js?v=20261029_alraqaiq_v1"></script>
   <!-- Application Core Script -->
-  <script src="./js/app.js?v=20261028_v24_cahaya_menu_clean"></script>
+  <script src="./js/app.js?v=20261029_alraqaiq_v1"></script>
 
 </body>
 </html>
