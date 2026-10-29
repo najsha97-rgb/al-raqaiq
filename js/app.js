@@ -400,10 +400,10 @@ document.addEventListener('DOMContentLoaded', () => {
       
       const ringkasanLabelEl = btnChModeRingkasan.querySelector('.mode-label');
       if (ringkasanLabelEl) {
-        ringkasanLabelEl.textContent = 'Ringkasan Subtopik';
+        ringkasanLabelEl.textContent = 'Ringkasan Subtajuk';
       }
-      btnChModeRingkasan.title = `Buka Ringkasan & Fiqh Haraki: Subtopik ${state.currentSubtopic + 1}`;
-      btnChModeLengkap.title = `Buka Versi Penuh: Subtopik ${state.currentSubtopic + 1}`;
+      btnChModeRingkasan.title = `Buka Ringkasan & Fiqh Haraki: Subtajuk ${state.currentSubtopic + 1}`;
+      btnChModeLengkap.title = `Buka Versi Penuh: Subtajuk ${state.currentSubtopic + 1}`;
     }
 
     // Sync sidebar mode pills
@@ -425,7 +425,7 @@ document.addEventListener('DOMContentLoaded', () => {
     
     modeBadge.textContent = state.layer === 'layer1' 
       ? `Versi Lengkap (${sub.paragraphs ? sub.paragraphs.length : 0} Perenggan${subFnCount > 0 ? ` & ${subFnCount} Nota Kaki` : ''})` 
-      : `Ringkasan Subtopik ${subDisplayNumber}: ${shortBadgeSubTitle}`;
+      : `Ringkasan Subtajuk ${subDisplayNumber}: ${shortBadgeSubTitle}`;
 
     // Update bookmark status
     updateBookmarkBtnStatus();
@@ -745,11 +745,11 @@ document.addEventListener('DOMContentLoaded', () => {
               <div style="flex: 1;">
                 <div style="display: inline-flex; align-items: center; gap: 6px; margin-bottom: 5px;">
                   <span style="background: rgba(212, 175, 55, 0.18); color: var(--gold-light, #f5c542); font-size: 0.76rem; font-weight: 700; padding: 2px 8px; border-radius: 6px; letter-spacing: 0.5px; border: 1px solid rgba(212, 175, 55, 0.35);">
-                    ${ch.number ? ch.number.toUpperCase() : 'BAB'} • SUBTOPIK ${subDisplayNumber}
+                    ${ch.number ? ch.number.toUpperCase() : 'BAB'} • SUBTAJUK ${subDisplayNumber}
                   </span>
                 </div>
                 <h3 style="margin: 0; color: var(--gold-light, #f5c542); font-size: 1.2rem; font-family: 'Outfit', sans-serif; font-weight: 700; line-height: 1.4;">
-                  INTISARI &amp; FIQH HARAKI: SUBTOPIK ${subDisplayNumber} — ${displaySubTitle.toUpperCase()}
+                  INTISARI &amp; FIQH HARAKI: SUBTAJUK ${subDisplayNumber} — ${displaySubTitle.toUpperCase()}
                 </h3>
                 <small style="color: var(--sapphire-light, #7dd3fc); font-weight: 500; font-size: 0.86rem; display: block; margin-top: 5px;">
                   ${ch.number}: ${cleanChName} — Fiqh Tarbiah &amp; Radar Halangan Dakwah
@@ -842,7 +842,7 @@ document.addEventListener('DOMContentLoaded', () => {
           focusSearchMatch(0);
         }, 180);
       } else if (state.searchResults && state.searchResults.length > 0) {
-        // Kekalkan bar navigasi carian topik berbaki walaupun tiada padanan langsung dalam subtopik ini
+        // Kekalkan bar navigasi carian topik berbaki walaupun tiada padanan langsung dalam subtajuk ini
         showFloatingSearchToolbar(state.activeSearchQuery, 0);
       } else {
         removeFloatingSearchToolbar();
@@ -981,17 +981,17 @@ document.addEventListener('DOMContentLoaded', () => {
       <div class="sfb-badge">
         <span class="sfb-icon">🔍</span>
         <span class="sfb-text">"<span class="sfb-query" title="${query}">${query}</span>"</span>
-        <span class="sfb-count" id="sfbCount" title="Kedudukan baris dalam subtopik ini">${totalMatches > 0 ? `1/${totalMatches}` : `0/0`}</span>
+        <span class="sfb-count" id="sfbCount" title="Kedudukan baris dalam subtajuk ini">${totalMatches > 0 ? `1/${totalMatches}` : `0/0`}</span>
       </div>
       <div class="sfb-actions">
-        <button class="sfb-btn" id="sfbPrevBtn" title="Baris Sebelumnya Dalam Subtopik Ini" aria-label="Baris Sebelumnya" ${totalMatches <= 1 ? 'disabled' : ''}>▲</button>
-        <button class="sfb-btn" id="sfbNextBtn" title="Baris Seterusnya Dalam Subtopik Ini" aria-label="Baris Seterusnya" ${totalMatches <= 1 ? 'disabled' : ''}>▼</button>
+        <button class="sfb-btn" id="sfbPrevBtn" title="Baris Sebelumnya Dalam Subtajuk Ini" aria-label="Baris Sebelumnya" ${totalMatches <= 1 ? 'disabled' : ''}>▲</button>
+        <button class="sfb-btn" id="sfbNextBtn" title="Baris Seterusnya Dalam Subtajuk Ini" aria-label="Baris Seterusnya" ${totalMatches <= 1 ? 'disabled' : ''}>▼</button>
         
         ${hasMultiTopics ? `
           <div class="sfb-divider"></div>
           <button class="sfb-topic-btn" id="sfbTopicListBtn" title="Buka Semula Senarai Semua ${totalTopics} Hasil Carian">${topicLabel}</button>
-          <button class="sfb-btn" id="sfbPrevTopicBtn" title="Subtopik Hasil Carian Sebelumnya" aria-label="Subtopik Sebelumnya" ${curTopicIdx <= 0 ? 'disabled' : ''}>⏮</button>
-          <button class="sfb-btn" id="sfbNextTopicBtn" title="Subtopik Hasil Carian Seterusnya" aria-label="Subtopik Seterusnya" ${curTopicIdx >= totalTopics - 1 ? 'disabled' : ''}>⏭</button>
+          <button class="sfb-btn" id="sfbPrevTopicBtn" title="Subtajuk Hasil Carian Sebelumnya" aria-label="Subtajuk Sebelumnya" ${curTopicIdx <= 0 ? 'disabled' : ''}>⏮</button>
+          <button class="sfb-btn" id="sfbNextTopicBtn" title="Subtajuk Hasil Carian Seterusnya" aria-label="Subtajuk Seterusnya" ${curTopicIdx >= totalTopics - 1 ? 'disabled' : ''}>⏭</button>
         ` : ''}
 
         <div class="sfb-divider"></div>
@@ -1410,7 +1410,7 @@ document.addEventListener('DOMContentLoaded', () => {
           }
         }
 
-        // Semak tajuk subtopik jika belum jumpa dalam perenggan
+        // Semak tajuk subtajuk jika belum jumpa dalam perenggan
         if (!foundInParas && normalizeSearchText(sub.title).includes(normQuery)) {
           results.push({
             chIdx,
