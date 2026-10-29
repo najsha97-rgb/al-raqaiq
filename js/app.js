@@ -659,21 +659,50 @@ document.addEventListener('DOMContentLoaded', () => {
       const summaryBox = document.createElement('div');
       summaryBox.className = 'summary-container';
 
-      const summaryRaw = (sub && sub.summary && sub.summary.trim() !== '') 
+                  const summaryRaw = (sub && sub.summary && sub.summary.trim() !== '') 
         ? sub.summary 
         : (ch && ch.summary && ch.summary.trim() !== '' ? ch.summary : '');
 
       if (summaryRaw && summaryRaw.trim() !== '') {
-        // Convert markdown bold and italic
+        // Padamkan sebarang baki Halaman Asal atau rujukan muka surat secara mutlak
         let html = summaryRaw
-          .replace(/\*\*(.*?)\*\*/g, '<strong style="color: var(--gold-light);">$1</strong>')
-          .replace(/(?<!\*)\*(?!\*)(.*?)(?<!\*)\*(?!\*)/g, '<em>$1</em>');
+          .replace(/[ \t]*\|[ \t]*Halaman\s+Asal[ \t\d–—\-]+/gi, '')
+          .replace(/[ \t]*\(Halaman\s+Asal[ \t\d–—\-]+\)/gi, '')
+          .replace(/Halaman\s+Asal[ \t\d–—\-]+/gi, '')
+          .replace(/[ \t]*\(MS\s+[\d\s–—\-]+\)/gi, '');
 
-        // Convert subheaders
-        html = html.replace(/###\s*\*?\((.*?)\)\*?\s*\|\s*(Muka Surat.*?)$/gm, 
-          '<div style="font-size: 0.88rem; color: var(--sapphire-light); margin-bottom: 0.8rem;"><em>($1)</em> • <span style="color: var(--text-muted);">$2</span></div>');
-        html = html.replace(/^###\s*(.*?)$/gm, 
-          '<h4 style="color: var(--sapphire-light); margin-top: 1.2rem; margin-bottom: 0.4rem; font-size: 1.05rem;">$1</h4>');
+        const ARABIC_WORD_REGEX = /[\u0600-\u06FF\u0750-\u077F\u08A0-\u08FF\uFB50-\uFDFF\uFE70-\uFEFF]+(?:[ \t\u064B-\u0652]+[\u0600-\u06FF\u0750-\u077F\u08A0-\u08FF\uFB50-\uFDFF\uFE70-\uFEFF]+)*/g;
+
+        // Format subheaders bertanda ### *(Tajuk Transliterasi - Teks Arab)*
+        // Asingkan teks Arab supaya fon Amiri Gold, TEGAK (tidak condong/italic)
+        html = html.replace(/^###\s*\*?\((.*?)\)\*?\s*$/gm, function(match, inner) {
+          let cleanInner = inner.replace(/[ \t]*\|[ \t]*Halaman\s+Asal[ \t\d–—\-]+/gi, '');
+          let formattedInner = cleanInner.replace(ARABIC_WORD_REGEX, function(ar) {
+            return '<span class="arabic-text-amiri-gold" dir="rtl" style="font-family: \'Amiri\', serif !important; color: var(--gold-light, #fde047) !important; font-style: normal !important; font-weight: 700 !important; font-size: 1.25em !important; display: inline-block;">' + ar.trim() + '</span>';
+          });
+          return '<div class="summary-subheading-banner" style="font-size: 1.05rem; color: var(--emerald-light, #34d399); font-weight: 600; margin: 0.4rem 0 0.9rem 0;">(' + formattedInner + ')</div>';
+        });
+
+        html = html.replace(/^###\s*(.*?)$/gm, function(match, inner) {
+          let cleanInner = inner.replace(/[ \t]*\|[ \t]*Halaman\s+Asal[ \t\d–—\-]+/gi, '');
+          let formattedInner = cleanInner.replace(ARABIC_WORD_REGEX, function(ar) {
+            return '<span class="arabic-text-amiri-gold" dir="rtl" style="font-family: \'Amiri\', serif !important; color: var(--gold-light, #fde047) !important; font-style: normal !important; font-weight: 700 !important; font-size: 1.25em !important; display: inline-block;">' + ar.trim() + '</span>';
+          });
+          return '<h4 style="color: var(--gold-light, #fde047); margin-top: 1.2rem; margin-bottom: 0.4rem; font-size: 1.05rem; font-weight: 700;">' + formattedInner + '</h4>';
+        });
+
+        // Format bold
+        html = html.replace(/\*\*(.*?)\*\*/g, '<strong style="color: var(--gold-light);">$1</strong>');
+
+        // Format italic sambil melindungi teks Arab agar TIDAK menjadi condong
+        html = html.replace(/(?<!\*)\*(?!\*)(.*?)(?<!\*)\*(?!\*)/g, function(match, p1) {
+          if (/[\u0600-\u06FF]/.test(p1)) {
+            return p1.replace(ARABIC_WORD_REGEX, function(ar) {
+              return '<span class="arabic-text-amiri-gold" dir="rtl" style="font-family: \'Amiri\', serif !important; color: var(--gold-light, #fde047) !important; font-style: normal !important; font-weight: 700 !important;">' + ar.trim() + '</span>';
+            });
+          }
+          return '<em>' + p1 + '</em>';
+        });
 
         // Convert bullet list lines
         const lines = html.split('\n');
@@ -739,8 +768,8 @@ document.addEventListener('DOMContentLoaded', () => {
         const cleanChName = ch.title.replace(/^BAB\s+\d+:\s*/i, '').replace(/^MUKADIMAH:\s*/i, '').trim();
 
         summaryBox.innerHTML = `
-          <div class="summary-card" style="background: rgba(190, 18, 60, 0.08); border: 1px solid rgba(251, 113, 133, 0.25); border-radius: 14px; padding: 1.5rem; margin-bottom: 1.5rem; box-shadow: 0 4px 20px rgba(0,0,0,0.25);">
-            <div style="display: flex; align-items: flex-start; gap: 12px; margin-bottom: 1.15rem; border-bottom: 1px solid rgba(251, 113, 133, 0.2); padding-bottom: 0.95rem;">
+          <div class="summary-card" style="background: rgba(5, 46, 22, 0.35); border: 1px solid rgba(16, 185, 129, 0.3); border-left: 4px solid var(--gold-primary); border-radius: 14px; padding: 1.5rem; margin-bottom: 1.5rem; box-shadow: 0 4px 20px rgba(0,0,0,0.25);">
+            <div style="display: flex; align-items: flex-start; gap: 12px; margin-bottom: 1.15rem; border-bottom: 1px solid rgba(16, 185, 129, 0.25); padding-bottom: 0.95rem;">
               <span style="font-size: 1.8rem; line-height: 1.1;">⚡</span>
               <div style="flex: 1;">
                 <div style="display: inline-flex; align-items: center; gap: 6px; margin-bottom: 5px;">
@@ -751,8 +780,8 @@ document.addEventListener('DOMContentLoaded', () => {
                 <h3 style="margin: 0; color: var(--gold-light, #f5c542); font-size: 1.2rem; font-family: 'Outfit', sans-serif; font-weight: 700; line-height: 1.4;">
                   INTISARI &amp; FIQH HARAKI: SUBTAJUK ${subDisplayNumber} — ${displaySubTitle.toUpperCase()}
                 </h3>
-                <small style="color: var(--sapphire-light, #7dd3fc); font-weight: 500; font-size: 0.86rem; display: block; margin-top: 5px;">
-                  ${ch.number}: ${cleanChName} — Fiqh Tarbiah &amp; Radar Halangan Dakwah
+                <small style="color: var(--gold-light, #fde047); font-weight: 500; font-size: 0.86rem; display: block; margin-top: 5px;">
+                  ${ch.number}: ${cleanChName} — Fiqh Tarbiah &amp; Pemangkin Pelembut Jiwa
                 </small>
               </div>
             </div>
@@ -1863,27 +1892,17 @@ document.addEventListener('DOMContentLoaded', () => {
   // Helper to format text with proper Italic for Latin book titles, keeping Arabic upright
   function formatSmartItalicHtml(str) {
     if (!str) return '';
-    // Strip unwanted stray blockquote '>' after colons or linebreaks
     str = str.replace(/:\s*>\s*/g, ': ').replace(/\n>\s*/g, '\n');
-    // 1. Format Italic for Book Titles or Arabic terms inside *...*
     let out = str.replace(/\*(.*?)\*/g, (match, p1) => {
-      const arCount = (p1.match(/[\u0600-\u06FF]/g) || []).length;
-      const latinCount = (p1.match(/[a-zA-Z]/g) || []).length;
-      if (arCount > 0 && arCount >= latinCount) {
-        return `<span class="arabic-ref-title" dir="rtl">${p1}</span>`;
+      if (/[\u0600-\u06FF]/.test(p1)) {
+        return p1.replace(/([\u0600-\u06FF\u0750-\u077F\u08A0-\u08FF\uFB50-\uFDFF\uFE70-\uFEFF\s\u064B-\u0652]+)/g,
+          '<span class="arabic-text-amiri-gold" dir="rtl" style="font-family: \'Amiri\', serif !important; color: var(--gold-light, #fde047) !important; font-style: normal !important; font-weight: 700 !important; font-size: 1.15em !important; display: inline-block;">$1</span>');
       }
       return `<em>${p1}</em>`;
     });
-
-    // 2. Wrap Quranic Ayah in brackets ﴿...﴾ in golden Amiri khat
-    out = out.replace(/﴿([\u0600-\u06FF\s\.\,\؛\:\!«»\(\)\[\]\-\d]+)﴾/g, '<span class="arabic-inline quran-verse" dir="rtl">﴿$1﴾</span>');
-
-    // 3. Wrap Hadith in quotation brackets «...» containing Arabic in golden Amiri khat
-    out = out.replace(/«([\u0600-\u06FF\s\.\,\؛\:\!\(\)\[\]\-\d]+)»/g, '<span class="arabic-inline hadith-text" dir="rtl">«$1»</span>');
-
-    // 4. Wrap standalone Arabic phrases in parentheses (e.g. (الشرة)) in golden Amiri khat
-    out = out.replace(/\(([\u0600-\u06FF\s\.\,\؛\:\!]{2,})\)/g, '(<span class="arabic-inline" dir="rtl">$1</span>)');
-
+    out = out.replace(/﴿([\u0600-\u06FF\s\.\,\؛\:\!«»\(\)\[\]\-\d]+)﴾/g, '<span class="arabic-inline quran-verse arabic-text-amiri-gold" dir="rtl" style="font-family: \'Amiri\', serif !important; color: var(--gold-light, #fde047) !important; font-style: normal !important;">﴿$1﴾</span>');
+    out = out.replace(/«([\u0600-\u06FF\s\.\,\؛\:\!\(\)\[\]\-\d]+)»/g, '<span class="arabic-inline hadith-text arabic-text-amiri-gold" dir="rtl" style="font-family: \'Amiri\', serif !important; color: var(--gold-light, #fde047) !important; font-style: normal !important;">«$1»</span>');
+    out = out.replace(/\(([\u0600-\u06FF\s\.\,\؛\:\!]{2,})\)/g, '(<span class="arabic-inline arabic-text-amiri-gold" dir="rtl" style="font-family: \'Amiri\', serif !important; color: var(--gold-light, #fde047) !important; font-style: normal !important;">$1</span>)');
     return out;
   }
 

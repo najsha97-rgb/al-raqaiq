@@ -6,7 +6,7 @@
 ---
 
 ## 📌 MUKADIMAH: JIWA YANG BERIMAN
-### *(Al-Nafs al-Mu’minah - النَّفْسُ المُؤْمِنَةُ)* | Halaman Asal 7 – 14
+### *(Al-Nafs al-Mu’minah - النَّفْسُ المُؤْمِنَةُ)*
 
 * **Ringkasan Am Mukadimah:**
   Gerakan dakwah Islamiah berdiri di atas dua rukun utama: memilih pemuda yang berani dan cerdas, serta mentarbiah mereka dengan tarbiah yang mendalam, syumul dan kental. Syeikh al-Rasyid menegaskan bahawa bahaya terbesar sesebuah harakah adalah "kebankrapan kader" apabila tokoh-tokohnya lenyap seorang demi seorang tanpa pengganti yang setaraf. Jiwa yang beriman adalah benteng pertahanan terakhir; tanpa penyucian jiwa dan pelembut hati (*al-raqā'iq*), gerakan akan menjadi jasad kaku yang kehilangan roh perjuangan.
@@ -30,7 +30,7 @@
 ---
 
 ## 📌 BAB 1: TASBIH MENGUKUHKAN KEKUASAAN
-### *(Tasbīh Yasyuddu al-Mulk - تَسْبِيحٌ يَشُدُّ المُلْكَ)* | Halaman Asal 15 – 26
+### *(Tasbīh Yasyuddu al-Mulk - تَسْبِيحٌ يَشُدُّ المُلْكَ)*
 
 * **Ringkasan Am Bab 1:**
   Kekuasaan, kepimpinan, dan kemenangan haraki tidak akan teguh dengan kehebatan strategi semata-mata, sebaliknya berpaksi kukuh pada tasbih, istighfar, dan ketundukan sujud di hadapan Allah SWT. Meneladani Nabi Daud AS yang dianugerahkan kerajaan agung kerana sentiasa bertasbih dan bertahajud, aktivis dakwah diingatkan bahawa solat yang khusyuk dan rukuk yang panjang adalah sumber ketahanan empayar Islam.
@@ -49,7 +49,7 @@
 ---
 
 ## 📌 BAB 2: MINIT-MINIT YANG BERHARGA
-### *(Al-Daqā'iq al-Ghāliyah - الدَّقَائِقُ الغَالِيَةُ)* | Halaman Asal 27 – 37
+### *(Al-Daqā'iq al-Ghāliyah - الدَّقَائِقُ الغَالِيَةُ)*
 
 * **Ringkasan Am Bab 2:**
   Waktu sepertiga malam terakhir (waktu sahur) adalah "minit-minit emas" yang menjadi pemutus darjat di sisi Allah Taala. Kemenangan dakwah pada siang hari ditentukan oleh air mata munajat para pendakwah pada malam hari. Barang siapa yang gagal menakluk tilam tidurnya pada waktu malam, dia pasti tewas berhadapan dengan gelombang musuh pada siang hari.
@@ -65,7 +65,7 @@
 ---
 
 ## 📌 BAB 3: PERMULAAN
-### *(Al-Ibtidā' - الابْتِدَاءُ)* | Halaman Asal 39 – 48
+### *(Al-Ibtidā' - الابْتِدَاءُ)*
 
 * **Ringkasan Am Bab 3:**
   Langkah pertama menentukan ke mana arah pengakhiran. Kejernihan niat pada permulaan langkah (*tajarrud*) adalah syarat mutlak bagi menjamin keikhlasan yang berkekalan. Setiap langkah awal yang dicemari oleh tuntutan syahwat tersembunyi, cita-cita kedudukan, atau mencari pujian manusia akan berakhir dengan kegagalan, kekecewaan, dan kehancuran tarbiah.
@@ -84,7 +84,7 @@
 ---
 
 ## 📌 BAB 4: MENUJU KEGEMBIRAAN AKHIRAT
-### *(Naḥwa Afrāḥ al-Ākhirah - نَحْوَ أَفْرَاحِ الآخِرَةِ)* | Halaman Asal 49 – 62
+### *(Naḥwa Afrāḥ al-Ākhirah - نَحْوَ أَفْرَاحِ الآخِرَةِ)*
 
 * **Ringkasan Am Bab 4:**
   Perjalanan seorang daie adalah perjalanan merentas dunia yang fana menuju majlis-majlis kegembiraan abadi di syurga (*afrāḥ al-ākhirah*). Dunia ini bukanlah tempat berehat atau bersenang-lenang; martabat yang tinggi di akhirat hanya boleh ditebus dengan keletihan dan kelelahan yang berterusan di dunia.
@@ -108,7 +108,7 @@
 ---
 
 ## 📌 BAB 5: PERSAUDARAAN SYIAR DAKWAH KITA
-### *(Al-Ukhuwwah Syi'ār Da'watinā - الأُخُوَّةُ شِعَارُ دَعْوَتِنَا)* | Halaman Asal 63 – 82
+### *(Al-Ukhuwwah Syi'ār Da'watinā - الأُخُوَّةُ شِعَارُ دَعْوَتِنَا)*
 
 * **Ringkasan Am Bab 5:**
   Persaudaraan Islamiah (*ukhuwwah*) bukanlah sekadar slogan retorik atau kemesraan luaran, sebaliknya ia adalah tiang penegak tanzim dakwah yang berakar umbi pada ketakwaan. Syeikh al-Rasyid memperincikan etika pergaulan para kader serta amaran keras terhadap penyakit-penyakit majlis yang boleh meretakkan saf perjuangan.
@@ -135,7 +135,7 @@
 ---
 
 ## 📌 BAB 6: POHON-POHON KEIMANAN
-### *(Asyjār al-Īmān - أَشْجَارُ الإِيمَانِ)* | Halaman Asal 83 – 96
+### *(Asyjār al-Īmān - أَشْجَارُ الإِيمَانِ)*
 
 * **Ringkasan Am Bab 6:**
   Syeikh al-Rasyid membina metafora sastera yang amat memukau: mengibaratkan jiwa mukmin laksana sebuah rimba keimanan yang sarat dengan pohon-pohon yang rendang dan berbuah lebat. Sepuluh pohon keimanan dihuraikan secara artistik dan mendalam sebagai paksi keperibadian daie.
@@ -155,7 +155,7 @@
 ---
 
 ## 📌 BAB 7: KEPUNGAN ANGAN-ANGAN
-### *(Ḥiṣār al-Amal - حِصَارُ الأَمَلِ)* | Halaman Asal 97 – 112
+### *(Ḥiṣār al-Amal - حِصَارُ الأَمَلِ)*
 
 * **Ringkasan Am Bab 7:**
   Angan-angan panjang (*tūl al-amal*) adalah racun pembunuh yang melalaikan manusia daripada persiapan akhirat. Syeikh al-Rasyid melukiskan bagaimana angan-angan mengepung daie dengan ilusi masa depan duniawi, lalu mencadangkan penawarnya: menghidupkan ingatan terhadap mati dan merasai betapa hampirnya ajal.
@@ -177,7 +177,7 @@
 ---
 
 ## 📌 BAB 8: BUKIT-BUKIT KITA YANG KAKU
-### *(Tilālunā al-Hāmidah - تِلاَلُنَا الهَامِدَةُ)* | Halaman Asal 113 – 123
+### *(Tilālunā al-Hāmidah - تِلاَلُنَا الهَامِدَةُ)*
 
 * **Ringkasan Am Bab 8:**
   Menggambarkan kubur-kubur yang sunyi sepi ("bukit-bukit kita yang kaku") di mana jasad manusia terbujur kaku di bawah timbunan tanah debu. Melalui dialog penuh hikmah Abu al-Darda' RA, bab ini mengupas kepalsuan gelak tawa manusia yang lalai sedangkan maut sedang mengejar di belakangnya.
@@ -199,7 +199,7 @@
 ---
 
 ## 📌 BAB 9: SEKOLAH-SEKOLAH KEMATIAN
-### *(Madāris al-Mawt - مَدَارِسُ المَوْتِ)* | Halaman Asal 124 – 137
+### *(Madāris al-Mawt - مَدَارِسُ المَوْتِ)*
 
 * **Ringkasan Am Bab 9:**
   Mengembara menelusuri sejarah keemasan Islam untuk melihat bagaimana empat madrasah tarbiah agung (Kufah, Syam, Basrah, dan Baghdad) mendidik para rijal dengan zikir kematian sehingga mereka menjadi tokoh-tokoh pembimbing umat yang zuhud dan berani.
@@ -221,7 +221,7 @@
 ---
 
 ## 📌 BAB 10: JANGAN.. WAHAI BELENGGU-BELENGGU BUMI!
-### *(Lā.. Yā Quyūd al-Arḍ - لاَ.. يَا قُيُودَ الأَرْضِ)* | Halaman Asal 138 – 149
+### *(Lā.. Yā Quyūd al-Arḍ - لاَ.. يَا قُيُودَ الأَرْضِ)*
 
 * **Ringkasan Am Bab 10:**
   Bab ini merupakan jeritan pembebasan daripada "belenggu-belenggu bumi" (*quyūd al-arḍ*) — iaitu harta benda, kemewahan kediaman, jawatan berprestij, sanjungan keluarga, dan ketakutan kehilangan rezeki. Syeikh al-Rasyid menyeru para pemuda dakwah agar memutuskan belenggu ini sebelum ia mengikat leher mereka dan mengheret mereka ke lembah pengkhianatan haraki.
@@ -237,7 +237,7 @@
 ---
 
 ## 📌 BAB 11: HAMBA YANG MERDEKA
-### *(Al-'Abd al-Hurr - العَبْدُ الحُرُّ)* | Halaman Asal 150 – 162
+### *(Al-'Abd al-Hurr - العَبْدُ الحُرُّ)*
 
 * **Ringkasan Am Bab 11:**
   Paradoks agung dalam Islam: seseorang insan hanya akan mencapai kemerdekaan hakiki apabila dia menzahirkan penghambaan mutlak (*'ubudiyyah*) kepada Allah Taala semata-mata. Hamba yang merdeka adalah insan yang jiwanya bebas daripada tunduk kepada hawa nafsu dan kezaliman penguasa thaghut.
@@ -254,7 +254,7 @@
 ---
 
 ## 📌 BAB 12: KISAH-KISAH "HIBURAN" PARA DAIE
-### *(Qiṣaṣ min Lahw al-Du'āt - قِصَصٌ مِنْ لَهْوِ الدُّعَاةِ)* | Halaman Asal 163 – 175
+### *(Qiṣaṣ min Lahw al-Du'āt - قِصَصٌ مِنْ لَهْوِ الدُّعَاةِ)*
 
 * **Ringkasan Am Bab 12:**
   Bab kemuncak yang penuh dengan sentuhan estetika dan paradoks sastera dakwah: Syeikh al-Rasyid menggunakan istilah *"lahw"* (hiburan/keseronokan) secara ironi. "Hiburan" bagi seorang daie bukanlah bersenang-lenang atau membuang masa, tetapi "hiburan" mereka adalah berpenat-lelah menuntut ilmu, berhijrah, berjihad, meringkuk di penjara, dan syahid di jalan Allah!
@@ -290,7 +290,7 @@
 ---
 
 ## 📌 KHATIMAH: NANTIKANLAH KITAB «AL-BAWARIQ»
-### *(Wa Intazhir «al-Bawāriq» - وَانْتَظِرْ «البَوَارِقَ»)* | Halaman Asal 175
+### *(Wa Intazhir «al-Bawāriq» - وَانْتَظِرْ «البَوَارِقَ»)*
 
 * **Intisari Penutup Agung:**
   Syeikh Muhammad Ahmad al-Rasyid menutup mahakarya *al-Raqā'iq* ini dengan menjanjikan kemunculan siri seterusnya: **«Al-Bawāriq»** (Kilauan Pedang Perjuangan) — sebuah naskhah dokumentasi mengenai kehangatan semangat jihad (*al-hamāsah*), fiqh pengorbanan, kepahlawanan ulama, serta penggemblengan pemuda Islam untuk mencegah kemungkaran dan menumbangkan kezaliman golongan thaghut di muka bumi.

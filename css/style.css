@@ -3478,3 +3478,116 @@ textarea,
 [data-theme="light"] .summary-arabic-quote-box .arabic-text-amiri-gold {
   color: #8c6b00 !important;
 }
+
+
+/* ==========================================================================
+   AMIRI GOLD STANDARD - STRICT NON-ITALIC ARABIC TYPOGRAPHY
+   Penyelarasan Rasmi: Semua Teks Arab Berwarna Gold & Tidak Italic
+   ========================================================================== */
+
+:lang(ar),
+[dir="rtl"],
+.arabic-text,
+.ar-quote,
+.ar-badge,
+.ch-ar-title,
+.hero-ar-title,
+.arabic-inline,
+.arabic-text-amiri-gold,
+.summary-arabic-quote-box,
+.summary-arabic-quote-box * {
+  font-family: 'Amiri', 'Traditional Arabic', serif !important;
+  color: var(--gold-light, #fde047) !important;
+  font-style: normal !important;
+  text-decoration: none !important;
+}
+
+/* Memastikan tiada teks Arab di dalam em, i, atau blockquote menjadi condong (italic) */
+em:has(:lang(ar)),
+i:has(:lang(ar)),
+em [dir="rtl"],
+i [dir="rtl"],
+blockquote [dir="rtl"],
+.summary-subheading-banner span[dir="rtl"],
+.summary-subheading-banner .arabic-text-amiri-gold {
+  font-family: 'Amiri', serif !important;
+  color: var(--gold-light, #fde047) !important;
+  font-style: normal !important;
+  font-weight: 700 !important;
+  font-size: 1.15em !important;
+  display: inline-block !important;
+  line-height: 1.6 !important;
+}
+
+.summary-subheading-banner {
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  color: var(--emerald-light, #34d399) !important;
+}
+.summary-subheading-banner em {
+  font-style: normal !important;
+}
+
+[data-theme="light"] :lang(ar),
+[data-theme="light"] [dir="rtl"],
+[data-theme="light"] .arabic-text-amiri-gold {
+  color: #9a6800 !important;
+  font-style: normal !important;
+}
+
+
+/* ==========================================================================
+   STANDARD AMIRI GOLD MUTLAK - TIADA TEKS ARAB ITALIC / CONDONG
+   Semua teks Arab di seluruh sistem diwajibkan menggunakan font Amiri,
+   warna Gold, dan berkeadaan TEGAK (font-style: normal !important).
+   ========================================================================== */
+
+:lang(ar),
+[dir="rtl"],
+.arabic-text,
+.arabic-inline,
+.arabic-ref-title,
+.arabic-text-amiri-gold,
+.hero-ar-title,
+.ch-ar-title,
+.summary-arabic-quote-box,
+.summary-arabic-quote-box * {
+  font-family: 'Amiri', 'Traditional Arabic', serif !important;
+  color: var(--gold-light, #fde047) !important;
+  font-style: normal !important;
+  text-decoration: none !important;
+}
+
+/* Halang sebarang tag em atau i daripada mencenderungkan teks Arab */
+em :lang(ar),
+i :lang(ar),
+em [dir="rtl"],
+i [dir="rtl"],
+em .arabic-text-amiri-gold,
+i .arabic-text-amiri-gold,
+.summary-subheading-banner span[dir="rtl"],
+.summary-subheading-banner .arabic-text-amiri-gold {
+  font-family: 'Amiri', serif !important;
+  color: var(--gold-light, #fde047) !important;
+  font-style: normal !important;
+  font-weight: 700 !important;
+  font-size: 1.25em !important;
+  display: inline-block !important;
+  line-height: 1.6 !important;
+}
+
+.summary-subheading-banner {
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  color: var(--emerald-light, #34d399) !important;
+}
+
+.summary-subheading-banner em {
+  font-style: normal !important;
+}
+
+/* Mod Terang (Light Theme) */
+[data-theme="light"] :lang(ar),
+[data-theme="light"] [dir="rtl"],
+[data-theme="light"] .arabic-text-amiri-gold {
+  color: #b45309 !important;
+  font-style: normal !important;
+}
