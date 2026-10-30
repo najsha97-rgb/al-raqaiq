@@ -1146,7 +1146,7 @@ Tarbiah melalui Pengakuan (I'tiraf): kejujuran mengakui kelemahan diri di hadapa
 ---
 
 
-## 📌 BAB 10: JANGAN.. WAHAI BELENGGU-BELENGGU BUMI!
+## 📌 BAB 10: TIDAK.. WAHAI BELENGGU-BELENGGU BUMI!
 
 ---
 

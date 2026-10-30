@@ -220,7 +220,7 @@
 
 ---
 
-## 📌 BAB 10: JANGAN.. WAHAI BELENGGU-BELENGGU BUMI!
+## 📌 BAB 10: TIDAK.. WAHAI BELENGGU-BELENGGU BUMI!
 ### *(Lā.. Yā Quyūd al-Arḍ - لاَ.. يَا قُيُودَ الأَرْضِ)*
 
 * **Ringkasan Am Bab 10:**

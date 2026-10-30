@@ -87,7 +87,7 @@ BAB 9: SEKOLAH-SEKOLAH KEMATIAN (مدارس الموت) ........................
    • Tarbiah Melalui Pengakuan ..................................................... 80
    • Dan Selepas Itu... ............................................................ 81
 
-BAB 10: JANGAN.. WAHAI BELENGGU-BELENGGU BUMI! (لا.. يا قيود الأرض) ................. 83
+BAB 10: TIDAK.. WAHAI BELENGGU-BELENGGU BUMI! (لا.. يا قيود الأرض) ................. 83
    • Hakikat Belenggu Dunia dan Rayuannya .......................................... 83
    • Mengutamakan Akhirat daripada Harta dan Keselesaan ............................ 86
    • Dan Selepas Itu... ............................................................ 90
@@ -2533,7 +2533,7 @@ Nota Kaki:
 
 ---
 
-# BAB 10: JANGAN.. WAHAI BELENGGU-BELENGGU BUMI! (La.. Ya Quyud al-Ard)
+# BAB 10: TIDAK.. WAHAI BELENGGU-BELENGGU BUMI! (La.. Ya Quyud al-Ard)
 
 Sekiranya para pendakwah kepada Allah telah memahami jalan untuk membuat pembetulan (*istidrāk*), enggan tunduk kepada kerosakan yang semakin berleluasa, memberontak terhadap proses penjinakan jiwa, serta memulakan usaha-usaha peneguhan dan tarbiah bagi mereka yang memiliki fitrah yang sejahtera; sesungguhnya selain mereka pula hanya mampu meratapi realiti kaum muslimin sambil mengeluh dan mengaduh. Mereka tidak melangkah lebih daripada sekadar menzahirkan kesedihan, lalu berkurung di rumah atau di masjid masing-masing dalam keadaan diselubungi keputusasaan, meninggalkan para da'i Islam bersendirian di medan pertempuran, sambil menyangka bahawa dengan kesedihannya itu dia telah melepaskan tanggungjawabnya, bahkan barangkali menyangka bahawa dia telah meraih keutamaan dan darjat kepujian.
 

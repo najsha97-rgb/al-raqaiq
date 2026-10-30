@@ -1,5 +1,4 @@
-// Data Koleksi 117 Mutiara Kata Hikmah Al-Raqaiq (Dibersihkan & Diselaraskan)
-const ALRAQAIQ_QUOTES = [
+window.ALRAQAIQ_QUOTES = [
   {
     "id": 1,
     "number": 1,
@@ -1634,7 +1633,7 @@ const ALRAQAIQ_QUOTES = [
     "chapterIndex": 10,
     "chapter_id": 11,
     "chapterNumber": "BAB 10",
-    "chapterTitle": "JANGAN.. WAHAI BELENGGU-BELENGGU BUMI!",
+    "chapterTitle": "TIDAK.. WAHAI BELENGGU-BELENGGU BUMI!",
     "subtopicIndex": 0,
     "subtopicTitle": "Pengenalan & Permulaan Bab"
   },
@@ -1652,7 +1651,7 @@ const ALRAQAIQ_QUOTES = [
     "chapterIndex": 10,
     "chapter_id": 11,
     "chapterNumber": "BAB 10",
-    "chapterTitle": "JANGAN.. WAHAI BELENGGU-BELENGGU BUMI!",
+    "chapterTitle": "TIDAK.. WAHAI BELENGGU-BELENGGU BUMI!",
     "subtopicIndex": 0,
     "subtopicTitle": "Pengenalan & Permulaan Bab"
   },
@@ -1670,7 +1669,7 @@ const ALRAQAIQ_QUOTES = [
     "chapterIndex": 10,
     "chapter_id": 11,
     "chapterNumber": "BAB 10",
-    "chapterTitle": "JANGAN.. WAHAI BELENGGU-BELENGGU BUMI!",
+    "chapterTitle": "TIDAK.. WAHAI BELENGGU-BELENGGU BUMI!",
     "subtopicIndex": 0,
     "subtopicTitle": "Pengenalan & Permulaan Bab"
   },
@@ -1688,7 +1687,7 @@ const ALRAQAIQ_QUOTES = [
     "chapterIndex": 10,
     "chapter_id": 11,
     "chapterNumber": "BAB 10",
-    "chapterTitle": "JANGAN.. WAHAI BELENGGU-BELENGGU BUMI!",
+    "chapterTitle": "TIDAK.. WAHAI BELENGGU-BELENGGU BUMI!",
     "subtopicIndex": 0,
     "subtopicTitle": "Pengenalan & Permulaan Bab"
   },
@@ -1706,7 +1705,7 @@ const ALRAQAIQ_QUOTES = [
     "chapterIndex": 10,
     "chapter_id": 11,
     "chapterNumber": "BAB 10",
-    "chapterTitle": "JANGAN.. WAHAI BELENGGU-BELENGGU BUMI!",
+    "chapterTitle": "TIDAK.. WAHAI BELENGGU-BELENGGU BUMI!",
     "subtopicIndex": 0,
     "subtopicTitle": "Pengenalan & Permulaan Bab"
   },
@@ -1724,7 +1723,7 @@ const ALRAQAIQ_QUOTES = [
     "chapterIndex": 10,
     "chapter_id": 11,
     "chapterNumber": "BAB 10",
-    "chapterTitle": "JANGAN.. WAHAI BELENGGU-BELENGGU BUMI!",
+    "chapterTitle": "TIDAK.. WAHAI BELENGGU-BELENGGU BUMI!",
     "subtopicIndex": 0,
     "subtopicTitle": "Pengenalan & Permulaan Bab"
   },
@@ -1742,7 +1741,7 @@ const ALRAQAIQ_QUOTES = [
     "chapterIndex": 10,
     "chapter_id": 11,
     "chapterNumber": "BAB 10",
-    "chapterTitle": "JANGAN.. WAHAI BELENGGU-BELENGGU BUMI!",
+    "chapterTitle": "TIDAK.. WAHAI BELENGGU-BELENGGU BUMI!",
     "subtopicIndex": 0,
     "subtopicTitle": "Pengenalan & Permulaan Bab"
   },
@@ -1760,7 +1759,7 @@ const ALRAQAIQ_QUOTES = [
     "chapterIndex": 10,
     "chapter_id": 11,
     "chapterNumber": "BAB 10",
-    "chapterTitle": "JANGAN.. WAHAI BELENGGU-BELENGGU BUMI!",
+    "chapterTitle": "TIDAK.. WAHAI BELENGGU-BELENGGU BUMI!",
     "subtopicIndex": 0,
     "subtopicTitle": "Pengenalan & Permulaan Bab"
   },
@@ -1778,7 +1777,7 @@ const ALRAQAIQ_QUOTES = [
     "chapterIndex": 10,
     "chapter_id": 11,
     "chapterNumber": "BAB 10",
-    "chapterTitle": "JANGAN.. WAHAI BELENGGU-BELENGGU BUMI!",
+    "chapterTitle": "TIDAK.. WAHAI BELENGGU-BELENGGU BUMI!",
     "subtopicIndex": 0,
     "subtopicTitle": "Pengenalan & Permulaan Bab"
   },
@@ -2107,7 +2106,3 @@ const ALRAQAIQ_QUOTES = [
     "subtopicTitle": "Pengenalan & Permulaan Bab"
   }
 ];
-
-if (typeof module !== 'undefined' && module.exports) {
-  module.exports = ALRAQAIQ_QUOTES;
-}

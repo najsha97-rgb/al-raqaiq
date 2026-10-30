@@ -219,3 +219,10 @@ Telah ditetapkan bahawa terjemahan rasmi bagi judul-judul karya Syeikh Muhammad 
   * **Bab 5 Subtajuk 2:** *Persaudaraan Syiar Dakwah Kita* (menggantikan *(al-Ukhuwwah Syi'ār Da'watinā)*)
   * **Bab 6 Subtajuk 2:** *Pohon-Pohon Keimanan* (menggantikan *Asyjār al-Īmān*)
   * **Bab 7 Subtajuk 2:** *Kepungan Angan-Angan* (menggantikan *Hisār al-Amal*)
+
+
+---
+
+### 26. Penyelarasan Tajuk Bab 10: 'Tidak.. Wahai Belenggu-Belenggu Bumi!'
+* **Ketetapan Penyelarasan:** Judul Bab 10 daripada karya asal berbahasa Arab *Lā.. Yā Quyūd al-Arḍ (لا.. يا قيود الأرض)* diselaraskan terjemahannya kepada **"Tidak.. Wahai Belenggu-Belenggu Bumi!"** (menggantikan *Jangan.. Wahai Belenggu-Belenggu Bumi!*).
+* **Falsafah Ketetapan:** Kalimah *'Lā'* di sini melambangkan laungan penolakan mutlak dan keteguhan tekad seorang da'i dalam membebaskan diri daripada segala tarikan serta kekangan material duniawi demi meninggikan kalimah Allah.
