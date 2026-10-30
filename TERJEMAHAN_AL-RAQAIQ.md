@@ -99,9 +99,9 @@ BAB 11: HAMBA YANG MERDEKA (العبد الحر) ...............................
 
 BAB 12: KISAH-KISAH "HIBURAN" PARA DA'I (قصص من لهو الدعاة) ....................... 100
    • Kemuliaan dalam Kehidupan... ................................................. 100
-   • Berbicara Siang dan Malam .................................................... 101
-   • Berbicara Ketika Langkah-Langkah Hijrah ...................................... 101
-   • Berbicara di dalam Penjara ................................................... 102
+   • Berdakwah Siang dan Malam .................................................... 101
+   • Berdakwah Ketika Langkah-Langkah Hijrah ...................................... 101
+   • Berdakwah di dalam Penjara ................................................... 102
    • Petunjuk Menghalang Rasa Mengantuk ........................................... 102
    • Debu...! ..................................................................... 102
    • Kegemaran Mengangkat Beban yang Berat ........................................ 103
@@ -2992,9 +2992,9 @@ Dan pada saat yang lain pula, dalam menyibukkan fikiran dengan perancangan. Seki
 
 Segala itu telah diceritakan oleh lipatan sejarah, agar menjadi pengajaran kepada para da'i masa kini.
 
-• **Berbicara Siang dan Malam**
+• **Berdakwah Siang dan Malam**
 
-Golongan pertama yang mendahului kita ialah para anbiya' 'alaihimussalam. Lidah mereka sentiasa berbicara siang dan malam, secara terang-terangan mahupun rahsia.
+Golongan pertama yang mendahului kita ialah para anbiya' 'alaihimussalam. Lidah mereka sentiasa berdakwah siang dan malam, secara terang-terangan mahupun rahsia.
 
 Allah Taala berfirman menceritakan perihal Nabi Nuh 'alaihissalam:
 
@@ -3008,11 +3008,11 @@ Kemudian baginda berkata:
 
 *"Kemudian sesungguhnya aku menyeru mereka dengan terang-terang; Selain dari itu, aku mengumumkan kepada mereka (dengan suara yang kuat), dan aku bercakap-cakap dengan mereka secara berbisik-bisik."* (Surah Nuh: 8-9)
 
-• **Berbicara Ketika Langkah-Langkah Hijrah**
+• **Berdakwah Ketika Langkah-Langkah Hijrah**
 
 > *“Dan realitinya, seorang da'i itu apabila benar-benar jujur dalam dakwahnya, dia akan sentiasa disibukkan dengannya. Dia tidak berfikir melainkan tentangnya, tidak bergerak melainkan kerananya, dan tidak bakhil mengorbankan apa sahaja daripada usaha dan masanya demi dakwah tersebut; tiada sebarang kesibukan yang dapat melalaikannya daripada dakwah walau dalam saat-saat yang paling genting dan suasana yang paling sempit. Begitulah keadaan Rasul kita, Muhammad SAW; ketika baginda berhijrah ke Madinah bersama-sama Abu Bakar al-Siddiq RA, baginda bertemu di tengah perjalanannya dengan Buraidah bin al-Husaib al-Aslami dalam satu rombongan kaumnya di antara Makkah dan Madinah. Maka baginda menyeru mereka kepada Islam, lalu mereka pun memeluk Islam. Hal ini membuktikan bahawa baginda SAW tidak pernah lalai daripada berdakwah ke jalan Allah, sehinggakan ketika baginda sedang dalam perjalanan berhijrah ke Madinah sementara pihak musuh pula sedang giat memburu baginda.”* [1]
 
-• **Berbicara di dalam Penjara**
+• **Berdakwah di dalam Penjara**
 
 Nabi Yusuf 'alaihissalam, ketika baginda dimasukkan ke dalam penjara secara zalim, kesempitan dan kegelapan penjara tidak melalaikan baginda daripada kewajipan berdakwah ke jalan Allah. Baginda segera merebut peluang daripada pertanyaan dua orang penghuni penjara tentang tafsiran mimpi mereka berdua, lalu baginda berkata kepada mereka sebelum memberikan jawapan, sebagaimana yang dikhabarkan oleh Allah Taala kepada kita:
 

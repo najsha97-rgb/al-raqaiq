@@ -651,7 +651,7 @@
 
 ---
 
-### 2. subtajuk: *Berbicara Siang dan Malam (Nabi Nuh AS)*
+### 2. subtajuk: *Berdakwah Siang dan Malam (Nabi Nuh AS)*
 * **1. Diagnosis Halangan / Rawatan Jiwa:**  
   *Cepat Berputus Asa Tatkala Dakwah Ditolak* — Menyerah kalah selepas dua tiga kali mengajak kawan ke usrah lalu berhenti berdakwah.
 * **2. Modus Operandi & Gejala Penyelusupan:**  
@@ -663,7 +663,7 @@
 
 ---
 
-### 3. subtajuk: *Berbicara Ketika Langkah-Langkah Hijrah (Nabi SAW & Buraidah)*
+### 3. subtajuk: *Berdakwah Ketika Langkah-Langkah Hijrah (Nabi SAW & Buraidah)*
 * **1. Diagnosis Halangan / Rawatan Jiwa:**  
   *Meninggalkan Dakwah Tatkala Berada dalam Krisis Peribadi* — Menganggap tugas mengajak kepada Islam hanya boleh dibuat ketika keadaan aman dan senang.
 * **2. Modus Operandi & Gejala Penyelusupan:**  
@@ -675,7 +675,7 @@
 
 ---
 
-### 4. subtajuk: *Berbicara di dalam Penjara (Nabi Yusuf AS)*
+### 4. subtajuk: *Berdakwah di dalam Penjara (Nabi Yusuf AS)*
 * **1. Diagnosis Halangan / Rawatan Jiwa:**  
   *Terkurung Minda di Balik Tirai Besi* — Meratapi nasib di dalam penjara atau wad hospital tanpa melihat potensi dakwah di sekeliling.
 * **2. Modus Operandi & Gejala Penyelusupan:**  

@@ -262,11 +262,11 @@
 * **Intisari Subtajuk:**
   * **• Kemuliaan dalam Kehidupan...:**
     * Da'i hidup dengan kebebasan yang mematahkan belenggu syahwat dan harapan yang membakar keyakinan kemenangan.
-  * **• Berbicara Siang dan Malam:**
+  * **• Berdakwah Siang dan Malam:**
     * Meneladani Nabi Nuh AS yang berdakwah tanpa henti malam dan siang, rahsia mahupun terang-terangan.
-  * **• Berbicara Ketika Langkah-Langkah Hijrah:**
+  * **• Berdakwah Ketika Langkah-Langkah Hijrah:**
     * Nabi SAW tidak pernah lalai daripada berdakwah walau ketika diburu musuh dalam perjalanan hijrah (mengislamkan Buraidah al-Aslami).
-  * **• Berbicara di dalam Penjara:**
+  * **• Berdakwah di dalam Penjara:**
     * Nabi Yusuf AS segera merebut peluang mentauhidkan dua penghuni penjara sebelum mentafsirkan mimpi mereka.
   * **• Petunjuk Menghalang Rasa Mengantuk:**
     * Abu Bakar al-Siddiq RA tidak pernah lena sehingga bermimpi kerana memikul beban riddah dan kedaulatan negara Islam.
