@@ -5,6 +5,7 @@
 
 ---
 
+
 ## 📌 MUKADIMAH: JIWA YANG BERIMAN
 
 ---
@@ -47,8 +48,8 @@ Kesepaduan neraca tarbiah menyelamatkan da'i daripada ketempangan ekstremisme: m
 
 ### 💎 Mutiara 4: Penyair Ahmad al-Mukhtar al-Wazir
 
-> **«سَاكِنَةٌ ، فِي صَمْتِهَا ، أَبْيَنُ مِمَّنْ يَنْطِقُ ... وَإِنْ وَنَتْ وَقْفَتُهَا : أَعْجَلَهَا المُنْطَلَقُ
-> لَكِنَّهَا مُؤْمِنَةٌ ، هَيْهَاتَ ، لَا تَسْتَحْمِقُ ... بَيْنَ الضَّلَالِ وَالهُدَى : يَبْدُو لَهَا المُفْتَرَقُ»**
+> **«سَاكِنَةٌ ، فِي صَمْتِهَا ، أَبْيَنُ مِمَّنْ يَنْطِقُ ... وَإِنْ وَنَتْ وَقْفَتُهَا : أَعْجَلَهَا المُنْطَلَقُ<br>
+> **لَكِنَّهَا مُؤْمِنَةٌ ، هَيْهَاتَ ، لَا تَسْتَحْمِقُ ... بَيْنَ الضَّلَالِ وَالهُدَى : يَبْدُو لَهَا المُفْتَرَقُ»**
 
 **Terjemahan:**
 *“Ia tenang, dalam diamnya ia lebih fasih berbicara daripada mereka yang berkata-kata ... Dan sekiranya ia terhenti seketika, pecutan tekadnya segera memacunya ke hadapan. Namun ia jiwa yang beriman, mustahil diperbodohkan ... Antara kesesatan dan petunjuk, amat jelas baginya simpang pemisah.”*
@@ -106,6 +107,7 @@ Karakter asasi murabbi dan da'i rabbani ialah menumpukan tenaga membaiki kecacat
 
 ---
 
+
 ## 📌 BAB 1: TASBIH MENGUKUHKAN KEKUASAAN
 
 ---
@@ -136,8 +138,8 @@ Falsafah ruang haraki: masjid berfungsi menyucikan jiwa aktivis daripada pencema
 
 ### 💎 Mutiara 11: Penyair Yasin Khalil
 
-> **«يَمْشُونَ نَحْوَ بُيُوتِ اللهِ إِذْ سَمِعُوا ... ( اللهُ أَكْبَرُ ) فِي شَوْقٍ وَفِي جَذَلِ
-> هُمُ الرِّجَالُ فَلَا يُلْهِيهِمُ لَعِبٌ ... عَنِ الصَّلَاةِ ، وَلَا أُكْذُوبَةُ الكَسَلِ»**
+> **«يَمْشُونَ نَحْوَ بُيُوتِ اللهِ إِذْ سَمِعُوا ... ( اللهُ أَكْبَرُ ) فِي شَوْقٍ وَفِي جَذَلِ<br>
+> **هُمُ الرِّجَالُ فَلَا يُلْهِيهِمُ لَعِبٌ ... عَنِ الصَّلَاةِ ، وَلَا أُكْذُوبَةُ الكَسَلِ»**
 
 **Terjemahan:**
 *“Mereka melangkah menuju ke rumah-rumah Allah apabila mendengar seruan: (Allahu Akbar) dalam kerinduan dan kegembiraan. Merekalah rijal sejati yang tidak dilalaikan oleh sebarang permainan daripada mendirikan solat, dan tidak pula oleh pembohongan rasa malas.”*
@@ -149,8 +151,8 @@ Takrifan 'Rijal' dalam kamus harakah: kepahlawanan sejati bukan pada retorik di 
 
 ### 💎 Mutiara 12: Abdullah bin al-Mubarak rahimahullah
 
-> **«اغْتَنِمْ رَكْعَتَيْنِ زُلْفَى إِلَى اللهِ ... إِذَا كُنْتَ فَارِغاً مُسْتَرِيحَا
-> وَإِذَا هَمَمْتَ بِالنُّطْقِ بِالبَاطِلِ ... فَاجْعَلْ مَكَانَهُ تَسْبِيحَا»**
+> **«اغْتَنِمْ رَكْعَتَيْنِ زُلْفَى إِلَى اللهِ ... إِذَا كُنْتَ فَارِغاً مُسْتَرِيحَا<br>
+> **وَإِذَا هَمَمْتَ بِالنُّطْقِ بِالبَاطِلِ ... فَاجْعَلْ مَكَانَهُ تَسْبِيحَا»**
 
 **Terjemahan:**
 *“Rebutlah peluang dua rakaat untuk mendekatkan diri kepada Allah ... tatkala engkau sedang lapang dan berehat. Dan apabila engkau terdorong untuk menuturkan perkara yang batil ... maka gantikanlah tempatnya dengan tasbih.”*
@@ -220,6 +222,7 @@ Formula kemenangan siasah Islamiah: kekuasaan politik (syaddul mulk) tidak akan 
 
 ---
 
+
 ## 📌 BAB 2: MINIT-MINIT YANG BERHARGA
 
 ---
@@ -262,8 +265,8 @@ Hakikat izzah tauhid: ketundukan mutlak kepada Allah dalam sujud menghancurkan k
 
 ### 💎 Mutiara 21: Penyair Salih Hayawi rahimahullah
 
-> **«أَيَبْكِي الحَمَامُ عَلَى رَفْرَفٍ ... وَتَغْفُو عُيُونُكَ لَا تَدْمَعُ ؟!
-> وَتَسْبِقُكَ الطَّيْرُ أَوْقَاتَهَا ... وَتَأْوِي إِلَى اللَّهِ أَوْ تَسْجُدُ ؟!»**
+> **«أَيَبْكِي الحَمَامُ عَلَى رَفْرَفٍ ... وَتَغْفُو عُيُونُكَ لَا تَدْمَعُ ؟!<br>
+> **وَتَسْبِقُكَ الطَّيْرُ أَوْقَاتَهَا ... وَتَأْوِي إِلَى اللَّهِ أَوْ تَسْجُدُ ؟!»**
 
 **Terjemahan:**
 *“Adakah burung merpati merintih di atas dahan rimbun ... sedangkan matamu terlena tanpa menitiskan air mata?! Dan adakah burung-burung mendahuluimu pada waktu-waktunya ... lantas ia berlindung kepada Allah atau bersujud?!”*
@@ -299,8 +302,8 @@ Sumber cas bateri haraki: ketajaman lidah berbicara, keberanian di medan debat, 
 
 ### 💎 Mutiara 24: Imam Ibnu al-Qayyim rahimahullah
 
-> **«فِي اللَّيْلِ رُهْبَانٌ ، وَعِنْدَ جِهَادِهِمْ ... لِعَدُوِّهِمْ مِنْ أَشْجَعِ الأَبْطَالِ
-> بِوُجُوهِهِمْ أَثَرُ السُّجُودِ لِرَبِّهِمْ ... وَبِهَا أَشِعَّةُ نُورِهِ المُتَلَالِي»**
+> **«فِي اللَّيْلِ رُهْبَانٌ ، وَعِنْدَ جِهَادِهِمْ ... لِعَدُوِّهِمْ مِنْ أَشْجَعِ الأَبْطَالِ<br>
+> **بِوُجُوهِهِمْ أَثَرُ السُّجُودِ لِرَبِّهِمْ ... وَبِهَا أَشِعَّةُ نُورِهِ المُتَلَالِي»**
 
 **Terjemahan:**
 *“Pada waktu malam mereka ibarat rahib yang khusyuk, dan ketika berjihad menentang musuh mereka tergolong dalam kalangan perwira yang paling berani. Pada wajah mereka terserlah bekas sujud kepada Tuhan mereka, padanya terpancar sinar cahaya-Nya yang bergemerlapan.”*
@@ -312,8 +315,8 @@ Keseimbangan peribadi Sahabat: menggabungkan antara kelembutan hati ahli ibadah 
 
 ### 💎 Mutiara 25: Dr. Abdul Wahhab 'Azzam rahimahullah
 
-> **«قُلْتُ لِلَّيْلِ : كَمْ بِصَدْرِكَ سِرٌّ ... أَنْبِئْنِي مَا أَرْوَعُ الأَسْرَارِ ؟
-> قَالَ : مَا ضَاءَ فِي ظَلَامِي سِرٌّ ... كَدُمُوعِ المُنِيبِ فِي الأَسْحَارِ»**
+> **«قُلْتُ لِلَّيْلِ : كَمْ بِصَدْرِكَ سِرٌّ ... أَنْبِئْنِي مَا أَرْوَعُ الأَسْرَارِ ؟<br>
+> **قَالَ : مَا ضَاءَ فِي ظَلَامِي سِرٌّ ... كَدُمُوعِ المُنِيبِ فِي الأَسْحَارِ»**
 
 **Terjemahan:**
 *“Kukatakan kepada malam: Betapa banyak rahsia di dadamu, beritahulah daku apakah rahsia yang paling mempesonakan? Malam menjawab: Tiada rahsia yang menerangi kegelapanku persis dengan air mata orang yang bertaubat pada waktu sahur.”*
@@ -334,6 +337,7 @@ Minit-minit emas sahur: saat mustajab doa dan pembinaan ketahanan rohani. Air ma
 Penilaian semula nilai harta dan kuasa: aktivis yang mengejar kemenangan politik tanpa dua rakaat malam akan mudah terpesona dengan tawaran harta dan pangkat yang menghancurkan integriti dakwah.
 
 ---
+
 
 ## 📌 BAB 3: PERMULAAN
 
@@ -434,6 +438,7 @@ Objektif umur da'i: hidup di dunia hanya bernilai apabila didedikasikan untuk me
 Prinsip Baiah al-'Aqabah: langkah pertama penyertaan ke dalam saf dakwah mestilah 'langkah mengharungi kesukaran' (khathwah hawl), bersedia berkorban tanpa menuntut keuntungan kebendaan.
 
 ---
+
 
 ## 📌 BAB 4: MENUJU KEGEMBIRAAN AKHIRAT
 
@@ -559,6 +564,7 @@ Falsafah 'Hiburan Haraki': kenikmatan sejati bagi pejuang Islam bukan pada bersa
 
 ---
 
+
 ## 📌 BAB 5: PERSAUDARAAN SYIAR DAKWAH KITA
 
 ---
@@ -637,8 +643,8 @@ Realisme tarbiah: aktivis dakwah adalah manusia biasa yang tidak maksum. Menuntu
 
 ### 💎 Mutiara 51: Penyair Salih Hayawi rahimahullah
 
-> **«نُقَاسِمُ إِخْوَانَنَا فِي البَلَاءِ ... وَنُؤْثِرُهُمْ بِالرَّخَاءِ النَّضِيرِ
-> إِذَا اشْتَدَّ كَرْبُهُمُ سِرْتُ فِيهِ ... وَإِنْ هَادَنُوا كُنْتُ سَمْحَ الضَّمِيرِ»**
+> **«نُقَاسِمُ إِخْوَانَنَا فِي البَلَاءِ ... وَنُؤْثِرُهُمْ بِالرَّخَاءِ النَّضِيرِ<br>
+> **إِذَا اشْتَدَّ كَرْبُهُمُ سِرْتُ فِيهِ ... وَإِنْ هَادَنُوا كُنْتُ سَمْحَ الضَّمِيرِ»**
 
 **Terjemahan:**
 *“Kami berkongsi penderitaan bersama saudara-saudara kami tatkala bala menghempas ... dan kami mengutamakan mereka tatkala kelapangan yang indah menyapa. Apabila kesukaran mereka memuncak, aku mara bersama mereka ... dan apabila mereka berdamai, aku bersikap lapang dada.”*
@@ -683,6 +689,7 @@ Kerapuhan hidup bersendirian: aktivis dakwah yang mengasingkan diri daripada tan
 Peleburan asabiah kaum: ikatan harakah Islamiah meruntuhkan tembok perkauman, nasionalisme sempit, dan darjat keturunan demi menegakkan persaudaraan akidah sejagat.
 
 ---
+
 
 ## 📌 BAB 6: POHON-POHON KEIMANAN
 
@@ -796,13 +803,14 @@ Ketenangan batiniah pemimpin: kebergantungan kepada Allah melindungi hati da'i d
 
 ---
 
+
 ## 📌 BAB 7: KEPUNGAN ANGAN-ANGAN
 
 ---
 
 ### 💎 Mutiara 64: Saidina Abdullah bin Mas'ud RA
 
-> **«خَطَّ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ خَطّاً مُرَبَّعاً، وَخَطَّ خَطّاً فِي الوَسَطِ خَارِجاً مِنْهُ، وَخَطَّ خُطَطاً صِغَاراً... فَقَالَ: «هَذَا الإِنْسَانُ، وَهَذَا أَجَلُهُ قَدْ أَحَاطَ بِهِ، وَهَذَا الَّذِي هُوَ خَارِجٌ أَمَلُهُ، وَهَذِهِ الخُطَطُ الصِّغَارُ الأَعْرَاضُ».»**
+> **«خَطَّ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ خَطّاً مُرَبَّعاً، وَخَطَّ خَطّاً فِي الوَسَطِ خَارِجاً مِنْهُ، وَخَطَّ خُطَطاً صِغَاراً... فَقَالَ: (هَذَا الإِنْسَانُ، وَهَذَا أَجَلُهُ قَدْ أَحَاطَ بِهِ، وَهَذَا الَّذِي هُوَ خَارِجٌ أَمَلُهُ، وَهَذِهِ الخُطَطُ الصِّغَارُ الأَعْرَاضُ).»**
 
 **Terjemahan:**
 *“Nabi SAW pernah melakarkan satu garisan segi empat, dan melakarkan satu garisan di tengah-tengahnya yang menjulur keluar, serta melakarkan beberapa garisan kecil... lalu Baginda bersabda: ‘Ini adalah manusia, dan ini adalah ajalnya yang telah mengepungnya; manakala yang menjulur keluar ini adalah angan-angannya, dan garisan-garisan kecil ini adalah musibah dan rintangan yang menyergahnya.’”*
@@ -814,7 +822,7 @@ Pendidikan visual Nabawi: peringatan konkrit bahawa ajal telah mengepung da'i da
 
 ### 💎 Mutiara 65: Saidina Anas bin Malik RA
 
-> **«خَطَّ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ خُطُوطاً فَقَالَ: «هَذَا الأَمَلُ، وَهَذَا أَجَلُهُ، فَبَيْنَمَا هُوَ كَذَلِكَ إِذْ جَاءَهُ الخَطُّ الأَقْرَبُ».»**
+> **«خَطَّ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ خُطُوطاً فَقَالَ: (هَذَا الأَمَلُ، وَهَذَا أَجَلُهُ، فَبَيْنَمَا هُوَ كَذَلِكَ إِذْ جَاءَهُ الخَطُّ الأَقْرَبُ).»**
 
 **Terjemahan:**
 *“Nabi SAW telah melakarkan beberapa garisan seraya bersabda: ‘Ini adalah angan-angan, dan ini adalah ajalnya; tatkala dia sedang asyik dalam angan-angannya, tiba-tiba datanglah garisan maut yang lebih hampir meragutnya.’”*
@@ -874,8 +882,8 @@ Peranan da'i sebagai penegur peradaban: menentang gelombang pembaziran fizikal d
 
 ### 💎 Mutiara 70: Penyair A'sya Hamdan di Hadapan Umar bin Abdul Aziz
 
-> **«إِذَا لُفَّ فِي الأَكْفَانِ قَالُوا تَرَحَّلَا ... وَإِنْ حُمِلَتْ أَعْوَادُهُ قَالُوا يَا لَهَا!
-> فَمَا هِيَ إِلَّا نَقْلَةٌ عَنْ دِيَارِكُمْ ... إِلَى مَنْزِلٍ فِيهِ الحِسَابُ مُوَكَّلَا»**
+> **«إِذَا لُفَّ فِي الأَكْفَانِ قَالُوا تَرَحَّلَا ... وَإِنْ حُمِلَتْ أَعْوَادُهُ قَالُوا يَا لَهَا!<br>
+> **فَمَا هِيَ إِلَّا نَقْلَةٌ عَنْ دِيَارِكُمْ ... إِلَى مَنْزِلٍ فِيهِ الحِسَابُ مُوَكَّلَا»**
 
 **Terjemahan:**
 *“Maka apabila dia telah dibalut dengan kain kafan, mereka berkata: Berangkatlah dia! Dan apabila usungan kerandanya diangkat di atas bahu, mereka berkata: Aduhai alangkah dahsyatnya! Tiadalah ia melainkan suatu perpindahan daripada negeri kamu menuju ke satu kediaman yang padanya hisab telah ditugaskan.”*
@@ -909,13 +917,14 @@ Legasi dakwah abadi: bangunan dan empayar kebendaan pasti runtuh, namun institus
 
 ---
 
+
 ## 📌 BAB 8: BUKIT-BUKIT KITA YANG KAKU
 
 ---
 
 ### 💎 Mutiara 73: Hadis Nabawi Riwayat Imam al-Bukhari
 
-> **«إِذَا وُضِعَتِ الجَنَازَةُ فَاحْتَمَلَهَا الرِّجَالُ عَلَى أَعْنَاقِهِمْ، فَإِنْ كَانَتْ صَالِحَةً قَالَتْ: «قَدِّمُونِي! قَدِّمُونِي!»، وَإِنْ كَانَتْ غَيْرَ صَالِحَةٍ قَالَتْ: «يَا وَيْلَهَا! أَيْنَ يَذْهَبُونَ بِهَا؟!»»**
+> **«إِذَا وُضِعَتِ الجَنَازَةُ فَاحْتَمَلَهَا الرِّجَالُ عَلَى أَعْنَاقِهِمْ، فَإِنْ كَانَتْ صَالِحَةً قَالَتْ: (قَدِّمُونِي! قَدِّمُونِي!)، وَإِنْ كَانَتْ غَيْرَ صَالِحَةٍ قَالَتْ: (يَا وَيْلَهَا! أَيْنَ يَذْهَبُونَ بِهَا؟!)»**
 
 **Terjemahan:**
 *“Apabila jenazah telah diletakkan lalu diusung oleh orang-orang lelaki di atas bahu mereka; sekiranya ia jenazah yang soleh, ia akan berseru: ‘Segerakanlah aku! Segerakanlah aku!’ Dan sekiranya ia bukan jenazah yang soleh, ia akan menjerit: ‘Aduhai celakanya! Ke manakah mereka hendak membawanya?!’”*
@@ -987,8 +996,8 @@ Ancaman استدراج (istidraj): kelapangan rezeki dan kesenangan yang dinikma
 
 ### 💎 Mutiara 79: Syair Pemandi Jenazah Salafussoleh
 
-> **«يَا غَاسِلَ المَيْتِ هَلَّا قُلْتَ مَوْعِظَةً ... تُبْكِي العُيُونَ وَتَجْلُو ظُلْمَةَ الدَّرَكِ
-> أَيْنَ الرِّجَالُ وَأَيْنَ العِزُّ فِي دُوَلٍ ... صَارُوا جَمِيعاً رَمِيماً تَحْتَ مُعْتَرَكِ»**
+> **«يَا غَاسِلَ المَيْتِ هَلَّا قُلْتَ مَوْعِظَةً ... تُبْكِي العُيُونَ وَتَجْلُو ظُلْمَةَ الدَّرَكِ<br>
+> **أَيْنَ الرِّجَالُ وَأَيْنَ العِزُّ فِي دُوَلٍ ... صَارُوا جَمِيعاً رَمِيماً تَحْتَ مُعْتَرَكِ»**
 
 **Terjemahan:**
 *“Wahai orang yang memandikan mayat, tidakkah engkau menyampaikan suatu peringatan ... yang mengalirkan air mata dan melenyapkan kegelapan jurang kehinaan? Di manakah tokoh-tokoh perkasa dan di manakah kemuliaan dalam kerajaan-kerajaan dahulu ... mereka semuanya telah bertukar menjadi tulang-belulang reput di bawah kancah debu tanah!”*
@@ -1022,6 +1031,7 @@ Tasymer haraki (menyingsing lengan baju): menyegerakan pelan operasi dakwah tanp
 
 ---
 
+
 ## 📌 BAB 9: SEKOLAH-SEKOLAH KEMATIAN
 
 ---
@@ -1052,7 +1062,7 @@ Harga ketegasan amar makruf: menegakkan kebenaran syariat sering kali menyebabka
 
 ### 💎 Mutiara 84: Al-Rabi' bin Khutsaim rahimahullah
 
-> **«لَوْ فَارَقَ ذِكْرُ المَوْتِ قَلْبِي سَاعَةً وَاحِدَةً لَفَسَدَ عَلَيَّ؛ وَكَانَ قَدْ حَفَرَ قَبْراً فِي دَارِهِ يَنَامُ فِيهِ كُلَّ يَوْمٍ يَتْلُو: ﴿رَبِّ ارْجِعُونِ﴾ ثُمَّ يَقُولُ: «يَا رَبِيعُ، قَدْ أَرْجَعْنَاكَ فَاعْمَلْ!».»**
+> **«لَوْ فَارَقَ ذِكْرُ المَوْتِ قَلْبِي سَاعَةً وَاحِدَةً لَفَسَدَ عَلَيَّ؛ وَكَانَ قَدْ حَفَرَ قَبْراً فِي دَارِهِ يَنَامُ فِيهِ كُلَّ يَوْمٍ يَتْلُو: ﴿رَبِّ ارْجِعُونِ﴾ ثُمَّ يَقُولُ: (يَا رَبِيعُ، قَدْ أَرْجَعْنَاكَ فَاعْمَلْ!).»**
 
 **Terjemahan:**
 *“Sekiranya ingatan terhadap kematian berpisah daripada hatiku walau sesaat sahaja, nescaya akan rosaklah hatiku. Beliau pernah menggali sebuah liang kubur di dalam rumahnya dan tidur di dalamnya setiap hari sambil membaca ayat: (Wahai Tuhanku, kembalikanlah aku ke dunia), kemudian beliau berkata kepada dirinya: ‘Wahai Rabi', Kami telah mengembalikanmu ke dunia, maka beramallah!’”*
@@ -1124,8 +1134,8 @@ Kesederhanaan Madrasah Baghdad: zuhud haraki bukan kepura-puraan memakai pakaian
 
 ### 💎 Mutiara 90: Penyair Salaf Andalusia
 
-> **«إِلَى كَمْ ذَا التَّرَدُّدُ فِي المَعَاصِي ... وَكَمْ تَبْكِي وَتَأْمُلُ فِي الخَلَاصِ ؟!
-> تُسَوِّفُ بِالمَتَابِ وَأَنْتَ تَدْرِي ... بِأَنَّ المَوْتَ حَتْمٌ بِانْتِقَاصِ»**
+> **«إِلَى كَمْ ذَا التَّرَدُّدُ فِي المَعَاصِي ... وَكَمْ تَبْكِي وَتَأْمُلُ فِي الخَلَاصِ ؟!<br>
+> **تُسَوِّفُ بِالمَتَابِ وَأَنْتَ تَدْرِي ... بِأَنَّ المَوْتَ حَتْمٌ بِانْتِقَاصِ»**
 
 **Terjemahan:**
 *“Sampai bilakah engkau berbolak-balik dalam maksiat ... dan sampai bilakah engkau menangis mengharapkan keselamatan?! Engkau menangguh-nangguhkan taubat padahal engkau mengetahui ... bahawa kematian itu pasti tiba dengan menyusutkan umurmu.”*
@@ -1134,6 +1144,7 @@ Kesederhanaan Madrasah Baghdad: zuhud haraki bukan kepura-puraan memakai pakaian
 Tarbiah melalui Pengakuan (I'tiraf): kejujuran mengakui kelemahan diri di hadapan madrasah maut membersihkan jiwa kader daripada rasa ujub dan membuka pintu keampunan Ilahi.
 
 ---
+
 
 ## 📌 BAB 10: JANGAN.. WAHAI BELENGGU-BELENGGU BUMI!
 
@@ -1189,8 +1200,8 @@ Syarat kebangkitan umat: pembebasan tanah air daripada penjajahan bermula daripa
 
 ### 💎 Mutiara 95: Puisi Sang Helang dan Pemburu
 
-> **«قُلْتُ لِلصَّقْرِ وَهْوَ فِي الجَوِّ عَالِ : ... اهْبِطِ الأَرْضَ فَالهَوَاءُ جَدِيبُ
-> قَالَ لِي الصَّقْرُ : فِي جَنَاحِي وَعَزْمِي ... وَعِنَانِ السَّمَاءِ مَرْعًى خَصِيبُ»**
+> **«قُلْتُ لِلصَّقْرِ وَهْوَ فِي الجَوِّ عَالِ : ... اهْبِطِ الأَرْضَ فَالهَوَاءُ جَدِيبُ<br>
+> **قَالَ لِي الصَّقْرُ : فِي جَنَاحِي وَعَزْمِي ... وَعِنَانِ السَّمَاءِ مَرْعًى خَصِيبُ»**
 
 **Terjemahan:**
 *“Kukatakan kepada sang helang tatkala ia terbang tinggi melayang di angkasa: Turunlah ke bumi, kerana udara di atas sana kering tandus! Sang helang menjawab: Pada kedua-dua belah sayapku dan keazamanku, serta keluasan angkasa raya terbentang padang ragut yang amat subur!”*
@@ -1238,8 +1249,8 @@ Syarat mutlak kemenangan haraki: menegakkan daulah Islamiah menuntut perajurit y
 
 ### 💎 Mutiara 99: Penyair Walid al-A'zami rahimahullah
 
-> **«قَدْ نَهَضْنَا لِلْمَعَالِي وَمَضَى عَنَّا الجُمُودْ ... وَرَسَمْنَاهَا خُطًى لِلْعِزِّ وَالنَّصْرِ تَقُودْ
-> فَتَقَدَّمْ يَا أَخَا الإِسْلَامِ قَدْ سَارَ الجُنُودْ ... وَمَضَوْا لِلْمَجْدِ إِنَّ المَجْدَ بِالعَزْمِ يَعُودْ»**
+> **«قَدْ نَهَضْنَا لِلْمَعَالِي وَمَضَى عَنَّا الجُمُودْ ... وَرَسَمْنَاهَا خُطًى لِلْعِزِّ وَالنَّصْرِ تَقُودْ<br>
+> **فَتَقَدَّمْ يَا أَخَا الإِسْلَامِ قَدْ سَارَ الجُنُودْ ... وَمَضَوْا لِلْمَجْدِ إِنَّ المَجْدَ بِالعَزْمِ يَعُودْ»**
 
 **Terjemahan:**
 *“Sesungguhnya kami telah bangkit memburu kemuliaan dan lenyaplah kejumudan daripada kami ... dan kami telah lakarkannya sebagai langkah-langkah yang memimpin menuju izzah dan kemenangan. Maka maralah ke hadapan wahai saudaraku, tentera kebenaran telah bergerak ... mereka mara memburu kemuliaan, kerana kemuliaan itu hanya kembali dengan keazaman waja!”*
@@ -1248,6 +1259,7 @@ Syarat mutlak kemenangan haraki: menegakkan daulah Islamiah menuntut perajurit y
 Lagu kebangkitan kafilah dakwah: memecahkan kemurungan dan kelesuan para pemuda Islam dengan seruan optimisme haraki; meyakini bahawa fajar kemenangan Islam pasti menyingsing.
 
 ---
+
 
 ## 📌 BAB 11: HAMBA YANG MERDEKA
 
@@ -1349,6 +1361,7 @@ Slogan harakah berdaulat: melahirkan generasi rijal yang menolak ketuanan kuasa 
 
 ---
 
+
 ## 📌 BAB 12: KISAH-KISAH "HIBURAN" PARA DA'I
 
 ---
@@ -1415,7 +1428,7 @@ Tawaduk menuntut ilmu: keturunan bangsawan Rasulullah rela tidur di atas debu de
 
 ### 💎 Mutiara 113: Ishaq bin Mansur al-Kausaj rahimahullah
 
-> **«حَمَلَ جِرَابَهُ عَلَى ظَهْرِهِ رَاجِلاً مِنَ الرَّيِّ إِلَى بَغْدَادَ وَأَحْمَدَ فِي الحَبْسِ، فَلَمَّا خَرَجَ عَرَضَ عَلَيْهِ مَسَائِلَهُ؛ فَقَالَ أَحْمَدُ: «يَرْحَمُ اللَّهُ إِسْحَاقَ! مَا أَعْظَمَ حِرْصَهُ عَلَى العِلْمِ!».»**
+> **«حَمَلَ جِرَابَهُ عَلَى ظَهْرِهِ رَاجِلاً مِنَ الرَّيِّ إِلَى بَغْدَادَ وَأَحْمَدَ فِي الحَبْسِ، فَلَمَّا خَرَجَ عَرَضَ عَلَيْهِ مَسَائِلَهُ؛ فَقَالَ أَحْمَدُ: (يَرْحَمُ اللَّهُ إِسْحَاقَ! مَا أَعْظَمَ حِرْصَهُ عَلَى العِلْمِ!).»**
 
 **Terjemahan:**
 *“Beliau memikul uncang kitabnya di atas belakangnya dengan berjalan kaki meredah perjalanan beribu batu daripada kota Rayy menuju Baghdad tatkala Imam Ahmad di penjara; maka apabila Imam Ahmad dibebaskan, beliau membentangkan masalah-masalah ilmunya. Lalu Imam Ahmad berkata: ‘Semoga Allah merahmati Ishaq! Alangkah agungnya kegigihannya terhadap ilmu!’”*
