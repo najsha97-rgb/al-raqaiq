@@ -9,10 +9,10 @@
 ### *(Al-Nafs al-Mu’minah - النَّفْسُ المُؤْمِنَةُ)*
 
 * **Ringkasan Am Mukadimah:**
-  Gerakan dakwah Islamiah berdiri di atas dua rukun utama: memilih pemuda yang berani dan cerdas, serta mentarbiah mereka dengan tarbiah yang mendalam, syumul dan kental. Syeikh al-Rasyid menegaskan bahawa bahaya terbesar sesebuah harakah adalah "kebankrapan kader" apabila tokoh-tokohnya lenyap seorang demi seorang tanpa pengganti yang setaraf. Jiwa yang beriman adalah benteng pertahanan terakhir; tanpa penyucian jiwa dan pelembut hati (*al-raqā'iq*), gerakan akan menjadi jasad kaku yang kehilangan roh perjuangan.
+  Gerakan dakwah Islam berdiri di atas dua rukun utama: memilih pemuda yang berani dan cerdas, serta mentarbiah mereka dengan tarbiah yang mendalam, syumul dan kental. Syeikh al-Rasyid menegaskan bahawa bahaya terbesar sesebuah harakah adalah "kebankrapan kader" apabila tokoh-tokohnya lenyap seorang demi seorang tanpa pengganti yang setaraf. Jiwa yang beriman adalah benteng pertahanan terakhir; tanpa penyucian jiwa dan pelembut hati (*al-raqā'iq*), gerakan akan menjadi jasad kaku yang kehilangan roh perjuangan.
 
 * **Intisari Subtajuk:**
-  * **• Gerakan Islamiah Wajib Memiliki Firasat Meneliti Dirinya Sendiri:**
+  * **• Gerakan Islam Wajib Memiliki Firasat Meneliti Dirinya Sendiri:**
     * **Firasat Dalaman Mendahului Firasat Luaran:** Menuruti mutiara kata Samnun al-Muhibb, sesiapa yang celik meneliti aib dan kelemahan dirinya, firasatnya terhadap orang lain dan musuh akan menjadi tajam dan tepat.
     * **Keutamaan Amal (*Al-Mufadhalah*):** Mengelakkan tarbiah semberono; harakah mesti mendahulukan perkara yang paling mendesak mengikut tuntutan fasa perjuangan.
     * **Sepuluh Disiplin Asas Kader Rabbani:** 
@@ -111,7 +111,7 @@
 ### *(Al-Ukhuwwah Syi'ār Da'watinā - الأُخُوَّةُ شِعَارُ دَعْوَتِنَا)*
 
 * **Ringkasan Am Bab 5:**
-  Persaudaraan Islamiah (*ukhuwwah*) bukanlah sekadar slogan retorik atau kemesraan luaran, sebaliknya ia adalah tiang penegak tanzim dakwah yang berakar umbi pada ketakwaan. Syeikh al-Rasyid memperincikan etika pergaulan para kader serta amaran keras terhadap penyakit-penyakit majlis yang boleh meretakkan saf perjuangan.
+  Persaudaraan Islam (*ukhuwwah*) bukanlah sekadar slogan retorik atau kemesraan luaran, sebaliknya ia adalah tiang penegak tanzim dakwah yang berakar umbi pada ketakwaan. Syeikh al-Rasyid memperincikan etika pergaulan para kader serta amaran keras terhadap penyakit-penyakit majlis yang boleh meretakkan saf perjuangan.
 
 * **Intisari Subtajuk:**
   * **• Ketakwaan Terlebih Dahulu:**

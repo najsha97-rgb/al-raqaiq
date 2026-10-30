@@ -33,7 +33,7 @@ Dokumen ini memuatkan 10 peraturan dan piawaian penyelarasan bahasa, ejaan, isti
 
 ### 4. Akhiran Kata Pinjaman Arab: '-yah' Ditukar Kepada '-ah'
 * Perkataan ambilan bahasa Arab dengan ejaan lama berakhiran *-yah* hendaklah diselaraskan kepada **-ah**.
-* *Contoh:* `Islamiah`, `harakiah`, `tarbiah`, `kuliah`, `salafiah`.
+* *Contoh:* `Islam`, `harakiah`, `tarbiah`, `kuliah`, `salafiah`.
 * **Pengecualian:** Nama khas tokoh kekal dengan *-yah*, contohnya: `Ibnu Taimiyah`.
 
 ---

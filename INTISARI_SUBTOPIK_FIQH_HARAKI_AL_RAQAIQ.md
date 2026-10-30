@@ -15,9 +15,9 @@
 
 ---
 
-### • subtajuk: *Gerakan Islamiah Wajib Memiliki Firasat Meneliti Dirinya Sendiri (10 Disiplin Asas Kader Rabbani)*
+### • subtajuk: *Gerakan Islam Wajib Memiliki Firasat Meneliti Dirinya Sendiri (10 Disiplin Asas Kader Rabbani)*
 * **1. Diagnosis Halangan / Rawatan Jiwa (*Al-Ghaflah / Al-Raqīqah*):**  
-  *Bahaya Kebankrapan Kader & Tarbiah Semberono* — Ancaman paling dahsyat yang boleh meruntuhkan harakah Islamiah bukanlah kezaliman musuh dari luar, sebaliknya "kebankrapan kader" (*iflas al-kadar*) apabila tokoh-tokoh pembimbing pergi menghadap Ilahi tanpa ada barisan pelapis yang diacu dengan kualiti tarbiah yang setaraf.
+  *Bahaya Kebankrapan Kader & Tarbiah Semberono* — Ancaman paling dahsyat yang boleh meruntuhkan harakah Islam bukanlah kezaliman musuh dari luar, sebaliknya "kebankrapan kader" (*iflas al-kadar*) apabila tokoh-tokoh pembimbing pergi menghadap Ilahi tanpa ada barisan pelapis yang diacu dengan kualiti tarbiah yang setaraf.
 * **2. Modus Operandi & Gejala Penyelusupan:**  
   Gerakan mudah tergelincir apabila ghairah meluaskan keahlian secara kuantiti (angka) tanpa mempedulikan mutu rohani dan kedalaman kefahaman. Da'i mula mengabaikan muhasabah dalaman, bersikap leka dengan kejayaan teknikal, dan membiarkan bibit penyakit jiwa merayap tanpa dikesan seawal peringkat rebung.
 * **3. Implikasi Terhadap Saf Haraki:**  
@@ -194,7 +194,7 @@
 * **2. Modus Operandi & Gejala Penyelusupan:**  
   Mula berkompromi dengan prinsip syariat, merasa segan menzahirkan identiti Islam, dan meniru cara hidup serta budaya pemikiran barat.
 * **3. Implikasi Terhadap Saf Haraki:**  
-  Hakisan izzah Islamiah; tanzim mula mengikut telunjuk kuasa politik luar dan kehilangan identiti manhaj asalnya.
+  Hakisan izzah Islam; tanzim mula mengikut telunjuk kuasa politik luar dan kehilangan identiti manhaj asalnya.
 * **4. Preskripsi Penawar (*Fiqh as-Sulūk*) & Petunjuk Salaf:**  
   *Menghayati Firman Allah:*  
   *«Janganlah kamu merasa lemah dan janganlah kamu bersedih hati, padahal kamulah orang yang paling tinggi darjatnya jika kamu orang-orang yang beriman.»* (Ali Imran: 139). Mengingati bahawa iman di dalam dada bernilai lebih mahal daripada seluruh perbendaharaan raja-raja bumi.
@@ -236,7 +236,7 @@
 * **3. Implikasi Terhadap Saf Haraki:**  
   Kehilangan hala tuju strategik; harakah berpusing-pusing di tempat yang sama tanpa mencapai sebarang kemajuan riil ke arah matlamat agung.
 * **4. Preskripsi Penawar (*Fiqh as-Sulūk*) & Petunjuk Salaf:**  
-  Menetapkan kompas dakwah sentiasa terarah kepada: Menghambakan manusia kepada Rabbul Alamin, menegakkan khilafah Islamiah, dan membimbing dunia dengan nur Al-Quran.
+  Menetapkan kompas dakwah sentiasa terarah kepada: Menghambakan manusia kepada Rabbul Alamin, menegakkan khilafah Islam, dan membimbing dunia dengan nur Al-Quran.
 
 ---
 
@@ -421,7 +421,7 @@
 * **1. Diagnosis Halangan / Rawatan Jiwa:**  
   *Kematian Hati Umat Akibat Cintakan Dunia & Takutkan Mati (Penyakit Al-Wahan)* — Umat Islam menjadi buih di lautan kerana takut mati syahid.
 * **2. Modus Operandi & Gejala Penyelusupan:**  
-  Gerakan Islamiah mula dijangkiti kebimbangan terhadap ugutan musuh, lalu memadamkan seruan jihad dan melarang ahli daripada bersikap tegas membela kebenaran.
+  Gerakan Islam mula dijangkiti kebimbangan terhadap ugutan musuh, lalu memadamkan seruan jihad dan melarang ahli daripada bersikap tegas membela kebenaran.
 * **3. Implikasi Terhadap Saf Haraki:**  
   Hilangnya sifat kepahlawanan dalam tanzim; pemuda dakwah bertukar menjadi penakut dan pengecut.
 * **4. Preskripsi Penawar (*Fiqh as-Sulūk*) & Petunjuk Salaf:**  

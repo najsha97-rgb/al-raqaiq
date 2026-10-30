@@ -13,7 +13,7 @@ KANDUNGAN                                                                  MUKA 
 =====================================================================================
 
 MUKADIMAH: JIWA YANG BERIMAN (النفس المؤمنة) ........................................ 1
-   • Gerakan Islamiah Wajib Memiliki Firasat Meneliti Dirinya Sendiri ............... 1
+   • Gerakan Islam Wajib Memiliki Firasat Meneliti Dirinya Sendiri ............... 1
 
 BAB 1: TASBIH MENGUKUHKAN KEKUASAAN (تسبيح يشد الملك) ............................... 6
    • Sahutlah Seruan Nabimu SAW ..................................................... 9
@@ -118,7 +118,7 @@ BAB 12: KISAH-KISAH "HIBURAN" PARA DA'I (قصص من لهو الدعاة) ......
 
 # MUKADIMAH: JIWA YANG BERIMAN
 
-Memilih dan menghimpunkan unsur-unsur pemuda yang menyerlah dengan kecerdasan serta keberanian, kemudian mendidik mereka dengan tarbiah yang mendalam, syumul, dan kental: merupakan dua rukun asasi dalam perancangan gerakan Islamiah.
+Memilih dan menghimpunkan unsur-unsur pemuda yang menyerlah dengan kecerdasan serta keberanian, kemudian mendidik mereka dengan tarbiah yang mendalam, syumul, dan kental: merupakan dua rukun asasi dalam perancangan gerakan Islam.
 
 Sesungguhnya—sebagaimana yang diungkapkan oleh Abu al-Hasan al-Nadwi: 
 
@@ -126,11 +126,11 @@ Sesungguhnya—sebagaimana yang diungkapkan oleh Abu al-Hasan al-Nadwi:
 
 ---
 
-### Gerakan Islamiah Wajib Memiliki Firasat Meneliti Dirinya Sendiri
+### Gerakan Islam Wajib Memiliki Firasat Meneliti Dirinya Sendiri
 
 Namun tarbiah ini bukanlah diceduk secara semberono. Ciri paling khusus bagi tarbiah ini ialah ia menyahut seruan keperluan mengikut tahap fasa dan merawat realiti semasa. Pada setiap adab yang dibimbing oleh Islam terkandung kebaikan. Namun kemampuan insan yang berniat ikhlas tetap terbatas. Oleh itu, wajib menetapkan keutamaan (*al-mufadhalah*) antara bahagian-bahagian kebaikan ini; memulakan dengan perkara yang lebih afdal serta perkara yang dapat menampung keperluan fasa tersebut setelah mengenal pasti lompang kekurangannya.
 
-Hal itulah yang menuntut gerakan Islamiah masa kini—selepas fasa pengenalpastian tersebut—untuk meneliti dirinya sendiri dengan firasat yang berpengalaman dalam ruang tafakur yang mendalam; lalu menentukan kekurangannya dan menghitung aset kekuatannya. Semoga dengan itu, Allah SWT mengizinkan firasatnya terhadap masyarakat luar menepati sasaran, sekali gus memperkemas laluannya dalam kancah pertarungan yang sengit ini. Hal ini sama seperti yang diungkapkan oleh seorang ahli zuhud yang bijaksana, Samnun rahimahullah ketika ditanya tentang firasat dan hakikatnya, lalu beliau menjawab:
+Hal itulah yang menuntut gerakan Islam masa kini—selepas fasa pengenalpastian tersebut—untuk meneliti dirinya sendiri dengan firasat yang berpengalaman dalam ruang tafakur yang mendalam; lalu menentukan kekurangannya dan menghitung aset kekuatannya. Semoga dengan itu, Allah SWT mengizinkan firasatnya terhadap masyarakat luar menepati sasaran, sekali gus memperkemas laluannya dalam kancah pertarungan yang sengit ini. Hal ini sama seperti yang diungkapkan oleh seorang ahli zuhud yang bijaksana, Samnun rahimahullah ketika ditanya tentang firasat dan hakikatnya, lalu beliau menjawab:
 
 > *“Sesungguhnya sesiapa yang memiliki firasat meneliti dirinya lalu mengenali hakikat dirinya, nescaya firasatnya terhadap orang lain menjadi benar dan tepat.”* [2]
 
@@ -151,7 +151,7 @@ Berdasarkan pelbagai pertimbangan yang difahami oleh mereka yang merasai jerih p
 * Bersikap tegas memisahkan diri (*al-mufashalah*) daripada golongan yang kufur dan munafik.
 * Bersabar menempuh segala mehnah dan ujian.
 
-Sesiapa yang merealisasikan pengertian-pengertian ini, dialah kader yang kental yang wajar dijadikan sandaran dalam saf teras gerakan Islamiah.
+Sesiapa yang merealisasikan pengertian-pengertian ini, dialah kader yang kental yang wajar dijadikan sandaran dalam saf teras gerakan Islam.
 
 Fasal-fasal dalam kitab ini dikhususkan bagi menjelaskan sebahagian daripada pengertian tersebut serta mengingatkannya kembali; menerusi untaian nasihat yang melembutkan hati, membantu jiwa meneroka jalan yang benar, dan menemaninya ketika ia sedang melangkah di jalan itu. Sesungguhnya paksi segala pergerakan hidup ini berkait rapat dengan paksi jiwa yang sentiasa berbolak-balik antara ketakwaan dan kefasikan. Jika jiwa itu baik, ia memayungi tuannya dengan naungan redup yang mengurniakan ketenteraman, bahkan turut melimpahi orang lain seluas mana kebaikan itu terpancar. Sekiranya jiwa itu rosak, maka yang ada hanyalah kegelisahan dan neraka keresahan.
 
@@ -203,7 +203,7 @@ Dari sinilah wajibnya peringatan dan perlu adanya amaran, melalui ungkapan persi
 
 Ia merupakan cebisan sastera yang amat bernilai yang dinukilkan oleh penyair dan dihadiahkan kepada para belia, tetapi ia sebenarnya mengandungi hikmah bagi orang yang telah matang.
 
-Hal sedemikian tidaklah pelik mengikut timbangan hikmah Islamiah. Sesungguhnya hikmah Islamiah itu mengandungi kebenaran yang abadi; ia tidak melalui fasa evolusi yang muncul selepas zaman kejahilan dan keterbelakangan. Sebaliknya, sebagaimana ia relevan pada fasa penamat, ia juga relevan pada fasa pertengahan, bahkan telah terbukti relevan sejak permulaan kehidupan manusia lagi. Buktinya, tauhid telah diwahyukan kepada Nabi Adam AS pada awal penciptaan dan Baginda merupakan seorang nabi; manakala ketakwaan pula diilhamkan kepada Habil, lalu beliau menahan tangannya daripada membalas kejahatan.
+Hal sedemikian tidaklah pelik mengikut timbangan hikmah Islam. Sesungguhnya hikmah Islam itu mengandungi kebenaran yang abadi; ia tidak melalui fasa evolusi yang muncul selepas zaman kejahilan dan keterbelakangan. Sebaliknya, sebagaimana ia relevan pada fasa penamat, ia juga relevan pada fasa pertengahan, bahkan telah terbukti relevan sejak permulaan kehidupan manusia lagi. Buktinya, tauhid telah diwahyukan kepada Nabi Adam AS pada awal penciptaan dan Baginda merupakan seorang nabi; manakala ketakwaan pula diilhamkan kepada Habil, lalu beliau menahan tangannya daripada membalas kejahatan.
 
 Lihatlah kecerahan hati dan kehalusan perasaan dalam simbolik ini yang menyingkap tabiat jiwa yang suci murni. Sebaliknya, perhatikan pula betapa tebalnya tabir yang menyelubungi hati seorang penyair ateis yang menyeru kepada kehidupan kehaiwanan:
 
@@ -255,7 +255,7 @@ Di dalam kitab seperti inilah terkandung nasihat-nasihat pelembut hati, ketunduk
 
 Sebuah dakwah yang ingin tegak istiqamah menuju Allah SWT, sudah semestinya melangkah masuk menerusi pintu istiqamah; dan pintunya ialah mihrab.
 
-Oleh yang demikian, gerakan Islamiah pada setiap masa wajib memulakan gerak kerjanya dari masjid. Dari situlah akidah diperbaiki dan para pendakwahnya diajar adab muamalat Islamiah. Dengan itu, secara automatik gugurlah segala neraca perbezaan kedudukan yang lain; sama ada kehebatan gaya penulisan, kefasihan lidah berbicara, mahupun kilauan sijil kelulusan universiti.
+Oleh yang demikian, gerakan Islam pada setiap masa wajib memulakan gerak kerjanya dari masjid. Dari situlah akidah diperbaiki dan para pendakwahnya diajar adab muamalat Islam. Dengan itu, secara automatik gugurlah segala neraca perbezaan kedudukan yang lain; sama ada kehebatan gaya penulisan, kefasihan lidah berbicara, mahupun kilauan sijil kelulusan universiti.
 
 Sesungguhnya himpunan segala kebaikan terangkum dalam amalan melazimi masjid, dan bekalan simpanan dari masjid merupakan sebaik-baik bekal untuk memulakan langkah pecutan (*zad al-inthilaq*). Al-Hasan bin Ali bin Abi Thalib RA pernah menghitung faedahnya lalu beliau berkata:
 
@@ -440,7 +440,7 @@ Lalu Allah SWT mengurniakan kepadanya satu anugerah agung yang dirakamkan-Nya:
 وَشَدَدْنَا مُلْكَهُ
 > *“Dan Kami kukuhkan kerajaannya.”* [24]
 
-Mana-mana gerakan dakwah yang mendakwa dirinya membawa panji Islamiah, tidak akan dapat mengukuhkan kekuasaannya pada hari ini dan tidak akan beroleh kemenangan, selagi mana para anggotanya tidak bertasbih memuji Allah pada waktu petang dan pagi.
+Mana-mana gerakan dakwah yang mendakwa dirinya membawa panji Islam, tidak akan dapat mengukuhkan kekuasaannya pada hari ini dan tidak akan beroleh kemenangan, selagi mana para anggotanya tidak bertasbih memuji Allah pada waktu petang dan pagi.
 
 Sesungguhnya amalan saling berpesan untuk memelihara solat merupakan suatu kebaikan yang kita lakukan, yang melaluinya Allah SWT akan menambahkan lagi kebaikan bagi kita. Kita mestilah menjadikannya sebagai kalimah warisan yang kekal terpelihara pada generasi baharu selepas kita. Sekiranya kita tidak berbuat demikian, nescaya ikatan perpaduan dakwah ini akan terlerai—semoga Allah menjauhkannya—dengan suatu peleraian yang tiada lagi harapan untuk dipulihkan kembali.
 
@@ -570,7 +570,7 @@ Inilah pengalaman penyair Muhammad Iqbal yang diringkaskannya seraya berkata:
 *Perhimpunan manusia berseri-seri dengan cahayaku,*  
 *aku menyebarkan cahaya sedang diriku sendiri terbakar lebur.* [4]
 
-Gerakan dakwah Islamiah pada hari ini tidak akan mampu melonjak naik melainkan para pendakwahnya menyalakan obor mereka pada waktu malam; dan cahayanya tidak akan bersinar menyinari kegelapan jahiliah kurun kedua puluh ini selagi mana lidah mereka tidak basah berzikir dengan seruan: *(Ya Qayyum)*.
+Gerakan dakwah Islam pada hari ini tidak akan mampu melonjak naik melainkan para pendakwahnya menyalakan obor mereka pada waktu malam; dan cahayanya tidak akan bersinar menyinari kegelapan jahiliah kurun kedua puluh ini selagi mana lidah mereka tidak basah berzikir dengan seruan: *(Ya Qayyum)*.
 
 Kita tidak menuturkan perkara ini buat kali pertama, bahkan ia merupakan wasiat Imam Hasan al-Banna ketika berbicara kepada para pendakwah seraya berkata:
 
@@ -744,7 +744,7 @@ Mereka turut membimbing orang-orang berdosa yang tersilap langkah menuju ke jala
 # BAB 3: PERMULAAN
 ### (*Al-Ibtidā'*)
 
-Setiap orang yang mengamalkan gerak kerja tarbiah harakiah Islamiah sudah pasti memerhatikan fenomena kejatuhan dan pengunduran diri sebahagian individu. Anda melihat seorang pendakwah melangkah gagah bersama mereka yang melangkah di jalan dakwah, lalu anda menyangka bahawa dia akan tetap tsabat. Namun dia mengecewakan sangkaan anda di pertengahan jalan; sama ada kerana dirempuh rasa takut (*rahbah*) atau ditarik oleh rasa tamak (*raghbah*), ataupun tertawan oleh seruan nafsu dan runtunan syahwat. Akibatnya, dia terpedaya, lalu dikuasai oleh rasa megah, bangga diri, dan mengungkit-ungkit jasa; sehinggalah dia ditimpa kelesuan (*futur*).
+Setiap orang yang mengamalkan gerak kerja tarbiah harakiah Islam sudah pasti memerhatikan fenomena kejatuhan dan pengunduran diri sebahagian individu. Anda melihat seorang pendakwah melangkah gagah bersama mereka yang melangkah di jalan dakwah, lalu anda menyangka bahawa dia akan tetap tsabat. Namun dia mengecewakan sangkaan anda di pertengahan jalan; sama ada kerana dirempuh rasa takut (*rahbah*) atau ditarik oleh rasa tamak (*raghbah*), ataupun tertawan oleh seruan nafsu dan runtunan syahwat. Akibatnya, dia terpedaya, lalu dikuasai oleh rasa megah, bangga diri, dan mengungkit-ungkit jasa; sehinggalah dia ditimpa kelesuan (*futur*).
 
 Kadang-kadang sukar untuk mencari punca fenomena seumpama ini pada suatu ketika. Namun penelitian mendalam terhadap jiwa kita, serta penggalian faham tarbiah (*al-fiqh al-tarbawi*) dalam peninggalan para murabbi terdahulu: mula memperlihatkan kepada kita garis-garis tafsirannya. Sekiranya pedoman ini difahami dengan sebaik-baik penghayatan, nescaya padanya terkandung—dengan izin Allah SWT—keteguhan hati, serta kita dapat memelihara langkah kaki daripada tergelincir setelah teguh berpijak.
 
@@ -1070,9 +1070,9 @@ Sekiranya ada pihak yang membantah, kita bawakan kepadanya kata-kata Ibnu al-Qay
 
 Kita tidak mengingkari kepenatan yang terkandung pada erti harfiah daripada ucapan mereka yang mencela kerehatan. Sebaliknya, apa yang kita inginkan—sama seperti apa yang mereka inginkan—ialah meminimumkan kerehatan itu kepada kadar paling asas yang mencukupi untuk keperluan jasad, masing-masing mengikut tahap kesihatan dan keadaannya.
 
-Lebih-lebih lagi orang yang beriman pada zaman ini jauh lebih memerlukan kepekaan, rawatan hati, dan muhasabah diri berbanding keadaan umat Islam pada zaman-zaman yang lalu. Hal ini kerana mereka dahulu hidup di dalam persekitaran Islamiah yang didominasi oleh nilai-nilai keutamaan dan tradisi saling berpesan dengan kebenaran; manakala segala maksiat berusaha keras menyembunyikan dirinya daripada pandangan para ulama dan pedang pemerintah.
+Lebih-lebih lagi orang yang beriman pada zaman ini jauh lebih memerlukan kepekaan, rawatan hati, dan muhasabah diri berbanding keadaan umat Islam pada zaman-zaman yang lalu. Hal ini kerana mereka dahulu hidup di dalam persekitaran Islam yang didominasi oleh nilai-nilai keutamaan dan tradisi saling berpesan dengan kebenaran; manakala segala maksiat berusaha keras menyembunyikan dirinya daripada pandangan para ulama dan pedang pemerintah.
 
-Adapun sekarang, ketamadunan moden telah menjadikan kekufuran daripada segenap aliran dapat didengar dan dilihat melalui radio, televisyen, dan akhbar; serta meletakkan bisikan segala jenis syaitan begitu hampir dengan hati manusia. Dengan itu, bertambahlah risiko orang yang beriman terkesan tanpa disedari oleh apa yang didengar dan dilihat ini; apatah lagi dengan terangkatnya pelaksanaan hukum Islam daripada bumi Islamiah yang didiaminya. Maka wajib ke atasnya melakukan mujahadah dan mengawal masanya jauh lebih banyak daripada apa yang diwajibkan ke atas generasi salaf.
+Adapun sekarang, ketamadunan moden telah menjadikan kekufuran daripada segenap aliran dapat didengar dan dilihat melalui radio, televisyen, dan akhbar; serta meletakkan bisikan segala jenis syaitan begitu hampir dengan hati manusia. Dengan itu, bertambahlah risiko orang yang beriman terkesan tanpa disedari oleh apa yang didengar dan dilihat ini; apatah lagi dengan terangkatnya pelaksanaan hukum Islam daripada bumi Islam yang didiaminya. Maka wajib ke atasnya melakukan mujahadah dan mengawal masanya jauh lebih banyak daripada apa yang diwajibkan ke atas generasi salaf.
 
 Alangkah benarnya gambaran yang dilakarkan oleh ulama pembaharu Turki, Imam Badi'uzzaman Said al-Nursi rahimahullah terhadap hakikat ini ketika beliau berkata:
 
@@ -1180,9 +1180,9 @@ Demi Allah! Taklif itu bukanlah satu kegelapan, namun ia hanyalah bahasa kiasan 
 # BAB 5: PERSAUDARAAN SYIAR DAKWAH KITA
 ### *(al-Ukhuwwah Syi'ār Da'watinā)*
 
-Tasbih pada minit-minit waktu sahur yang amat berharga, serta pergaulan persaudaraan yang berpaksikan keimanan, merupakan dua tiang penegak yang saling bergandingan yang menjadi tunjang tertegaknya jemaah Islamiah, dan dua mata air yang memancarkan curahan kebaikan yang tidak pernah kering buat para da'i.
+Tasbih pada minit-minit waktu sahur yang amat berharga, serta pergaulan persaudaraan yang berpaksikan keimanan, merupakan dua tiang penegak yang saling bergandingan yang menjadi tunjang tertegaknya jemaah Islam, dan dua mata air yang memancarkan curahan kebaikan yang tidak pernah kering buat para da'i.
 
-( "Kedua-duanya merupakan dua tiang penegak yang menjadi tunjang tertegaknya jemaah Islamiah, serta sarana bagi jemaah tersebut menunaikan peranannya yang agung dan berat. Sekiranya salah satu daripadanya runtuh, maka tidak akan wujud lagi jemaah Islamiah, dan tiada lagi peranan yang mampu ditunaikannya." ) [1]
+( "Kedua-duanya merupakan dua tiang penegak yang menjadi tunjang tertegaknya jemaah Islam, serta sarana bagi jemaah tersebut menunaikan peranannya yang agung dan berat. Sekiranya salah satu daripadanya runtuh, maka tidak akan wujud lagi jemaah Islam, dan tiada lagi peranan yang mampu ditunaikannya." ) [1]
 
 • **Ketakwaan Terlebih Dahulu**
 
@@ -1198,7 +1198,7 @@ Bertakwalah kepada Allah sebagaimana Dia selayaknya ditakuti — iaitu suatu ser
 
 Kematian adalah perkara ghaib yang tidak diketahui oleh manusia bila ia akan menjemputnya. Oleh itu, sesiapa yang berhasrat agar tidak mati melainkan sebagai seorang Muslim, maka jalannya adalah dengan berada dalam keadaan berserah diri (*Islam*) sejak detik ini, dan kekal sebagai seorang Muslim pada setiap hembusan nafas. Penyebutan perkataan *Islam* selepas *takwa* memberi isyarat kepada maknanya yang luas: iaitu penyerahan diri secara mutlak kepada Allah, taat kepada-Nya, mengikut manhaj-Nya, dan berhukum dengan kitab-Nya — dan inilah makna yang ditegaskan oleh surah Ali 'Imran pada segenap bahagiannya." )
 
-( "Inilah tiang penegak pertama yang menjadi tunjang tertegaknya jemaah Islamiah bagi membuktikan kewujudannya dan melaksanakan peranannya. Hal ini kerana tanpa tiang penegak ini, setiap perhimpunan hanyalah merupakan perhimpunan jahiliah; tiada manhaj daripada Allah yang menjadi asas perhimpunan sesuatu umat, dan tiada pula kepimpinan yang berpandukan petunjuk di atas muka bumi, sebaliknya yang memimpin hanyalah kepimpinan jahiliah semata-mata." ) [2]
+( "Inilah tiang penegak pertama yang menjadi tunjang tertegaknya jemaah Islam bagi membuktikan kewujudannya dan melaksanakan peranannya. Hal ini kerana tanpa tiang penegak ini, setiap perhimpunan hanyalah merupakan perhimpunan jahiliah; tiada manhaj daripada Allah yang menjadi asas perhimpunan sesuatu umat, dan tiada pula kepimpinan yang berpandukan petunjuk di atas muka bumi, sebaliknya yang memimpin hanyalah kepimpinan jahiliah semata-mata." ) [2]
 
 ( "Pasti tidak dapat tidak, mesti ada keimanan kepada Allah untuk meletakkan neraca pertimbangan yang tepat bagi segala nilai, serta memberikan takrifan yang sahih tentang apa yang ma'ruf dan apa yang munkar. Hal ini kerana kesepakatan jemaah semata-mata tidak memadai; kerosakan kadangkala boleh bermaharajalela sehingga menggoncangkan neraca pertimbangan dan merosakkannya. Oleh sebab itu, mesti ada rujukan kepada suatu tasawur yang teguh dan tetap bagi kebaikan dan kejahatan, keutamaan dan kehinaan, serta yang ma'ruf dan yang munkar, yang bersandarkan kepada suatu paksi yang lain daripada kesepakatan manusia dalam mana-mana generasi." )
 
@@ -1230,9 +1230,9 @@ Oleh itu, ia merupakan persaudaraan yang memancar daripada ketakwaan dan penyera
 
 *Dan berpegang teguhlah kamu sekalian kepada tali Allah, dan janganlah kamu bercerai-berai...*
 
-Persaudaraan yang berpegang teguh dengan tali Allah ini merupakan suatu nikmat yang dilimpahkan oleh Allah kepada jemaah Islamiah yang pertama, dan ia adalah nikmat yang sentiasa dikurniakan oleh Allah kepada hamba-hamba yang dikasihi-Nya." ) [5]
+Persaudaraan yang berpegang teguh dengan tali Allah ini merupakan suatu nikmat yang dilimpahkan oleh Allah kepada jemaah Islam yang pertama, dan ia adalah nikmat yang sentiasa dikurniakan oleh Allah kepada hamba-hamba yang dikasihi-Nya." ) [5]
 
-( "Demikianlah jemaah Islamiah yang pertama tertegak di Madinah — berasaskan kedua-dua tiang penegak ini: berasaskan keimanan kepada Allah... iaitu keimanan yang memancar daripada makrifatullah SWT serta penghayatan terhadap sifat-sifat-Nya di dalam sanubari, daripada ketakwaan kepada-Nya dan muraqabah terhadap-Nya, serta kepekaan jiwa dan sensitiviti batin hingga ke tahap yang luar biasa yang tidak pernah disaksikan melainkan dalam keadaan yang amat jarang berlaku. Di samping itu, ia tertegak di atas landasan cinta: cinta yang melimpah-ruah dan murni, kasih sayang yang manis dan indah, serta solidariti (*takaful*) yang padu dan mendalam. Jemaah itu telah mencapai tahap yang begitu tinggi dalam semua perkara tersebut, sehinggakan jika bukan kerana peristiwa persaudaraan (*mu'akhah*) antara kaum Muhajirin dan Ansar itu benar-benar berlaku dalam realiti sejarah, nescaya ia akan dianggap sebagai igauan para pemimpi! Ia adalah kisah daripada alam kenyataan, namun tabiatnya persis dengan alam visi yang diimpikan! Ia adalah kisah yang berlaku di atas bumi ini, namun keindahannya bagaikan berasal daripada alam keabadian dan syurga!
+( "Demikianlah jemaah Islam yang pertama tertegak di Madinah — berasaskan kedua-dua tiang penegak ini: berasaskan keimanan kepada Allah... iaitu keimanan yang memancar daripada makrifatullah SWT serta penghayatan terhadap sifat-sifat-Nya di dalam sanubari, daripada ketakwaan kepada-Nya dan muraqabah terhadap-Nya, serta kepekaan jiwa dan sensitiviti batin hingga ke tahap yang luar biasa yang tidak pernah disaksikan melainkan dalam keadaan yang amat jarang berlaku. Di samping itu, ia tertegak di atas landasan cinta: cinta yang melimpah-ruah dan murni, kasih sayang yang manis dan indah, serta solidariti (*takaful*) yang padu dan mendalam. Jemaah itu telah mencapai tahap yang begitu tinggi dalam semua perkara tersebut, sehinggakan jika bukan kerana peristiwa persaudaraan (*mu'akhah*) antara kaum Muhajirin dan Ansar itu benar-benar berlaku dalam realiti sejarah, nescaya ia akan dianggap sebagai igauan para pemimpi! Ia adalah kisah daripada alam kenyataan, namun tabiatnya persis dengan alam visi yang diimpikan! Ia adalah kisah yang berlaku di atas bumi ini, namun keindahannya bagaikan berasal daripada alam keabadian dan syurga!
 
 Di atas asas keimanan seperti inilah, dan di atas persaudaraan yang sedemikian rupa, manhaj Allah akan tertegak di atas muka bumi pada setiap zaman." ) [6]
 
@@ -1274,7 +1274,7 @@ Oleh yang demikian, tiada amal yang lebih bernilai bagi seorang da'i Muslim pada
 
 • **Neraca Persahabatan**
 
-Demikianlah persaudaraan sesama da'i menjadi rukun yang terpenting dalam tarbiah kita selepas solat dan tasbih. Tiada satu bahagian pun daripada harakah Islamiah yang melepaskan dirinya terjun ke medan amal umum sebelum menyemai dan menghidupkan makna-makna persaudaraan yang berteraskan keimanan dalam kalangan anggotanya, melainkan ia pasti akan mengecap padah buruk daripada sikap sambil lewa dan kecuaiannya itu. Tiada pilihan lain bagi seorang da'i melainkan permulaan langkahnya mesti melalui jalan keimanan dan memanfaatkan minit-minit malam yang berharga; serta adab persaudaraan diterjemahkan dalam bentuk saling menasihati, saling membantu dan saling mengasihi yang menghimpunkan hati-hati. Adab ini mendidiknya bersikap santun dan menahan marah (*al-tahallum*) — jika belum mampu bersikap santun sepenuhnya (*al-hilm*) — ketika menghadapi kelambatan orang yang mencuaikan kewajipan serta memaafkan ketelanjuran orang yang mendesak; sama seperti ia mendidiknya memberi ganjaran, menepati janji dan berterima kasih ketika saudaranya bersegera mengambil inisiatif, serta bersikap tawaduk dan merendah diri.
+Demikianlah persaudaraan sesama da'i menjadi rukun yang terpenting dalam tarbiah kita selepas solat dan tasbih. Tiada satu bahagian pun daripada harakah Islam yang melepaskan dirinya terjun ke medan amal umum sebelum menyemai dan menghidupkan makna-makna persaudaraan yang berteraskan keimanan dalam kalangan anggotanya, melainkan ia pasti akan mengecap padah buruk daripada sikap sambil lewa dan kecuaiannya itu. Tiada pilihan lain bagi seorang da'i melainkan permulaan langkahnya mesti melalui jalan keimanan dan memanfaatkan minit-minit malam yang berharga; serta adab persaudaraan diterjemahkan dalam bentuk saling menasihati, saling membantu dan saling mengasihi yang menghimpunkan hati-hati. Adab ini mendidiknya bersikap santun dan menahan marah (*al-tahallum*) — jika belum mampu bersikap santun sepenuhnya (*al-hilm*) — ketika menghadapi kelambatan orang yang mencuaikan kewajipan serta memaafkan ketelanjuran orang yang mendesak; sama seperti ia mendidiknya memberi ganjaran, menepati janji dan berterima kasih ketika saudaranya bersegera mengambil inisiatif, serta bersikap tawaduk dan merendah diri.
 
 Imam al-Banna *rahimahullah* amat menyukai adab ini untuk para da'i, lalu beliau meletakkan manhaj baginya agar: ( "Mengangkat persaudaraan mereka daripada tahap percakapan dan teori semata-mata kepada tahap perbuatan dan amali." ) [11] Beliau — semoga Allah merahmati beliau — telah melihat persaudaraan generasi awal yang menyejukkan pandangan matanya ketika hayatnya, serta menjadi bukti hidup buat orang-orang yang mencintainya selepas ketiadaannya, agar mereka sentiasa berpegang dengan keindahan adab ini, dan segera kembali kepadanya apabila tersedar daripada kealpaan.
 
@@ -1413,7 +1413,7 @@ Apa yang mendukacitakan ialah kebimbangan Ibnu al-Qayyim ini telah bertukar menj
 
 Kalaulah tabiat berhias-hias dan membuang masa ini terhenti setakat hadnya sahaja, nescaya urusan kedua-duanya dapat diubati dengan sekadar dorongan kesedaran dan peringatan yang ringan. Akan tetapi, kesan kedua-dua penyakit ini menjangkau lebih jauh daripada itu; gabungan kedua-duanya melahirkan sifat sempit dada daripada memberi kemaafan, sedangkan penelitian yang mendalam terhadap kehidupan berjemaah mengisyaratkan kepada kemestian memiliki sifat toleransi dan fleksibel bagi sesiapa yang mengharunginya.
 
-Mungkin ada yang menyangka bahawa kata-kata seumpama ini lebih hampir kepada nasihat umum untuk orang awam berbanding perbahasan fiqh dakwah. Akan tetapi, sesiapa yang benar-benar memikul beban pengurusan kerja harian bagi dakwah Islamiah pasti menyedari kepentingannya; malah dia mengetahui betapa besarnya kemewahan yang sia-sia, bahkan bahaya yang tersembunyi pada diri orang yang meninggi diri daripada nasihat seumpama ini, lalu membisikkan seni perancangan dan kerja politik ke telinga orang-orang yang dada sebahagian mereka berasa sempit daripada menghayati makna-makna toleransi dan memaafkan orang yang tergelincir atau melakukan kesilapan. Tiada pilihan lain melainkan kesedaran amali bagi seorang da'i Muslim mesti digandingkan dengan tarbiah akhlak yang berteraskan keimanan; dan kedua-duanya wajib berjalan seiring secara serentak.
+Mungkin ada yang menyangka bahawa kata-kata seumpama ini lebih hampir kepada nasihat umum untuk orang awam berbanding perbahasan fiqh dakwah. Akan tetapi, sesiapa yang benar-benar memikul beban pengurusan kerja harian bagi dakwah Islam pasti menyedari kepentingannya; malah dia mengetahui betapa besarnya kemewahan yang sia-sia, bahkan bahaya yang tersembunyi pada diri orang yang meninggi diri daripada nasihat seumpama ini, lalu membisikkan seni perancangan dan kerja politik ke telinga orang-orang yang dada sebahagian mereka berasa sempit daripada menghayati makna-makna toleransi dan memaafkan orang yang tergelincir atau melakukan kesilapan. Tiada pilihan lain melainkan kesedaran amali bagi seorang da'i Muslim mesti digandingkan dengan tarbiah akhlak yang berteraskan keimanan; dan kedua-duanya wajib berjalan seiring secara serentak.
 
 Inilah punca utama mengapa para ulama terdahulu dan tokoh-tokoh kontemporari bersungguh-sungguh berpesan agar berlapang dada dan saling mengasihi dalam ikatan persaudaraan.
 
@@ -1729,7 +1729,7 @@ Kehidupan ini — dengan pelbagai sudut dimensinya dan rentetan perubahan masyar
 
 Tidak diragukan lagi bahawa melangkaui sekadar pemerhatian zahir, lalu memahami punca dan sebab di sebalik sesuatu urusan, merupakan kedudukan yang paling ideal yang memandu kepada keimanan yang paling sempurna dan mendalam. Pandangan inilah yang disangka oleh sebahagian orang sebagai percanggahan zahir; oleh sebab itu, akidah Islam datang untuk merungkai dan menjelaskan persoalan tersebut, agar orang yang binasa itu binasa di atas hujah yang nyata, dan orang yang hidup itu hidup di atas keterangan yang terang. Oleh sebab itu jugalah, pelbagai aliran falsafah cuba memahami faktor penggerak kehidupan; ada yang menghampiri kebenaran seperti pendekatan Socrates terhadap akidah tauhid, dan ada pula yang tersasar jauh seperti kebanyakan golongan pemikir yang lain.
 
-Melalui huraian para ulama yang menjelaskan kesempurnaan akidah Islamiah, atau melalui perbincangan para failasuf dalam usaha mereka mencapai tahap idealisme: perbahasan meluas mengenai persoalan takdir, antara paksaan (*jabr*) dengan pilihan (*ikhtiyar*), serta rahsia pergolakan jiwa antara ketakwaan dengan kefasatan. Begitu juga hikmah penciptaan syaitan dan campakannnya ke dalam jiwa manusia sehingga ia memilih kemudaratan yang nyata dan melakukan perkara yang tidak serasi dengan fitrah; serta kemenangan pendukung kejahatan pada sesetengah ketika di samping banyaknya kerosakan yang mereka lakukan dan kezaliman yang mereka timpakan ke atas manusia; dan banyaknya ujian mehnah yang dihadapi oleh pendukung kebaikan serta penolakan manusia terhadap mereka di sebalik besarnya pengorbanan dan manfaat yang mereka curahkan kepada masyarakat, dan seumpamanya.
+Melalui huraian para ulama yang menjelaskan kesempurnaan akidah Islam, atau melalui perbincangan para failasuf dalam usaha mereka mencapai tahap idealisme: perbahasan meluas mengenai persoalan takdir, antara paksaan (*jabr*) dengan pilihan (*ikhtiyar*), serta rahsia pergolakan jiwa antara ketakwaan dengan kefasatan. Begitu juga hikmah penciptaan syaitan dan campakannnya ke dalam jiwa manusia sehingga ia memilih kemudaratan yang nyata dan melakukan perkara yang tidak serasi dengan fitrah; serta kemenangan pendukung kejahatan pada sesetengah ketika di samping banyaknya kerosakan yang mereka lakukan dan kezaliman yang mereka timpakan ke atas manusia; dan banyaknya ujian mehnah yang dihadapi oleh pendukung kebaikan serta penolakan manusia terhadap mereka di sebalik besarnya pengorbanan dan manfaat yang mereka curahkan kepada masyarakat, dan seumpamanya.
 
 Akan tetapi, kehidupan hari ini telah diselubungi oleh kerumitan kebendaan dari segenap penjurunya; ia meninggalkan sebahagian besar umat Islam — persis dengan keadaan kebanyakan manusia — terhimpit di dalam kesibukan tuntutan hidup dan pelbagai hajat keperluan yang meragut masa lapang mereka daripada bertafakur secara tenang bagi menganalisis dan memahami hakikat kehidupan ini.
 
@@ -1737,7 +1737,7 @@ Oleh yang demikian, pandangan analitikal seumpama ini tidak lagi mampu dicapai o
 
 Daripada sinilah, kepantasan pertembungan kita pada masa kini dengan pelbagai bentuk kekufuran baharu menuntut kita bersegera mencari perlindungan kepada kesederhanaan pandangan yang berpijak pada realiti; demi membekalkan kekuatan kepada Muslim yang sedang berdiri di barisan hadapan pertembungan ini dengan keyakinan dan keberanian. Keyakinan inilah yang mendorongnya meredah lorong-lorong pengorbanan yang diwajibkan ke atas dirinya untuk memimpin sekelian alam — sama ada secara umat mahupun individu — melalui seruan amar ma'ruf dan nahi munkar, sebagai pembimbing dan pembaik pulih bagi mereka.
 
-Gerakan Islamiah tidak akan menemui suatu sudut pandang yang bebas daripada sebarang kesesatan melainkan apabila ia menatap hakikat kehidupan daripada suatu panorama yang menyeluruh lagi ringkas; sama seperti ia memandang kepada hakikat kematian — iaitu suatu hakikat yang tidak memerlukan sebarang dalil pembuktian dan analisis falsafah, yang sentiasa melaungkan peringatan kepada manusia pada setiap pagi dan petang.
+Gerakan Islam tidak akan menemui suatu sudut pandang yang bebas daripada sebarang kesesatan melainkan apabila ia menatap hakikat kehidupan daripada suatu panorama yang menyeluruh lagi ringkas; sama seperti ia memandang kepada hakikat kematian — iaitu suatu hakikat yang tidak memerlukan sebarang dalil pembuktian dan analisis falsafah, yang sentiasa melaungkan peringatan kepada manusia pada setiap pagi dan petang.
 
 • **Keagungan Perkara yang Disaksikan: Dalil Perkara Ghaib**
 
@@ -1751,11 +1751,11 @@ Kesemua ini membuktikan kesempurnaan akidah Islam yang mempelbagaikan seruannya 
 
 Realiti yang kita mahu manfaatkan pada hari ini tidak lain melainkan apa yang telah disediakan oleh akidah kita sejak zaman-berzaman; iaitu ketika ia memperincikan peringatan tentang kematian, dan memperingatkan melalui Kitab-Nya tentang saat sakaratulmaut yang pasti akan menimpa setiap jiwa, walau ke mana pun jiwa itu cuba mengelak dan melarikan diri daripadanya.
 
-Oleh sebab itulah, pelan tindakan tarbiah harakah Islamiah wajib meletakkan peringatan tentang kematian sebagai salah satu asas pentingnya; membimbing setiap da'i agar dapat menyentuh secara dekat hakikatnya dan kerendahan dunia ini, lalu bangkit mencerahkan langkah pengorbanannya serta membersihkan diri daripada belenggu kebendaan yang cuba membenamkan setiap orang yang terpedaya dengannya ke perut bumi.
+Oleh sebab itulah, pelan tindakan tarbiah harakah Islam wajib meletakkan peringatan tentang kematian sebagai salah satu asas pentingnya; membimbing setiap da'i agar dapat menyentuh secara dekat hakikatnya dan kerendahan dunia ini, lalu bangkit mencerahkan langkah pengorbanannya serta membersihkan diri daripada belenggu kebendaan yang cuba membenamkan setiap orang yang terpedaya dengannya ke perut bumi.
 
 • **Lukisan daripada Seni Kesenian Islam**
 
-Sekiranya para panglima perang menghimpunkan bala tentera mereka sebelum pertempuran lalu membentuk bulatan di sekeliling mereka demi melakarkan pelan kepungan musuh di atas tanah; sesungguhnya para pemimpin gerakan Islamiah lebih utama untuk melakarkan pelan kepungan ajal terhadap angan-angan palsu di hadapan halaqah-halaqah para da'i. Mereka memperingatkan para da'i dengan pelan ini persis sebagaimana yang pernah dilakarkan oleh Nabi SAW pada suatu hari untuk para sahabat baginda di atas tanah Madinah, sehingga terbukalah kota-kota agung buat mereka tatkala mereka memahami garisan-garisan tersebut.
+Sekiranya para panglima perang menghimpunkan bala tentera mereka sebelum pertempuran lalu membentuk bulatan di sekeliling mereka demi melakarkan pelan kepungan musuh di atas tanah; sesungguhnya para pemimpin gerakan Islam lebih utama untuk melakarkan pelan kepungan ajal terhadap angan-angan palsu di hadapan halaqah-halaqah para da'i. Mereka memperingatkan para da'i dengan pelan ini persis sebagaimana yang pernah dilakarkan oleh Nabi SAW pada suatu hari untuk para sahabat baginda di atas tanah Madinah, sehingga terbukalah kota-kota agung buat mereka tatkala mereka memahami garisan-garisan tersebut.
 
 Antara sahabat yang hadir pada hari itu ialah Abdullah bin Mas'ud RA; beliau menggambarkan detik tersebut seraya berkata:
 
@@ -1918,7 +1918,7 @@ Maka mencurahlah air mata Umar bin Abdul Aziz bercampur dengan suara esak tangis
 
 • **Kembali kepada Kematangan Fikiran**
 
-Sekiranya hari ini kita menyaksikan pemergian demi pemergian para kekasih dan perpisahan dengan generasi awal pelopor yang tawaduk yang mengasaskan gerakan Islamiah kontemporari: wajarlah kita menangisi pemergian mereka bersama ancaman limpahan harta kemewahan — sama seperti tangisan Abu al-Darda' atau tangisan Salman al-Farisi RA dalam riwayat yang lain, kerana bimbang dan berasa asing tatkala kehilangan mereka. Namun begitu, gerakan dakwah yang menelusuri jejak langkah Nabi Muhammad SAW tidak wajar membiarkan tangisan kita menjatuhkan kita ke lembah keluh-kesah yang melumpuhkan tekad; sebaliknya tiada pilihan bagi kita — dengan bermulanya fasa baharu yang menuntut gerakan kita mengisi kekosongan akibat kegagalan fahaman nasionalisme dan komunisme yang melampau — melainkan meningkatkan tahap kesedaran tarbiah. Kita membisikkan nasihat-nasihat Umar ini ke telinga setiap da'i, agar jiwa mudanya kembali bersemangat, berani mara dan berwawasan akhirat; kerana sesungguhnya langkah kita telah terlalu lama berlegar dalam kesia-siaan, dan kecenderungan bersenang-senang telah berpanjangan seolah-olah dia telah terpedaya:
+Sekiranya hari ini kita menyaksikan pemergian demi pemergian para kekasih dan perpisahan dengan generasi awal pelopor yang tawaduk yang mengasaskan gerakan Islam kontemporari: wajarlah kita menangisi pemergian mereka bersama ancaman limpahan harta kemewahan — sama seperti tangisan Abu al-Darda' atau tangisan Salman al-Farisi RA dalam riwayat yang lain, kerana bimbang dan berasa asing tatkala kehilangan mereka. Namun begitu, gerakan dakwah yang menelusuri jejak langkah Nabi Muhammad SAW tidak wajar membiarkan tangisan kita menjatuhkan kita ke lembah keluh-kesah yang melumpuhkan tekad; sebaliknya tiada pilihan bagi kita — dengan bermulanya fasa baharu yang menuntut gerakan kita mengisi kekosongan akibat kegagalan fahaman nasionalisme dan komunisme yang melampau — melainkan meningkatkan tahap kesedaran tarbiah. Kita membisikkan nasihat-nasihat Umar ini ke telinga setiap da'i, agar jiwa mudanya kembali bersemangat, berani mara dan berwawasan akhirat; kerana sesungguhnya langkah kita telah terlalu lama berlegar dalam kesia-siaan, dan kecenderungan bersenang-senang telah berpanjangan seolah-olah dia telah terpedaya:
 
 **وَكَأَنَّ بِالدَّاعِ قَدْ يَبْكِي عَلَيْهِ أَقْرَبُوْهْ**  
 *Seolah-olah penyeru maut telah tiba, kerabat terdekat menangisinya,*  
@@ -2849,7 +2849,7 @@ Pemisahan ini pada hakikatnya adalah kesinambungan daripada pemisahan prinsip (*
 
 Sesungguhnya:
 
-> *“Islam adalah pergerakan yang mengiringi pengucapan dua kalimah syahadah; iaitu tindakan melepaskan diri (*al-inkhilā'*) daripada masyarakat jahiliah, tasawurnya, nilai-nilainya, kepimpinannya, kekuasaannya, dan undang-undangnya; serta memberikan kesetiaan kepada kepimpinan dakwah Islamiah dan jemaah Islam yang ingin menegakkan Islam di alam kenyataan.”*
+> *“Islam adalah pergerakan yang mengiringi pengucapan dua kalimah syahadah; iaitu tindakan melepaskan diri (*al-inkhilā'*) daripada masyarakat jahiliah, tasawurnya, nilai-nilainya, kepimpinannya, kekuasaannya, dan undang-undangnya; serta memberikan kesetiaan kepada kepimpinan dakwah Islam dan jemaah Islam yang ingin menegakkan Islam di alam kenyataan.”*
 
 Tatkala keistimewaan pemisahan ini terserlah dalam bentuk yang lebih jelas di Madinah, masyarakat Islam menjadi mercu tanda yang bercahaya di padang pasir tersebut; menjadi tempat berlindung bagi mereka yang kebingungan dan ragu-ragu, serta sesiapa yang jiwanya bergolak dalam pertarungan antara iman dengan kekufuran warisan.
 
@@ -2865,7 +2865,7 @@ Beliau telah menggunakan perkataan *al-hajr* (meninggalkan/memulaukan) bagi menu
 
 Hal ini bererti bahawa unsur kemunafikan dan dorongan mengikut hawa nafsu, setiap kali ia bertambah di dalam masyarakat, maka semakin bertambahlah keperluan kepada jenis pemisahan kedua ini secara berkadar terus. Tujuannya adalah agar kebatilan itu kekal sebagai kebatilan yang ditunjuk dengan jari tuduhan; dan agar peredaran zaman tidak mengubahnya menjadi suatu kebenaran palsu dalam minda orang-orang yang tidak celik, lalu kepalsuannya diterima dan manusia melupakan kebengkokannya, serta agar jiwa-jiwa tidak menganggapnya biasa apabila masa telah berlalu panjang.
 
-Oleh yang demikian, dakwah Islamiah pada hari ini — dalam menghadapi pertambahan kemunafikan, kefasikan, dan pengikut hawa nafsu di dalam masyarakat masa kini — tidak dapat tidak mesti menegakkan pemisahan ini dan penzahiran perbezaan prinsip ini secara jelas dan terang-terangan. Ini penting agar gambaran Islam itu kekal cemerlang dan nyata pada gilirannya; dapat dilihat oleh sesiapa yang ingin memerhatikannya dalam kalangan mereka yang disuntik semangatnya oleh kata-kata para da'i untuk meneroka dimensi gambaran ini, mencarinya, dan menatap teladan praktikalnya.
+Oleh yang demikian, dakwah Islam pada hari ini — dalam menghadapi pertambahan kemunafikan, kefasikan, dan pengikut hawa nafsu di dalam masyarakat masa kini — tidak dapat tidak mesti menegakkan pemisahan ini dan penzahiran perbezaan prinsip ini secara jelas dan terang-terangan. Ini penting agar gambaran Islam itu kekal cemerlang dan nyata pada gilirannya; dapat dilihat oleh sesiapa yang ingin memerhatikannya dalam kalangan mereka yang disuntik semangatnya oleh kata-kata para da'i untuk meneroka dimensi gambaran ini, mencarinya, dan menatap teladan praktikalnya.
 
 Hakikatnya, sekalipun para da'i pada kurun ini ketiadaan gambaran pemerintahan Islam yang layak dijadikan contoh bagi pelaksanaan Islam, namun contoh teladan ini boleh terjelma pada beberapa orang individu dalam kalangan para pendakwah. Di dalam diri merekalah terserlah makna-makna Islam yang hakiki; mereka meraih sebahagian daripada kewibawaannya, dan mencapai puncak ketinggian dalam keimanan, *tajarrud* (keikhlasan total), serta pelaksanaan Sunnah Nabawiyyah yang mulia.
 

@@ -48,7 +48,7 @@ Kesepaduan neraca tarbiah menyelamatkan da'i daripada ketempangan ekstremisme: m
 
 ### 💎 Mutiara 4: Penyair Ahmad al-Mukhtar al-Wazir
 
-> **«سَاكِنَةٌ ، فِي صَمْتِهَا ، أَبْيَنُ مِمَّنْ يَنْطِقُ ... وَإِنْ وَنَتْ وَقْفَتُهَا : أَعْجَلَهَا المُنْطَلَقُ<br>
+> **«سَاكِنَةٌ ، فِي صَمْتِهَا ، أَبْيَنُ مِمَّنْ يَنْطِقُ ... وَإِنْ وَنَتْ وَقْفَتُهَا : أَعْجَلَهَا المُنْطَلَقُ**<br>
 > **لَكِنَّهَا مُؤْمِنَةٌ ، هَيْهَاتَ ، لَا تَسْتَحْمِقُ ... بَيْنَ الضَّلَالِ وَالهُدَى : يَبْدُو لَهَا المُفْتَرَقُ»**
 
 **Terjemahan:**
@@ -88,10 +88,10 @@ Hujah balasan akal dan rohani terhadap nihilisme: jasad mungkin hancur dimakan t
 > **«إِنَّ الحِكْمَةَ الإِسْلَامِيَّةَ تَحْتَوِي عَلَى الحَقِيقَةِ الأَبَدِيَّةِ؛ لَا تَمُرُّ بِأَطْوَارِ النُّشُوءِ الَّتِي تَعْقُبُ الجَهَالَةَ، بَلْ هِيَ صَالِحَةٌ لِلْبَدْءِ كَصَلَاحِهَا لِلْخَتْمِ.»**
 
 **Terjemahan:**
-*“Sesungguhnya hikmah Islamiah itu mengandungi kebenaran yang abadi; ia tidak melalui fasa evolusi yang muncul selepas zaman kejahilan, bahkan ia terbukti relevan sejak permulaan kehidupan manusia persis relevannya pada fasa penamat dunia.”*
+*“Sesungguhnya hikmah Islam itu mengandungi kebenaran yang abadi; ia tidak melalui fasa evolusi yang muncul selepas zaman kejahilan, bahkan ia terbukti relevan sejak permulaan kehidupan manusia persis relevannya pada fasa penamat dunia.”*
 
 **⚔️ Dimensi Fiqh Tarbawi Haraki & Pengajaran:**
-Keyakinan mutlak (*tsiqah*) terhadap keaslian dan kesempurnaan syariat Islam. Harakah Islamiah tidak perlu meminjam ideologi ciptaan manusia (seperti liberalisme atau sekularisme) untuk menyelesaikan krisis peradaban kontemporari.
+Keyakinan mutlak (*tsiqah*) terhadap keaslian dan kesempurnaan syariat Islam. Harakah Islam tidak perlu meminjam ideologi ciptaan manusia (seperti liberalisme atau sekularisme) untuk menyelesaikan krisis peradaban kontemporari.
 
 ---
 
@@ -138,7 +138,7 @@ Falsafah ruang haraki: masjid berfungsi menyucikan jiwa aktivis daripada pencema
 
 ### 💎 Mutiara 11: Penyair Yasin Khalil
 
-> **«يَمْشُونَ نَحْوَ بُيُوتِ اللهِ إِذْ سَمِعُوا ... ( اللهُ أَكْبَرُ ) فِي شَوْقٍ وَفِي جَذَلِ<br>
+> **«يَمْشُونَ نَحْوَ بُيُوتِ اللهِ إِذْ سَمِعُوا ... ( اللهُ أَكْبَرُ ) فِي شَوْقٍ وَفِي جَذَلِ**<br>
 > **هُمُ الرِّجَالُ فَلَا يُلْهِيهِمُ لَعِبٌ ... عَنِ الصَّلَاةِ ، وَلَا أُكْذُوبَةُ الكَسَلِ»**
 
 **Terjemahan:**
@@ -151,7 +151,7 @@ Takrifan 'Rijal' dalam kamus harakah: kepahlawanan sejati bukan pada retorik di 
 
 ### 💎 Mutiara 12: Abdullah bin al-Mubarak rahimahullah
 
-> **«اغْتَنِمْ رَكْعَتَيْنِ زُلْفَى إِلَى اللهِ ... إِذَا كُنْتَ فَارِغاً مُسْتَرِيحَا<br>
+> **«اغْتَنِمْ رَكْعَتَيْنِ زُلْفَى إِلَى اللهِ ... إِذَا كُنْتَ فَارِغاً مُسْتَرِيحَا**<br>
 > **وَإِذَا هَمَمْتَ بِالنُّطْقِ بِالبَاطِلِ ... فَاجْعَلْ مَكَانَهُ تَسْبِيحَا»**
 
 **Terjemahan:**
@@ -215,10 +215,10 @@ Jiwa jama'i yang mendarah daging: solat berjemaah adalah mikrokosmos kepada kesa
 > **«لَا يُشَدُّ مُلْكُ حَرَكَةٍ دَعَوِيَّةٍ تَدَّعِي حَمْلَ رَايَةِ الإِسْلَامِ حَتَّى يُسَبِّحَ أَبْنَاؤُهَا بِالعَشِيِّ وَالإِشْرَاقِ كَمَا سَبَّحَ دَاوُودُ عَلَيْهِ السَّلَامُ.»**
 
 **Terjemahan:**
-*“Mana-mana gerakan dakwah yang mendakwa dirinya membawa panji Islamiah tidak akan dapat mengukuhkan kekuasaannya pada hari ini dan tidak akan beroleh kemenangan selagi mana para anggotanya tidak bertasbih memuji Allah pada waktu petang dan pagi sepertimana Nabi Daud AS bertasbih.”*
+*“Mana-mana gerakan dakwah yang mendakwa dirinya membawa panji Islam tidak akan dapat mengukuhkan kekuasaannya pada hari ini dan tidak akan beroleh kemenangan selagi mana para anggotanya tidak bertasbih memuji Allah pada waktu petang dan pagi sepertimana Nabi Daud AS bertasbih.”*
 
 **⚔️ Dimensi Fiqh Tarbawi Haraki & Pengajaran:**
-Formula kemenangan siasah Islamiah: kekuasaan politik (syaddul mulk) tidak akan tertegak dengan taktik percaturan semata-mata, melainkan diperkukuh dengan rintihan zikir, rukuk, dan tasbih para pejuangnya.
+Formula kemenangan siasah Islam: kekuasaan politik (syaddul mulk) tidak akan tertegak dengan taktik percaturan semata-mata, melainkan diperkukuh dengan rintihan zikir, rukuk, dan tasbih para pejuangnya.
 
 ---
 
@@ -265,7 +265,7 @@ Hakikat izzah tauhid: ketundukan mutlak kepada Allah dalam sujud menghancurkan k
 
 ### 💎 Mutiara 21: Penyair Salih Hayawi rahimahullah
 
-> **«أَيَبْكِي الحَمَامُ عَلَى رَفْرَفٍ ... وَتَغْفُو عُيُونُكَ لَا تَدْمَعُ ؟!<br>
+> **«أَيَبْكِي الحَمَامُ عَلَى رَفْرَفٍ ... وَتَغْفُو عُيُونُكَ لَا تَدْمَعُ ؟!**<br>
 > **وَتَسْبِقُكَ الطَّيْرُ أَوْقَاتَهَا ... وَتَأْوِي إِلَى اللَّهِ أَوْ تَسْجُدُ ؟!»**
 
 **Terjemahan:**
@@ -302,7 +302,7 @@ Sumber cas bateri haraki: ketajaman lidah berbicara, keberanian di medan debat, 
 
 ### 💎 Mutiara 24: Imam Ibnu al-Qayyim rahimahullah
 
-> **«فِي اللَّيْلِ رُهْبَانٌ ، وَعِنْدَ جِهَادِهِمْ ... لِعَدُوِّهِمْ مِنْ أَشْجَعِ الأَبْطَالِ<br>
+> **«فِي اللَّيْلِ رُهْبَانٌ ، وَعِنْدَ جِهَادِهِمْ ... لِعَدُوِّهِمْ مِنْ أَشْجَعِ الأَبْطَالِ**<br>
 > **بِوُجُوهِهِمْ أَثَرُ السُّجُودِ لِرَبِّهِمْ ... وَبِهَا أَشِعَّةُ نُورِهِ المُتَلَالِي»**
 
 **Terjemahan:**
@@ -315,7 +315,7 @@ Keseimbangan peribadi Sahabat: menggabungkan antara kelembutan hati ahli ibadah 
 
 ### 💎 Mutiara 25: Dr. Abdul Wahhab 'Azzam rahimahullah
 
-> **«قُلْتُ لِلَّيْلِ : كَمْ بِصَدْرِكَ سِرٌّ ... أَنْبِئْنِي مَا أَرْوَعُ الأَسْرَارِ ؟<br>
+> **«قُلْتُ لِلَّيْلِ : كَمْ بِصَدْرِكَ سِرٌّ ... أَنْبِئْنِي مَا أَرْوَعُ الأَسْرَارِ ؟**<br>
 > **قَالَ : مَا ضَاءَ فِي ظَلَامِي سِرٌّ ... كَدُمُوعِ المُنِيبِ فِي الأَسْحَارِ»**
 
 **Terjemahan:**
@@ -512,7 +512,7 @@ Kecemerlangan dakwah (itqan): sikap separuh hati dan sambil lewa bertentangan de
 *“Keghairahan pendakwah terhadap dakwah dan keimanannya yang membara, keyakinannya yang teguh, keikhlasannya berkorban, serta penyerahan bulat seluruh bakat dan tenaganya untuk dakwah tersebut: merupakan syarat asasi dan ciri utama kejayaan.”*
 
 **⚔️ Dimensi Fiqh Tarbawi Haraki & Pengajaran:**
-Hukum penyerahan total: dakwah Islamiah enggan menerima sisa-sisa waktu terluang; ia menuntut seluruh potensi akal, masa, dan kewangan seorang aktivis.
+Hukum penyerahan total: dakwah Islam enggan menerima sisa-sisa waktu terluang; ia menuntut seluruh potensi akal, masa, dan kewangan seorang aktivis.
 
 ---
 
@@ -643,7 +643,7 @@ Realisme tarbiah: aktivis dakwah adalah manusia biasa yang tidak maksum. Menuntu
 
 ### 💎 Mutiara 51: Penyair Salih Hayawi rahimahullah
 
-> **«نُقَاسِمُ إِخْوَانَنَا فِي البَلَاءِ ... وَنُؤْثِرُهُمْ بِالرَّخَاءِ النَّضِيرِ<br>
+> **«نُقَاسِمُ إِخْوَانَنَا فِي البَلَاءِ ... وَنُؤْثِرُهُمْ بِالرَّخَاءِ النَّضِيرِ**<br>
 > **إِذَا اشْتَدَّ كَرْبُهُمُ سِرْتُ فِيهِ ... وَإِنْ هَادَنُوا كُنْتُ سَمْحَ الضَّمِيرِ»**
 
 **Terjemahan:**
@@ -686,7 +686,7 @@ Kerapuhan hidup bersendirian: aktivis dakwah yang mengasingkan diri daripada tan
 *“Persaudaraan iman adalah jalinan yang amat kukuh; ia merapatkan hati-hati antara satu sama lain tatkala dilanda kepayahan getir, lalu pelbagai kabilah dan bangsa bertukar menjadi satu umat di bawah panji tauhid.”*
 
 **⚔️ Dimensi Fiqh Tarbawi Haraki & Pengajaran:**
-Peleburan asabiah kaum: ikatan harakah Islamiah meruntuhkan tembok perkauman, nasionalisme sempit, dan darjat keturunan demi menegakkan persaudaraan akidah sejagat.
+Peleburan asabiah kaum: ikatan harakah Islam meruntuhkan tembok perkauman, nasionalisme sempit, dan darjat keturunan demi menegakkan persaudaraan akidah sejagat.
 
 ---
 
@@ -751,7 +751,7 @@ Harga sebuah kebangkitan (tamkin): kejayaan Islam menuntut pengorbanan darah dan
 *“Pohon tauhid itu begitu mendalam akar tunjangnya ... ia tidak dapat digoyahkan oleh taufan kesesatan; bahkan setiap kali ribut bertiup kencang, ia semakin bertambah kukuh mencengkam bumi.”*
 
 **⚔️ Dimensi Fiqh Tarbawi Haraki & Pengajaran:**
-Fungsi mehnah dan ujian: ujian penindasan yang menimpa gerakan Islamiah bukanlah untuk membinasakannya, tetapi untuk memperdalam cengkaman akar akidah para anggotanya agar kebal daripada fitnah.
+Fungsi mehnah dan ujian: ujian penindasan yang menimpa gerakan Islam bukanlah untuk membinasakannya, tetapi untuk memperdalam cengkaman akar akidah para anggotanya agar kebal daripada fitnah.
 
 ---
 
@@ -882,7 +882,7 @@ Peranan da'i sebagai penegur peradaban: menentang gelombang pembaziran fizikal d
 
 ### 💎 Mutiara 70: Penyair A'sya Hamdan di Hadapan Umar bin Abdul Aziz
 
-> **«إِذَا لُفَّ فِي الأَكْفَانِ قَالُوا تَرَحَّلَا ... وَإِنْ حُمِلَتْ أَعْوَادُهُ قَالُوا يَا لَهَا!<br>
+> **«إِذَا لُفَّ فِي الأَكْفَانِ قَالُوا تَرَحَّلَا ... وَإِنْ حُمِلَتْ أَعْوَادُهُ قَالُوا يَا لَهَا!**<br>
 > **فَمَا هِيَ إِلَّا نَقْلَةٌ عَنْ دِيَارِكُمْ ... إِلَى مَنْزِلٍ فِيهِ الحِسَابُ مُوَكَّلَا»**
 
 **Terjemahan:**
@@ -996,7 +996,7 @@ Ancaman استدراج (istidraj): kelapangan rezeki dan kesenangan yang dinikma
 
 ### 💎 Mutiara 79: Syair Pemandi Jenazah Salafussoleh
 
-> **«يَا غَاسِلَ المَيْتِ هَلَّا قُلْتَ مَوْعِظَةً ... تُبْكِي العُيُونَ وَتَجْلُو ظُلْمَةَ الدَّرَكِ<br>
+> **«يَا غَاسِلَ المَيْتِ هَلَّا قُلْتَ مَوْعِظَةً ... تُبْكِي العُيُونَ وَتَجْلُو ظُلْمَةَ الدَّرَكِ**<br>
 > **أَيْنَ الرِّجَالُ وَأَيْنَ العِزُّ فِي دُوَلٍ ... صَارُوا جَمِيعاً رَمِيماً تَحْتَ مُعْتَرَكِ»**
 
 **Terjemahan:**
@@ -1134,7 +1134,7 @@ Kesederhanaan Madrasah Baghdad: zuhud haraki bukan kepura-puraan memakai pakaian
 
 ### 💎 Mutiara 90: Penyair Salaf Andalusia
 
-> **«إِلَى كَمْ ذَا التَّرَدُّدُ فِي المَعَاصِي ... وَكَمْ تَبْكِي وَتَأْمُلُ فِي الخَلَاصِ ؟!<br>
+> **«إِلَى كَمْ ذَا التَّرَدُّدُ فِي المَعَاصِي ... وَكَمْ تَبْكِي وَتَأْمُلُ فِي الخَلَاصِ ؟!**<br>
 > **تُسَوِّفُ بِالمَتَابِ وَأَنْتَ تَدْرِي ... بِأَنَّ المَوْتَ حَتْمٌ بِانْتِقَاصِ»**
 
 **Terjemahan:**
@@ -1200,7 +1200,7 @@ Syarat kebangkitan umat: pembebasan tanah air daripada penjajahan bermula daripa
 
 ### 💎 Mutiara 95: Puisi Sang Helang dan Pemburu
 
-> **«قُلْتُ لِلصَّقْرِ وَهْوَ فِي الجَوِّ عَالِ : ... اهْبِطِ الأَرْضَ فَالهَوَاءُ جَدِيبُ<br>
+> **«قُلْتُ لِلصَّقْرِ وَهْوَ فِي الجَوِّ عَالِ : ... اهْبِطِ الأَرْضَ فَالهَوَاءُ جَدِيبُ**<br>
 > **قَالَ لِي الصَّقْرُ : فِي جَنَاحِي وَعَزْمِي ... وَعِنَانِ السَّمَاءِ مَرْعًى خَصِيبُ»**
 
 **Terjemahan:**
@@ -1243,13 +1243,13 @@ Kewajipan mengekalkan niat jihad: walaupun medan fizikal belum terbuka, setiap k
 *“Tidak mungkin bagi rijal dakwah untuk menegakkan sistem Islam sedangkan mereka masih terbelenggu dengan kecintaan kepada kerehatan dan kesenangan; mestilah memecahkan belenggu-belenggu tersebut agar mereka mampu memecut bebas merdeka di medan amal.”*
 
 **⚔️ Dimensi Fiqh Tarbawi Haraki & Pengajaran:**
-Syarat mutlak kemenangan haraki: menegakkan daulah Islamiah menuntut perajurit yang sanggup tidur berbantalkan lengan dan sanggup menanggung kelaparan demi mempertahankan prinsip.
+Syarat mutlak kemenangan haraki: menegakkan daulah Islam menuntut perajurit yang sanggup tidur berbantalkan lengan dan sanggup menanggung kelaparan demi mempertahankan prinsip.
 
 ---
 
 ### 💎 Mutiara 99: Penyair Walid al-A'zami rahimahullah
 
-> **«قَدْ نَهَضْنَا لِلْمَعَالِي وَمَضَى عَنَّا الجُمُودْ ... وَرَسَمْنَاهَا خُطًى لِلْعِزِّ وَالنَّصْرِ تَقُودْ<br>
+> **«قَدْ نَهَضْنَا لِلْمَعَالِي وَمَضَى عَنَّا الجُمُودْ ... وَرَسَمْنَاهَا خُطًى لِلْعِزِّ وَالنَّصْرِ تَقُودْ**<br>
 > **فَتَقَدَّمْ يَا أَخَا الإِسْلَامِ قَدْ سَارَ الجُنُودْ ... وَمَضَوْا لِلْمَجْدِ إِنَّ المَجْدَ بِالعَزْمِ يَعُودْ»**
 
 **Terjemahan:**
