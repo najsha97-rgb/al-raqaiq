@@ -1,4 +1,4 @@
-const CACHE_NAME = 'alraqaiq-cache-v11-subtopic-indent-margin-8084';
+const CACHE_NAME = 'alraqaiq-cache-v12-117-quotes-8084';
 const ASSETS_TO_CACHE = [
   './',
   './index.html',
