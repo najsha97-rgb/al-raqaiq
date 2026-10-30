@@ -278,7 +278,7 @@
     * Abu Wa'il Syaqiq membina kubu sempit di Kufah hanya untuk dirinya, kudanya dan senjatanya demi bersiap sedia untuk jihad.
   * **• Lenyaplah Waktu Terluang... !:**
     * Umar bin Abdul Aziz menolak pelawaan rakan lamanya untuk berehat dengan lafaz: *"Di manakah lagi adanya waktu terluang? Lenyaplah waktu terluang, maka tiada lagi masa lapang melainkan di sisi Allah!"*
-  * **• Menggalas Uncang Ilmu dengan Berjalan Kaki:**
+  * **• Al-Kausaj Menjelajah Mencari Ilmu dengan Berjalan Kaki:**
     * Al-Kausaj berjalan kaki dari Khurasan ke Baghdad demi mengesahkan masalah fiqh di hadapan Imam Ahmad.
   * **• Ulama Hanabilah Memelihara Keterampilan dan Wibawa:**
     * Ibnu Aqil tidak mensia-siakan walau sesaat, berfikir tentang dakwah tatkala berbaring; Muhammad bin Ahmad al-Dabbahi yang memancarkan tanda kesungguhan pada raut wajahnya.

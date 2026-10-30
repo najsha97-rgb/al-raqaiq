@@ -107,7 +107,7 @@ BAB 12: KISAH-KISAH "HIBURAN" PARA DA'I (قصص من لهو الدعاة) ......
    • Kegemaran Mengangkat Beban yang Berat ........................................ 103
    • Kubu Tarbiah al-Asadiyyah .................................................... 103
    • Lenyaplah Waktu Terluang...! ................................................. 104
-   • Menggalas Uncang Ilmu dengan Berjalan Kaki ................................... 104
+   • Al-Kausaj Menjelajah Mencari Ilmu dengan Berjalan Kaki ................................... 104
    • Ulama Hanabilah Memelihara Keterampilan dan Wibawa ........................... 105
    • Sahabat-Sahabat Imam al-Banna Memperbaharui Jejak Ini ........................ 105
    • Dan Kemuliaan Tatkala Saat Kematian...! ...................................... 106
@@ -3084,7 +3084,7 @@ Maka beliau menjawab:
 
 Kata-kata ini menjadi doktrin pegangan bagi sesiapa yang menceburi jalan dakwah sesudahnya, apabila rakan-rakan masa lalunya mengajak beliau untuk membuang masa dan mensia-siakan waktu.
 
-• **Orang yang Berjaya Merentas Jalan Sambil Menggalas Uncang Ilmu dengan Berjalan Kaki**
+• **Al-Kausaj Menjelajah Mencari Ilmu dengan Berjalan Kaki**
 
 Anak murid Ahmad bin Hanbal serta pengikut mazhabnya selepas beliau meneruskan langkah ini; mereka meletakkan sarana visual dalam aplikasi tarbiah, kerana mereka — sebagaimana disifatkan oleh seorang faqih dan pakar nahu, Ibnu Aqil:
 
