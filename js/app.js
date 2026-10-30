@@ -244,9 +244,17 @@ document.addEventListener('DOMContentLoaded', () => {
         const subLi = document.createElement('li');
         const subBtn = document.createElement('button');
         subBtn.className = `subtopic-nav-btn ${chIdx === state.currentChapter && sIdx === state.currentSubtopic ? 'active-sub' : ''}`;
+        
+        // Bersihkan sebarang bullet atau simbol awalan agar baris kedua selari dengan baris pertama
+        let cleanTitleForMenu = (sub.menu_title || sub.title || '')
+          .replace(/^[•\*\-\s]+/, '')
+          .replace(/^\(\*?(.*?)\*?\)$/, '$1')
+          .replace(/^\*(.*?)\*$/, '$1')
+          .trim();
+
         subBtn.innerHTML = `
           <span class="subtopic-num">${sIdx + 1}.</span>
-          <span class="subtopic-title-text">${sub.menu_title || sub.title}</span>
+          <span class="subtopic-title-text">${cleanTitleForMenu}</span>
         `;
         subBtn.title = sub.menu_title || sub.title;
 

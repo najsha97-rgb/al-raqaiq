@@ -126,7 +126,7 @@ Sesungguhnya—sebagaimana yang diungkapkan oleh Abu al-Hasan al-Nadwi:
 
 ---
 
-### • Gerakan Islamiah Wajib Memiliki Firasat Meneliti Dirinya Sendiri
+### Gerakan Islamiah Wajib Memiliki Firasat Meneliti Dirinya Sendiri
 
 Namun tarbiah ini bukanlah diceduk secara semberono. Ciri paling khusus bagi tarbiah ini ialah ia menyahut seruan keperluan mengikut tahap fasa dan merawat realiti semasa. Pada setiap adab yang dibimbing oleh Islam terkandung kebaikan. Namun kemampuan insan yang berniat ikhlas tetap terbatas. Oleh itu, wajib menetapkan keutamaan (*al-mufadhalah*) antara bahagian-bahagian kebaikan ini; memulakan dengan perkara yang lebih afdal serta perkara yang dapat menampung keperluan fasa tersebut setelah mengenal pasti lompang kekurangannya.
 
@@ -334,7 +334,7 @@ Peringatan ini sama seperti yang ditegaskan oleh Imam al-Maududi rahimahullah ke
 
 ---
 
-### • Sahutlah Seruan Nabimu SAW
+### Sahutlah Seruan Nabimu SAW
 
 Rasulullah SAW bersabda:
 
@@ -404,7 +404,7 @@ Maka baginda menjadikan istighfar dan rukuk sebagai jalannya; sekali gus mengaja
 
 ---
 
-### • Keutamaan Golongan Terdahulu Menjaga Solat
+### Keutamaan Golongan Terdahulu Menjaga Solat
 
 Golongan salafussoleh menyukai sifat berhati-hati dan tenang (*al-ana'ah*) dalam segala urusan, melainkan dalam hal solat. Pernah dikatakan kepada al-Ahnaf bin Qais RA: *“Sesungguhnya pada dirimu terdapat sifat tenang yang amat mendalam.”* Lalu beliau menjawab: 
 
@@ -428,7 +428,7 @@ Pendakwah yang berbahagia ialah sesiapa yang menghayati teladan ini lalu mencont
 
 ---
 
-### • Dakwah yang Menimba Pengajaran daripada Nabi Daud AS
+### Dakwah yang Menimba Pengajaran daripada Nabi Daud AS
 
 Nabi Daud AS sentiasa bertasbih pada waktu petang dan pagi. Maka Allah SWT menundukkan gunung-ganang untuk bertasbih bersama-sama baginda. Firman Allah SWT:
 
@@ -528,7 +528,7 @@ Dengan cara ini, engkau benar-benar memikirkan solatmu—kerana seseorang insan 
 
 ---
 
-### • Tokoh-Tokoh Madrasah Malam
+### Tokoh-Tokoh Madrasah Malam
 
 Namun penghayatan yang sempurna itu hanya dapat dicapai dalam suasana hening dan tenang. Oleh itu, wujudlah 'Madrasah Malam' (*Qiamullail*).
 
@@ -630,7 +630,7 @@ Bagaimanakah keadaan itu tidak berlaku, andai kata malam generasi terdahulu sent
 
 ---
 
-### • Adakah Burung Merpati Mendahuluimu?
+### Adakah Burung Merpati Mendahuluimu?
 
 Sesungguhnya kelembutan hati seorang fakih yang zuhud, Abu Sahl al-Su'luki rahimahullah terpancar jelas melalui celaan beliau terhadap dirinya sendiri, ketika beliau bermadah:
 
@@ -750,7 +750,7 @@ Kadang-kadang sukar untuk mencari punca fenomena seumpama ini pada suatu ketika.
 
 ---
 
-### • Kejernihan Langkah Permulaan
+### Kejernihan Langkah Permulaan
 
 Seorang penyair mengisyaratkan secara umum mengenai tafsiran fenomena ini seraya berkata:
 
@@ -802,7 +802,7 @@ Begitulah seharusnya perhatian kita terhadap langkah permulaan menjadi satu gari
 
 ---
 
-### • Iaitu Niat yang Bebas Ikhlas
+### Iaitu Niat yang Bebas Ikhlas
 
 Apa yang mereka maksudkan dengan kejernihan permulaan merangkumi dua pengertian yang saling berurutan dan bergandingan: niat yang soleh dan cita-cita yang tinggi (*himmah 'aliyah*). Kedua-dua pengertian ini telah dirumuskan oleh penyair al-Buhturi dalam sebaris bait puisi yang jelas dan menamakannya:
 
@@ -863,7 +863,7 @@ Adapun pendakwah yang jiwanya memancarkan cahaya serta bersih daripada angan-ang
 
 ---
 
-### • Iaitu Mengorak Langkah Mengharungi Kesukaran
+### Iaitu Mengorak Langkah Mengharungi Kesukaran
 
 Cita-cita yang tinggi (*al-himmah*) merupakan pasangan kembar kepada niat yang ikhlas. Tiada suatu perkara pun selepas niat yang mendahuluinya, dan segala kesempurnaan amalan terletak selepasnya. Mana-mana murabbi yang berjaya menyemai cita-cita tinggi ini kepada anak-anak muridnya pada langkah-langkah terawal mereka, sesungguhnya dia telah menjamin kelangsungan perjuangan mereka dengan izin Allah SWT. Pernah diungkapkan:
 
@@ -938,7 +938,7 @@ Ibnu al-Qayyim rahimahullah menghuraikan:
 
 ---
 
-### • Ketinggian Martabat... Harganya Ialah Keletihan
+### Ketinggian Martabat... Harganya Ialah Keletihan
 
 Para salafussoleh membimbingmu ke arah jalan ketinggian martabat dan kepimpinan menerusi niat dan cita-cita yang tinggi. Namun engkau wajib memikul keletihannya serta menunggang segala kesukarannya; hal ini kerana kepimpinan merupakan satu laluan yang terang-terang berliku.
 
@@ -968,7 +968,7 @@ Dr. Abdul Wahhab 'Azzam memberikan amaran kepadamu dan menyedarkanmu bahawa:
 
 ---
 
-### • Dan Engkau Pemilik Iman
+### Dan Engkau Pemilik Iman
 
 Sayyid Qutb rahimahullah menegaskan:
 
@@ -982,17 +982,17 @@ Sayyid Qutb rahimahullah menegaskan:
 
 ---
 
-### • Dan Manusia yang Paling Penat Ialah yang Agong Tuntutan Cita-Citanya
+### Dan Manusia yang Paling Penat Ialah yang Agong Tuntutan Cita-Citanya
 
 ---
 
-### • Dan Engkau Insan Merdeka yang Mulia
+### Dan Engkau Insan Merdeka yang Mulia
 
 > *“Insan merdeka yang mulia tidak akan mensasarkan cita-citanya melainkan untuk mencapai matlamat yang paling jauh dalam setiap usaha yang dicubanya. Dia tidak akan berlengah-lengah untuk mencurahkan tenaganya sehingga ke puncak keupayaannya dan batas kemampuannya; menimba kekuatan demi kekuatan; merealisasikan kehebatan terpendam yang ada di dalam dirinya; menerima daripadanya wasilah-wasilah kejayaan luar biasa dalam amalannya; serta memancarkan menerusi kejeniusannya kilauan cahaya daripada gejolak darahnya persis dengan sinar bintang yang membuktikan kepada sesiapa sahaja yang mempunyai mata bahawa ia adalah bintang dan bukan sesuatu yang lain.”* [4]
 
 ---
 
-### • Dan Engkau Pemilik Matlamat
+### Dan Engkau Pemilik Matlamat
 
 Sesuatu yang menyampaikan pendakwah kepada matlamatnya hanyalah: 
 
@@ -1000,13 +1000,13 @@ Sesuatu yang menyampaikan pendakwah kepada matlamatnya hanyalah:
 
 ---
 
-### • Dan Engkau Penuntut Akses Menuju Allah
+### Dan Engkau Penuntut Akses Menuju Allah
 
 > *“Penuntut akses yang ingin sampai kepada Allah dan negeri akhirat—bahkan penuntut sebarang bidang ilmu, kemahiran, dan kepimpinan sehingga dia layak menjadi ikutan dan peneraju—memerlukan dirinya menjadi seorang yang berani lagi gagah; menguasai sangkaannya; tidak tertewas di bawah kongkongan khayalannya; bersikap zuhud terhadap apa jua perkara selain matlamat tuntutannya; mencintai apa yang ditujunya; mengetahui jalan untuk mencapainya serta jalan-jalan yang menghalangnya daripadanya; bercita-cita kental; berhati cekal; tidak dipalingkan daripada matlamatnya oleh celaan orang yang mencela mahupun teguran orang yang menyalahkan; banyak berdiam diri; sentiasa berfikir; tidak terbuai oleh kelazatan pujian dan tidak rebah oleh kepedihan celaan; melaksanakan segala asbab bantuan yang diperlukannya; tidak mudah digugat oleh sebarang bantahan; syiarnya ialah sabar; dan kerehatannya ialah keletihan.”* [6]
 
 ---
 
-### • Ujian Kelapangan Masa dan Kelalaian
+### Ujian Kelapangan Masa dan Kelalaian
 
 Segala untaian kata yang benar ini berpadu untuk menetapkan bahawa ujian sebenar bagi seorang pendakwah Muslim bukanlah terletak pada penentangan golongan kafir terhadapnya, bukan pada penjaranya, bukan pada penyiksaannya, dan bukan pula pada kelaparannya; sebaliknya ujian sebenar terletak pada kekenduran cita-citanya dan kenikmatan yang dirasainya ketika berehat.
 
