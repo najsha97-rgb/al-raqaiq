@@ -30,7 +30,7 @@
 ---
 
 ## 📌 BAB 1: TASBIH MENGUKUHKAN KEKUASAAN
-### *(Tasbīh Yasyuddu al-Mulk - تَسْبِيحٌ يَشُدُّ المُلْكَ)*
+### *(Tasbih Yang Mengukuhkan Kerajaan - تَسْبِيحٌ يَشُدُّ المُلْكَ)*
 
 * **Ringkasan Am Bab 1:**
   Kekuasaan, kepimpinan, dan kemenangan haraki tidak akan teguh dengan kehebatan strategi semata-mata, sebaliknya berpaksi kukuh pada tasbih, istighfar, dan ketundukan sujud di hadapan Allah SWT. Meneladani Nabi Daud AS yang dianugerahkan kerajaan agung kerana sentiasa bertasbih dan bertahajud, aktivis dakwah diingatkan bahawa solat yang khusyuk dan rukuk yang panjang adalah sumber ketahanan empayar Islam.
@@ -49,7 +49,7 @@
 ---
 
 ## 📌 BAB 2: MINIT-MINIT YANG BERHARGA
-### *(Al-Daqā'iq al-Ghāliyah - الدَّقَائِقُ الغَالِيَةُ)*
+### *(Syurga Orang yang Beriman Berada di Mihrabnya - الدَّقَائِقُ الغَالِيَةُ)*
 
 * **Ringkasan Am Bab 2:**
   Waktu sepertiga malam terakhir (waktu sahur) adalah "minit-minit emas" yang menjadi pemutus darjat di sisi Allah Taala. Kemenangan dakwah pada siang hari ditentukan oleh air mata munajat para pendakwah pada malam hari. Barang siapa yang gagal menakluk tilam tidurnya pada waktu malam, dia pasti tewas berhadapan dengan gelombang musuh pada siang hari.
@@ -65,7 +65,7 @@
 ---
 
 ## 📌 BAB 3: PERMULAAN
-### *(Al-Ibtidā' - الابْتِدَاءُ)*
+### *(Permulaan - الابْتِدَاءُ)*
 
 * **Ringkasan Am Bab 3:**
   Langkah pertama menentukan ke mana arah pengakhiran. Kejernihan niat pada permulaan langkah (*tajarrud*) adalah syarat mutlak bagi menjamin keikhlasan yang berkekalan. Setiap langkah awal yang dicemari oleh tuntutan syahwat tersembunyi, cita-cita kedudukan, atau mencari pujian manusia akan berakhir dengan kegagalan, kekecewaan, dan kehancuran tarbiah.
@@ -84,7 +84,7 @@
 ---
 
 ## 📌 BAB 4: MENUJU KEGEMBIRAAN AKHIRAT
-### *(Naḥwa Afrāḥ al-Ākhirah - نَحْوَ أَفْرَاحِ الآخِرَةِ)*
+### *(Menuju Kegembiraan Akhirat - نَحْوَ أَفْرَاحِ الآخِرَةِ)*
 
 * **Ringkasan Am Bab 4:**
   Perjalanan seorang da'i adalah perjalanan merentas dunia yang fana menuju majlis-majlis kegembiraan abadi di syurga (*afrāḥ al-ākhirah*). Dunia ini bukanlah tempat berehat atau bersenang-lenang; martabat yang tinggi di akhirat hanya boleh ditebus dengan keletihan dan kelelahan yang berterusan di dunia.
@@ -108,7 +108,7 @@
 ---
 
 ## 📌 BAB 5: PERSAUDARAAN SYIAR DAKWAH KITA
-### *(Al-Ukhuwwah Syi'ār Da'watinā - الأُخُوَّةُ شِعَارُ دَعْوَتِنَا)*
+### *(Persaudaraan Syiar Dakwah Kita - الأُخُوَّةُ شِعَارُ دَعْوَتِنَا)*
 
 * **Ringkasan Am Bab 5:**
   Persaudaraan Islam (*ukhuwwah*) bukanlah sekadar slogan retorik atau kemesraan luaran, sebaliknya ia adalah tiang penegak tanzim dakwah yang berakar umbi pada ketakwaan. Syeikh al-Rasyid memperincikan etika pergaulan para kader serta amaran keras terhadap penyakit-penyakit majlis yang boleh meretakkan saf perjuangan.
@@ -135,7 +135,7 @@
 ---
 
 ## 📌 BAB 6: POHON-POHON KEIMANAN
-### *(Asyjār al-Īmān - أَشْجَارُ الإِيمَانِ)*
+### *(Pohon-Pohon Keimanan - أَشْجَارُ الإِيمَانِ)*
 
 * **Ringkasan Am Bab 6:**
   Syeikh al-Rasyid membina metafora sastera yang amat memukau: mengibaratkan jiwa mukmin laksana sebuah rimba keimanan yang sarat dengan pohon-pohon yang rendang dan berbuah lebat. Sepuluh pohon keimanan dihuraikan secara artistik dan mendalam sebagai paksi keperibadian da'i.
@@ -155,7 +155,7 @@
 ---
 
 ## 📌 BAB 7: KEPUNGAN ANGAN-ANGAN
-### *(Ḥiṣār al-Amal - حِصَارُ الأَمَلِ)*
+### *(Kepungan Angan-Angan - حِصَارُ الأَمَلِ)*
 
 * **Ringkasan Am Bab 7:**
   Angan-angan panjang (*tūl al-amal*) adalah racun pembunuh yang melalaikan manusia daripada persiapan akhirat. Syeikh al-Rasyid melukiskan bagaimana angan-angan mengepung da'i dengan ilusi masa depan duniawi, lalu mencadangkan penawarnya: menghidupkan ingatan terhadap mati dan merasai betapa hampirnya ajal.

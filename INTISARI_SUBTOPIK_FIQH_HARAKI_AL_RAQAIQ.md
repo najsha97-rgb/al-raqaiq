@@ -38,7 +38,7 @@
 ---
 
 # 🛡️ BAB 1: TASBIH MENGUKUHKAN KEKUASAAN
-### *(Tasbīh Yasyuddu al-Mulk - تَسْبِيحٌ يَشُدُّ المُلْكَ)*
+### *(Tasbih Yang Mengukuhkan Kerajaan - تَسْبِيحٌ يَشُدُّ المُلْكَ)*
 
 * **💎 Mutiara Kata Hikmah:**  
   > «اصْبِرْ عَلَىٰ مَا يَقُولُونَ وَاذْكُرْ عَبْدَنَا دَاوُودَ ذَا الْأَيْدِ ۖ إِنَّهُ أَوَّابٌ * إِنَّا سَخَّرْنَا الْجِبَالَ مَعَهُ يُسَبِّحْنَ بِالْعَشِيِّ وَالْإِشْرَاقِ»  
@@ -84,7 +84,7 @@
 ---
 
 # 🌙 BAB 2: MINIT-MINIT YANG BERHARGA
-### *(Al-Daqā'iq al-Ghāliyah - الدَّقَائِقُ الغَالِيَةُ)*
+### *(Syurga Orang yang Beriman Berada di Mihrabnya - الدَّقَائِقُ الغَالِيَةُ)*
 
 * **💎 Mutiara Kata Hikmah:**  
   > «رَكْعَتَانِ فِي ظُلْمَةِ اللَّيْلِ خَيْرٌ مِنَ الدُّنْيَا وَمَا فِيهَا.»  
@@ -121,7 +121,7 @@
 ---
 
 # 🚀 BAB 3: PERMULAAN
-### *(Al-Ibtidā' - الابْتِدَاءُ)*
+### *(Permulaan - الابْتِدَاءُ)*
 
 * **💎 Mutiara Kata Hikmah:**  
   > «مَنْ صَحَّتْ بِدَايَتُهُ؛ صَحَّتْ نِهَايَتُهُ.»  
@@ -142,7 +142,7 @@
 
 ---
 
-### 2. subtajuk: *Iaitu Niat yang Bebas Ikhlas*
+### 2. subtajuk: *Niat yang Bebas Ikhlas*
 * **1. Diagnosis Halangan / Rawatan Jiwa:**  
   *Penyakit Riak, Sum'ah & Kehendak Tersembunyi (Syahwat Khafiyyah)* — Keinginan agar diri dipandang hebat, dipuji di atas pentas, atau diangkat sebagai rujukan utama.
 * **2. Modus Operandi & Gejala Penyelusupan:**  
@@ -154,7 +154,7 @@
 
 ---
 
-### 3. subtajuk: *Iaitu Mengorak Langkah Mengharungi Kesukaran*
+### 3. subtajuk: *Mengorak Langkah Mengharungi Kesukaran*
 * **1. Diagnosis Halangan / Rawatan Jiwa:**  
   *Sikap Mencari Keselesaan & Takut kepada Kepayahan* — Berangan-angan bahawa jalan menegakkan syariat Islam adalah lebuh raya berturap permaidani merah tanpa titisan keringat dan darah.
 * **2. Modus Operandi & Gejala Penyelusupan:**  
@@ -167,7 +167,7 @@
 ---
 
 # 🏔️ BAB 4: MENUJU KEGEMBIRAAN AKHIRAT
-### *(Nahwa Afrāh al-Ākhirah - نَحْوَ أَفْرَاحِ الآخِرَةِ)*
+### *(Menuju Kegembiraan Akhirat - نَحْوَ أَفْرَاحِ الآخِرَةِ)*
 
 * **💎 Mutiara Kata Hikmah:**  
   > «إِنَّمَا تُنَالُ الرَّاحَةُ بِتَرْكِ الرَّاحَةِ، وَلَنْ يُدْرِكَ المَجْدَ مَنْ لَمْ يَرْكَبِ الخَطَرَا.»  
@@ -265,7 +265,7 @@
 ---
 
 # 🤝 BAB 5: PERSAUDARAAN SYIAR DAKWAH KITA
-### *(Al-Ukhuwwah Syi'ār Da'watinā - الأُخُوَّةُ شِعَارُ دَعْوَتِنَا)*
+### *(Persaudaraan Syiar Dakwah Kita - الأُخُوَّةُ شِعَارُ دَعْوَتِنَا)*
 
 * **💎 Mutiara Kata Hikmah:**  
   > «إِنَّمَا المُؤْمِنُونَ إِخْوَةٌ فَأَصْلِحُوا بَيْنَ أَخَوَيْكُمْ ۚ وَاتَّقُوا اللَّهَ لَعَلَّكُمْ تُرْحَمُونَ»  
@@ -323,7 +323,7 @@
 ---
 
 # 🌳 BAB 6: POHON-POHON KEIMANAN
-### *(Asyjār al-Īmān - أَشْجَارُ الإِيمَانِ)*
+### *(Pohon-Pohon Keimanan - أَشْجَارُ الإِيمَانِ)*
 
 * **💎 Mutiara Kata Hikmah:**  
   > «أَلَمْ تَرَ كَيْفَ ضَرَبَ اللَّهُ مَثَلًا كَلِمَةً طَيِّبَةً كَشَجَرَةٍ طَيِّبَةٍ أَصْلُهَا ثَابِتٌ وَفَرْعُهَا فِي السَّمَاءِ * تُؤْتِي أُكُلَهَا كُلَّ حِينٍ بِإِذْنِ رَبِّهَا»  
@@ -384,7 +384,7 @@
 ---
 
 # ⏳ BAB 7: KEPUNGAN ANGAN-ANGAN
-### *(Hisār al-Amal - حِصَارُ الأَمَلِ)*
+### *(Kepungan Angan-Angan - حِصَارُ الأَمَلِ)*
 
 * **💎 Mutiara Kata Hikmah:**  
   > «خَطَّ النَّبِيُّ ﷺ خَطّاً مُرَبَّعاً، وَخَطَّ خَطّاً فِي الوَسَطِ خَارِجاً مِنْهُ، وَخَطَّ خُطُطاً صِغَاراً... فَقَالَ: هَذَا الإِنْسَانُ، وَهَذَا أَجَلُهُ مُحِيطٌ بِهِ، وَهَذَا الَّذِي هُوَ خَارِجٌ أَمَلُهُ، وَهَذِهِ الخُطُطُ الصِّغَارُ الأَعْرَاضُ؛ فَإِنْ أَخْطَأَهُ هَذَا نَهَشَهُ هَذَا!»  

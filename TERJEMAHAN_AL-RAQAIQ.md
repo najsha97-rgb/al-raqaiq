@@ -251,7 +251,7 @@ Di dalam kitab seperti inilah terkandung nasihat-nasihat pelembut hati, ketunduk
 
 
 # BAB 1: TASBIH MENGUKUHKAN KEKUASAAN
-### (*Tasbīh Yasyuddu al-Mulk*)
+### Tasbih Yang Mengukuhkan Kerajaan
 
 Sebuah dakwah yang ingin tegak istiqamah menuju Allah SWT, sudah semestinya melangkah masuk menerusi pintu istiqamah; dan pintunya ialah mihrab.
 
@@ -477,7 +477,7 @@ Sesungguhnya amalan saling berpesan untuk memelihara solat merupakan suatu kebai
 ---
 
 # BAB 2: MINIT-MINIT YANG BERHARGA
-### (*Al-Daqā'iq al-Ghāliyah*)
+### Syurga Orang yang Beriman Berada di Mihrabnya
 
 Sujud di mihrab, istighfar pada waktu sahur, dan titisan air mata munajat: merupakan lambang keperibadian yang dimonopoli oleh orang-orang yang beriman.
 
@@ -742,7 +742,7 @@ Mereka turut membimbing orang-orang berdosa yang tersilap langkah menuju ke jala
 ---
 
 # BAB 3: PERMULAAN
-### (*Al-Ibtidā'*)
+### Permulaan
 
 Setiap orang yang mengamalkan gerak kerja tarbiah harakiah Islam sudah pasti memerhatikan fenomena kejatuhan dan pengunduran diri sebahagian individu. Anda melihat seorang pendakwah melangkah gagah bersama mereka yang melangkah di jalan dakwah, lalu anda menyangka bahawa dia akan tetap tsabat. Namun dia mengecewakan sangkaan anda di pertengahan jalan; sama ada kerana dirempuh rasa takut (*rahbah*) atau ditarik oleh rasa tamak (*raghbah*), ataupun tertawan oleh seruan nafsu dan runtunan syahwat. Akibatnya, dia terpedaya, lalu dikuasai oleh rasa megah, bangga diri, dan mengungkit-ungkit jasa; sehinggalah dia ditimpa kelesuan (*futur*).
 
@@ -802,7 +802,7 @@ Begitulah seharusnya perhatian kita terhadap langkah permulaan menjadi satu gari
 
 ---
 
-### Iaitu Niat yang Bebas Ikhlas
+### Niat yang Bebas Ikhlas
 
 Apa yang mereka maksudkan dengan kejernihan permulaan merangkumi dua pengertian yang saling berurutan dan bergandingan: niat yang soleh dan cita-cita yang tinggi (*himmah 'aliyah*). Kedua-dua pengertian ini telah dirumuskan oleh penyair al-Buhturi dalam sebaris bait puisi yang jelas dan menamakannya:
 
@@ -863,7 +863,7 @@ Adapun pendakwah yang jiwanya memancarkan cahaya serta bersih daripada angan-ang
 
 ---
 
-### Iaitu Mengorak Langkah Mengharungi Kesukaran
+### Mengorak Langkah Mengharungi Kesukaran
 
 Cita-cita yang tinggi (*al-himmah*) merupakan pasangan kembar kepada niat yang ikhlas. Tiada suatu perkara pun selepas niat yang mendahuluinya, dan segala kesempurnaan amalan terletak selepasnya. Mana-mana murabbi yang berjaya menyemai cita-cita tinggi ini kepada anak-anak muridnya pada langkah-langkah terawal mereka, sesungguhnya dia telah menjamin kelangsungan perjuangan mereka dengan izin Allah SWT. Pernah diungkapkan:
 
@@ -911,7 +911,7 @@ Daripada generasi salafussoleh inilah, generasi pembaharu pada kurun ini menimba
 
 
 # BAB 4: MENUJU KEGEMBIRAAN AKHIRAT
-### (*Nahwa Afrāh al-Ākhirah*)
+### Menuju Kegembiraan Akhirat
 
 Sesungguhnya para salafussoleh telah menggambarkan ciri-ciri permulaan langkah kepada kita agar kita mengambil pedoman yang terbaik daripadanya. Sekiranya sebahagian daripada kita terlupa dalam suasana kelalaian, sesungguhnya Allah SWT merupakan sebaik-baik Pengampun. Tidak wajar baginya setelah tersedar daripada peringatan untuk terus duduk bersama kaum yang lalai; apatah lagi dia memiliki simpanan kefahaman generasi terawal yang dapat membantunya menelusuri lorong-lorong petunjuk yang luas lagi nyata yang menyampaikan kepada Tuhan sekalian alam.
 
@@ -1178,7 +1178,7 @@ Demi Allah! Taklif itu bukanlah satu kegelapan, namun ia hanyalah bahasa kiasan 
 ---
 
 # BAB 5: PERSAUDARAAN SYIAR DAKWAH KITA
-### *(al-Ukhuwwah Syi'ār Da'watinā)*
+### Persaudaraan Syiar Dakwah Kita
 
 Tasbih pada minit-minit waktu sahur yang amat berharga, serta pergaulan persaudaraan yang berpaksikan keimanan, merupakan dua tiang penegak yang saling bergandingan yang menjadi tunjang tertegaknya jemaah Islam, dan dua mata air yang memancarkan curahan kebaikan yang tidak pernah kering buat para da'i.
 
@@ -1503,7 +1503,7 @@ Maka engkau dituntut, wahai da'i Muslim, agar memenuhi hatimu dengan perasaan pe
 ---
 
 # BAB 6: POHON-POHON KEIMANAN
-### *(Asyjār al-Īmān)*
+### Pohon-Pohon Keimanan
 
 Kesatuan ubudiah dan kesempurnaannya dalam segenap bahagian alam semesta ini kepada Allah SWT yang telah menciptakannya merupakan suatu hakikat yang dapat disaksikan oleh orang yang berfikir, sekiranya dia berupaya melepaskan diri daripada hiruk-pikuk yang melalaikan serta merenung dalam ketenangan dan ketelitian.
 
@@ -1723,7 +1723,7 @@ Oleh yang demikian, tiada sebatang pohon pun yang tegak berdiri melainkan ia men
 
 
 # BAB 7: KEPUNGAN ANGAN-ANGAN
-### *(Hisār al-Amal)*
+### Kepungan Angan-Angan
 
 Kehidupan ini — dengan pelbagai sudut dimensinya dan rentetan perubahan masyarakat yang dilalui — mungkin sukar difahami oleh generasi Muslim hari ini tanpa kembali kepada suatu pandangan yang realistik, berteraskan kesederhanaan, serta berpijak teguh pada realiti yang dapat dirasai dan disaksikan.
 

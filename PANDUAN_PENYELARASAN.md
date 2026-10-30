@@ -203,3 +203,19 @@ Telah ditetapkan bahawa terjemahan rasmi bagi judul-judul karya Syeikh Muhammad 
 * **Al-‘Awā’iq (العوائق):** *Halangan-halangan Dakwah*
 * **Al-Raqā'iq (الرقائق):** *Pelembut-pelembut Hati*
 * **Al-Masār (المسار):** *Haluan / Landasan Perjuangan*
+
+
+---
+
+### 25. Penyelarasan Subtajuk Bahasa Melayu (Menggantikan Transliterasi Arab)
+* **Ketetapan Penyelarasan:** Bagi memudahkan pembacaan dan kefahaman para da'i, subtajuk-subtajuk yang sebelum ini menggunakan transliterasi bahasa Arab dalam kurungan diselaraskan kepada terjemahan bahasa Melayu yang puitis dan tepat, manakala perkataan 'Iaitu' pada subtajuk ditiadakan.
+* **Penyelarasan Mengikut Bab:**
+  * **Bab 1 Subtajuk 2:** *Tasbih Yang Mengukuhkan Kerajaan* (menggantikan *Tasbīh Yasyuddu al-Mulk*)
+  * **Bab 2 Subtajuk 2:** *Syurga Orang yang Beriman Berada di Mihrabnya* (menggantikan *Al-Daqā'iq al-Ghāliyah*)
+  * **Bab 3 Subtajuk 2:** *Permulaan* (menggantikan *Al-Ibtidā'*)
+  * **Bab 3 Subtajuk 4:** *Niat yang Bebas Ikhlas* (dibuang perkataan 'Iaitu')
+  * **Bab 3 Subtajuk 5:** *Mengorak Langkah Mengharungi Kesukaran* (dibuang perkataan 'Iaitu')
+  * **Bab 4 Subtajuk 2:** *Menuju Kegembiraan Akhirat* (menggantikan *Nahwa Afrāh al-Ākhirah*)
+  * **Bab 5 Subtajuk 2:** *Persaudaraan Syiar Dakwah Kita* (menggantikan *(al-Ukhuwwah Syi'ār Da'watinā)*)
+  * **Bab 6 Subtajuk 2:** *Pohon-Pohon Keimanan* (menggantikan *Asyjār al-Īmān*)
+  * **Bab 7 Subtajuk 2:** *Kepungan Angan-Angan* (menggantikan *Hisār al-Amal*)
