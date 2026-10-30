@@ -932,9 +932,7 @@ Nabi SAW bersabda seraya mengisyaratkan ke arah dada Baginda:
 
 Ibnu al-Qayyim rahimahullah menghuraikan:
 
-> *“Orang yang bijak mampu memotong jarak perjalanan yang jauh dengan keteguhan tekad, ketinggian cita-cita, ketulusan niat semata-mata kerana Allah, serta keikhlasan azam—meskipun dengan amalan yang sedikit—berlipat kali ganda lebih jauh daripada apa yang dipotong oleh orang yang kosong daripada sifat-sifat tersebut, walaupun dia banyak berpenat lelah dan menempuh perjalanan yang sukar.*
->
-> *Sesungguhnya keazaman yang kental dan rasa cinta yang mendalam mampu melenyapkan kepayahan serta menyelesakan langkah perjalanan. Kemaraan dan perlumbaan menuju Allah Yang Maha Suci hanyasanya dicapai melalui cita-cita yang tinggi, serta kejujuran keinginan dan keazaman. Maka orang yang memiliki cita-cita yang tinggi—meskipun dia kelihatan tenang—dapat mendahului orang yang banyak beramal sejauh beberapa peringkat perjalanan.”* [1]
+> *“Orang yang bijak mampu menempuh perjalanan yang jauh dengan ketinggian cita-cita, keteguhan tekad, dan keikhlasan niat—walaupun dengan amalan yang sedikit—berlipat kali ganda lebih jauh daripada apa yang ditempuh oleh orang yang kosong daripada sifat-sifat tersebut, walaupun dia banyak berpenat lelah.”* [1]
 
 ---
 

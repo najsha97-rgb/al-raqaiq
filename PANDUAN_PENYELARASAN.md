@@ -238,3 +238,13 @@ Telah ditetapkan bahawa terjemahan rasmi bagi judul-judul karya Syeikh Muhammad 
   3. *Engkau Insan Merdeka yang Mulia* (bukan *Dan Engkau Insan...*)
   4. *Engkau Pemilik Matlamat* (bukan *Dan Engkau Pemilik...*)
   5. *Engkau Penuntut Akses Menuju Allah* (bukan *Dan Engkau Penuntut...*)
+
+
+---
+
+### 28. Penyelarasan Terjemahan Kalam Hikmah Ibnu al-Qayyim (Bab 4 / Mutiara 35)
+* **Teks Arab:**
+  «يَقْطَعُ الكَيِّسُ بِهِمَّتِهِ وَحُسْنِ قَصْدِهِ وَصِدْقِ عَزْمِهِ مَعَ العَمَلِ القَلِيلِ: أَضْعَافَ مَا يَقْطَعُهُ الفَارِغُ مِنْ ذَلِكَ مَعَ كَثْرَةِ تَعَبِهِ وَرُكُوبِهِ المَشَاقَّ.»
+* **Ketetapan Terjemahan Rasmi:**
+  *"Orang yang bijak mampu menempuh perjalanan yang jauh dengan ketinggian cita-cita, keteguhan tekad, dan keikhlasan niat—walaupun dengan amalan yang sedikit—berlipat kali ganda lebih jauh daripada apa yang ditempuh oleh orang yang kosong daripada sifat-sifat tersebut, walaupun dia banyak berpenat lelah."*
+* **Huraian Penyelarasan:** Frasa *'menempuh perjalanan'* digunakan bagi menggantikan *'memotong jarak perjalanan'*, dan susunan keutamaan himmah, tekad dan niat diselaraskan secara lebih mengalir dan fasih.

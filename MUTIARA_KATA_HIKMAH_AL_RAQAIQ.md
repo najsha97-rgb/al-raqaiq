@@ -449,7 +449,7 @@ Prinsip Baiah al-'Aqabah: langkah pertama penyertaan ke dalam saf dakwah mestila
 > **«يَقْطَعُ الكَيِّسُ بِهِمَّتِهِ وَحُسْنِ قَصْدِهِ وَصِدْقِ عَزْمِهِ مَعَ العَمَلِ القَلِيلِ: أَضْعَافَ مَا يَقْطَعُهُ الفَارِغُ مِنْ ذَلِكَ مَعَ كَثْرَةِ تَعَبِهِ وَرُكُوبِهِ المَشَاقَّ.»**
 
 **Terjemahan:**
-*“Orang yang bijak mampu memotong jarak perjalanan yang jauh dengan keteguhan tekad, ketinggian cita-cita, ketulusan niat semata-mata kerana Allah, serta keikhlasan azam—meskipun dengan amalan yang sedikit—berlipat kali ganda lebih jauh daripada apa yang dipotong oleh orang yang kosong daripada sifat-sifat tersebut walaupun dia banyak berpenat lelah.”*
+*“Orang yang bijak mampu menempuh perjalanan yang jauh dengan ketinggian cita-cita, keteguhan tekad, dan keikhlasan niat—walaupun dengan amalan yang sedikit—berlipat kali ganda lebih jauh daripada apa yang ditempuh oleh orang yang kosong daripada sifat-sifat tersebut, walaupun dia banyak berpenat lelah.”*
 
 **⚔️ Dimensi Fiqh Tarbawi Haraki & Pengajaran:**
 Keberkesanan strategik haraki: amalan yang diiringi kefahaman mendalam dan keikhlasan suci menghasilkan impak transformasi ummah yang jauh melangkaui amalan rutin yang dilakukan tanpa roh.
