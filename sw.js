@@ -1,4 +1,4 @@
-const CACHE_NAME = 'alraqaiq-cache-v14-quotes-rtl-gold-amiri';
+const CACHE_NAME = 'alraqaiq-cache-v15-hasan-albanna';
 const ASSETS_TO_CACHE = [
   './',
   './index.html',

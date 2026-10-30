@@ -304,7 +304,7 @@ Para imam yang terpimpin tidak putus-putus berpesan tentang perkara ini, bermula
 *Dan apabila engkau terdorong untuk menuturkan kebatilan,*  
 *maka gantikanlah tempatnya dengan tasbih.* [5]
 
-Peringatan ini berterusan sehinggalah kepada para pemimpin dakwah pada kurun ini, sama seperti pesanan Imam Hassan al-Banna rahimahullah ketika berwasiat:
+Peringatan ini berterusan sehinggalah kepada para pemimpin dakwah pada kurun ini, sama seperti pesanan Imam Hasan al-Banna rahimahullah ketika berwasiat:
 
 > *“Wahai saudaraku yang dikasihi! Pada setiap hari, engkau mempunyai satu saat pada waktu pagi, satu saat pada waktu petang, dan satu saat pada waktu sahur; yang melaluinya engkau mampu mengangkat rohmu yang suci menuju ke alam arwah yang tinggi, lalu engkau beroleh kebaikan dunia dan akhirat. Di hadapanmu juga terbentang hari Jumaat dan malamnya, yang engkau berupaya memenuhi kedua-dua tanganmu, hatimu, dan rohmu dengan limpahan rahmat Allah yang mencurah-curah ke atas hamba-hamba-Nya. Di hadapanmu terdapat musim-musim ketaatan, hari-hari ibadah, dan malam-malam taqarrub yang telah diarahkan kepadamu oleh Kitab sucimu yang mulia dan Rasulmu yang agung. Oleh itu, bersungguh-sungguhlah untuk menjadi sebahagian daripada golongan yang sentiasa mengingati Allah dan bukannya daripada golongan yang lalai, serta tergolong dalam kalangan mereka yang beramal dan bukannya daripada mereka yang malas. Rebutlah masa, kerana masa itu ibarat pedang; dan tinggalkanlah sikap berlengah-lengah kerana tiada perkara yang lebih memudaratkan daripadanya.”* [6]
 
@@ -522,7 +522,7 @@ Dalam rakaat yang lain, engkau mengingati Imam Ahmad bin Hanbal bersama kelompok
 
 Dalam rakaat yang lain, engkau mengingati Ibnu Taimiyah, Ibnu al-Qayyim, dan Ibnu al-Jauzi daripada kalangan tokoh pembaharu (*muslihin*); serta golongan penganut *wahdatul wujud*, fana khayalan, ucapan melampau (*syathahat*), dan bid'ah daripada kalangan pemalsu agama.
 
-Dalam rakaat yang lain, engkau mengingati Imam Hassan al-Banna, Abdul Qadir 'Audah, dan Sayyid Qutb, serta keteguhan mereka mendepani para thaghut yang sombong menindas.
+Dalam rakaat yang lain, engkau mengingati Imam Hasan al-Banna, Abdul Qadir 'Audah, dan Sayyid Qutb, serta keteguhan mereka mendepani para thaghut yang sombong menindas.
 
 Dengan cara ini, engkau benar-benar memikirkan solatmu—kerana seseorang insan tidak memperoleh bahagian daripada solatnya melainkan apa yang difahaminya. Engkau memperbaharui janjimu bersama generasi orang-orang beriman, serta menolak golongan perosak. Itulah hakikat pergerakan iman, kerana keimanan yang hakiki tidak akan mengambil kesetiaanmu melainkan ia turut meninggalkanmu di atas prinsip berlepas diri (*al-mufashalah*).
 
@@ -572,7 +572,7 @@ Inilah pengalaman penyair Muhammad Iqbal yang diringkaskannya seraya berkata:
 
 Gerakan dakwah Islamiah pada hari ini tidak akan mampu melonjak naik melainkan para pendakwahnya menyalakan obor mereka pada waktu malam; dan cahayanya tidak akan bersinar menyinari kegelapan jahiliah kurun kedua puluh ini selagi mana lidah mereka tidak basah berzikir dengan seruan: *(Ya Qayyum)*.
 
-Kita tidak menuturkan perkara ini buat kali pertama, bahkan ia merupakan wasiat Imam Hassan al-Banna ketika berbicara kepada para pendakwah seraya berkata:
+Kita tidak menuturkan perkara ini buat kali pertama, bahkan ia merupakan wasiat Imam Hasan al-Banna ketika berbicara kepada para pendakwah seraya berkata:
 
 > *“Minit-minit malam itu amat berharga, maka janganlah kamu menjatuhkan harganya dengan kelalaian.”* [5]
 
@@ -887,7 +887,7 @@ Sekiranya dia mencintai dunia, cintanya hanyalah sama seperti kecintaan Muhammad
 
 Beliau menyebutkan perihal pengajian hadis sebagai contoh bagi jenis amalan soleh yang sewajarnya seorang pendakwah mencintai kehidupan dunia ini kerananya, dan bukan kerana tujuan yang lain.
 
-Daripada generasi salafussoleh inilah, generasi pembaharu pada kurun ini menimba faham cita-cita yang tinggi (*fiqh al-himmah*). Maka Imam Hassan al-Banna memahami bahawa seorang pendakwah yang berjiwa besar:
+Daripada generasi salafussoleh inilah, generasi pembaharu pada kurun ini menimba faham cita-cita yang tinggi (*fiqh al-himmah*). Maka Imam Hasan al-Banna memahami bahawa seorang pendakwah yang berjiwa besar:
 
 > *“Akan mengorbankan seluruh hartanya, seluruh darahnya, dan seluruh jiwanya, pada jalan akidahnya yang diyakininya dan dia hidup kerananya.”* [10]
 
@@ -904,7 +904,7 @@ Daripada generasi salafussoleh inilah, generasi pembaharu pada kurun ini menimba
 [7] Al-Khatib al-Baghdadi, *Tarikh Baghdad*, jld. 5, hlm. 184.  
 [8] Ibnu al-Qayyim, *al-Jawab al-Kafi*, hlm. 70.  
 [9] Al-Khatib al-Baghdadi, *Tarikh Baghdad*, jld. 1, hlm. 352.  
-[10] Hassan al-Banna, *Muzakkirat al-Da'wah wa al-Da'iyah*, hlm. 233.
+[10] Hasan al-Banna, *Muzakkirat al-Da'wah wa al-Da'iyah*, hlm. 233.
 
 
 ---
@@ -1092,7 +1092,7 @@ Oleh itu, jadilah insan yang sentiasa berwaspada daripada lena wahai pendakwah M
 
 Para salafussoleh adakalanya mengibaratkan pengertian-pengertian ini dengan lafaz yang lain, yang mereka namakan: *menjaga masa* atau *memelihara masa*.
 
-Maka Imam Hassan al-Banna berpandangan:
+Maka Imam Hasan al-Banna berpandangan:
 
 > *“Sesiapa yang mengenali hak masa, sesungguhnya dia telah menyedari nilai kehidupan; kerana masa itulah kehidupan.”*
 
@@ -1166,7 +1166,7 @@ Demi Allah! Taklif itu bukanlah satu kegelapan, namun ia hanyalah bahasa kiasan 
 [9] Al-Mawardi, *Adab al-Dunya wa al-Din*, hlm. 82.  
 [10] Ibnu Rajab, *Zail Tabaqat al-Hanabilah*, jld. 1, hlm. 422.  
 [11] Ibnu al-Qayyim, *al-Fawa'id*, hlm. 41.  
-[12] Hassan al-Banna, *Majmu'ah Rasa'il al-Imam*, hlm. 498.  
+[12] Hasan al-Banna, *Majmu'ah Rasa'il al-Imam*, hlm. 498.  
 [13] Al-Khatib al-Baghdadi, *Tarikh Baghdad*, jld. 3, hlm. 75.  
 [14] Ibnu al-Jauzi, *Manaqib al-Imam Ahmad*, hlm. 339.  
 [15] Al-Buhturi, *Diwan al-Buhturi*, jld. 1, hlm. 172.  
@@ -1485,7 +1485,7 @@ Maka engkau dituntut, wahai da'i Muslim, agar memenuhi hatimu dengan perasaan pe
 [8] Ibnu Taimiyah, *Majmū' Fatāwā*, jld. 11, hlm. 101.  
 [9] *Ṣaḥīḥ al-Bukhārī*, jld. 9, hlm. 98.  
 [10] Muhammad Iqbal, *Dīwān al-Asrār wa al-Rumūz*, hlm. 84.  
-[11] Hassan al-Banna, *Risālah al-Ta'ālīm* dlm. *Majmū'ah Rasā'il al-Imām*, hlm. 28.  
+[11] Hasan al-Banna, *Risālah al-Ta'ālīm* dlm. *Majmū'ah Rasā'il al-Imām*, hlm. 28.  
 [12] Ibnu al-Mubārak, *Kitāb al-Zuhd*, hlm. 232.  
 [13] Al-Maqqarī, *Nafḥ al-Ṭīb*, jld. 8, hlm. 67.  
 [14] Abū al-'Atāhiyah, *Dīwān Abī al-'Atāhiyah*, hlm. 25.  
@@ -2674,7 +2674,7 @@ Dan sebaliknya beliau (Iqbal rahimahullah) menegaskan:
 
 Demikian jugalah urusan kaum muslimin tatkala ia menjadi sempit dan terhimpit pada hari ini; tiada yang mampu melapangkannya dan meluaskannya melainkan pemilik himmah yang tinggi semata-mata!
 
-Oleh itu, antara ajaran dan pesanan Imam Hassan al-Banna ialah:
+Oleh itu, antara ajaran dan pesanan Imam Hasan al-Banna ialah:
 
 > *“Hendaklah engkau sentiasa menyertakan niat jihad dan cinta kepada syahid, serta bersiap sedia untuknya mengikut kadar kemampuanmu.”*  
 > *“Dan hendaklah engkau sentiasa menganggap dirimu sebagai seorang tentera di dalam berek yang sedang menanti arahan!”* [14]
@@ -2781,7 +2781,7 @@ Nota Kaki:
 [11] Surah Ṭāhā, ayat 75.  
 [12] Surah al-Nisā', ayat 95–96.  
 [13] Ibnu al-Qayyim, *Miftāḥ Dār al-Sa'ādah*, jld. 1, hlm. 50.  
-[14] Hassan al-Banna, *Risālah al-Ta'ālīm* dlm. *Majmū'ah Rasā'il al-Imām*, hlm. 24.  
+[14] Hasan al-Banna, *Risālah al-Ta'ālīm* dlm. *Majmū'ah Rasā'il al-Imām*, hlm. 24.  
 [15] Abdul Wahhab 'Azzam, *Dīwān al-Mathānī*, hlm. 35.  
 [16] Surah al-Tawbah, ayat 38.  
 [17] Surah al-Tawbah, ayat 39.  
@@ -2909,7 +2909,7 @@ Sayyid Qutb rahimahullah menghuraikan:
 *Sesungguhnya hakikat ini yang ditemui oleh seorang pendukung dakwah di dalam dirinya tidak meninggalkan sebarang ruang keraguan di hatinya terhadap kesudahan urusannya, dan tiada ruang untuk teragak-agak daripada meneruskan perjalanannya.*  
 *Ia adalah hakikat ketuhanan (*al-ulūhiyyah*) sebagaimana ia terpancar di dalam hati saf mukminin yang terpilih selama-lamanya!”* [11]
 
-Imam Hassan al-Banna rahimahullah turut memahami teori pemisahan prinsip ini, lalu beliau menyeru kepada kewajipan mendidik generasi muda mengikut makna-maknanya, dan menerangkan bahawa masa depan Islam bergantung kepada:
+Imam Hasan al-Banna rahimahullah turut memahami teori pemisahan prinsip ini, lalu beliau menyeru kepada kewajipan mendidik generasi muda mengikut makna-maknanya, dan menerangkan bahawa masa depan Islam bergantung kepada:
 
 > *“Generasi baharu ini; maka perelokkanlah seruan dakwah kepadanya, bersungguh-sungguhlah dalam membentuk keperibadiannya, ajarkanlah kepadanya kemerdekaan jiwa dan hati, kemerdekaan pemikiran dan akal, serta kemerdekaan jihad dan amal. Penuhilah rohnya yang bersemangat dengan keagungan Islam dan keindahan al-Quran, serta gemblenglah dia di bawah panji Muhammad dan benderanya; nescaya tidak lama lagi kamu akan melihat daripadanya seorang pemerintah Muslim yang bermujahadah melawan nafsunya dan membahagiakan orang lain!”* [12]
 
@@ -2950,7 +2950,7 @@ Nota Kaki:
 [9] *Ibid.*, jld. 10, hlm. 599.  
 [10] Surah Hūd, ayat 54–57.  
 [11] Sayyid Qutb, *Fī Zhilāl al-Qur'ān*, jld. 12, hlm. 97–98.  
-[12] Hassan al-Banna, *Taḥta Rāyah al-Qur'ān* dlm. *Majmū'ah Rasā'il al-Imām*, hlm. 319, 321.  
+[12] Hasan al-Banna, *Taḥta Rāyah al-Qur'ān* dlm. *Majmū'ah Rasā'il al-Imām*, hlm. 319, 321.  
 [13] *Ibid.*
 
 ---
@@ -3114,7 +3114,7 @@ Begitulah sewajarnya, tanda raut wajah para da'i sentiasa memancarkan kesungguha
 
 Generasi abad ini daripada kalangan para da'i di Mesir telah memperbaharui potret-potret gemilang silam itu, demi membuktikan bahawa Islam yang telah melahirkan generasi terdahulu masih tetap hidup bertenaga.
 
-Imam Hassan al-Banna menyifatkan para sahabatnya sambil berkata:
+Imam Hasan al-Banna menyifatkan para sahabatnya sambil berkata:
 
 > *“Mata mereka telah berjaga malam tatkala manusia sedang nyenyak tidur; jiwa mereka disibukkan dengan urusan ummah tatkala orang-orang yang bersenang-lenang lena dalam keasyikan. Salah seorang daripada mereka menekuni mejanya dari waktu asar sehingga larut tengah malam, bekerja bersungguh-sungguh dan berfikir dengan tekun. Dan dia berterusan sedemikian rupa sepanjang bulannya; sehinggakan apabila berakhirnya bulan, dia menjadikan pendapatannya sebagai sumber sumbangan untuk jemaahnya, dan perbelanjaannya sebagai nafkah untuk dakwahnya, serta hartanya sebagai khadam kepada matlamat perjuangannya. Dan keadaan dirinya seakan-akan berkata kepada kaumnya yang lalai daripada pengorbanannya:*
 
@@ -3163,7 +3163,7 @@ Dan demikianlah Kami kisahkan kisah-kisah ini kepada para da'i Islam, moga-moga 
 [10] Al-Zahabi, *Tazkirat al-Huffaz*, jld. 2, hlm. 524.
 [11] Ibnu Rajab al-Hanbali, *Zail Tabaqat al-Hanabilah*, jld. 1, hlm. 146; jld. 2, hlm. 361.
 [12] *Ibid.*
-[13] Hassan al-Banna, *Ila Ayyi Syai'in Nad'u al-Nas*, Majmu'ah Rasa'il, hlm. 129.
+[13] Hasan al-Banna, *Ila Ayyi Syai'in Nad'u al-Nas*, Majmu'ah Rasa'il, hlm. 129.
 
 
 ---
