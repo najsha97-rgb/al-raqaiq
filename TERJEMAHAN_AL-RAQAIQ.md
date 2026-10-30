@@ -3090,9 +3090,9 @@ Anak murid Ahmad bin Hanbal serta pengikut mazhabnya selepas beliau meneruskan l
 
 > *“Sikap kesungguhan mengatasi diri mereka, dan sedikit sekali senda gurau di sisi mereka.”* [9]
 
-Antara murid-murid beliau ialah: al-Hafiz, al-Imam, al-Faqih, al-Zahid, al-Muhaddis Ishaq bin Mansur yang dikenali sebagai al-Kausaj, guru kepada Imam al-Bukhari, Muslim dan selain kedua-duanya. Beliau menetap di Naisabur di Khurasan, lalu beliau bermusafir ke Baghdad dan mencatat banyak masalah fiqh daripada Ahmad bin Hanbal, kemudian beliau kembali ke Naisabur. Kemudian:
+Antara murid-murid beliau ialah: al-Hafiz, al-Imam, al-Faqih, al-Zahid, al-Muhaddis Ishaq bin Mansur yang dikenali sebagai al-Kausaj, guru kepada Imam al-Bukhari, Muslim dan selain kedua-duanya. Beliau menetap di Naisabur di Khurasan, lalu beliau bermusafir ke Baghdad dan mencatat banyak masalah fiqh daripada Ahmad bin Hanbal, kemudian beliau kembali ke Naisabur.
 
-> *Sampai berita kepadanya bahawa Ahmad bin Hanbal telah menarik balik sebahagian daripada pandangan masalah tersebut; maka beliau terus menggalas uncang catatannya di atas bahunya dan bermusafir berjalan kaki menuju ke Baghdad menemui Imam Ahmad, lalu beliau membentangkan tulisan tangan Ahmad atas setiap masalah yang beliau fatwakan, maka Imam Ahmad memperakuinya dan berasa amat kagum dengannya.* [10]
+Sampai berita kepadanya bahawa Imam Ahmad bin Hanbal telah menarik balik sebahagian daripada pandangan masalah tersebut; maka beliau terus menggalas uncang catatannya di atas bahunya dan bermusafir dengan berjalan kaki menuju ke Baghdad menemui Imam Ahmad, lalu beliau membentangkan tulisan tangan Imam Ahmad bagi setiap masalah yang beliau fatwakan, lantas Imam Ahmad memperakuinya dan berasa amat kagum dengannya. [10]
 
 Manakala salah seorang daripada kita hari ini duduk bersenang-senang di atas sofanya yang empuk, sedangkan di sisinya terletak kitab Musnad Ahmad yang telah dicetak, ditahqiq, dijilid rapi dan bertinta emas, namun dia terlalu malas untuk menatapnya!
 

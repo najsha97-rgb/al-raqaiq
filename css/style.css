@@ -803,10 +803,9 @@ body {
 
 .quote-highlight-box .tokoh-name {
   font-style: normal;
-  font-weight: 700;
-  color: var(--emerald-primary);
-  display: block;
-  margin-bottom: 4px;
+  font-weight: inherit;
+  color: inherit;
+  display: inline;
 }
 
 /* Ensure any Arabic text inside quotes is NEVER italicized */
