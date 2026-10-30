@@ -92,15 +92,15 @@
 * **Intisari Subtajuk:**
   * **• Ketinggian Martabat... Harganya Ialah Keletihan:**
     * Kebahagiaan abadi tidak dapat diraih melalui keselesaan jasad; siapa yang inginkan kerehatan di akhirat mesti sanggup meletihkan dirinya di dunia.
-  * **• Dan Engkau Pemilik Iman:**
+  * **• Engkau Pemilik Iman:**
     * Iman yang mendalam memberikan daya tahan luar biasa kepada aktivis untuk mengharungi tekanan dan mehnah.
-  * **• Dan Manusia yang Paling Penat Ialah yang Agung Tuntutan Cita-Citanya:**
+  * **• Manusia yang Paling Penat Ialah yang Agung Tuntutan Cita-Citanya:**
     * Semakin tinggi himmah (cita-cita) seorang insan, semakin penat jasadnya memikul tuntutan jiwa tersebut.
-  * **• Dan Engkau Insan Merdeka yang Mulia:**
+  * **• Engkau Insan Merdeka yang Mulia:**
     * Jiwa yang merdeka tidak sujud kepada kebendaan dan tidak tunduk kepada ugutan penguasa zalim.
-  * **• Dan Engkau Pemilik Matlamat:**
+  * **• Engkau Pemilik Matlamat:**
     * Matlamat yang jelas memandu da'i agar tidak terpesong oleh godaan remeh di tepi jalan.
-  * **• Dan Engkau Penuntut Akses Menuju Allah:**
+  * **• Engkau Penuntut Akses Menuju Allah:**
     * Mendekatkan diri kepada Allah melalui pintu-pintu ketaatan dan tawajuh yang ikhlas.
   * **• Ujian Kelapangan Masa dan Kelalaian:**
     * Masa lapang adalah jerangkap maut bagi aktivis; ruang kosong yang tidak diisi dengan kebaikan pasti akan diracuni oleh fitnah syubhat dan syahwat.

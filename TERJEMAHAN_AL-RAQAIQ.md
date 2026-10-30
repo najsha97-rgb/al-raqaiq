@@ -31,11 +31,11 @@ BAB 3: PERMULAAN (الابتداء) ............................................
 
 BAB 4: MENUJU KEGEMBIRAAN AKHIRAT (نحو أفراح الآخرة) ............................... 27
    • Ketinggian Martabat... Harganya Ialah Keletihan ............................... 27
-   • Dan Engkau Pemilik Iman ....................................................... 28
-   • Dan Manusia yang Paling Penat Ialah yang Agung Tuntutan Cita-Citanya .......... 29
-   • Dan Engkau Insan Merdeka yang Mulia ........................................... 29
-   • Dan Engkau Pemilik Matlamat ................................................... 29
-   • Dan Engkau Penuntut Akses Menuju Allah ........................................ 29
+   • Engkau Pemilik Iman ....................................................... 28
+   • Manusia yang Paling Penat Ialah yang Agung Tuntutan Cita-Citanya .......... 29
+   • Engkau Insan Merdeka yang Mulia ........................................... 29
+   • Engkau Pemilik Matlamat ................................................... 29
+   • Engkau Penuntut Akses Menuju Allah ........................................ 29
    • Ujian Kelapangan Masa dan Kelalaian ........................................... 30
 
 BAB 5: PERSAUDARAAN SYIAR DAKWAH KITA (الأخوة شعار دعوتنا) ......................... 36
@@ -968,7 +968,7 @@ Dr. Abdul Wahhab 'Azzam memberikan amaran kepadamu dan menyedarkanmu bahawa:
 
 ---
 
-### Dan Engkau Pemilik Iman
+### Engkau Pemilik Iman
 
 Sayyid Qutb rahimahullah menegaskan:
 
@@ -982,17 +982,17 @@ Sayyid Qutb rahimahullah menegaskan:
 
 ---
 
-### Dan Manusia yang Paling Penat Ialah yang Agong Tuntutan Cita-Citanya
+### Manusia yang Paling Penat Ialah yang Agong Tuntutan Cita-Citanya
 
 ---
 
-### Dan Engkau Insan Merdeka yang Mulia
+### Engkau Insan Merdeka yang Mulia
 
 > *“Insan merdeka yang mulia tidak akan mensasarkan cita-citanya melainkan untuk mencapai matlamat yang paling jauh dalam setiap usaha yang dicubanya. Dia tidak akan berlengah-lengah untuk mencurahkan tenaganya sehingga ke puncak keupayaannya dan batas kemampuannya; menimba kekuatan demi kekuatan; merealisasikan kehebatan terpendam yang ada di dalam dirinya; menerima daripadanya wasilah-wasilah kejayaan luar biasa dalam amalannya; serta memancarkan menerusi kejeniusannya kilauan cahaya daripada gejolak darahnya persis dengan sinar bintang yang membuktikan kepada sesiapa sahaja yang mempunyai mata bahawa ia adalah bintang dan bukan sesuatu yang lain.”* [4]
 
 ---
 
-### Dan Engkau Pemilik Matlamat
+### Engkau Pemilik Matlamat
 
 Sesuatu yang menyampaikan pendakwah kepada matlamatnya hanyalah: 
 
@@ -1000,7 +1000,7 @@ Sesuatu yang menyampaikan pendakwah kepada matlamatnya hanyalah:
 
 ---
 
-### Dan Engkau Penuntut Akses Menuju Allah
+### Engkau Penuntut Akses Menuju Allah
 
 > *“Penuntut akses yang ingin sampai kepada Allah dan negeri akhirat—bahkan penuntut sebarang bidang ilmu, kemahiran, dan kepimpinan sehingga dia layak menjadi ikutan dan peneraju—memerlukan dirinya menjadi seorang yang berani lagi gagah; menguasai sangkaannya; tidak tertewas di bawah kongkongan khayalannya; bersikap zuhud terhadap apa jua perkara selain matlamat tuntutannya; mencintai apa yang ditujunya; mengetahui jalan untuk mencapainya serta jalan-jalan yang menghalangnya daripadanya; bercita-cita kental; berhati cekal; tidak dipalingkan daripada matlamatnya oleh celaan orang yang mencela mahupun teguran orang yang menyalahkan; banyak berdiam diri; sentiasa berfikir; tidak terbuai oleh kelazatan pujian dan tidak rebah oleh kepedihan celaan; melaksanakan segala asbab bantuan yang diperlukannya; tidak mudah digugat oleh sebarang bantahan; syiarnya ialah sabar; dan kerehatannya ialah keletihan.”* [6]
 

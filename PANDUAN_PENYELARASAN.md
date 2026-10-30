@@ -226,3 +226,15 @@ Telah ditetapkan bahawa terjemahan rasmi bagi judul-judul karya Syeikh Muhammad 
 ### 26. Penyelarasan Tajuk Bab 10: 'Tidak.. Wahai Belenggu-Belenggu Bumi!'
 * **Ketetapan Penyelarasan:** Judul Bab 10 daripada karya asal berbahasa Arab *Lā.. Yā Quyūd al-Arḍ (لا.. يا قيود الأرض)* diselaraskan terjemahannya kepada **"Tidak.. Wahai Belenggu-Belenggu Bumi!"** (menggantikan *Jangan.. Wahai Belenggu-Belenggu Bumi!*).
 * **Falsafah Ketetapan:** Kalimah *'Lā'* di sini melambangkan laungan penolakan mutlak dan keteguhan tekad seorang da'i dalam membebaskan diri daripada segala tarikan serta kekangan material duniawi demi meninggikan kalimah Allah.
+
+
+---
+
+### 27. Penyelarasan Subtajuk Bab 4: Pengguguran Kata Sendi 'Dan'
+* **Ketetapan Penyelarasan:** Lima (5) subtajuk dalam Bab 4 diselaraskan dengan menggugurkan perkataan awalan **'Dan'** agar ungkapan tajuk lebih padat, ringkas, dan selaras dengan format tajuk-tajuk bab yang lain.
+* **Senarai Subtajuk yang Diselaraskan:**
+  1. *Engkau Pemilik Iman* (bukan *Dan Engkau Pemilik Iman*)
+  2. *Manusia yang Paling Penat Ialah yang Agong Tuntutan Cita-Citanya* (bukan *Dan Manusia...*)
+  3. *Engkau Insan Merdeka yang Mulia* (bukan *Dan Engkau Insan...*)
+  4. *Engkau Pemilik Matlamat* (bukan *Dan Engkau Pemilik...*)
+  5. *Engkau Penuntut Akses Menuju Allah* (bukan *Dan Engkau Penuntut...*)

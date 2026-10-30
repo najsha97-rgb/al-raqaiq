@@ -1,4 +1,4 @@
-const CACHE_NAME = 'alraqaiq-cache-v22-ch10-tidak';
+const CACHE_NAME = 'alraqaiq-cache-v23-bab4-subtopics';
 const ASSETS_TO_CACHE = [
   './',
   './index.html',

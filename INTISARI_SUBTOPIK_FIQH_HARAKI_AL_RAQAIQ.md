@@ -188,7 +188,7 @@
 
 ---
 
-### 2. subtajuk: *Dan Engkau Pemilik Iman*
+### 2. subtajuk: *Engkau Pemilik Iman*
 * **1. Diagnosis Halangan / Rawatan Jiwa:**  
   *Rasa Rendah Diri (Minderwertigkeitsgefühl) di Hadapan Kebendaan Jahiliah* — Da'i merasa kerdil melihat kemegahan bangunan, teknologi, dan kekayaan material para pendukung kebatilan.
 * **2. Modus Operandi & Gejala Penyelusupan:**  
@@ -201,7 +201,7 @@
 
 ---
 
-### 3. subtajuk: *Dan Manusia yang Paling Penat Ialah yang Agong Tuntutan Cita-Citanya*
+### 3. subtajuk: *Manusia yang Paling Penat Ialah yang Agong Tuntutan Cita-Citanya*
 * **1. Diagnosis Halangan / Rawatan Jiwa:**  
   *Kelemahan Himmah (Cita-Cita Kerdil)* — Berpuas hati menjadi orang awam yang pasif, mencukupi diri dengan solat fardhu dan zikir sendirian tanpa memikirkan nasib ummah yang dizalimi.
 * **2. Modus Operandi & Gejala Penyelusupan:**  
@@ -216,7 +216,7 @@
 
 ---
 
-### 4. subtajuk: *Dan Engkau Insan Merdeka yang Mulia*
+### 4. subtajuk: *Engkau Insan Merdeka yang Mulia*
 * **1. Diagnosis Halangan / Rawatan Jiwa:**  
   *Kehambaan kepada Harta & Pangkat* — Tergoda dengan tawaran habuan material atau takut kehilangan pekerjaan sekiranya bertegas menyatakan kebenaran.
 * **2. Modus Operandi & Gejala Penyelusupan:**  
@@ -228,7 +228,7 @@
 
 ---
 
-### 5. subtajuk: *Dan Engkau Pemilik Matlamat*
+### 5. subtajuk: *Engkau Pemilik Matlamat*
 * **1. Diagnosis Halangan / Rawatan Jiwa:**  
   *Hanyut dalam Urusan Ranting & Lupa Matlamat Utama* — Sibuk bertengkar mengenai isu-isu khilafiah cabang atau perselisihan teknikal sehingga melupakan matlamat mendaulatkan syariat.
 * **2. Modus Operandi & Gejala Penyelusupan:**  
@@ -240,7 +240,7 @@
 
 ---
 
-### 6. subtajuk: *Dan Engkau Penuntut Akses Menuju Allah*
+### 6. subtajuk: *Engkau Penuntut Akses Menuju Allah*
 * **1. Diagnosis Halangan / Rawatan Jiwa:**  
   *Terputus Hubungan Hati dengan Sumber Wahyu* — Menjadikan akal fikiran dan teori organisasi semata-mata sebagai sandaran tanpa memohon bimbingan ilham daripada Allah SWT.
 * **2. Modus Operandi & Gejala Penyelusupan:**  
