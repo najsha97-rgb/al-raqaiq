@@ -105,7 +105,7 @@ BAB 12: KISAH-KISAH "HIBURAN" PARA DA'I (قصص من لهو الدعاة) ......
    • Petunjuk Menghalang Rasa Mengantuk ........................................... 102
    • Debu...! ..................................................................... 102
    • Kegemaran Mengangkat Beban yang Berat ........................................ 103
-   • Kubu Tarbiah al-Asadiyyah .................................................... 103
+   • Kubu Tarbiah al-Asadiah .................................................... 103
    • Lenyaplah Waktu Terluang...! ................................................. 104
    • Al-Kausaj Menjelajah Mencari Ilmu dengan Berjalan Kaki ................................... 104
    • Ulama Hanabilah Memelihara Keterampilan dan Wibawa ........................... 105
@@ -3052,7 +3052,7 @@ Maka Umar RA ditanya tentang perkara itu, lalu beliau menjawab:
 
 Tiada seorang pun daripada mereka yang hadir di al-Qadisiyyah melainkan telah berjuang habis-habisan; akan tetapi para da'i yang ikhlas kepada Allah mempunyai kecenderungan dan kegemaran untuk berlumba-lumba mengangkat bebanan yang paling berat.
 
-• **Kubu Tarbiah al-Asadiyyah**
+• **Kubu Tarbiah al-Asadiah**
 
 Kemuncak darjat ini dicapai oleh seorang tokoh tabi'in yang mulia, ahli ibadah, fuqaha, dan muhaddis yang agung, Abu Wa'il Syaqiq bin Salamah al-Asadi, hasil daripada didikan empat orang Khulafa' al-Rasyidin, Ibnu Mas'ud, Sa'ad bin Abi Waqqas dan selain mereka; sesungguhnya beliau meninggalkan perniagaan dan kemewahan rumah kediaman, lalu membina untuk dirinya di Kufah sebuah kubu kecil yang hanya memuatkan dirinya, kudanya, dan senjatanya sahaja; dan beliau menghabiskan seluruh umurnya dalam keadaan sentiasa bersiap siaga untuk berjihad, sehinggakan beliau tidak lagi mengenali neraca urusan pasar yang digunakan oleh manusia dalam perniagaan mereka. [6]
 

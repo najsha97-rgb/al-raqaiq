@@ -274,7 +274,7 @@
     * Abdullah bin Abbas RA tidur di hadapan pintu rumah sahabat demi menuntut hadis sehingga diselubungi debu angin panas.
   * **• Kegemaran Mengangkat Beban yang Berat:**
     * Kabilah al-Nakha' dalam perang al-Qadisiyyah berlumba-lumba memikul beban pertempuran paling sukar.
-  * **• Kubu Tarbiah al-Asadiyyah:**
+  * **• Kubu Tarbiah al-Asadiah:**
     * Abu Wa'il Syaqiq membina kubu sempit di Kufah hanya untuk dirinya, kudanya dan senjatanya demi bersiap sedia untuk jihad.
   * **• Lenyaplah Waktu Terluang... !:**
     * Umar bin Abdul Aziz menolak pelawaan rakan lamanya untuk berehat dengan lafaz: *"Di manakah lagi adanya waktu terluang? Lenyaplah waktu terluang, maka tiada lagi masa lapang melainkan di sisi Allah!"*
