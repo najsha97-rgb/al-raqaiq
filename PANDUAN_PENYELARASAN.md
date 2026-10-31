@@ -423,3 +423,21 @@ Telah ditetapkan bahawa terjemahan rasmi bagi judul-judul karya Syeikh Muhammad 
   - Jumlah Perenggan: 916 (100% terpelihara tanpa sebarang pengurangan)
   - Jumlah Nota Kaki: 181 (100% terpelihara)
 * **Liputan Menyeluruh:** Diselaraskan di semua platform: Manuskrip Markdown (`TERJEMAHAN_AL-RAQAIQ.md`), Intisari Ilmiah Lengkap, Intisari Subtopik Fiqh Haraki, dokumen Word (`.docx`), pangkalan data JSON/JS PWA, dan bot Telegram.
+
+
+### 43. Rombakan Struktur Bab 1 (*Tasbih Mengukuhkan Kerajaan*) Kepada 6 Subtajuk Mandiri
+* **Latar Belakang:** Bab 1 sebelum ini mempunyai 4 subtajuk dengan tajuk bab yang kadang-kadang tersilap dirujuk sebagai *Kekuasaan* dan subtajuk pertama yang terlalu panjang merangkumi masjid, zikir/tasbih, serta falsafah ubudiah al-Maududi. Selain itu, terdapat kesilapan terjemahan di akhir Subtajuk 4 di mana perkataan *'mendirikan rukuk'* sepatutnya *'mengerjakan solat'*.
+* **Ketetapan Penyelarasan (Cadangan & Arahan Sahabat):**
+  1. **Tajuk Bab 1:** Dimuktamadkan secara rasmi sebagai TASBIH MENGUKUHKAN KERAJAAN (*تَسْبِيحٌ يَشُدُّ المُلْكَ*).
+  2. **Subtajuk 1:** Ditukar nama kepada Bermula Langkah daripada Masjid (12 perenggan: P1–P12 — titik tolak dakwah bermula di rumah Allah, ibrah solat sunat dua rakaat ketika musafir dan kepulangan Rasulullah SAW, serta solat sunat Ja'far bin Abi Talib; nota kaki [1]–[4]).
+  3. **Subtajuk 2 (Baharu):** Solat, Zikir dan Tasbih (7 perenggan: P13–P19 — bermula daripada pesanan Abdullah bin al-Mubarak tentang merebut dua rakaat ketika lapang, hadis Abu Darda' tentang solat di kegelapan malam, istiqamah zikir para salafussoleh termasuk Abu Hurairah dan Khalid bin Ma'dan, serta rahsia keteguhan jiwa rijal dakwah; nota kaki [5]–[7]).
+  4. **Subtajuk 3 (Baharu):** Tahap-Tahap Merealisasikan Matlamat Ubudiah (5 perenggan: P20–P24 — bermula daripada kalam Imam Sayyid Abul A'la al-Maududi yang dirungkaikan menjadi 4 perenggan terpisah membahagikan tahap penghambaan diri kepada Allah: membebaskan diri daripada perhambaan selain Allah, ketaatan mutlak kepada hukum Allah, menjadikan keredhaan Allah sebagai matlamat tertinggi, dan penyerahan roh serta jasad semata-mata kerana-Nya; nota kaki [8]).
+  5. **Subtajuk 4:** Sahutlah Seruan Nabimu SAW (26 perenggan: P25–P50; nota kaki [9]–[18]). Frasa penutup pada perenggan akhir (P50) dibetulkan daripada *'mendirikan rukuk.'* kepada *'mengerjakan solat.'*.
+  6. **Subtajuk 5:** Keutamaan Golongan Terdahulu Menjaga Solat (10 perenggan: P51–P60; nota kaki [19]–[23]).
+  7. **Subtajuk 6:** Dakwah yang Menimba Pengajaran daripada Nabi Daud AS (6 perenggan: P61–P66; nota kaki [24]).
+* **Statistik Keseluruhan Kitab:**
+  - Jumlah Bab: 14 (1 epigraf + 1 mukadimah + 12 bab teks)
+  - Jumlah Subtajuk: 101 (100 subtajuk teks + 1 epigraf) — melepasi mercu tanda 100 subtajuk!
+  - Jumlah Perenggan: 919 (100% teks terpelihara; pertambahan 3 perenggan susulan perungkaian kata-kata al-Maududi kepada 4 perenggan kemas)
+  - Jumlah Nota Kaki: 181 (100% terpelihara)
+* **Liputan Menyeluruh:** Diselaraskan di semua 7 lapisan ekosistem: Manuskrip Markdown (TERJEMAHAN_AL-RAQAIQ.md), Intisari Ilmiah Lengkap, Intisari Subtopik Fiqh Haraki, dokumen Word (.docx), pangkalan data JSON/JS PWA, dan bot Telegram.

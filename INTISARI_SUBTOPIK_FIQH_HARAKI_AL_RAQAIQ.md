@@ -102,7 +102,7 @@
 
 ---
 
-# 🛡️ BAB 1: TASBIH MENGUKUHKAN KEKUASAAN
+# 🛡️ BAB 1: TASBIH MENGUKUHKAN KERAJAAN
 ### *(Tasbih Yang Mengukuhkan Kerajaan - تَسْبِيحٌ يَشُدُّ المُلْكَ)*
 
 * **💎 Mutiara Kata Hikmah:**  
@@ -112,7 +112,43 @@
 
 ---
 
-### 1. subtajuk: *Sahutlah Seruan Nabimu SAW*
+### 1. subtajuk: *Bermula Langkah daripada Masjid*
+* **1. Diagnosis Halangan / Rawatan Jiwa:**  
+  *Penyisihan Masjid daripada Pangkalan Gerakan* — Menganggap masjid sekadar tempat solat ritual semata-mata, lalu memisahkan aktiviti perancangan, tarbiah, dan perbincangan umat ke tempat-tempat komersial yang jauh daripada naungan rumah Allah.
+* **2. Modus Operandi & Gejala Penyelusupan:**  
+  Aktivis merasa canggung berlama-lama di masjid, mengabaikan solat berjemaah di qaryah sendiri, dan tidak menjadikan masjid sebagai pusat hubungan dengan masyarakat akar umbi.
+* **3. Implikasi Terhadap Saf Haraki:**  
+  Dakwah terasing daripada denyut nadi masyarakat tempatan; saf kehilangan keberkatan dan kesatuan fikrah yang diasaskan di atas keikhlasan iktikaf di rumah Allah.
+* **4. Preskripsi Penawar (*Fiqh as-Sulūk*) & Petunjuk Salaf:**  
+  *Sunnah Sirah Nabawiah:* Meneladani Rasulullah SAW yang membina masjid terlebih dahulu sebelum mendirikan institusi masyarakat di Madinah. Menghayati athar Ali bin Abi Thalib RA bahawa orang yang melazimi masjid meraih 8 fadhilat agung termasuk ilmu yang mantap, saudara yang tulus kerana Allah, dan pemeliharaan daripada dosa.
+
+---
+
+### 2. subtajuk: *Solat, Zikir dan Tasbih*
+* **1. Diagnosis Halangan / Rawatan Jiwa:**  
+  *Kekeringan Rohani Akibat Mengabaikan Wirid & Tasbih* — Mengutamakan kesibukan pergerakan zahir sehingga hati menjadi tandus daripada kelazatan berzikir dan bertasbih kepada Allah SWT.
+* **2. Modus Operandi & Gejala Penyelusupan:**  
+  Lidah mudah tergelincir menuturkan perkara lagho, mengumpat, atau berdebat kosong apabila mempunyai waktu terluang, bukannya menyibukkan lidah dengan zikir dan doa.
+* **3. Implikasi Terhadap Saf Haraki:**  
+  Hati menjadi keras, mudah bertelingkah dalam mesyuarat, dan hilang daya ketahanan rohani tatkala berdepan tekanan ujian fitnah.
+* **4. Preskripsi Penawar (*Fiqh as-Sulūk*) & Petunjuk Salaf:**  
+  *Wasiat Abdullah bin al-Mubarak & Hasan al-Banna:* Rebutlah dua rakaat mendekatkan diri kepada Allah tatkala berkesempatan rehat, dan apabila terdorong bercakap kebatilan, gantikanlah dengan tasbih! Mengambil saat hening harian untuk bermunajat dan menginsafi kekurangan diri menurut panduan Said Nursi.
+
+---
+
+### 3. subtajuk: *Tahap-Tahap Merealisasikan Matlamat Ubudiah*
+* **1. Diagnosis Halangan / Rawatan Jiwa:**  
+  *Gopoh-Gapah (Isti'jāl) Menuntut Kemenangan Tanpa Pembinaan Jiwa* — Keinginan melihat perubahan tampuk kepimpinan dan penegakan hukum zahir dengan segera tanpa melalui proses tarbiah dan pembersihan jiwa yang mendalam.
+* **2. Modus Operandi & Gejala Penyelusupan:**  
+  Memfokuskan tenaga kepada simbol-simbol luar, pakaian, dan retorik kekuasaan sebelum keimanan, takwa, dan ihsan berakar umbi di dalam jiwa kader dan masyarakat.
+* **3. Implikasi Terhadap Saf Haraki:**  
+  Lahirnya kepimpinan yang rapuh dari sudut akhlak dan keikhlasan, mudah tumbang apabila berhadapan godaan kuasa, rasuah, dan persengketaan duniawi.
+* **4. Preskripsi Penawar (*Fiqh as-Sulūk*) & Petunjuk Salaf:**  
+  *Manhaj Bertahap-tahap (Tadarruj) al-Maududi:* Memahami sunnatullah bahawa Rasulullah SAW terlebih dahulu meleburkan emas dan membersihkannya daripada kotoran, barulah mencetaknya menjadi dinar; melatih perajurit terlebih dahulu, barulah memakaikan pakaian seragam. Pembinaan akidah dan takwa mesti mendahului penampilan lahiriah dan penguatkuasaan hukum.
+
+---
+
+### 4. subtajuk: *Sahutlah Seruan Nabimu SAW*
 * **1. Diagnosis Halangan / Rawatan Jiwa:**  
   *Penyakit Kelalaian Zikir & Kehilangan Sambungan Rabbani* — Aktivis yang tenggelam dalam kesibukan urusan duniawi dan gerak kerja teknikal tanzim sehingga lidahnya kering daripada menyebut nama Allah Taala.
 * **2. Modus Operandi & Gejala Penyelusupan:**  
@@ -124,7 +160,7 @@
 
 ---
 
-### 2. subtajuk: *Keutamaan Golongan Terdahulu Menjaga Solat*
+### 5. subtajuk: *Keutamaan Golongan Terdahulu Menjaga Solat*
 * **1. Diagnosis Halangan / Rawatan Jiwa:**  
   *Kelesuan Menunaikan Solat Berjemaah di Masjid* — Menganggap solat fardhu sekadar melepaskan batuk di tangga atau menundanya ke hujung waktu atas alasan kekangan masa dan tugas.
 * **2. Modus Operandi & Gejala Penyelusupan:**  
@@ -136,7 +172,7 @@
 
 ---
 
-### 3. subtajuk: *Dakwah yang Menimba Pengajaran daripada Nabi Daud AS*
+### 6. subtajuk: *Dakwah yang Menimba Pengajaran daripada Nabi Daud AS*
 * **1. Diagnosis Halangan / Rawatan Jiwa:**  
   *Ilusi Bahawa Kuasa Politik Berdiri Sendiri Tanpa Mihrab* — Kegagalan memahami hubungan organik antara keteguhan kerajaan (*syaddul mulk*) dengan kedalaman ibadah malam dan tasbih.
 * **2. Modus Operandi & Gejala Penyelusupan:**  

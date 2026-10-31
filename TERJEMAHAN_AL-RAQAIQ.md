@@ -18,7 +18,10 @@ EPILOG / EPIGRAF: PENJARA HARAPAN (حصار الأمل) ........................
 MUKADIMAH: JIWA YANG BERIMAN (النفس المؤمنة) ........................................ 1
    • Gerakan Islam Wajib Memiliki Firasat Meneliti Dirinya Sendiri ............... 1
 
-BAB 1: TASBIH MENGUKUHKAN KEKUASAAN (تسبيح يشد الملك) ............................... 6
+BAB 1: TASBIH MENGUKUHKAN KERAJAAN (تسبيح يشد الملك) ................................ 6
+   • Bermula Langkah daripada Masjid ................................................ 6
+   • Solat, Zikir dan Tasbih ........................................................ 7
+   • Tahap-Tahap Merealisasikan Matlamat Ubudiah .................................... 8
    • Sahutlah Seruan Nabimu SAW ..................................................... 9
    • Keutamaan Golongan Terdahulu Menjaga Solat .................................... 11
    • Dakwah yang Menimba Pengajaran daripada Nabi Daud AS .......................... 12
@@ -322,8 +325,8 @@ Di dalam kitab seperti inilah terkandung nasihat-nasihat pelembut hati, ketunduk
 
 
 
-# BAB 1: TASBIH MENGUKUHKAN KEKUASAAN
-### Tasbih Yang Mengukuhkan Kerajaan
+# BAB 1: TASBIH MENGUKUHKAN KERAJAAN
+### Bermula Langkah daripada Masjid
 
 Sebuah dakwah yang ingin tegak istiqamah menuju Allah SWT, sudah semestinya melangkah masuk menerusi pintu istiqamah; dan pintunya ialah mihrab.
 
@@ -364,6 +367,8 @@ Golongan yang diberikan taufik sentiasa menyambut kurniaan yang dilimpahkan oleh
 *Merekalah rijal sejati yang tidak dilalaikan oleh sebarang permainan*  
 *daripada mendirikan solat, dan tidak pula oleh pembohongan rasa malas.* [4]
 
+### Solat, Zikir dan Tasbih
+
 Para imam yang terpimpin tidak putus-putus berpesan tentang perkara ini, bermula daripada generasi awal salafussoleh; sama seperti kata-kata Abdullah bin al-Mubarak rahimahullah:
 
 **اغْتَنِمْ رَكْعَتَيْنِ زُلْفَى إِلَى اللهِ**  
@@ -394,14 +399,16 @@ Hal ini sama seperti kata-kata Imam Badi'uzzaman Said al-Nursi rahimahullah keti
 >
 > *Maka dengan segala tingkatan ubudiahmu itu, engkau menzahirkan keindahan rububiah-Nya.”* [7]
 
+### Tahap-Tahap Merealisasikan Matlamat Ubudiah
+
 Peringatan ini sama seperti yang ditegaskan oleh Imam al-Maududi rahimahullah ketika membicarakan tentang pengutusan para rasul alaihimussalam bagi merealisasikan matlamat ubudiah di atas muka bumi, di mana beliau berkata:
 
 > *“Perhatikanlah sejenak kaedah bertahap-tahap (tadarrudj) dan susunan tertib yang dipraktikkan oleh Nabi SAW untuk mencapai matlamat ini. Baginda terlebih dahulu—sebelum melakukan apa-apa perkara—menyeru manusia kepada keimanan, memantapkannya di dalam hati mereka, serta memperkukuhnya di atas asas yang paling luas dan kukuh. Kemudian, daripada kalangan mereka yang beriman itu, bercambahlah pengajaran dan tarbiah Baginda selaras dengan tuntutan keimanan ini secara bertahap-tahap melalui ketaatan praktikal (iaitu Islam), kebersihan akhlak (iaitu takwa), serta kecintaan kepada Allah dan kesetiaan mutlak kepada-Nya (iaitu ihsan).*
->
+
 > *Selepas itu, barulah bermulanya usaha gigih yang tersusun dan berterusan daripada orang-orang beriman yang ikhlas ini untuk meruntuhkan sistem jahiliah kuno yang rosak, lalu menggantikannya dengan sistem yang soleh yang ditegakkan di atas asas-asas akhlak dan sivil yang dipetik daripada syariat Ilahi yang diturunkan oleh Tuhan Yang Maha Tinggi.*
->
+
 > *Kemudian, apabila mereka yang beriman dan menyahut seruannya ini telah menjadi Muslim yang bertakwa lagi berbuat kebaikan dalam erti kata yang sebenar dari segenap sudut—sama ada melalui hati, minda, jiwa, akhlak, pemikiran, mahupun amalan mereka—serta mereka menumpukan seluruh jiwa raga kepada tugas yang sepatutnya dilaksanakan oleh hamba-hamba Allah yang ikhlas lagi setia; maka selepas semua perkara itu disempurnakan, barulah Nabi SAW membimbing mereka kepada adab-adab dan tatatertib sopan yang menghiasi kehidupan orang bertakwa dalam aspek penampilan, pakaian, makan, minum, kehidupan seharian, cara berdiri, dan cara duduk, serta perkara-perkara zahir yang lain.*
->
+
 > *Ibaratnya, Baginda terlebih dahulu meleburkan emas dan membersihkannya daripada segala kotoran dan bendasing, kemudian barulah mencetaknya dengan cap dinar; serta Baginda melatih para pejuang terlebih dahulu, kemudian barulah memakaikan mereka dengan pakaian seragam perang. Inilah kaedah bertahap-tahap yang sahih lagi diredai di sisi Allah SWT dalam bab ini, sebagaimana yang jelas terbukti bagi sesiapa yang meneliti al-Quran dan hadis serta menghayatinya secara mendalam.”* [8]
 
 ---
@@ -472,7 +479,7 @@ Sekiranya engkau terlanjur melakukan sesuatu dosa atau kesilapan, segera tampung
 وَظَنَّ دَاوُودُ أَنَّمَا فَتَنَّاهُ فَاسْتَغْفَرَ رَبَّهُ وَخَرَّ رَاكِعاً وَأَنَابَ * فَغَفَرْنَا لَهُ ذَلِكَ
 > *“Dan Daud menyangka bahawa Kami mengujinya, lalu dia memohon ampun kepada Tuhannya serta rebah sujud/rukuk dan bertaubat. Maka Kami mengampunkan baginya kesalahannya itu.”* [18]
 
-Maka baginda menjadikan istighfar dan rukuk sebagai jalannya; sekali gus mengajarkan kepada para pendakwah agar sentiasa mendirikan rukuk.
+Maka baginda menjadikan istighfar dan rukuk sebagai jalannya; sekali gus mengajarkan kepada para pendakwah agar sentiasa mengerjakan solat.
 
 ---
 

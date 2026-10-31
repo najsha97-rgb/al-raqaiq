@@ -52,13 +52,22 @@
 
 ---
 
-## 📌 BAB 1: TASBIH MENGUKUHKAN KEKUASAAN
+## 📌 BAB 1: TASBIH MENGUKUHKAN KERAJAAN
 ### *(Tasbih Yang Mengukuhkan Kerajaan - تَسْبِيحٌ يَشُدُّ المُلْكَ)*
 
 * **Ringkasan Am Bab 1:**
   Kekuasaan, kepimpinan, dan kemenangan haraki tidak akan teguh dengan kehebatan strategi semata-mata, sebaliknya berpaksi kukuh pada tasbih, istighfar, dan ketundukan sujud di hadapan Allah SWT. Meneladani Nabi Daud AS yang dianugerahkan kerajaan agung kerana sentiasa bertasbih dan bertahajud, aktivis dakwah diingatkan bahawa solat yang khusyuk dan rukuk yang panjang adalah sumber ketahanan empayar Islam.
 
 * **Intisari Subtajuk:**
+  * **• Bermula Langkah daripada Masjid:**
+    * Masjid adalah titik tolak pembinaan masyarakat Islam dan pangkalan penyatuan fikrah harakiah; meneladani langkah Rasulullah SAW memulakan pembinaan Madinah dari masjid.
+    * Melazimi masjid menghimpunkan 8 kurniaan agung termasuk ilmu yang mantap, persaudaraan yang tulus, dan rahmat Allah.
+  * **• Solat, Zikir dan Tasbih:**
+    * Amalan solat, zikir, dan tasbih merupakan bekal rohani paling utama bagi da'i dalam mengangkat kelemahan dan kefakiran dirinya di hadapan Allah.
+    * Menghayati bait Abdullah bin al-Mubarak: merebut dua rakaat dan menukar kata-kata batil kepada tasbih, serta wasiat Hasan al-Banna tentang saat hening bermunajat harian.
+  * **• Tahap-Tahap Merealisasikan Matlamat Ubudiah:**
+    * Taujihad agung Imam al-Maududi berkenaan manhaj bertahap-tahap (*al-tadarruj*) para rasul menegakkan ubudiah di muka bumi.
+    * Melatih dan membersihkan jiwa kader dakwah terlebih dahulu sebelum memakaikan mereka pakaian amanah kepimpinan dan hukum.
   * **• Sahutlah Seruan Nabimu SAW:**
     * Menyuburkan jiwa dengan zikir dan doa harian; bukan zikir lisan yang kosong, tetapi zikir yang menghidupkan muraqabah.
     * Solat fardhu berjemaah di masjid adalah nadi utama yang membezakan pejuang ikhlas dengan penuntut keselesaan duniawi.
