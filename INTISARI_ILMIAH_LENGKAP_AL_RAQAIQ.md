@@ -263,11 +263,28 @@
 ### *(Al-'Abd al-Hurr - العَبْدُ الحُرُّ)*
 
 * **Ringkasan Am Bab 11:**
-  Paradoks agung dalam Islam: seseorang insan hanya akan mencapai kemerdekaan hakiki apabila dia menzahirkan penghambaan mutlak (*'ubudiyyah*) kepada Allah Taala semata-mata. Hamba yang merdeka adalah insan yang jiwanya bebas daripada tunduk kepada hawa nafsu dan kezaliman penguasa thaghut.
+  Paradoks agung dalam Islam: seseorang insan hanya akan mencapai kemerdekaan hakiki apabila dia menzahirkan penghambaan mutlak (*'ubudiyyah*) kepada Allah Taala semata-mata. Hamba yang merdeka adalah insan yang jiwanya bebas daripada belenggu jahiliah dan hawa nafsu menerusi pemisahan prinsip (*al-mufāṣalah*), serta memiliki kemuliaan iman (*'izzah*) di hadapan penguasa dunia.
 
 * **Intisari Subtajuk:**
-  * **• Pembebasan Jiwa daripada Kehambaan Hawa Nafsu:**
-    * Menghambakan diri kepada nafsu adalah seburuk-buruk perhambaan; orang yang mengejar kemasyhuran sebenarnya diperhamba oleh pandangan manusia.
+  * **• Pemisahan Prinsip dan Rukun Tasawur Islam:**
+    * Jiwa yang bangkit dengan keazaman tinggi (*al-himam al-'āliyah*) menyempurnakan kebangkitannya dengan pemisahan prinsip (*tamayyuz*).
+    * Empat rukun tasawur Sayyid Qutb: Kewarganegaraan = akidah, Tanah air = Dar al-Islam, Pemerintah = Allah, Perlembagaan = al-Quran; bersih daripada syirik bangsa, kaum, dan tanah air.
+    * Surah Ghafir: 14 menegaskan tiada titik pertemuan antara iman dan kufur, menuntut da'i berpegang teguh tanpa mengharapkan keredaan orang kafir.
+  * **• Pemisahan Nabawi dan Tarbiah Keluhuran Iman:**
+    * Pemisahan era Mekah dan Madinah adalah hakikat keimanan dan nikmat ketuhanan.
+    * Menghayati hadis Sahih Muslim ketika solat Isyak lewat malam: *"Bergembiralah kamu! Sesungguhnya antara nikmat Allah ke atas kamu ialah tiada seorang pun dalam kalangan manusia yang menunaikan solat pada saat ini melainkan kamu!"*
+    * Mentarbiah jiwa da'i dengan makna keluhuran (*al-isti'lā'*) mencabar kebatilan di sekelilingnya walau dalam jumlah minoriti.
+  * **• Barisan Pelopor dan Hakikat Pembebasan Syahadah:**
+    * Barisan pelopor (*ṭalī'ah islāmiah*) yang mengamalkan pemisahan prinsip di satu pihak dan pergaulan dakwah di pihak yang lain.
+    * Hakikat syahadah adalah tindakan melepaskan diri (*al-inkhilā'*) daripada nilai, kepimpinan, dan perlembagaan jahiliah menuju kesetiaan mutlak kepada jemaah Islam.
+    * Madinah menjadi mercu tanda bercahaya dan pelindung bagi jiwa yang mencari kebenaran.
+  * **• Pemisahan Kedua: Mematikan Kebatilan dengan Memulaukannya:**
+    * Keperluan pemisahan kedua terhadap sisa kemunafikan dan dorongan hawa nafsu selepas tertegaknya kemenangan Islam.
+    * Wasiat Umar bin al-Khattab RA: *"Sesungguhnya Allah memiliki hamba-hamba yang mematikan kebatilan dengan meninggalkannya (hajrihi), dan menghidupkan kebenaran dengan menyebutnya!"*
+    * Membentengi masyarakat agar peredaran zaman tidak mengubah kebatilan menjadi kebenaran palsu.
+  * **• Da'i sebagai Model Teladan yang Merdeka:**
+    * Di tengah ketiadaan model pemerintahan Islam hari ini, keagungan Islam terjelma pada peribadi-peribadi pendakwah yang memiliki keikhlasan total (*tajarrud*) dan mengikut Sunnah.
+    * Hakikat teladan Islam (*al-qudwah al-islāmiah*): peribadi yang merdeka dalam fikiran, akidah, dan amal; memancarkan ketenangan dan wibawa sebagai bukti keunggulan tarbiah Islam.
   * **• Izzah Seorang Mukmin Berdepan Penguasa Dunia:**
     * Menyorot keberanian para ulama salaf (seperti Sa'id bin al-Musayyab dan Sa'id bin Jubair) yang berdiri teguh tanpa gentar di hadapan al-Hajjaj bin Yusuf dan raja-raja Bani Umayyah.
     * Kematian di jalan Allah adalah kemuncak kemerdekaan jiwa.

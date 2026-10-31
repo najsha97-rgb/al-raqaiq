@@ -96,8 +96,12 @@ BAB 10: TIDAK.. WAHAI BELENGGU-BELENGGU BUMI! (لا.. يا قيود الأرض) 
    • Selepas Itu... ............................................................ 90
 
 BAB 11: HAMBA YANG MERDEKA (العبد الحر) ............................................. 92
-   • Pembebasan Jiwa daripada Kehambaan Hawa Nafsu ................................. 92
-   • Izzah Seorang Mukmin Berdepan Penguasa Dunia .................................. 95
+   • Pemisahan Prinsip dan Rukun Tasawur Islam ..................................... 92
+   • Pemisahan Nabawi dan Tarbiah Keluhuran Iman ................................... 93
+   • Barisan Pelopor dan Hakikat Pembebasan Syahadah ............................... 94
+   • Pemisahan Kedua: Mematikan Kebatilan dengan Memulaukannya ..................... 95
+   • Da'i sebagai Model Teladan yang Merdeka ....................................... 95
+   • Izzah Seorang Mukmin Berdepan Penguasa Dunia .................................. 96
    • Kemanisan Ketaatan Hakiki ..................................................... 98
 
 BAB 12: KISAH-KISAH "HIBURAN" PARA DA'I (قصص من لهو الدعاة) ....................... 100
@@ -2862,7 +2866,7 @@ Nota Kaki:
 
 # BAB 11: HAMBA YANG MERDEKA (al-'Abd al-Hurr)
 
-• **Pembebasan Jiwa daripada Kehambaan Hawa Nafsu**
+• **Pemisahan Prinsip dan Rukun Tasawur Islam**
 
 Sesungguhnya seorang Muslim yang diseru untuk berjalan bersama keazaman yang tinggi (*al-himam al-'āliyah*), lalu dia bangkit tersentak, melepaskan diri daripada belenggu-belenggu tarikan bumi, dan terbang melayang dengan sayap kemuliaan (*'izzah*): dia adalah seorang Muslim yang sewajarnya menyempurnakan kebangkitannya itu dengan langkah pemisahan prinsip (*tamayyuz*) yang jelas dan nyata.
 
@@ -2893,6 +2897,10 @@ Selagi mana kesimpulan ini adalah suatu ketetapan yang pasti — bahawa orang-or
 
 Dan tindak balas ini tidak lain hanyalah penzahiran perbezaan prinsip (*al-tamayyuz*) dan pemisahan (*al-infiṣāl*) daripadanya.
 
+---
+
+• **Pemisahan Nabawi dan Tarbiah Keluhuran Iman**
+
 Selagi mana tiada titik pertemuan, maka logik akal menuntut pemisahan; sebagaimana Nabi SAW memisahkan prinsip daripada kaum kafir Quraisy pada era Mekah, dan sebagaimana baginda memisahkan prinsip daripada seluruh kabilah selepas berhijrah ke Madinah.
 
 Pemisahan Nabawi yang mulia tersebut bukanlah semata-mata keterpaksaan yang terpaksa diambil dalam suatu fasa sejarah yang kelihatan mengambil tempatnya dalam urutan sejarah dakwah Nabi; bahkan ia adalah hakikat keimanan dan bukti nikmat ketuhanan yang selayaknya diperhatikan oleh orang-orang beriman. Engkau dapat merasai hal ini tatkala Rasulullah SAW sentiasa mengingatkan mereka mengenainya dan menjadikannya sebagai faktor tarbiah bagi mereka yang bersama baginda. Baginda bersabda tatkala menunaikan solat Isyak bersama mereka hampir pada waktu tengah malam:
@@ -2909,6 +2917,10 @@ Rasailah keagungan kesan tarbiah ini, dan bagaimana ia bertukar menjadi keteguha
 
 Gambarkanlah perkampungan Islam yang unik dan berbeza ini di tengah-tengah Semenanjung yang kufur!
 
+---
+
+• **Barisan Pelopor dan Hakikat Pembebasan Syahadah**
+
 Wujud di sana suatu barisan pelopor Islam (*ṭalī'ah islāmiah*):
 
 > *“Yang mengamalkan semacam pemisahan (*'uzlah*) di satu pihak, dan semacam hubungan pergaulan di pihak yang lain dengan jahiliah di sekelilingnya.”* [5]
@@ -2923,6 +2935,10 @@ Sesungguhnya:
 
 Tatkala keistimewaan pemisahan ini terserlah dalam bentuk yang lebih jelas di Madinah, masyarakat Islam menjadi mercu tanda yang bercahaya di padang pasir tersebut; menjadi tempat berlindung bagi mereka yang kebingungan dan ragu-ragu, serta sesiapa yang jiwanya bergolak dalam pertarungan antara iman dengan kekufuran warisan.
 
+---
+
+• **Pemisahan Kedua: Mematikan Kebatilan dengan Memulaukannya**
+
 Kemudian apabila masyarakat Islam semakin meluas, beroleh kemenangan, dan seluruh Semenanjung tunduk patuh kepada agama Allah: keperluan untuk memisahkan diri daripada sisa-sisa jahiliah tetap berterusan, iaitu sisa-sisa yang terjelma dalam bentuk kemunafikan dan dorongan mengikut hawa nafsu.
 
 Ia adalah pemisahan kedua yang turut menjadi suatu kewajipan. Sebagaimana pemisahan pertama dahulu telah berjaya mewujudkan kemuliaan iman dalam jiwa orang-orang yang berpegang teguh dengannya serta menjadikan Madinah sebagai mercu tanda tempat berteduhnya orang yang mencari kebenaran; maka pemisahan kedua ini amat perlu bagi memelihara ketulenan sistem negara Islam yang menjaga ciri-ciri pemerintahan, kefahaman, tarbiah, dan pembukaannya.
@@ -2934,6 +2950,10 @@ Daripada sinilah Umar bin al-Khattab RA menyeru kepada pemisahan kedua ini melal
 Beliau telah menggunakan perkataan *al-hajr* (meninggalkan/memulaukan) bagi menunjukkan makna pemisahan (*al-mufāṣalah*) yang kita maksudkan.
 
 Hal ini bererti bahawa unsur kemunafikan dan dorongan mengikut hawa nafsu, setiap kali ia bertambah di dalam masyarakat, maka semakin bertambahlah keperluan kepada jenis pemisahan kedua ini secara berkadar terus. Tujuannya adalah agar kebatilan itu kekal sebagai kebatilan yang ditunjuk dengan jari tuduhan; dan agar peredaran zaman tidak mengubahnya menjadi suatu kebenaran palsu dalam minda orang-orang yang tidak celik, lalu kepalsuannya diterima dan manusia melupakan kebengkokannya, serta agar jiwa-jiwa tidak menganggapnya biasa apabila masa telah berlalu panjang.
+
+---
+
+• **Da'i sebagai Model Teladan yang Merdeka**
 
 Oleh yang demikian, dakwah Islam pada hari ini — dalam menghadapi pertambahan kemunafikan, kefasikan, dan pengikut hawa nafsu di dalam masyarakat masa kini — tidak dapat tidak mesti menegakkan pemisahan ini dan penzahiran perbezaan prinsip ini secara jelas dan terang-terangan. Ini penting agar gambaran Islam itu kekal cemerlang dan nyata pada gilirannya; dapat dilihat oleh sesiapa yang ingin memerhatikannya dalam kalangan mereka yang disuntik semangatnya oleh kata-kata para da'i untuk meneroka dimensi gambaran ini, mencarinya, dan menatap teladan praktikalnya.
 

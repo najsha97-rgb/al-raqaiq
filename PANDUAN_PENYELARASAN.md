@@ -279,3 +279,20 @@ Telah ditetapkan bahawa terjemahan rasmi bagi judul-judul karya Syeikh Muhammad 
   5. `Simpang Petunjuk dan Keperluan Amaran Pelembut Hati` (6 perenggan: P25–P30 — huraian *Baina adh-Dhalāl wa al-Hudā* dan keperluan amaran pencegahan awal *Al-Raqā'iq*).
   6. `Ketinggian Iman Mendepani Falsafah Bahimiah (Kehaiwanan)` (10 perenggan: P31–P40 — bantahan mantik Abu Sulaiman al-Sijistani terhadap syair ateis mengenai syahwat haiwani dan alam kubur).
 * **Liputan Menyeluruh:** Diselaraskan di semua platform: Manuskrip Markdown (`TERJEMAHAN_AL-RAQAIQ.md`), Intisari Ilmiah Lengkap, Intisari Subtopik Fiqh Haraki, dokumen Word (`.docx`), pangkalan data JSON/JS PWA, dan bot Telegram.
+
+### 37. Pembahagian Subtajuk 1 Bab 11 Kepada 5 Subtajuk Mengikut Falsafah Mufāṣalah (Pemisahan Prinsip)
+* **Latar Belakang:** Subtajuk asal pertama Bab 11 (*Pembebasan Jiwa daripada Kehambaan Hawa Nafsu*) mengandungi 37 perenggan berturut-turut tanpa subtajuk perantaraan, yang boleh menimbulkan rasa letih membaca dan mengaburkan peralihan mesej tarbiah yang padat. Keseluruhan 37 perenggan ini mengupas hakikat kebebasan/kemerdekaan jiwa (*al-hurriyyah al-haqiqiyyah*) melalui lensa *al-mufāṣalah* (pemisahan prinsip daripada jahiliah).
+* **Ketetapan Penyelarasan (Kaedah B - Pecahan 5 Subtajuk Mandiri):** Subtajuk ini dipecahkan secara rasmi kepada 5 subtajuk mandiri yang seimbang mengikut alur tema mufāṣalah, menjadikan Bab 11 mempunyai 7 subtajuk keseluruhan:
+  1. `Pemisahan Prinsip dan Rukun Tasawur Islam` (12 perenggan: P1–P12 — kupasan 4 rukun tasawur Islam Sayyid Qutb: akidah, Dār al-Islām, Allah, al-Qur'an, serta ketetapan pemisahan hakiki antara orang beriman dan orang kafir; nota kaki [1], [2], [3]).
+  2. `Pemisahan Nabawi dan Tarbiah Keluhuran Iman` (8 perenggan: P13–P20 — kupasan hadis solat Isyak lewat malam dalam Sahih Muslim: *"Bergembiralah! Tiada seorang pun bersolat saat ini melainkan kamu"*, pembinaan keperibadian da'i yang merdeka daripada tarikan bumi; nota kaki [4]).
+  3. `Barisan Pelopor dan Hakikat Pembebasan Syahadah` (7 perenggan: P21–P27 — peranan barisan pelopor Islam (*ṭalī'ah islāmiah*), dialektika antara *'uzlah* (pengasingan emosi/fikrah) dan *mukhālaṭah* (pergaulan amal), serta pengucapan syahadah sebagai deklarasi pelepasan mutlak (*al-inkhilā'*); nota kaki [5], [6]).
+  4. `Pemisahan Kedua: Mematikan Kebatilan dengan Memulaukannya` (6 perenggan: P28–P33 — huraian athar Amirul Mukminin Umar bin al-Khattab RA: *“Inna lillāhi 'ibādan yumītūna al-bāṭila bi hajrih...”*, iaitu kewajipan mematikan kemunafikan dan dorongan hawa nafsu dengan memulaukannya; nota kaki [7]).
+  5. `Da'i sebagai Model Teladan yang Merdeka` (4 perenggan: P34–P37 — da'i sebagai model teladan Islam (*al-qudwah al-islāmiah*) yang hidup merdeka dan teguh memelihara keaslian manhaj tatkala ketiadaan kekuasaan daulah).
+  6. `Izzah Seorang Mukmin Berdepan Penguasa Dunia` (17 perenggan: P38–P54 — kupasan 'izzah mukmin berdepan penguasa dunia; nota kaki [8], [9], [10], [11], [12]).
+  7. `Kemanisan Ketaatan Hakiki` (9 perenggan: P55–P63 — kemanisan ubudiah sejati kepada Allah; nota kaki [13]).
+* **Statistik Keseluruhan Kitab:**
+  - Jumlah Bab: 14 (1 epigraf + 1 mukadimah + 12 bab teks)
+  - Jumlah Subtajuk: 91 (90 subtajuk teks + 1 epigraf)
+  - Jumlah Perenggan: 920 (100% terpelihara tanpa sebarang pengurangan)
+  - Jumlah Nota Kaki: 181 (100% terpelihara)
+* **Liputan Menyeluruh:** Diselaraskan di semua platform: Manuskrip Markdown (`TERJEMAHAN_AL-RAQAIQ.md`), Intisari Ilmiah Lengkap, Intisari Subtopik Fiqh Haraki, dokumen Word (`.docx`), pangkalan data JSON/JS PWA, dan bot Telegram.

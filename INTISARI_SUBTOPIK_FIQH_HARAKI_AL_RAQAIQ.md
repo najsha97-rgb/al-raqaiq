@@ -658,19 +658,68 @@
 
 ---
 
-### 1. subtajuk: *Pembebasan Jiwa daripada Kehambaan Hawa Nafsu & Kemasyhuran*
+### 1. subtajuk: *Pemisahan Prinsip dan Rukun Tasawur Islam*
 * **1. Diagnosis Halangan / Rawatan Jiwa:**  
-  *Perhambaan Halus kepada Populariti & 'Likes' Manusia* — Jiwa yang ketagih kepada pujian khalayak dan merasa hancur apabila kritikannya tidak disukai.
+  *Kekaburan Manhaj & Kompromi dengan Jahiliah* — Da'i yang terperangkap dalam tuntutan mencari keredaan orang-orang kafir atau terpengaruh dengan idea ciptaan bumi.
 * **2. Modus Operandi & Gejala Penyelusupan:**  
-  Menyesuaikan fatwa dan pandangan dakwah agar selari dengan selera netizen, mengelak daripada menyentuh kebenaran yang pahit kerana takut kehilangan pengikut.
+  Menyusupkan syirik tersembunyi (kebangsaan, assabiyyah kaum, kepentingan sempit) ke dalam manhaj dakwah.
 * **3. Implikasi Terhadap Saf Haraki:**  
-  Gerakan kehilangan integriti kebenaran; harakah dipandu oleh sentimen massa yang jahil, bukan dipandu oleh nas syariat.
+  Kehilangan ketulenan manhaj; gerakan dakwah menjadi kabur identitinya dan kehilangan pimpinan Rabbani.
 * **4. Preskripsi Penawar (*Fiqh as-Sulūk*) & Petunjuk Salaf:**  
-  *Menjadi Hamba Allah yang Hakiki*: Membebaskan diri daripada belenggu pandangan makhluk. Mengingati bahawa sekiranya seluruh manusia memujimu sedangkan Allah murka, pujian itu tiada guna; dan sekiranya seluruh dunia mencelamu sedangkan Allah reda, cercaan itu tidak memudaratkanmu walau sezarah.
+  *Menegakkan 4 Rukun Tasawur Islam*: Kewarganegaraan = akidah, Tanah air = Dar al-Islam, Pemerintah = Allah, Perlembagaan = al-Quran; berpegang teguh pada firman Allah *Mukhliṣīna lahud-dīn*.
 
 ---
 
-### 2. subtajuk: *Izzah Seorang Mukmin Berdepan Penguasa Dunia (Kisah Sa'id bin al-Musayyab & Sa'id bin Jubair)*
+### 2. subtajuk: *Pemisahan Nabawi dan Tarbiah Keluhuran Iman*
+* **1. Diagnosis Halangan / Rawatan Jiwa:**  
+  *Rasa Kerdil Menghadapi Dominasi Kebatilan* — Merasa rendah diri kerana bilangan aktivis sedikit di hadapan kebanjiran pendukung jahiliah.
+* **2. Modus Operandi & Gejala Penyelusupan:**  
+  Patah semangat dan menganggap usaha dakwah tidak berbaloi kerana menjadi golongan minoriti.
+* **3. Implikasi Terhadap Saf Haraki:**  
+  Kelesuan saf dan hilangnya daya juang untuk mencabar hegemoni kebatilan.
+* **4. Preskripsi Penawar (*Fiqh as-Sulūk*) & Petunjuk Salaf:**  
+  *Menghayati Tarbiah Solat Malam Nabawi*: Merasai nikmat kesendirian dalam beribadah (*“Tiada seorang pun bersolat pada saat ini melainkan kamu”*) bagi menyuntik rasa keluhuran iman (*al-isti'lā'*).
+
+---
+
+### 3. subtajuk: *Barisan Pelopor dan Hakikat Pembebasan Syahadah*
+* **1. Diagnosis Halangan / Rawatan Jiwa:**  
+  *Ikatan Kesetiaan yang Berbelah Bahagi* — Melafazkan syahadah tetapi masih terikat dengan nilai, adat, dan kepimpinan jahiliah.
+* **2. Modus Operandi & Gejala Penyelusupan:**  
+  Gagal melakukan *al-inkhilā'* (melepaskan diri) daripada struktur masyarakat yang rosak.
+* **3. Implikasi Terhadap Saf Haraki:**  
+  Kader separuh hati yang mudah berpaling tadah apabila berlaku pertembungan antara kehendak jemaah dengan tuntutan jahiliah.
+* **4. Preskripsi Penawar (*Fiqh as-Sulūk*) & Petunjuk Salaf:**  
+  *Tarbiah Syahadah Mekah*: Menjadikan syahadah sebagai pergerakan pembebasan total dan memperkukuh barisan pelopor (*ṭalī'ah islāmiah*) yang memancarkan cahaya di tengah kegelapan.
+
+---
+
+### 4. subtajuk: *Pemisahan Kedua: Mematikan Kebatilan dengan Memulaukannya*
+* **1. Diagnosis Halangan / Rawatan Jiwa:**  
+  *Normalisasi Kebatilan & Ketahanan Rendah Terhadap Kemunafikan* — Membiarkan kemunafikan merayap masuk kerana terbiasa melihatnya dari hari ke hari.
+* **2. Modus Operandi & Gejala Penyelusupan:**  
+  Sikap toleransi melulu terhadap kebatilan sehingga kebengkokannya tidak lagi dirasai ganjil.
+* **3. Implikasi Terhadap Saf Haraki:**  
+  Kebatilan bertukar menjadi kebenaran palsu dalam minda generasi baharu.
+* **4. Preskripsi Penawar (*Fiqh as-Sulūk*) & Petunjuk Salaf:**  
+  *Wasiat Umar al-Khattab RA*: Mematikan kebatilan dengan meninggalkannya (*bi hajrihi*) dan menghidupkan kebenaran dengan menyebutnya (*bi zikrihi*).
+
+---
+
+### 5. subtajuk: *Da'i sebagai Model Teladan yang Merdeka*
+* **1. Diagnosis Halangan / Rawatan Jiwa:**  
+  *Ketiadaan Qudwah Praktikal* — Berteori tentang Islam tetapi gagal menzahirkan keindahan akhlak Islam pada diri sendiri.
+* **2. Modus Operandi & Gejala Penyelusupan:**  
+  Mengharapkan sistem pemerintahan tertegak sebelum mahu mempraktikkan Islam dalam kehidupan peribadi.
+* **3. Implikasi Terhadap Saf Haraki:**  
+  Masyarakat hilang kepercayaan kepada seruan dakwah kerana tiada contoh hidup yang boleh dicontohi.
+* **4. Preskripsi Penawar (*Fiqh as-Sulūk*) & Petunjuk Salaf:**  
+  *Menzahirkan Qudwah Islāmiah*: Menjadi insan merdeka yang tenang, berwibawa, dan tegas; menjadi bukti hidup keagungan tarbiah Islam di tengah ketiadaan daulah.
+
+---
+
+### 6. subtajuk: *Izzah Seorang Mukmin Berdepan Penguasa Dunia (Kisah Sa'id bin al-Musayyab & Sa'id bin Jubair)*
+### 6. subtajuk: *Izzah Seorang Mukmin Berdepan Penguasa Dunia (Kisah Sa'id bin al-Musayyab & Sa'id bin Jubair)*
 * **1. Diagnosis Halangan / Rawatan Jiwa:**  
   *Ketakutan Melampau Terhadap Penjara dan Algojo Thaghut* — Berdiam diri daripada nahi mungkar kerana takut diseksa, disingkirkan jawatan, atau dibunuh.
 * **2. Modus Operandi & Gejala Penyelusupan:**  
@@ -682,7 +731,7 @@
 
 ---
 
-### 3. subtajuk: *Kemanisan Ketaatan Hakiki & Kelazatan Beribadah*
+### 7. subtajuk: *Kemanisan Ketaatan Hakiki & Kelazatan Beribadah*
 * **1. Diagnosis Halangan / Rawatan Jiwa:**  
   *Memandang Syariat Sebagai Bebanan (Taklif yang Menyeksa)* — Melaksanakan ibadah dan perintah tanzim dengan rasa terpaksa, lesu, dan berat hati.
 * **2. Modus Operandi & Gejala Penyelusupan:**  
