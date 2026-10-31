@@ -1,4 +1,4 @@
-const CACHE_NAME = 'alraqaiq-cache-v35-mukadimah-5subtopics';
+const CACHE_NAME = 'alraqaiq-cache-v36-harakiah-bahimiah';
 const ASSETS_TO_CACHE = [
   './',
   './index.html',

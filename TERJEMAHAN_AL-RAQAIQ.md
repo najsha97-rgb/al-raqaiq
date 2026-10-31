@@ -170,7 +170,7 @@ Sesungguhnya—sebagaimana yang diungkapkan oleh Abu al-Hasan al-Nadwi:
 
 ---
 
-### Firasat Meneliti Diri dan Neraca Tarbiah Harakiyyah
+### Firasat Meneliti Diri dan Neraca Tarbiah Harakiah
 
 Namun tarbiah ini bukanlah diceduk secara semberono. Ciri paling khusus bagi tarbiah ini ialah ia menyahut seruan keperluan mengikut tahap fasa dan merawat realiti semasa. Pada setiap adab yang dibimbing oleh Islam terkandung kebaikan. Namun kemampuan insan yang berniat ikhlas tetap terbatas. Oleh itu, wajib menetapkan keutamaan (*al-mufadhalah*) antara bahagian-bahagian kebaikan ini; memulakan dengan perkara yang lebih afdal serta perkara yang dapat menampung keperluan fasa tersebut setelah mengenal pasti lompang kekurangannya.
 
@@ -263,7 +263,7 @@ Hal sedemikian tidaklah pelik mengikut timbangan hikmah Islam. Sesungguhnya hikm
 
 ---
 
-### Ketinggian Iman Mendepani Falsafah Bahimiyyah
+### Ketinggian Iman Mendepani Falsafah Bahimiah (Kehaiwanan)
 
 Lihatlah kecerahan hati dan kehalusan perasaan dalam simbolik ini yang menyingkap tabiat jiwa yang suci murni. Sebaliknya, perhatikan pula betapa tebalnya tabir yang menyelubungi hati seorang penyair ateis yang menyeru kepada kehidupan kehaiwanan:
 

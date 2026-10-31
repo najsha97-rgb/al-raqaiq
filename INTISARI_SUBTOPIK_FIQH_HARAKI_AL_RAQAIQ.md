@@ -42,7 +42,7 @@
 
 ---
 
-### 2. Subtopik: *Firasat Meneliti Diri dan Neraca Tarbiah Harakiyyah*
+### 2. Subtopik: *Firasat Meneliti Diri dan Neraca Tarbiah Harakiah*
 * **1. Diagnosis Halangan / Rawatan Jiwa:**  
   *Kecelaruan Keutamaan & Kelesuan Firasat Dalaman* — Menyibukkan diri dengan keaiban luar sebelum membersihkan lompang dalaman jemaah.
 * **2. Modus Operandi & Gejala Penyelusupan:**  
@@ -90,7 +90,7 @@
 
 ---
 
-### 6. Subtopik: *Ketinggian Iman Mendepani Falsafah Bahimiyyah*
+### 6. Subtopik: *Ketinggian Iman Mendepani Falsafah Bahimiah (Kehaiwanan)*
 * **1. Diagnosis Halangan / Rawatan Jiwa:**  
   *Racun Pemikiran Nihilisme & Materialisme (Ateisme)* — Menganggap hidup sekadar melampiaskan kelazatan haiwani (*bahimiyyah*) dan maut memadamkan segala perbezaan.
 * **2. Modus Operandi & Gejala Penyelusupan:**  

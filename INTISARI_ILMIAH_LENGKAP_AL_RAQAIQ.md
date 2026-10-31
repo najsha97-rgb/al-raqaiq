@@ -26,7 +26,7 @@
 * **Intisari Subtajuk:**
   * **• Pengenalan: Jiwa Yang Beriman:**
     * Kewajipan melahirkan tokoh pemikul dakwah yang mengemudi bahtera perjuangan bagi mengelakkan bahaya kebankrapan kader (pesanan Syeikh Abu al-Hasan al-Nadwi).
-  * **• Firasat Meneliti Diri dan Neraca Tarbiah Harakiyyah:**
+  * **• Firasat Meneliti Diri dan Neraca Tarbiah Harakiah:**
     * **Firasat Dalaman Mendahului Firasat Luaran:** Menuruti mutiara kata Samnun al-Muhibb, sesiapa yang celik meneliti aib dan kelemahan dirinya, firasatnya terhadap orang lain dan musuh akan menjadi tajam dan tepat.
     * **Keutamaan Amal (*Al-Mufadhalah*):** Mengelakkan tarbiah semberono; harakah mesti mendahulukan perkara yang paling mendesak mengikut tuntutan fasa perjuangan.
     * **Sepuluh Disiplin Asas Kader Rabbani:** 
@@ -46,7 +46,7 @@
     * Drama alegori rama-rama yang berlegar di sekitar bayangannya di permukaan air: terpesona melihat kilauan bintang di kaki langit air, melayang merenung hingga hampir binasa lemas, namun diselamatkan oleh benteng keimanan (*Lākinna-hā mu'minatun, la tastahmiq*).
   * **• Simpang Petunjuk dan Keperluan Amaran Pelembut Hati:**
     * Membezakan antara hakikat kebenaran dengan getaran fatamorgana riak air (*Baina adh-Dhalāl wa al-Hudā*). Kepentingan kitab *Al-Raqā'iq* sebagai loceng amaran sebelum jiwa tersungkur lemas ke lembah fitnah.
-  * **• Ketinggian Iman Mendepani Falsafah Bahimiyyah:**
+  * **• Ketinggian Iman Mendepani Falsafah Bahimiah (Kehaiwanan):**
     * Menelanjangi kesesatan penyair ateis yang menyeru kepada kelazatan syahwat haiwani (*bahimiyyah*) dan mendakwa tanah kubur menyamakan orang dungu dan orang genius.
     * Hujah mantik Abu Sulaiman al-Sijistani (riwayat Abu Hayyan al-Tauhidi): bumi hanya membalut jasad dan bangkai kasar manusia, bukan membalut iman, tauhid, kezuhudan, ketaatan, dan makrifat mereka.
 
