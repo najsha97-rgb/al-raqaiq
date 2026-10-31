@@ -501,7 +501,7 @@
 
 ---
 
-### 2. subtajuk: *Lalu Muncul Umar di Syam (Khalifah Umar bin Abdul Aziz)*
+### 2. subtajuk: *Muncullah Umar bin Abdul Aziz di Syam (Khalifah Umar bin Abdul Aziz)*
 * **1. Diagnosis Halangan / Rawatan Jiwa:**  
   *Mabuk Kuasa & Kemegahan Istana Kepimpinan* — Sikap pemimpin yang terlena dengan protokol, pujian pengampu, dan keselesaan takhta.
 * **2. Modus Operandi & Gejala Penyelusupan:**  
@@ -513,7 +513,7 @@
 
 ---
 
-### 3. subtajuk: *Madrasah Basrah Menyokong & Neraca Basrah dalam Fiqh Dakwah*
+### 3. subtajuk: *Madrasah Basrah Menyokong & Neraca Hasan al-Basri dalam Fiqh Dakwah*
 * **1. Diagnosis Halangan / Rawatan Jiwa:**  
   *Ketidakseimbangan Antara Urusan Mencari Rezeki dengan Tuntutan Akhirat* — Terjerumus ke dalam ketamakan perniagaan sehingga meninggalkan usrah dan program dakwah.
 * **2. Modus Operandi & Gejala Penyelusupan:**  

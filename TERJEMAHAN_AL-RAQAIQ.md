@@ -80,9 +80,9 @@ BAB 8: BUKIT-BUKIT KITA YANG KAKU (تلالنا الهامدة) ................
 
 BAB 9: SEKOLAH-SEKOLAH KEMATIAN (مدارس الموت) ...................................... 74
    • Madrasah Kufah Meneruskan Peringatan .......................................... 74
-   • Lalu Muncul Umar di Syam ...................................................... 76
+   • Muncullah Umar bin Abdul Aziz di Syam ...................................................... 76
    • Madrasah Basrah Menyokong ..................................................... 77
-   • Neraca Basrah dalam Fiqh Dakwah ............................................... 78
+   • Neraca Hasan al-Basri dalam Fiqh Dakwah ............................................... 78
    • Madrasah Baghdad Cenderung kepada Kesederhanaan ............................... 79
    • Tarbiah Melalui Pengakuan ..................................................... 80
    • Dan Selepas Itu... ............................................................ 81
@@ -2352,7 +2352,7 @@ Apabila tokoh-tokoh ini meninggal dunia, dan terhimpunlah ilmu mereka serta ilmu
 
 Demikianlah kehendak Allah SWT memberikan peranan kepada Madrasah Kufah selepas pemergian Umar bin al-Khattab RA dalam mengawasi jalan lurus umat beriman, serta memeliharanya daripada penyelewengan dan ledakan angan-angan kosong. Allah memuliakan madrasah ini, lalu terjelmalah padanya saki-baki golongan yang mencegah kemungkaran; adakalanya bertambah ramai, atau adakalanya berkurang tanpa pernah pupus. Tiadalah dakwah Islam kontemporari melainkan kesinambungan daripada jaminan takdir ilahi terhadap kewujudannya, dan tiadalah pewarisan kita terhadapnya melainkan warisan hubungan kerabat dalam keturunan dakwah dan perkongsian pada sumber mata airnya.
 
-• **Lalu Muncul Umar di Syam**
+• **Muncullah Umar bin Abdul Aziz di Syam**
 
 Apa yang kita riwayatkan mengenai usaha pembetulan Umar bin Abdul Aziz pada akhir kurun pertama merupakan satu mata rantai dalam lingkungan dakwah golongan saki-baki (*al-baqiyyah*) yang mengawasi perjalanan kurun-kurun zaman. Mata rantai ini berhubung dengan madrasah Kufah Ali RA melalui perantaraan 'Aun bin Abdillah, Umar bin Dzar, dan penyair A'sya Hamdan yang telah disebutkan sebelum ini; suatu perhubungan biasa sebagaimana lumrah peredaran ilmu di pelbagai negeri, dan lumrah golongan saki-baki pembimbing dalam peralihan zaman. Akan tetapi, ia merupakan satu mata rantai yang berjaya menguasai dua keistimewaan luar biasa yang tidak mampu dicapai oleh mata rantai selepasnya:
 
@@ -2389,7 +2389,7 @@ Demikianlah titisan air mata keinsafan berpadu dengan kefahaman yang mendalam di
 > *Dan sesungguhnya suatu urusan yang kematian menjadi pengakhirannya, amatlah wajar untuk dizuhudi permulaannya.*  
 > *Dan sesungguhnya suatu urusan yang kematian menjadi permulaannya, amatlah wajar untuk ditakuti pengakhirannya.”* [7]
 
-• **Neraca Basrah dalam Fiqh Dakwah**
+• **Neraca Hasan al-Basri dalam Fiqh Dakwah**
 
 Melalui pendekatan tersebut, al-Hasan membentuk suatu neraca keimanan yang dibekalkan oleh realiti yang nyata dengan dalil-dalil keyakinan yang mencukupi, yang barangkali kita boleh menamakannya sebagai: *“Tarjīh al-Takhwīf”* (memberatkan timbangan rasa takut). Beliau menyampaikannya dalam bentuk seruan dialog, seraya berkata:
 

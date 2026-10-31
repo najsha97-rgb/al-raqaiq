@@ -207,11 +207,11 @@
 * **Intisari Subtajuk:**
   * **• Madrasah Kufah Meneruskan Peringatan:**
     * Dipimpin oleh sahabat agung Abdullah bin Mas'ud RA dan murid-muridnya (seperti Al-Rabi' bin Khutsaim yang menggali kubur di dalam rumahnya untuk mengingati maut).
-  * **• Lalu Muncul Umar di Syam:**
+  * **• Muncullah Umar bin Abdul Aziz di Syam:**
     * Khalifah Umar bin Abdul Aziz mentarbiah para gabenor dan tenteranya dengan peringatan maut, meruntuhkan keangkuhan kuasa dan mengalirkan air mata keinsafan.
   * **• Madrasah Basrah Menyokong:**
     * Al-Hasan al-Basri memimpin gelombang zuhud di Basrah; kata-katanya laksana panah yang merobek kelalaian hati para pembesar dan pedagang.
-  * **• Neraca Basrah dalam Fiqh Dakwah:**
+  * **• Neraca Hasan al-Basri dalam Fiqh Dakwah:**
     * Mengimbangi antara tuntutan mencari rezeki dengan penumpuan jiwa kepada dakwah; dunia di tangan, akhirat di hati.
   * **• Madrasah Baghdad Cenderung kepada Kesederhanaan:**
     * Dipelopori oleh Imam Ahmad bin Hanbal dan para muhaddisin; kesederhanaan hidup yang menewaskan fitnah kemewahan khalifah Abbasiyyah.
