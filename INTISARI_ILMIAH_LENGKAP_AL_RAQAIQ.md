@@ -5,6 +5,18 @@
 
 ---
 
+## 📌 EPILOG / EPIGRAF: PENJARA HARAPAN
+### *(Ḥiṣār al-Amal - حِصَارُ الأَمَلِ)*
+
+* **Ringkasan Epilog / Epigraf:**
+  Kitab *Al-Raqā'iq* didahului oleh sebuah epigraf berupa lakaran seni lukisan abstrak Islam bertajuk **"Penjara Harapan"** (*Ḥiṣār al-Amal*). Lakaran ini diilhamkan daripada hadis sahih Rasulullah SAW (riwayat Abdullah bin Mas'ud RA dalam Sahih al-Bukhari) mengenai manusia yang terkurung dalam kepungan ajal maut, sementara angan-angan kosongnya melangkaui sempadan usia.
+
+* **Intisari Subtajuk:**
+  * **• Sebuah Lukisan Seni Lukisan Abstrak Islam:**
+    * Mengupas empat elemen lukisan Nabawi: lembaga insan di tengah, kotak segi empat ajal maut yang mengepung, garisan angan-angan panjang menjulur keluar, dan anak-anak panah pelbagai rintangan penyakit/musibah yang sedia menerkam. Menjadi pencetus muhasabah ruhiyyah dan pemangkin tajdid niat sebelum melangkah masuk ke dalam taman rohani *Al-Raqā'iq*.
+
+---
+
 ## 📌 MUKADIMAH: JIWA YANG BERIMAN
 ### *(Al-Nafs al-Mu’minah - النَّفْسُ المُؤْمِنَةُ)*
 

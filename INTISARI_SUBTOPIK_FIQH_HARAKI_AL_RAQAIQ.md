@@ -5,6 +5,21 @@
 
 ---
 
+# 🖼️ EPILOG / EPIGRAF: PENJARA HARAPAN
+### *(Ḥiṣār al-Amal - حِصَارُ الأَمَلِ)*
+
+## 1. Sebuah Lukisan Seni Lukisan Abstrak Islam
+
+* **Intisari Ilmiah:**
+  * Pengarang membuka kitab dengan lukisan simbolik berlandaskan hadis sahih Rasulullah SAW (Sahih al-Bukhari) yang menggambarkan realiti eksistensial manusia: terkurung di dalam batas ajal yang telah ditentukan, sedang angan-angannya menjangkau jauh ke luar kotak kehidupan, dikelilingi oleh 99 sebab kematian dan rintangan yang bersedia menerkam.
+  
+* **Fiqh Haraki & Tarbiah Da'i:**
+  1. **Kesedaran Batas Waktu Amal:** Seorang da'i tidak boleh tertipu dengan angan-angan palsu bahawa masa masih panjang; setiap saat adalah pinjaman yang dikepung oleh maut.
+  2. **Urgensi Tajdid Niat:** Melihat lukisan ini sebelum membaca Al-Raqaiq menuntut da'i membersihkan hati daripada orientasi duniawi dan meletakkan matlamat semata-mata pada keredaan Allah.
+  3. **Persiapan Menghadapi Rintangan:** Garisan-garisan kecil di sekeliling manusia mengingatkan bahawa jalan dakwah sentiasa dikelilingi mehnah, penyakit, dan cabaran; keteguhan hanya dicapai dengan bergantung kepada Allah.
+
+---
+
 # 🌺 MUKADIMAH: JIWA YANG BERIMAN
 ### *(Al-Nafs al-Mu’minah - النَّفْسُ المُؤْمِنَةُ)*
 

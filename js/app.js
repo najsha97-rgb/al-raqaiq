@@ -204,9 +204,19 @@ document.addEventListener('DOMContentLoaded', () => {
       // Chapter Header Button
       const headerBtn = document.createElement('button');
       headerBtn.className = 'chapter-header-btn';
+      
+      let badgeHtml = ch.number.replace('BAB ', '').replace('Bab ', 'B');
+      let displayTitle = ch.title;
+      if (ch.number.includes('EPILOG') || ch.number.includes('EPIGRAF')) {
+        badgeHtml = '🖼️';
+        displayTitle = 'Epilog: ' + ch.title;
+      } else if (ch.number === 'MUKADIMAH') {
+        badgeHtml = 'M';
+      }
+
       headerBtn.innerHTML = `
-        <span class="chapter-num-badge">${ch.number.replace('BAB ', '').replace('Bab ', 'B')}</span>
-        <span class="chapter-title-text" title="${ch.title}">${ch.title}</span>
+        <span class="chapter-num-badge">${badgeHtml}</span>
+        <span class="chapter-title-text" title="${ch.number}: ${ch.title}">${displayTitle}</span>
         <span class="chevron-icon">›</span>
       `;
 
@@ -271,6 +281,11 @@ document.addEventListener('DOMContentLoaded', () => {
       });
 
       headerBtn.addEventListener('click', (e) => {
+        if (ch.number.includes('EPILOG') || ch.number.includes('EPIGRAF')) {
+          navigateTo(chIdx, 0);
+          if (window.innerWidth <= 900) toggleMobileNav(false);
+          return;
+        }
         // Jika klik chevron sahaja: toggle open/close accordion
         if (e.target.closest('.chevron-icon')) {
           e.stopPropagation();

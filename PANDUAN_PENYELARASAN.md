@@ -255,3 +255,10 @@ Telah ditetapkan bahawa terjemahan rasmi bagi judul-judul karya Syeikh Muhammad 
 * **Ketetapan Penyelarasan:** Judul Bab 8 diselaraskan terjemahannya secara muktamad kepada **"Kubur-Kubur Kita yang Kaku"** (menggantikan *Bukit-Bukit Kita yang Kaku*) berserta penambahan simbol ikon nisan/kubur **`🪦`** (menggantikan lambang *🌾*).
 * **Teks Arab:** *Tilālunā al-Hāmidah (تِلاَلُنَا الهَامِدَةُ)*.
 * **Falsafah Ketetapan:** Ungkapan metafora (majaz) Syeikh Muhammad Ahmad ar-Rasyid mengenai 'bukit-bukit yang kaku' sebenarnya merujuk secara langsung kepada timbunan debu tanah kubur dan perkuburan yang sunyi membisu, di mana jasad manusia bersemadi menanti hari pembalasan. Seluruh perbincangan bab ini mengupas apa yang berlaku selepas kematian di dalam alam barzakh/kubur. Penyelarasan istilah kepada 'Kubur-Kubur' menzahirkan hakikat mesej tarbiah ruhiyyah dan fiqh haraki bab ini dengan amat jelas dan mendalam kepada para pembaca dan da'i.
+
+---
+
+### 34. Pemasukan Epilog / Epigraf 'Penjara Harapan' (Sebuah Lukisan Seni Lukisan Abstrak Islam)
+* **Ketetapan Penyelarasan:** Menambah bahagian pembuka naskhah kitab secara rasmi berupa sebuah epigraf bertajuk **"EPILOG / EPIGRAF: PENJARA HARAPAN"** dengan subtajuk **"Sebuah Lukisan Seni Lukisan Abstrak Islam"** yang diletakkan pada halaman pembuka sebelum MUKADIMAH, serta didaftarkan ke dalam menu skroll navigasi PWA.
+* **Teks Arab:** *Ḥiṣār al-Amal — Lawḥah min al-Fann al-Tajrīdī al-Islāmī (حِصَارُ الأَمَلِ — لَوْحَةٌ مِنَ الفَنِّ التَّجْرِيدِيِّ الإِسْلَامِيِّ)*.
+* **Falsafah Ketetapan:** Memelihara 100% ketulenan artistik dan ruhani naskhah asal susunan Syeikh Muhammad Ahmad ar-Rasyid rahimahullah, di mana beliau meletakkan lakaran simbolik hadis Abdullah bin Mas'ud RA (Sahih al-Bukhari) di halaman hadapan sebelum Mukadimah. Lakaran ini memvisualisasikan manusia yang hidup di dalam kandang ajal maut, sementara angan-angannya (al-amal) terkeluar jauh melangkaui batas umur, serta dikelilingi oleh anak panah dan rintangan kematian (al-a'radh). Pendedahan visual ini menjadi pemangkin tajdid niat dan pembuka jiwa pembaca sebelum menelusuri kelembutan rohani kitab Al-Raqā'iq.

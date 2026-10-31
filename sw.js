@@ -1,4 +1,4 @@
-const CACHE_NAME = 'alraqaiq-cache-v29-bab8-kubur-kubur';
+const CACHE_NAME = 'alraqaiq-cache-v30-epigraf-penjara-harapan';
 const ASSETS_TO_CACHE = [
   './',
   './index.html',
@@ -7,6 +7,8 @@ const ASSETS_TO_CACHE = [
   './js/app.js',
   './data/alraqaiq_data.js',
   './data/alraqaiq_quotes.js',
+  './images/epigraf_penjara_harapan.svg',
+  './images/epigraf_penjara_harapan.png',
   './icons/favicon.png',
   './icons/icon-192.png',
   './icons/icon-512.png'
