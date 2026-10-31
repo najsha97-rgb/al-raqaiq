@@ -398,7 +398,7 @@
 
 ---
 
-# ⏳ BAB 7: PENJARA HARAPAN
+# ⏳ BAB 7: "PENJARA HARAPAN"
 ### *(Penjara Harapan - حِصَارُ الأَمَلِ)*
 
 * **💎 Mutiara Kata Hikmah:**  
@@ -448,7 +448,7 @@
 
 ---
 
-# 🪦 BAB 8: KUBUR-KUBUR KITA YANG KAKU
+# 🪦 BAB 8: "KUBUR-KUBUR KITA YANG KAKU"
 ### *(Tilālunā Hāmidah - تِلَالُنَا هَامِدَةٌ)*
 
 * **💎 Mutiara Kata Hikmah:**  

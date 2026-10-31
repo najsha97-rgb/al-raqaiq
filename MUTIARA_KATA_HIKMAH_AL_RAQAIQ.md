@@ -804,7 +804,7 @@ Ketenangan batiniah pemimpin: kebergantungan kepada Allah melindungi hati da'i d
 ---
 
 
-## 📌 BAB 7: PENJARA HARAPAN
+## 📌 BAB 7: "PENJARA HARAPAN"
 
 ---
 
@@ -918,7 +918,7 @@ Legasi dakwah abadi: bangunan dan empayar kebendaan pasti runtuh, namun institus
 ---
 
 
-## 📌 BAB 8: KUBUR-KUBUR KITA YANG KAKU
+## 📌 BAB 8: "KUBUR-KUBUR KITA YANG KAKU"
 
 ---
 

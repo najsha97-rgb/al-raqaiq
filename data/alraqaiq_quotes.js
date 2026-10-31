@@ -1147,7 +1147,7 @@ window.ALRAQAIQ_QUOTES = [
     "chapterIndex": 8,
     "chapter_id": 8,
     "chapterNumber": "BAB 7",
-    "chapterTitle": "PENJARA HARAPAN",
+    "chapterTitle": "\"PENJARA HARAPAN\"",
     "subtopicIndex": 0,
     "subtopicTitle": "Pengenalan & Permulaan Bab"
   },
@@ -1165,7 +1165,7 @@ window.ALRAQAIQ_QUOTES = [
     "chapterIndex": 8,
     "chapter_id": 8,
     "chapterNumber": "BAB 7",
-    "chapterTitle": "PENJARA HARAPAN",
+    "chapterTitle": "\"PENJARA HARAPAN\"",
     "subtopicIndex": 0,
     "subtopicTitle": "Pengenalan & Permulaan Bab"
   },
@@ -1183,7 +1183,7 @@ window.ALRAQAIQ_QUOTES = [
     "chapterIndex": 8,
     "chapter_id": 8,
     "chapterNumber": "BAB 7",
-    "chapterTitle": "PENJARA HARAPAN",
+    "chapterTitle": "\"PENJARA HARAPAN\"",
     "subtopicIndex": 0,
     "subtopicTitle": "Pengenalan & Permulaan Bab"
   },
@@ -1201,7 +1201,7 @@ window.ALRAQAIQ_QUOTES = [
     "chapterIndex": 8,
     "chapter_id": 8,
     "chapterNumber": "BAB 7",
-    "chapterTitle": "PENJARA HARAPAN",
+    "chapterTitle": "\"PENJARA HARAPAN\"",
     "subtopicIndex": 0,
     "subtopicTitle": "Pengenalan & Permulaan Bab"
   },
@@ -1219,7 +1219,7 @@ window.ALRAQAIQ_QUOTES = [
     "chapterIndex": 8,
     "chapter_id": 8,
     "chapterNumber": "BAB 7",
-    "chapterTitle": "PENJARA HARAPAN",
+    "chapterTitle": "\"PENJARA HARAPAN\"",
     "subtopicIndex": 0,
     "subtopicTitle": "Pengenalan & Permulaan Bab"
   },
@@ -1237,7 +1237,7 @@ window.ALRAQAIQ_QUOTES = [
     "chapterIndex": 8,
     "chapter_id": 8,
     "chapterNumber": "BAB 7",
-    "chapterTitle": "PENJARA HARAPAN",
+    "chapterTitle": "\"PENJARA HARAPAN\"",
     "subtopicIndex": 0,
     "subtopicTitle": "Pengenalan & Permulaan Bab"
   },
@@ -1255,7 +1255,7 @@ window.ALRAQAIQ_QUOTES = [
     "chapterIndex": 8,
     "chapter_id": 8,
     "chapterNumber": "BAB 7",
-    "chapterTitle": "PENJARA HARAPAN",
+    "chapterTitle": "\"PENJARA HARAPAN\"",
     "subtopicIndex": 0,
     "subtopicTitle": "Pengenalan & Permulaan Bab"
   },
@@ -1273,7 +1273,7 @@ window.ALRAQAIQ_QUOTES = [
     "chapterIndex": 8,
     "chapter_id": 8,
     "chapterNumber": "BAB 7",
-    "chapterTitle": "PENJARA HARAPAN",
+    "chapterTitle": "\"PENJARA HARAPAN\"",
     "subtopicIndex": 0,
     "subtopicTitle": "Pengenalan & Permulaan Bab"
   },
@@ -1291,7 +1291,7 @@ window.ALRAQAIQ_QUOTES = [
     "chapterIndex": 8,
     "chapter_id": 8,
     "chapterNumber": "BAB 7",
-    "chapterTitle": "PENJARA HARAPAN",
+    "chapterTitle": "\"PENJARA HARAPAN\"",
     "subtopicIndex": 0,
     "subtopicTitle": "Pengenalan & Permulaan Bab"
   },
@@ -1309,7 +1309,7 @@ window.ALRAQAIQ_QUOTES = [
     "chapterIndex": 9,
     "chapter_id": 9,
     "chapterNumber": "BAB 8",
-    "chapterTitle": "KUBUR-KUBUR KITA YANG KAKU",
+    "chapterTitle": "\"KUBUR-KUBUR KITA YANG KAKU\"",
     "subtopicIndex": 0,
     "subtopicTitle": "Pengenalan & Permulaan Bab"
   },
@@ -1327,7 +1327,7 @@ window.ALRAQAIQ_QUOTES = [
     "chapterIndex": 9,
     "chapter_id": 9,
     "chapterNumber": "BAB 8",
-    "chapterTitle": "KUBUR-KUBUR KITA YANG KAKU",
+    "chapterTitle": "\"KUBUR-KUBUR KITA YANG KAKU\"",
     "subtopicIndex": 0,
     "subtopicTitle": "Pengenalan & Permulaan Bab"
   },
@@ -1345,7 +1345,7 @@ window.ALRAQAIQ_QUOTES = [
     "chapterIndex": 9,
     "chapter_id": 9,
     "chapterNumber": "BAB 8",
-    "chapterTitle": "KUBUR-KUBUR KITA YANG KAKU",
+    "chapterTitle": "\"KUBUR-KUBUR KITA YANG KAKU\"",
     "subtopicIndex": 0,
     "subtopicTitle": "Pengenalan & Permulaan Bab"
   },
@@ -1363,7 +1363,7 @@ window.ALRAQAIQ_QUOTES = [
     "chapterIndex": 9,
     "chapter_id": 9,
     "chapterNumber": "BAB 8",
-    "chapterTitle": "KUBUR-KUBUR KITA YANG KAKU",
+    "chapterTitle": "\"KUBUR-KUBUR KITA YANG KAKU\"",
     "subtopicIndex": 0,
     "subtopicTitle": "Pengenalan & Permulaan Bab"
   },
@@ -1381,7 +1381,7 @@ window.ALRAQAIQ_QUOTES = [
     "chapterIndex": 9,
     "chapter_id": 9,
     "chapterNumber": "BAB 8",
-    "chapterTitle": "KUBUR-KUBUR KITA YANG KAKU",
+    "chapterTitle": "\"KUBUR-KUBUR KITA YANG KAKU\"",
     "subtopicIndex": 0,
     "subtopicTitle": "Pengenalan & Permulaan Bab"
   },
@@ -1399,7 +1399,7 @@ window.ALRAQAIQ_QUOTES = [
     "chapterIndex": 9,
     "chapter_id": 9,
     "chapterNumber": "BAB 8",
-    "chapterTitle": "KUBUR-KUBUR KITA YANG KAKU",
+    "chapterTitle": "\"KUBUR-KUBUR KITA YANG KAKU\"",
     "subtopicIndex": 0,
     "subtopicTitle": "Pengenalan & Permulaan Bab"
   },
@@ -1417,7 +1417,7 @@ window.ALRAQAIQ_QUOTES = [
     "chapterIndex": 9,
     "chapter_id": 9,
     "chapterNumber": "BAB 8",
-    "chapterTitle": "KUBUR-KUBUR KITA YANG KAKU",
+    "chapterTitle": "\"KUBUR-KUBUR KITA YANG KAKU\"",
     "subtopicIndex": 0,
     "subtopicTitle": "Pengenalan & Permulaan Bab"
   },
@@ -1435,7 +1435,7 @@ window.ALRAQAIQ_QUOTES = [
     "chapterIndex": 9,
     "chapter_id": 9,
     "chapterNumber": "BAB 8",
-    "chapterTitle": "KUBUR-KUBUR KITA YANG KAKU",
+    "chapterTitle": "\"KUBUR-KUBUR KITA YANG KAKU\"",
     "subtopicIndex": 0,
     "subtopicTitle": "Pengenalan & Permulaan Bab"
   },
@@ -1453,7 +1453,7 @@ window.ALRAQAIQ_QUOTES = [
     "chapterIndex": 9,
     "chapter_id": 9,
     "chapterNumber": "BAB 8",
-    "chapterTitle": "KUBUR-KUBUR KITA YANG KAKU",
+    "chapterTitle": "\"KUBUR-KUBUR KITA YANG KAKU\"",
     "subtopicIndex": 0,
     "subtopicTitle": "Pengenalan & Permulaan Bab"
   },

@@ -67,7 +67,7 @@ BAB 6: POHON-POHON KEIMANAN (أشجار الإيمان) ........................
    • Pohon Kesembilan: Pohon Zuhud ................................................. 52
    • Pohon Kesepuluh: Pohon Santun (al-Hilm) — Sulaman Hasan al-Banna .............. 53
 
-BAB 7: PENJARA HARAPAN (حصار الأمل) ........................................... 55
+BAB 7: "PENJARA HARAPAN" (حصار الأمل) ........................................... 55
    • Keagungan Perkara yang Disaksikan: Dalil Perkara Ghaib ........................ 56
    • Lukisan daripada Seni Kesenian Islam .......................................... 57
    • Pandangan yang Menjangkau Jauh ................................................ 58
@@ -75,7 +75,7 @@ BAB 7: PENJARA HARAPAN (حصار الأمل) ...................................
    • Menghidupkan Umat dengan Mengingati Kematian .................................. 61
    • Kembali kepada Kematangan Fikiran ............................................. 62
 
-BAB 8: KUBUR-KUBUR KITA YANG KAKU (تلالنا الهامدة) ................................. 65
+BAB 8: "KUBUR-KUBUR KITA YANG KAKU" (تلالنا الهامدة) ................................. 65
    • Hari Penuaian ................................................................. 65
    • Kemudian Hari Tidur yang Panjang .............................................. 67
    • Hisab dan Kitab Amalan ........................................................ 70
@@ -1770,7 +1770,7 @@ Oleh yang demikian, tiada sebatang pohon pun yang tegak berdiri melainkan ia men
 ---
 
 
-# BAB 7: PENJARA HARAPAN
+# BAB 7: "PENJARA HARAPAN"
 ### Penjara Harapan
 
 Kehidupan ini — dengan pelbagai sudut dimensinya dan rentetan perubahan masyarakat yang dilalui — mungkin sukar difahami oleh generasi Muslim hari ini tanpa kembali kepada suatu pandangan yang realistik, berteraskan kesederhanaan, serta berpijak teguh pada realiti yang dapat dirasai dan disaksikan.
@@ -2014,7 +2014,7 @@ Sekiranya hari ini kita menyaksikan pemergian demi pemergian para kekasih dan pe
 
 ---
 
-# BAB 8: KUBUR-KUBUR KITA YANG KAKU (Tilaluna Hamidah)
+# BAB 8: "KUBUR-KUBUR KITA YANG KAKU" (Tilaluna Hamidah)
 
 Sekiranya kita melihat Abu al-Darda' RA menangis setelah berpisah daripada perhimpunan para sahabat Muhammad SAW, maka dengan cepat tangisan itu bertukar menjadi ketawa, seraya beliau berkata:
 
