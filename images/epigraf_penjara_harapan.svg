@@ -1564,13 +1564,13 @@
   <!-- Typography / Captions Underneath Drawing -->
   <g id="captions" text-anchor="middle">
     <!-- Arabic Main Title -->
-    <text x="250" y="734" font-family="'Traditional Arabic', 'Scheherazade New', 'Amiri', serif" font-size="28" font-weight="bold" fill="#1c1917">حِصَارُ الأَمَلِ</text>
+    <text x="250" y="734" font-family="'Amiri', 'Traditional Arabic', serif" font-size="28" font-weight="bold" fill="#1c1917">حِصَارُ الأَمَلِ</text>
     
     <!-- Malay Main Title -->
     <text x="250" y="760" font-family="'Times New Roman', serif" font-size="21" font-weight="bold" fill="#1c1917" letter-spacing="1">Penjara Harapan</text>
 
     <!-- Arabic Subtitle -->
-    <text x="250" y="785" font-family="'Traditional Arabic', 'Scheherazade New', 'Amiri', serif" font-size="20" fill="#44403c">لَوْحَةٌ مِنَ الفَنِّ التَّجْرِيدِيِّ الإِسْلَامِيِّ</text>
+    <text x="250" y="785" font-family="'Amiri', 'Traditional Arabic', serif" font-size="20" fill="#44403c">لَوْحَةٌ مِنَ الفَنِّ التَّجْرِيدِيِّ الإِسْلَامِيِّ</text>
 
     <!-- Malay Subtitle -->
     <text x="250" y="806" font-family="'Times New Roman', serif" font-size="16" font-style="italic" fill="#57534e">Sebuah Lukisan Seni Lukisan Abstrak Islam</text>

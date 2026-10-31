@@ -1,4 +1,4 @@
-const CACHE_NAME = 'alraqaiq-cache-v30-epigraf-penjara-harapan';
+const CACHE_NAME = 'alraqaiq-cache-v31-amiri-epigraf';
 const ASSETS_TO_CACHE = [
   './',
   './index.html',

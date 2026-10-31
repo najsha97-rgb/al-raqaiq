@@ -121,7 +121,7 @@ BAB 12: KISAH-KISAH "HIBURAN" PARA DA'I (قصص من لهو الدعاة) ......
 
 # EPILOG / EPIGRAF: PENJARA HARAPAN (Hishar al-Amal)
 
-<div class="epigraf-art-presentation-card" style="text-align: center; margin: 20px auto 35px auto; max-width: 520px; background: var(--bg-card, #ffffff); border: 1px solid var(--border-color, #e5e7eb); border-radius: 16px; padding: 24px; box-shadow: 0 10px 30px rgba(0,0,0,0.08);">
+<div class="epigraf-art-presentation-card" style="text-align: center; margin: 20px auto 35px auto; max-width: 540px; background: var(--bg-card, #ffffff); border: 1px solid var(--border-subtle, #cbd5e1); border-radius: 16px; padding: 24px; box-shadow: var(--shadow-glow, 0 10px 30px rgba(0,0,0,0.1));">
   <div class="art-viewer-wrap" style="position: relative; border-radius: 12px; overflow: hidden; background: #fafaf9; border: 2px solid #1c1917; padding: 10px; box-shadow: inset 0 2px 6px rgba(0,0,0,0.1);">
     <img id="epigrafMainArt" src="images/epigraf_penjara_harapan.svg" alt="Epigraf: Penjara Harapan - Sebuah Lukisan Seni Lukisan Abstrak Islam" style="max-width: 100%; height: auto; display: block; margin: 0 auto; border-radius: 4px;" />
   </div>
@@ -129,16 +129,17 @@ BAB 12: KISAH-KISAH "HIBURAN" PARA DA'I (قصص من لهو الدعاة) ......
     <button type="button" class="art-toggle-btn active-art-btn" onclick="document.getElementById('epigrafMainArt').src='images/epigraf_penjara_harapan.svg'; this.classList.add('active-art-btn'); this.nextElementSibling.classList.remove('active-art-btn');" style="cursor: pointer; padding: 6px 14px; border-radius: 20px; border: 1px solid var(--emerald-primary); background: var(--emerald-primary); color: #fff; font-size: 0.85rem; font-weight: 600; display: inline-flex; align-items: center; gap: 6px;">
       <span>🎨</span> <span>Lukisan Vektor (Tajam HD)</span>
     </button>
-    <button type="button" class="art-toggle-btn" onclick="document.getElementById('epigrafMainArt').src='images/epigraf_penjara_harapan.png'; this.classList.add('active-art-btn'); this.previousElementSibling.classList.remove('active-art-btn');" style="cursor: pointer; padding: 6px 14px; border-radius: 20px; border: 1px solid var(--border-color); background: var(--bg-secondary); color: var(--text-primary); font-size: 0.85rem; font-weight: 600; display: inline-flex; align-items: center; gap: 6px;">
+    <button type="button" class="art-toggle-btn" onclick="document.getElementById('epigrafMainArt').src='images/epigraf_penjara_harapan.png'; this.classList.add('active-art-btn'); this.previousElementSibling.classList.remove('active-art-btn');" style="cursor: pointer; padding: 6px 14px; border-radius: 20px; border: 1px solid var(--border-card, #94a3b8); background: var(--bg-input, #e2e8f0); color: var(--text-main, #0f172a); font-size: 0.85rem; font-weight: 600; display: inline-flex; align-items: center; gap: 6px;">
       <span>📜</span> <span>Imbasan Asal Kitab Arab</span>
     </button>
   </div>
-  <div class="art-caption-box" style="margin-top: 20px; padding-top: 15px; border-top: 1px dashed var(--border-color, #e5e7eb);">
-    <div style="font-family: 'Traditional Arabic', serif; font-size: 2.1rem; font-weight: bold; color: var(--gold-light, #d97706); line-height: 1.2;">حِصَارُ الأَمَلِ</div>
-    <div style="font-family: 'Times New Roman', serif; font-size: 1.45rem; font-weight: 800; color: var(--text-primary, #111827); margin: 6px 0 4px 0; letter-spacing: 0.5px;">Penjara Harapan</div>
-    <div style="font-family: 'Traditional Arabic', serif; font-size: 1.35rem; color: var(--text-secondary, #4b5563); margin-top: 4px;">لَوْحَةٌ مِنَ الفَنِّ التَّجْرِيدِيِّ الإِسْلَامِيِّ</div>
-    <div style="font-family: 'Times New Roman', serif; font-size: 1.1rem; font-style: italic; color: var(--gold-light, #b45309);">Sebuah Lukisan Seni Lukisan Abstrak Islam</div>
+  <div class="art-caption-box" style="margin-top: 22px; padding-top: 18px; border-top: 1px dashed var(--border-subtle, #cbd5e1);">
+    <div style="font-family: 'Amiri', serif; font-size: 2.6rem; font-weight: 700; color: var(--text-gold, #fde047); line-height: 1.35; text-shadow: 0 2px 12px rgba(253, 224, 71, 0.25);">حِصَارُ الأَمَلِ</div>
+    <div style="font-family: 'Outfit', 'Times New Roman', serif; font-size: 1.6rem; font-weight: 800; color: var(--text-main, #f0f6fc); margin: 6px 0 6px 0; letter-spacing: 0.5px;">Penjara Harapan</div>
+    <div style="font-family: 'Amiri', serif; font-size: 1.7rem; font-weight: 400; color: var(--text-light, #cde0f7); margin-top: 6px; line-height: 1.35;">لَوْحَةٌ مِنَ الفَنِّ التَّجْرِيدِيِّ الإِسْلَامِيِّ</div>
+    <div style="font-family: 'Outfit', 'Times New Roman', serif; font-size: 1.15rem; font-style: italic; color: var(--text-gold, #fde047); margin-top: 4px;">Sebuah Lukisan Seni Lukisan Abstrak Islam</div>
   </div>
+</div>
 </div>
 
 Kitab *Al-Raqā'iq* didahului oleh sebuah epigraf berupa lakaran seni lukisan abstrak Islam yang masyhur bertajuk **"Penjara Harapan"** (*Ḥiṣār al-Amal*). Lakaran ini diilhamkan daripada hadis sahih Rasulullah SAW yang diriwayatkan oleh Abdullah bin Mas'ud RA:
