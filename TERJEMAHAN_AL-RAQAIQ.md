@@ -1754,11 +1754,10 @@ Maka perhatikanlah peringkat-peringkat penjagaannya terhadap pohon itu dan kepri
 
 Beliau menyifatkannya ketika berpesan kepada para da'i:
 
-( "Jadilah kamu seperti pohon; orang melemparkannya dengan batu, tetapi ia membalas mereka dengan buah." )
+> **« كُونُوا كَالشَّجَرِ ، يَرْمِيهِ النَّاسُ بِالحَجَرِ ، وَيَرْمِيهِمْ بِالثَّمَرِ »**  
+> *“(Jadilah kamu seperti pohon; orang melemparkannya dengan batu, tetapi ia membalas mereka dengan buah.)”*
 
 Sesungguhnya kata-kata beliau ini amat indah dan memberi faedah yang besar; ini kerana kebanyakan manusia mudah terdorong kepada kejahilan, yang membawa mereka mendustakan para da'i Islam dan menyakiti mereka dengan kebatilan. Kalaulah seorang da'i bersikap jahil sama seperti kejahilan orang-orang yang jahil itu, serta membalas keburukan dengan keburukan, nescaya lenyaplah syiar-syiar ihsan dan terkubur segala kebaikan. Akan tetapi, kelapangan dada, sikap mengharapkan pahala (*ihtisab*), serta memohon keampunan buat kaumnya yang tidak mengetahui, itulah bentengnya.
-
-***
 
 Amma ba'du:
 
@@ -1771,8 +1770,6 @@ Daripada sinilah detik-detik bersendirian sejenak di celah-celah pepohonan menja
 Antara perkara yang menegaskan kebenaran sangkaan baik kita terhadap pepohonan ini ialah: bahawa Allah SWT telah membuat perumpamaan bagi kalimah yang buruk yang menafikan tauhid sebagai sebatang pohon yang buruk; ia tidak mampu berdiri tegak, sebaliknya terbongkar tercabut dari atas muka bumi, tidak mempunyai sebarang ketetapan dan keteguhan.
 
 Oleh yang demikian, tiada sebatang pohon pun yang tegak berdiri melainkan ia menasihatimu dengan suatu kalimah daripada intipati keimanan.
-
-***
 
 ### Nota Kaki:
 

@@ -462,6 +462,9 @@ document.addEventListener('DOMContentLoaded', () => {
       if (sub.paragraphs && sub.paragraphs.length > 0) {
         sub.paragraphs.forEach(para => {
           const trimmed = para.trim();
+          if (trimmed === '***' || trimmed === '---' || /^[\*\-]{3,}$/.test(trimmed)) {
+            return;
+          }
 
           // 1. Direct Custom HTML Block (e.g. Lauhah Khithathiyyah Infographic)
           if (trimmed.startsWith('<div') || trimmed.startsWith('<section')) {
@@ -490,6 +493,25 @@ document.addEventListener('DOMContentLoaded', () => {
           }
 
           if (groups.length > 1) {
+            const isBlockquote = para.trim().startsWith('>');
+            if (isBlockquote) {
+              const p = document.createElement('p');
+              p.className = 'quote-highlight-box';
+              let innerHtml = '';
+              groups.forEach(g => {
+                const cleanLines = g.lines.map(l => l.replace(/^[>\s]+/, '').trim()).filter(Boolean).join('<br>');
+                if (g.type === 'ar') {
+                  innerHtml += `<span class="ar-quote-block" dir="rtl" style="display: block; font-family: 'Amiri', serif !important; color: var(--gold-light, #fde047) !important; font-size: 1.35rem; line-height: 2; margin-bottom: 0.6rem; text-align: right; font-style: normal !important;">${cleanLines.replace(/\*\*(.*?)\*\*/g, '$1')}</span>`;
+                } else {
+                  const formatted = cleanLines.replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>');
+                  innerHtml += `<span class="lat-quote-block" style="display: block; font-style: italic; color: var(--text-main); font-size: 1.05rem; line-height: 1.7;">${formatSmartItalicHtml(formatted)}</span>`;
+                }
+              });
+              p.innerHTML = innerHtml;
+              contentBody.appendChild(p);
+              return;
+            }
+
             groups.forEach(g => {
               const pChild = document.createElement('p');
               const cleanLines = g.lines.map(l => l.replace(/^[>\s]+/, '').trim()).filter(Boolean).join('<br>');
@@ -514,10 +536,18 @@ document.addEventListener('DOMContentLoaded', () => {
           const isMainlyArabic = arabicChars > 0 && arabicChars >= latinChars;
 
           if (isMainlyArabic) {
-            p.className = 'arabic-text';
-            const cleanText = para.split('\n').map(l => l.replace(/^[>\s]+/, '').trim()).filter(Boolean).join('<br>');
-            p.innerHTML = cleanText.replace(/\*\*(.*?)\*\*/g, '$1');
-          } else if (para.startsWith('### ') || (para.startsWith('**') && para.endsWith('**') && !para.includes('\n') && para.length < 130)) {
+            if (para.trim().startsWith('>')) {
+              p.className = 'quote-highlight-box arabic-quote-box';
+              p.setAttribute('dir', 'rtl');
+              p.style.cssText = "font-family: 'Amiri', serif !important; color: var(--gold-light, #fde047) !important; font-size: 1.35rem !important; line-height: 2 !important; text-align: right !important; font-style: normal !important;";
+              const cleanText = para.split('\n').map(l => l.replace(/^[>\s]+/, '').trim()).filter(Boolean).join('<br>');
+              p.innerHTML = cleanText.replace(/\*\*(.*?)\*\*/g, '$1');
+            } else {
+              p.className = 'arabic-text';
+              const cleanText = para.split('\n').map(l => l.replace(/^[>\s]+/, '').trim()).filter(Boolean).join('<br>');
+              p.innerHTML = cleanText.replace(/\*\*(.*?)\*\*/g, '$1');
+            }
+          } else if ((para.startsWith('### ') || (para.startsWith('**') && para.endsWith('**') && !para.includes('\n') && para.length < 130)) && !/^[\*\-]{3,}$/.test(trimmed)) {
             p.className = 'internal-subheading-card';
             const cleanHeader = para.replace(/^###\s*/, '').replace(/^\*\*/, '').replace(/\*\*$/, '').trim();
             p.innerHTML = `<span class="subheading-accent" aria-hidden="true"></span><span class="subheading-title">${cleanHeader}</span>`;

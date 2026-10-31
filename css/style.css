@@ -3672,3 +3672,42 @@ i .arabic-text-amiri-gold,
   color: #b45309 !important;
   font-style: normal !important;
 }
+
+/* Arabic Quote inside Green Quote Box */
+.quote-highlight-box .ar-quote-block {
+  display: block;
+  font-family: 'Amiri', serif !important;
+  color: var(--gold-light, #fde047) !important;
+  font-size: 1.35rem !important;
+  line-height: 2 !important;
+  margin-bottom: 0.75rem !important;
+  text-align: right !important;
+  direction: rtl !important;
+  font-style: normal !important;
+}
+
+[data-theme="light"] .quote-highlight-box .ar-quote-block {
+  color: #8c6b00 !important;
+}
+
+.quote-highlight-box.arabic-quote-box {
+  background: rgba(16, 185, 129, 0.08) !important;
+  border-left: 4px solid var(--emerald-primary) !important;
+  border-right: none !important;
+  border-radius: 0 var(--radius-sm) var(--radius-sm) 0 !important;
+  padding: 1rem 1.4rem !important;
+  margin: 1.5rem 0 !important;
+  direction: rtl !important;
+  text-align: right !important;
+  font-family: 'Amiri', serif !important;
+  font-size: 1.35rem !important;
+  line-height: 2 !important;
+  color: var(--gold-light, #fde047) !important;
+  font-style: normal !important;
+}
+
+[data-theme="light"] .quote-highlight-box.arabic-quote-box {
+  background: rgba(5, 150, 105, 0.08) !important;
+  border-left: 4px solid #059669 !important;
+  color: #8c6b00 !important;
+}

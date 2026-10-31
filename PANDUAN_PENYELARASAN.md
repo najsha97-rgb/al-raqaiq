@@ -311,3 +311,14 @@ Telah ditetapkan bahawa terjemahan rasmi bagi judul-judul karya Syeikh Muhammad 
   - Jumlah Perenggan: 920 (100% terpelihara tanpa sebarang pengurangan)
   - Jumlah Nota Kaki: 181 (100% terpelihara)
 * **Liputan Menyeluruh:** Diselaraskan di semua platform: Manuskrip Markdown (`TERJEMAHAN_AL-RAQAIQ.md`), Intisari Ilmiah Lengkap, Intisari Subtopik Fiqh Haraki, dokumen Word (`.docx`), pangkalan data JSON/JS PWA, dan bot Telegram.
+
+### 39. Pembersihan Garisan Penanda (***) & Pemaparan Kotak Petikan Arab Kata-Kata Imam Hasan al-Banna (Bab 6 Subtajuk 11)
+* **Latar Belakang:** Pada Subtajuk 11 Bab 6 (*Pohon Kesepuluh: Pohon Santun (al-Hilm) — Sulaman Hasan al-Banna*), terdapat dua baris penanda bahagian `***` yang sebelum ini terkeliru diproses sebagai kad subtajuk dalaman kosong bergaris hijau/kuning. Di samping itu, mutiara kata Imam Hasan al-Banna rahimahullah berkenaan perumpamaan pohon dan buah tidak memaparkan matan Arab asalnya.
+* **Ketetapan Penyelarasan:**
+  1. **Pengguguran Kotak Kosong (***):** Menggugurkan kedua-dua baris penanda `***` (atas dan bawah) agar paparan pembacaan menjadi kemas tanpa sebarang kotak kosong yang mengganggu.
+  2. **Pemasukan Matan Arab Berkotak Hijau:** Memasukkan teks Arab asal kata-kata Imam Hasan al-Banna di dalam kotak petikan hijau (*quote highlight box*):  
+     `« كُونُوا كَالشَّجَرِ ، يَرْمِيهِ النَّاسُ بِالحَجَرِ ، وَيَرْمِيهِمْ بِالثَّمَرِ »`  
+     dengan fon khat Arab *Amiri* dan warna keemasan (*gold*), diletakkan di atas teks terjemahan bahasa Melayu.
+  3. **Italisasi Teks Terjemahan:** Menyelaras format teks terjemahan kata-kata tersebut kepada bentuk condong (*italic*):  
+     *“(Jadilah kamu seperti pohon; orang melemparkannya dengan batu, tetapi ia membalas mereka dengan buah.)”*
+* **Liputan Menyeluruh:** Diselaraskan di semua platform: Manuskrip Markdown (`TERJEMAHAN_AL-RAQAIQ.md`), dokumen Word (`Terjemahan_Al-Raqaiq_Penuh.docx`), pangkalan data JSON/JS PWA, dan bot Telegram.
