@@ -1,4 +1,4 @@
-const CACHE_NAME = 'alraqaiq-cache-v24-ibnu-qayyim-quote';
+const CACHE_NAME = 'alraqaiq-cache-v25-82-canonical-subtopics';
 const ASSETS_TO_CACHE = [
   './',
   './index.html',

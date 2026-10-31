@@ -982,6 +982,8 @@ Sayyid Qutb rahimahullah menegaskan:
 
 ### Manusia yang Paling Penat Ialah yang Agong Tuntutan Cita-Citanya
 
+Sesungguhnya manusia yang paling penat ialah orang yang agung tuntutan cita-citanya; kerana setiap kali himmah (cita-cita) seorang insan membubung tinggi ke langit matlamat, jasadnya tidak akan redha berdiam diri melainkan terus berpenat lelah memikul amanah perjuangan tersebut.
+
 ---
 
 ### Engkau Insan Merdeka yang Mulia
@@ -1326,7 +1328,9 @@ Seterusnya, mereka melangkah lebih jauh lagi dengan memperincikan sifat-sifat me
 
 ( "Kalaulah tidak kerana aku dapat berjuang pada jalan Allah, atau meletakkan dahiku di atas debu tanah kerana bersujud kepada Allah, atau duduk bersama suatu kaum yang memetik kata-kata yang baik sebagaimana buah-buahan yang ranum dipetik, nescaya aku lebih suka untuk bertemu dengan Allah (meninggal dunia)." ) [15]
 
-• **Antara sifat mereka: Mengangkat beban kepura-puraan**, iaitu seseorang daripada mereka: ( "Mengangkat daripadamu beban kepura-puraan (*takalluf*), serta gugurnya rasa kekok dan berhati-hati antara engkau dengannya." ) Ja'far bin Muhammad al-Sadiq — semoga Allah meredai kedua-duanya — berkata: ( "Saudaraku yang paling membebankan diriku ialah orang yang memaksakan diri berpura-pura terhadapku dan aku terpaksa berhati-hati dengannya; manakala saudaraku yang paling ringan di hatiku ialah orang yang apabila aku bersamanya, aku berasa bebas dan tenang seolah-olah aku sedang bersendirian." ) [16]
+• **Antara sifat mereka: Mengangkat beban kepura-puraan**
+
+Iaitu seseorang daripada mereka: ( "Mengangkat daripadamu beban kepura-puraan (*takalluf*), serta gugurnya rasa kekok dan berhati-hati antara engkau dengannya." ) Ja'far bin Muhammad al-Sadiq — semoga Allah meredai kedua-duanya — berkata: ( "Saudaraku yang paling membebankan diriku ialah orang yang memaksakan diri berpura-pura terhadapku dan aku terpaksa berhati-hati dengannya; manakala saudaraku yang paling ringan di hatiku ialah orang yang apabila aku bersamanya, aku berasa bebas dan tenang seolah-olah aku sedang bersendirian." ) [16]
 
 • **Antara sifat mereka: Meninggalkan lembah kehinaan dinar dan dirham**, serta bangkit menuju kemuliaan yang luhur. Para ulama membawakan Imam Ahmad bin Hanbal *rahimahullah* sebagai teladan dalam ketelitian beliau memilih sahabat; iaitu sebagaimana kata-kata yang memujinya:
 
@@ -1356,7 +1360,9 @@ Seterusnya, mereka melangkah lebih jauh lagi dengan memperincikan sifat-sifat me
 *Mereka yang berlaku adil, yang mengutamakan orang lain mengatasi diri mereka sendiri,*
 *bersama merekalah aku akan tetap teguh, bersama orang-orang bertakwa, bersama para da'i Muslimin.* [19]
 
-• **Antara sifat mereka: Sedia mencurahkan nasihat**. Salah seorang daripada mereka adalah: ( "Seorang soleh yang membantumu dalam agama Allah, dan menasihatimu kerana Allah." )
+• **Antara sifat mereka: Sedia mencurahkan nasihat**
+
+Salah seorang daripada mereka adalah: ( "Seorang soleh yang membantumu dalam agama Allah, dan menasihatimu kerana Allah." )
 
 • **Penyakit-penyakit Majlis**
 
@@ -2533,6 +2539,8 @@ Nota Kaki:
 
 # BAB 10: TIDAK.. WAHAI BELENGGU-BELENGGU BUMI! (La.. Ya Quyud al-Ard)
 
+• **Hakikat Belenggu Dunia dan Rayuannya**
+
 Sekiranya para pendakwah kepada Allah telah memahami jalan untuk membuat pembetulan (*istidrāk*), enggan tunduk kepada kerosakan yang semakin berleluasa, memberontak terhadap proses penjinakan jiwa, serta memulakan usaha-usaha peneguhan dan tarbiah bagi mereka yang memiliki fitrah yang sejahtera; sesungguhnya selain mereka pula hanya mampu meratapi realiti kaum muslimin sambil mengeluh dan mengaduh. Mereka tidak melangkah lebih daripada sekadar menzahirkan kesedihan, lalu berkurung di rumah atau di masjid masing-masing dalam keadaan diselubungi keputusasaan, meninggalkan para da'i Islam bersendirian di medan pertempuran, sambil menyangka bahawa dengan kesedihannya itu dia telah melepaskan tanggungjawabnya, bahkan barangkali menyangka bahawa dia telah meraih keutamaan dan darjat kepujian.
 
 Hakikatnya tidaklah seperti yang disangkanya, meskipun kesedihannya itu mungkin disertai dengan sesuatu yang diberi pahala dan ganjaran. Sesungguhnya seorang Muslim yang menginginkan darjat kesempurnaan turut berasa sedih melihat realiti umat Islam, namun dia mencampakkan rumahnya ke belakang punggungnya lalu tampil berhadapan dengan masyarakat; sebagai pemberi nasihat, pembimbing, pendidik, dan memimpin mereka meredah jalan-jalan jihad.
@@ -2690,6 +2698,8 @@ Sesungguhnya ia adalah suatu kefahaman yang hanya dapat difahami oleh sesiapa ya
 
 Dan padang ragut keluhuran ini tidak syak lagi langsung tidak diketahui oleh orang-orang yang jiwanya terikat dengan bumi..!
 
+• **Mengutamakan Akhirat daripada Harta dan Keselesaan**
+
 Allah Taala berfirman:
 
 ﴿يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ مَا لَكُمْ إِذَا قِيلَ لَكُمُ ٱنفِرُوا۟ فِى سَبِيلِ ٱللَّهِ ٱثَّاقَلْتُمْ إِلَى ٱلْأَرْضِ ۚ أَرَضِيتُم بِٱلْحَيَوٰةِ ٱلدُّنْيَا مِنَ ٱلْـَٔاخِرَةِ ۚ فَمَا مَتَـٰعُ ٱلْحَيَوٰةِ ٱلدُّنْيَا فِى ٱلْـَٔاخِرَةِ إِلَّا قَلِيلٌ﴾ [16]
@@ -2792,6 +2802,8 @@ Nota Kaki:
 
 # BAB 11: HAMBA YANG MERDEKA (al-'Abd al-Hurr)
 
+• **Pembebasan Jiwa daripada Kehambaan Hawa Nafsu**
+
 Sesungguhnya seorang Muslim yang diseru untuk berjalan bersama keazaman yang tinggi (*al-himam al-'āliyah*), lalu dia bangkit tersentak, melepaskan diri daripada belenggu-belenggu tarikan bumi, dan terbang melayang dengan sayap kemuliaan (*'izzah*): dia adalah seorang Muslim yang sewajarnya menyempurnakan kebangkitannya itu dengan langkah pemisahan prinsip (*tamayyuz*) yang jelas dan nyata.
 
 Atau sebagaimana yang diungkapkan oleh Sayyid Qutb rahimahullah:
@@ -2871,6 +2883,8 @@ Dan inilah makna *qudwah* (teladan) dalam bentuknya yang murni.
 
 Sesungguhnya kewujudan teladan Islam (*al-qudwah al-islāmiah*) bererti wujudnya suatu peribadi yang apabila seseorang memandangnya, dia menyedari bahawa individu itu bebas merdeka dalam pemikirannya, akidahnya, diamnya, dan gerak-gerinya daripada apa yang ada di sekelilingnya dan daripada orang-orang di sekitarnya. Dia terpisah daripada mereka; pandangan mata dapat mengenal pasti perbezaannya sebelum berurusan dengannya, melalui ketenangan, kehebatan, dan ketegasan yang terpancar pada wajahnya, yang Allah kehendaki untuk dimiliki secara khusus oleh seorang Muslim dan bukan selainnya. Dengan itu, dia menggantikan ketiadaan gambaran pemerintahan Islam tersebut, menjadi bukti nyata bahawa Islam berupaya melahirkan model-model kemanusiaan yang luhur seumpama ini; atau lebih tepat lagi: menjadi bukti bahawa model-model sedemikian tidak mungkin dihasilkan melainkan oleh Islam semata-mata.
 
+• **Izzah Seorang Mukmin Berdepan Penguasa Dunia**
+
 Abu al-Qasim al-Junaid rahimahullah mengungkapkan pemisahan teladan Islam ini dengan ungkapan: *“Kemerdekaan daripada segala sesuatu selain Allah”* (*al-ḥurriyyah 'ammā siwā Allāh*); iaitu tiada antara dirinya dengan apa jua selain Allah sebarang ikatan, belenggu, keturunan, kecenderungan, mahupun keinginan nafsu. Bahkan ia adalah kemerdekaan dengan pengertian yang difahami oleh setiap insan yang berjiwa merdeka, seraya beliau berkata:
 
 > *“Seseorang hamba itu tidak akan menjadi hamba yang sebenar (kepada Allah) sehinggalah dia merdeka daripada segala sesuatu selain Allah Taala!”* [8]
@@ -2912,6 +2926,8 @@ Imam Hasan al-Banna rahimahullah turut memahami teori pemisahan prinsip ini, lal
 > *“Generasi baharu ini; maka perelokkanlah seruan dakwah kepadanya, bersungguh-sungguhlah dalam membentuk keperibadiannya, ajarkanlah kepadanya kemerdekaan jiwa dan hati, kemerdekaan pemikiran dan akal, serta kemerdekaan jihad dan amal. Penuhilah rohnya yang bersemangat dengan keagungan Islam dan keindahan al-Quran, serta gemblenglah dia di bawah panji Muhammad dan benderanya; nescaya tidak lama lagi kamu akan melihat daripadanya seorang pemerintah Muslim yang bermujahadah melawan nafsunya dan membahagiakan orang lain!”* [12]
 
 Beliau telah mengungkapkan pemisahan prinsip ini dengan istilah *kemerdekaan/kebebasan* (*al-istiqlāl*), sebagaimana Umar bin al-Khattab RA mengungkapkannya dengan istilah *pemulauan* (*al-hajr*).
+
+• **Kemanisan Ketaatan Hakiki**
 
 Maka kemerdekaan jiwa dan hati adalah pemisahan perasaan (*al-mufāṣalah al-syu'ūriyyah*) di dalam hati sanubari, kemuliaan, dan keluhuran jiwa.  
 Manakala kemerdekaan pemikiran adalah tidak mencampuradukkan syariat dengan tasawur-tasawur ciptaan bumi yang bidaah, yang telah menyesatkan pelbagai parti dan golongan.  
