@@ -72,7 +72,7 @@ BAB 7: PENJARA HARAPAN (حصار الأمل) ...................................
    • Menghidupkan Umat dengan Mengingati Kematian .................................. 61
    • Kembali kepada Kematangan Fikiran ............................................. 62
 
-BAB 8: BUKIT-BUKIT KITA YANG KAKU (تلالنا الهامدة) ................................. 65
+BAB 8: KUBUR-KUBUR KITA YANG KAKU (تلالنا الهامدة) ................................. 65
    • Hari Penuaian ................................................................. 65
    • Kemudian Hari Tidur yang Panjang .............................................. 67
    • Hisab dan Kitab Amalan ........................................................ 70
@@ -1970,7 +1970,7 @@ Sekiranya hari ini kita menyaksikan pemergian demi pemergian para kekasih dan pe
 
 ---
 
-# BAB 8: BUKIT-BUKIT KITA YANG KAKU (Tilaluna Hamidah)
+# BAB 8: KUBUR-KUBUR KITA YANG KAKU (Tilaluna Hamidah)
 
 Sekiranya kita melihat Abu al-Darda' RA menangis setelah berpisah daripada perhimpunan para sahabat Muhammad SAW, maka dengan cepat tangisan itu bertukar menjadi ketawa, seraya beliau berkata:
 

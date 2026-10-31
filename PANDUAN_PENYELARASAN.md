@@ -248,3 +248,10 @@ Telah ditetapkan bahawa terjemahan rasmi bagi judul-judul karya Syeikh Muhammad 
 * **Ketetapan Terjemahan Rasmi:**
   *"Orang yang bijak mampu menempuh perjalanan yang jauh dengan ketinggian cita-cita, keteguhan tekad, dan keikhlasan niat—walaupun dengan amalan yang sedikit—berlipat kali ganda lebih jauh daripada apa yang ditempuh oleh orang yang kosong daripada sifat-sifat tersebut, walaupun dia banyak berpenat lelah."*
 * **Huraian Penyelarasan:** Frasa *'menempuh perjalanan'* digunakan bagi menggantikan *'memotong jarak perjalanan'*, dan susunan keutamaan himmah, tekad dan niat diselaraskan secara lebih mengalir dan fasih.
+
+---
+
+### 33. Penyelarasan Tajuk Bab 8: 'Kubur-Kubur Kita yang Kaku' (🪦)
+* **Ketetapan Penyelarasan:** Judul Bab 8 diselaraskan terjemahannya secara muktamad kepada **"Kubur-Kubur Kita yang Kaku"** (menggantikan *Bukit-Bukit Kita yang Kaku*) berserta penambahan simbol ikon nisan/kubur **`🪦`** (menggantikan lambang *🌾*).
+* **Teks Arab:** *Tilālunā al-Hāmidah (تِلاَلُنَا الهَامِدَةُ)*.
+* **Falsafah Ketetapan:** Ungkapan metafora (majaz) Syeikh Muhammad Ahmad ar-Rasyid mengenai 'bukit-bukit yang kaku' sebenarnya merujuk secara langsung kepada timbunan debu tanah kubur dan perkuburan yang sunyi membisu, di mana jasad manusia bersemadi menanti hari pembalasan. Seluruh perbincangan bab ini mengupas apa yang berlaku selepas kematian di dalam alam barzakh/kubur. Penyelarasan istilah kepada 'Kubur-Kubur' menzahirkan hakikat mesej tarbiah ruhiyyah dan fiqh haraki bab ini dengan amat jelas dan mendalam kepada para pembaca dan da'i.

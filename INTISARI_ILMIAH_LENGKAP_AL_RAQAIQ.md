@@ -176,7 +176,7 @@
 
 ---
 
-## 📌 BAB 8: BUKIT-BUKIT KITA YANG KAKU
+## 📌 BAB 8: KUBUR-KUBUR KITA YANG KAKU
 ### *(Tilālunā al-Hāmidah - تِلاَلُنَا الهَامِدَةُ)*
 
 * **Ringkasan Am Bab 8:**

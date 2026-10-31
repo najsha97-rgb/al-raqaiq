@@ -433,7 +433,7 @@
 
 ---
 
-# 🌾 BAB 8: BUKIT-BUKIT KITA YANG KAKU
+# 🪦 BAB 8: KUBUR-KUBUR KITA YANG KAKU
 ### *(Tilālunā Hāmidah - تِلَالُنَا هَامِدَةٌ)*
 
 * **💎 Mutiara Kata Hikmah:**  

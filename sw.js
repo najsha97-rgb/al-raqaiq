@@ -1,4 +1,4 @@
-const CACHE_NAME = 'alraqaiq-cache-v28-dan-removal-hanbali';
+const CACHE_NAME = 'alraqaiq-cache-v29-bab8-kubur-kubur';
 const ASSETS_TO_CACHE = [
   './',
   './index.html',

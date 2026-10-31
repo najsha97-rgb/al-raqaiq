@@ -918,7 +918,7 @@ Legasi dakwah abadi: bangunan dan empayar kebendaan pasti runtuh, namun institus
 ---
 
 
-## 📌 BAB 8: BUKIT-BUKIT KITA YANG KAKU
+## 📌 BAB 8: KUBUR-KUBUR KITA YANG KAKU
 
 ---
 
