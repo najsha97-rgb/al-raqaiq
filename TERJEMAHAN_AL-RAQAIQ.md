@@ -40,7 +40,7 @@ BAB 4: MENUJU KEGEMBIRAAN AKHIRAT (نحو أفراح الآخرة) .............
 
 BAB 5: PERSAUDARAAN SYIAR DAKWAH KITA (الأخوة شعار دعوتنا) ......................... 36
    • Ketakwaan Terlebih Dahulu ..................................................... 36
-   • Dan Kita Mengiringinya dengan Persaudaraan... ................................. 37
+   • Kita Mengiringinya dengan Persaudaraan... ................................. 37
    • Ikatan Perjanjian Persaudaraan ................................................ 39
    • Neraca Persahabatan ........................................................... 40
    • Sifat Pertama: Pertuturan yang Baik ........................................... 41
@@ -85,12 +85,12 @@ BAB 9: SEKOLAH-SEKOLAH KEMATIAN (مدارس الموت) ........................
    • Neraca Hasan al-Basri dalam Fiqh Dakwah ............................................... 78
    • Madrasah Baghdad Cenderung kepada Kesederhanaan ............................... 79
    • Tarbiah Melalui Pengakuan ..................................................... 80
-   • Dan Selepas Itu... ............................................................ 81
+   • Selepas Itu... ............................................................ 81
 
 BAB 10: TIDAK.. WAHAI BELENGGU-BELENGGU BUMI! (لا.. يا قيود الأرض) ................. 83
    • Hakikat Belenggu Dunia dan Rayuannya .......................................... 83
    • Mengutamakan Akhirat daripada Harta dan Keselesaan ............................ 86
-   • Dan Selepas Itu... ............................................................ 90
+   • Selepas Itu... ............................................................ 90
 
 BAB 11: HAMBA YANG MERDEKA (العبد الحر) ............................................. 92
    • Pembebasan Jiwa daripada Kehambaan Hawa Nafsu ................................. 92
@@ -108,9 +108,9 @@ BAB 12: KISAH-KISAH "HIBURAN" PARA DA'I (قصص من لهو الدعاة) ......
    • Kubu Tarbiah al-Asadiah .................................................... 103
    • Lenyaplah Waktu Terluang...! ................................................. 104
    • Al-Kausaj Menjelajah Mencari Ilmu dengan Berjalan Kaki ................................... 104
-   • Ulama Hanabilah Memelihara Keterampilan dan Wibawa ........................... 105
+   • Ulama Mazhab Hanbali Memelihara Keterampilan dan Wibawa ........................... 105
    • Sahabat-Sahabat Imam al-Banna Memperbaharui Jejak Ini ........................ 105
-   • Dan Kemuliaan Tatkala Saat Kematian...! ...................................... 106
+   • Kemuliaan Tatkala Saat Kematian...! ...................................... 106
    • KHATIMAH: Nantikanlah Kitab «al-Bawariq» ..................................... 107
 ```
 
@@ -1220,7 +1220,7 @@ Iqbal menceritakan kepada kita tentang apa yang telah dihasilkan oleh penyatuan 
 
 Inilah puncak kesatuan yang paling tinggi, yang tercapai dengan sarana yang paling murni: pandangannya satu, pemikiran dan cita-citanya satu, pengharapan dan kesudahannya satu — kesemuanya dikurniakan oleh keimanan. Betapa mudahnya hati yang telah memiliki keimanan yang bersih dan murni ini untuk mencapai kurniaan-kurniaan yang sangat bernilai itu.
 
-• **Dan Kita Mengiringinya dengan Persaudaraan...**
+• **Kita Mengiringinya dengan Persaudaraan...**
 
 ( "Adapun tiang penegak yang kedua ialah persaudaraan... persaudaraan kerana Allah, di atas manhaj Allah, demi merealisasikan manhaj Allah:
 
@@ -2500,7 +2500,7 @@ Atau sebagaimana yang pernah digoncangkan oleh seorang penyair lain di Andalusia
 **يُسَاقُ بِنَعْشِي وَلاَ أُمْهَلُ** [14]  
 *Usungan kerandaku diusung laju tanpa aku diberi tangguh lagi.*
 
-• **Dan Selepas Itu...**
+• **Selepas Itu...**
 
 Dan selepas itu wahai para pendakwah Islam...  
 Sesungguhnya sesiapa yang bersungguh-sungguh pasti akan berjaya, dan tidaklah sama orang yang bersengkang mata dengan orang yang lena tidur.  
@@ -2732,7 +2732,7 @@ Oleh sebab itulah al-Maududi melihat pentingnya berterus-terang, lalu beliau mem
 
 > *“Antara perkara yang amat mendukacitakan ialah bahawa mereka yang memiliki bahagian daripada kekuatan pemikiran dan jiwa daripada kualiti tertinggi dalam kalangan individu umat kita, sangat tergila-gila mengejar kenaikan pangkat keduniaan. Mereka berhempas-pulas kerananya siang dan malam, dan mereka tidak menerima tawaran di pasaran melainkan daripada pihak yang sanggup menawar dengan harga yang paling tinggi. Tahap keterikatan mereka dengan dakwah belum lagi sampai kepada tahap bersedia berkorban di jalannya dengan kepentingan-kepentingan peribadi mereka, bahkan belum bersedia mengorbankan sekadar kemungkinan faedah mereka sekalipun! Maka sekiranya kamu berharap — dengan bersandarkan kepada emosi pengorbanan yang dingin ini — untuk menewaskan musuh-musuh yang membuat kerosakan di bumi dalam peperangan ini, iaitu mereka yang mengorbankan jutaan wang pada setiap hari demi mencapai matlamat-matlamat mereka yang batil; maka harapan itu tidak lain hanyalah suatu kebodohan semata-mata!”* [19]
 
-• **Dan Selepas Itu...**
+• **Selepas Itu...**
 
 Dan selepas itu...  
 Sesungguhnya kami sentiasa membekalkanmu dengan himpunan kata-kata yang paling fasih dan bicara yang paling indah. Dan sesungguhnya ahli zuhud yang thiqah, Yahya bin Mu'adh rahimahullah, pernah berkata:
@@ -3110,7 +3110,7 @@ Sampai berita kepadanya bahawa Imam Ahmad bin Hanbal telah menarik balik sebahag
 
 Manakala salah seorang daripada kita hari ini duduk bersenang-senang di atas sofanya yang empuk, sedangkan di sisinya terletak kitab Musnad Ahmad yang telah dicetak, ditahqiq, dijilid rapi dan bertinta emas, namun dia terlalu malas untuk menatapnya!
 
-• **Ulama Hanabilah Memelihara Keterampilan dan Wibawa**
+• **Ulama Mazhab Hanbali Memelihara Keterampilan dan Wibawa**
 
 Ibnu Aqil — pakar nahu dan faqih Hanbali — melakarkan potret seorang da'i yang lintasan fikiran dan kedalaman renungannya — bahkan mimpi-mimpinya tatkala tidur — tidak lain melainkan demi dakwah; dan beliau menjelaskan hal itu melalui kata-katanya:
 
@@ -3136,7 +3136,7 @@ Imam Hasan al-Banna menyifatkan para sahabatnya sambil berkata:
 
 *‘Aku tidak meminta upah daripada kamu atas dakwah ini; upahku hanyalah daripada Allah semata-mata.’* [13]”
 
-• **Dan Kemuliaan Tatkala Saat Kematian.. !**
+• **Kemuliaan Tatkala Saat Kematian.. !**
 
 Sama seperti di Mesir, daripada angkatan pejuang generasi awal di Iraq ialah: Abu Safwan al-Dabbagh, pengarang risalah *(Ma'a al-Nasyi'ah)* — sebuah risalah kecil yang ringkas lagi amat menarik.
 

@@ -571,7 +571,7 @@
 
 ---
 
-### 3. subtajuk: *Dan Selepas Itu... (Kelapangan Jiwa Selepas Memutuskan Belenggu)*
+### 3. subtajuk: *Selepas Itu... (Kelapangan Jiwa Selepas Memutuskan Belenggu)*
 * **1. Diagnosis Halangan / Rawatan Jiwa:**  
   *Kesesakan Dada Akibat Terikat dengan Syahwat Duniawi* — Kegelisahan dan tekanan jiwa (*anxiety*) kerana takut kehilangan aset dan sanjungan manusia.
 * **2. Modus Operandi & Gejala Penyelusupan:**  

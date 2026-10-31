@@ -116,7 +116,7 @@
 * **Intisari Subtajuk:**
   * **• Ketakwaan Terlebih Dahulu:**
     * Persaudaraan yang hakiki tidak akan tegak melainkan di atas paksi takwa; ikatan tanpa takwa akan bertukar menjadi permusuhan di akhirat.
-  * **• Dan Kita Mengiringinya dengan Persaudaraan...:**
+  * **• Kita Mengiringinya dengan Persaudaraan...:**
     * Mengintegrasikan hubungan ukhuwwah dengan amalan ibadah malam dan zikir bersama.
   * **• Ikatan Perjanjian Persaudaraan:**
     * Menjaga hak-hak persaudaraan seperti menjaga amanah akidah.
@@ -215,7 +215,7 @@
     * Mengimbangi antara tuntutan mencari rezeki dengan penumpuan jiwa kepada dakwah; dunia di tangan, akhirat di hati.
   * **• Madrasah Baghdad Cenderung kepada Kesederhanaan:**
     * Dipelopori oleh Imam Ahmad bin Hanbal dan para muhaddisin; kesederhanaan hidup yang menewaskan fitnah kemewahan khalifah Abbasiyyah.
-  * **• Tarbiah Melalui Pengakuan & Dan Selepas Itu...:**
+  * **• Tarbiah Melalui Pengakuan & Selepas Itu...:**
     * Muhasabah harian secara jujur dan berterusan; pengakuan terhadap kelemahan diri di hadapan Allah melahirkan kekuatan luar biasa di medan masyarakat.
 
 ---
@@ -231,7 +231,7 @@
     * Dunia datang memikat dengan pelbagai hiasan yang mempesonakan; aktivis yang lemah azamnya akan perlahan-lahan terjerat dan mula meninggalkan medan perjuangan.
   * **• Mengutamakan Akhirat daripada Harta dan Keselesaan:**
     * Memaparkan teladan Mus'ab bin Umair RA yang meninggalkan kekayaan Makkah demi memeluk Islam, serta para sahabat yang menjual perniagaan mereka demi membeli syurga.
-  * **• Dan Selepas Itu...:**
+  * **• Selepas Itu...:**
     * Da'i yang berjaya melepaskan diri daripada belenggu bumi akan merasai kelapangan jiwa yang luar biasa; langkahnya menjadi ringan dan kata-katanya memiliki wibawa yang menggetarkan musuh.
 
 ---
@@ -280,11 +280,11 @@
     * Umar bin Abdul Aziz menolak pelawaan rakan lamanya untuk berehat dengan lafaz: *"Di manakah lagi adanya waktu terluang? Lenyaplah waktu terluang, maka tiada lagi masa lapang melainkan di sisi Allah!"*
   * **• Al-Kausaj Menjelajah Mencari Ilmu dengan Berjalan Kaki:**
     * Al-Kausaj berjalan kaki dari Khurasan ke Baghdad demi mengesahkan masalah fiqh di hadapan Imam Ahmad.
-  * **• Ulama Hanabilah Memelihara Keterampilan dan Wibawa:**
+  * **• Ulama Mazhab Hanbali Memelihara Keterampilan dan Wibawa:**
     * Ibnu Aqil tidak mensia-siakan walau sesaat, berfikir tentang dakwah tatkala berbaring; Muhammad bin Ahmad al-Dabbahi yang memancarkan tanda kesungguhan pada raut wajahnya.
   * **• Sahabat-Sahabat Imam al-Banna Memperbaharui Jejak Ini:**
     * Berjaga malam, bekerja dari asar hingga tengah malam, dan mendermakan gaji bulanan untuk tanzim dakwah.
-  * **• Dan Kemuliaan Tatkala Saat Kematian... !:**
+  * **• Kemuliaan Tatkala Saat Kematian... !:**
     * Kisah Abu Safwan al-Dabbagh di Iraq (1952 M) yang memperbaharui baiah di atas katil hospital sejurus sebelum menghembuskan nafas terakhir.
 
 ---
