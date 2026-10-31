@@ -612,19 +612,43 @@
 
 ---
 
-### 1. subtajuk: *Hakikat Belenggu Dunia dan Rayuannya*
+### 1. subtajuk: *Menolak Keluhan Pasif dan Menyahut Seruan Himmah*
 * **1. Diagnosis Halangan / Rawatan Jiwa:**  
-  *Tarikan Graviti Belenggu Bumi (Quyūd al-Arḍ)* — Harta kekayaan, rumah agam, anak isteri yang manja, dan jawatan berprestij yang menjadi rantai besi mengikat leher aktivis.
+  *Kesedihan Pasif dan Angan-Angan Kosong (Tīh al-Amānī)* — Meratapi kelemahan umat dan kezaliman musuh tanpa menggerakkan sebarang amal nyata untuk membuat pembetulan (*istidrāk*).
 * **2. Modus Operandi & Gejala Penyelusupan:**  
-  Dunia datang merayu secara beransur-ansur; bermula dengan pinjaman rumah yang menuntut lebihan kerja lampau (*overtime*), kenaikan pangkat yang menuntut kesetiaan kepada dasar sekular, sehingga akhirnya da'i tiada masa lagi untuk usrah dan dakwah.
+  Aktivis menyangka bahawa bersedih dan mengeluh panjang sudah cukup menggugurkan kewajipan, lalu terperangkap dalam sikap berlengah-lengah dan berundur daripada saf perjuangan.
 * **3. Implikasi Terhadap Saf Haraki:**  
-  Pengkhianatan senyap; aktivis mula menarik diri daripada tanggungjawab barisan hadapan kerana takut terjejas kerjaya atau pendapatan bulanannya.
+  Menyebarkan aura pesimisme dan keputusasaan di kalangan saf dakwah, melumpuhkan inisiatif tajdid, dan menjauhkan kader daripada barisan pengamal yang gigih.
 * **4. Preskripsi Penawar (*Fiqh as-Sulūk*) & Petunjuk Salaf:**  
-  Menyedari bahawa dunia ini laksana bangkai kambing cacat yang dibuang di tepi jalan. Da'i tidak boleh membiarkan hatinya dirantai oleh tanah liat bumi yang fana.
+  Menyahut seruan Syeikh Abdul Qadir al-Kailani untuk melangkah bersama pemilik himmah tinggi; memusnahkan keluhan pasif dengan amal berterusan, keazaman teguh, dan keyakinan kepada pertolongan Allah (*Liya ma'īnāni: himmatun wa'tizām*).
 
 ---
 
-### 2. subtajuk: *Mengutamakan Akhirat daripada Harta dan Keselesaan*
+### 2. subtajuk: *Memecahkan Belenggu Syahwat dan Tarikan Kerehatan*
+* **1. Diagnosis Halangan / Rawatan Jiwa:**  
+  *Tarikan Graviti Kerehatan & Belenggu Syahwat* — Nafsu memanjakan diri dengan keselesaan rumah, kemewahan harta, dan mengorbankan prinsip dakwah demi mencari keredaan keluarga atau kedudukan duniawi.
+* **2. Modus Operandi & Gejala Penyelusupan:**  
+  Dunia menyelinap secara halus melalui alasan "tanggungjawab keluarga" dan keperluan rehat; da'i mula merasa berat untuk menghadiri program tarbiah, memberi infaq, atau memikul beban jihad.
+* **3. Implikasi Terhadap Saf Haraki:**  
+  Hilangnya ruh pengorbanan (*tadhiyyah*), saf dakwah menjadi rapuh kerana aktivis mengutamakan keselamatan dan kesenangan peribadi melebihi maslahat perjuangan Islam.
+* **4. Preskripsi Penawar (*Fiqh as-Sulūk*) & Petunjuk Salaf:**  
+  Menolak lembah kehinaan dan menegakkan kemerdekaan hati daripada perhambaan syahwat; mencontohi keperibadian da'i sejati yang berani dan bebas daripada rasa takut sebagaimana disifatkan oleh Allamah Iqbal.
+
+---
+
+### 3. subtajuk: *Kemuliaan Darjat Melalui Ilmu, Jihad, dan Cita-Cita Helang*
+* **1. Diagnosis Halangan / Rawatan Jiwa:**  
+  *Kelumpuhan Himmah dan Jiwa Berpaut ke Bumi* — Penyakit cepat berpuas hati dengan kedudukan rendah serta hilang cita-cita untuk mencapai darjat ketinggian (*al-darajāt al-'ulā*).
+* **2. Modus Operandi & Gejala Penyelusupan:**  
+  Merasa cukup dengan amalan fardu minimum, enggan mendalami ilmu fiqh dakwah, dan menjauhkan diri daripada medan jihad serta persiapan menentang musuh.
+* **3. Implikasi Terhadap Saf Haraki:**  
+  Kelesuan haraki dan kemandulan kualitatif kepimpinan; saf kehilangan daya saing serta wibawa dalam memimpin umat di persada global.
+* **4. Preskripsi Penawar (*Fiqh as-Sulūk*) & Petunjuk Salaf:**  
+  Menggabungkan ilmu yang mendalam dengan jihad yang berterusan sebagaimana tuntutan al-Quran; menghayati wasiat Imam Hasan al-Banna (niat jihad & kesiapsiagaan tentera di berek); serta melatih himmah terbang tinggi di ufuk keluhuran seperti sang helang (*aṣ-Ṣaqr*).
+
+---
+
+### 4. subtajuk: *Mengutamakan Akhirat daripada Harta dan Keselesaan*
 * **1. Diagnosis Halangan / Rawatan Jiwa:**  
   *Ketakutan Menjadi Miskin & Sayang kepada Kemewahan* — Was-was syaitan yang menjanjikan kefakiran sekiranya aktif berdakwah.
 * **2. Modus Operandi & Gejala Penyelusupan:**  
@@ -636,7 +660,7 @@
 
 ---
 
-### 3. subtajuk: *Selepas Itu... (Kelapangan Jiwa Selepas Memutuskan Belenggu)*
+### 5. subtajuk: *Selepas Itu... (Kelapangan Jiwa Selepas Memutuskan Belenggu)*
 * **1. Diagnosis Halangan / Rawatan Jiwa:**  
   *Kesesakan Dada Akibat Terikat dengan Syahwat Duniawi* — Kegelisahan dan tekanan jiwa (*anxiety*) kerana takut kehilangan aset dan sanjungan manusia.
 * **2. Modus Operandi & Gejala Penyelusupan:**  

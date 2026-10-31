@@ -250,8 +250,12 @@
   Bab ini merupakan jeritan pembebasan daripada "belenggu-belenggu bumi" (*quyūd al-arḍ*) — iaitu harta benda, kemewahan kediaman, jawatan berprestij, sanjungan keluarga, dan ketakutan kehilangan rezeki. Syeikh al-Rasyid menyeru para pemuda dakwah agar memutuskan belenggu ini sebelum ia mengikat leher mereka dan mengheret mereka ke lembah pengkhianatan haraki.
 
 * **Intisari Subtajuk:**
-  * **• Hakikat Belenggu Dunia dan Rayuannya:**
-    * Dunia datang memikat dengan pelbagai hiasan yang mempesonakan; aktivis yang lemah azamnya akan perlahan-lahan terjerat dan mula meninggalkan medan perjuangan.
+  * **• Menolak Keluhan Pasif dan Menyahut Seruan Himmah:**
+    * Membongkar hakikat bahawa kesedihan dan rintihan pasif melihat kemunduran umat langsung tidak memberi manfaat jika tidak diiringi dengan tindakan pembetulan (*istidrāk*). Menyahut seruan Syeikh Abdul Qadir al-Kailani agar bangkit melangkah bersama para pemilik himmah yang tinggi.
+  * **• Memecahkan Belenggu Syahwat dan Tarikan Kerehatan:**
+    * Mendedahkan muslihat nafsu yang memanjakan diri dengan kerehatan, tuntutan anak isteri, dan kemewahan yang mengikat jiwa. Da'i sejati membebaskan hatinya daripada belenggu syahwat dan bersedia menempuh jalan pengorbanan tanpa rasa takut.
+  * **• Kemuliaan Darjat Melalui Ilmu, Jihad, dan Cita-Cita Helang:**
+    * Mengupas empat ayat al-Quran tentang pengangkatan darjat (*al-darajāt al-'ulā*) yang berpaksi kepada ilmu dan jihad. Membina cita-cita tinggi ibarat burung helang yang menolak untuk turun ke tanah tandus, serta menghayati wasiat ketenteraan Imam Hasan al-Banna.
   * **• Mengutamakan Akhirat daripada Harta dan Keselesaan:**
     * Memaparkan teladan Mus'ab bin Umair RA yang meninggalkan kekayaan Makkah demi memeluk Islam, serta para sahabat yang menjual perniagaan mereka demi membeli syurga.
   * **• Selepas Itu...:**

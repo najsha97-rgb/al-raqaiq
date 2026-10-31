@@ -91,9 +91,11 @@ BAB 9: SEKOLAH-SEKOLAH KEMATIAN (مدارس الموت) ........................
    • Selepas Itu... ............................................................ 81
 
 BAB 10: TIDAK.. WAHAI BELENGGU-BELENGGU BUMI! (لا.. يا قيود الأرض) ................. 83
-   • Hakikat Belenggu Dunia dan Rayuannya .......................................... 83
-   • Mengutamakan Akhirat daripada Harta dan Keselesaan ............................ 86
-   • Selepas Itu... ............................................................ 90
+   • Menolak Keluhan Pasif dan Menyahut Seruan Himmah .............................. 83
+   • Memecahkan Belenggu Syahwat dan Tarikan Kerehatan ............................. 85
+   • Kemuliaan Darjat Melalui Ilmu, Jihad, dan Cita-Cita Helang .................... 88
+   • Mengutamakan Akhirat daripada Harta dan Keselesaan ............................ 90
+   • Selepas Itu... ............................................................ 91
 
 BAB 11: HAMBA YANG MERDEKA (العبد الحر) ............................................. 92
    • Pemisahan Prinsip dan Rukun Tasawur Islam ..................................... 92
@@ -2603,7 +2605,7 @@ Nota Kaki:
 
 # BAB 10: TIDAK.. WAHAI BELENGGU-BELENGGU BUMI! (La.. Ya Quyud al-Ard)
 
-• **Hakikat Belenggu Dunia dan Rayuannya**
+• **Menolak Keluhan Pasif dan Menyahut Seruan Himmah**
 
 Sekiranya para pendakwah kepada Allah telah memahami jalan untuk membuat pembetulan (*istidrāk*), enggan tunduk kepada kerosakan yang semakin berleluasa, memberontak terhadap proses penjinakan jiwa, serta memulakan usaha-usaha peneguhan dan tarbiah bagi mereka yang memiliki fitrah yang sejahtera; sesungguhnya selain mereka pula hanya mampu meratapi realiti kaum muslimin sambil mengeluh dan mengaduh. Mereka tidak melangkah lebih daripada sekadar menzahirkan kesedihan, lalu berkurung di rumah atau di masjid masing-masing dalam keadaan diselubungi keputusasaan, meninggalkan para da'i Islam bersendirian di medan pertempuran, sambil menyangka bahawa dengan kesedihannya itu dia telah melepaskan tanggungjawabnya, bahkan barangkali menyangka bahawa dia telah meraih keutamaan dan darjat kepujian.
 
@@ -2659,6 +2661,10 @@ Betapa tertipu dan khayalnya orang yang menyangka bahawa kelazatan itu hanyalah 
 Hanyasanya kebahagiaan itu berada pada keredaan Allah.  
 Dan hanyasanya kelazatan yang sebenar adalah kelazatan berkorban dan menebus perjuangan.
 
+---
+
+• **Memecahkan Belenggu Syahwat dan Tarikan Kerehatan**
+
 Seruan Syeikh Abdul Qadir datang menyapa kita merentasi kurun-kurun zaman:
 
 > *“Kamu lalai daripada apa yang sedang dihadapi oleh kaum solihin! Kamu terus-menerus berpenat lelah memanjakan nafsu yang sebenarnya adalah musuh kamu. Kamu merelakan kemurkaan Tuhan kamu 'Azza wa Jalla demi mencari keredaan isteri-isteri kamu. Betapa ramai makhluk yang mendahulukan keredaan isteri dan anak-anak mereka melebihi keredaan al-Haq 'Azza wa Jalla!”*
@@ -2709,6 +2715,10 @@ Dan Ibnu Taimiyah berkhutbah kepadanya seraya menerangkan jalan yang jelas:
 
 Maka dia mencampakkan belenggu syahwat dan cinta kepada harta daripada sanubarinya lalu menjadi seorang yang merdeka. Dia kembali menolak lurah yang rendah dan hina, enggan ditenggelami oleh lembah-lembah kecundang, dan menuntut puncak ketinggian yang mulia.  
 Dan sesiapa yang menginginkan hal tersebut, dia pasti menaiki tangga ketinggian dan kemuliaan: iaitu jihad dan fiqh dakwah.
+
+---
+
+• **Kemuliaan Darjat Melalui Ilmu, Jihad, dan Cita-Cita Helang**
 
 Allah Taala berfirman:
 

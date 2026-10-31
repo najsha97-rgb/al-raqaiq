@@ -296,3 +296,18 @@ Telah ditetapkan bahawa terjemahan rasmi bagi judul-judul karya Syeikh Muhammad 
   - Jumlah Perenggan: 920 (100% terpelihara tanpa sebarang pengurangan)
   - Jumlah Nota Kaki: 181 (100% terpelihara)
 * **Liputan Menyeluruh:** Diselaraskan di semua platform: Manuskrip Markdown (`TERJEMAHAN_AL-RAQAIQ.md`), Intisari Ilmiah Lengkap, Intisari Subtopik Fiqh Haraki, dokumen Word (`.docx`), pangkalan data JSON/JS PWA, dan bot Telegram.
+
+### 38. Pembahagian Subtajuk 1 Bab 10 Kepada 3 Subtajuk Mengikut Kaedah Pilihan 1
+* **Latar Belakang:** Subtajuk asal pertama Bab 10 (*Hakikat Belenggu Dunia dan Rayuannya*) mengandungi 49 perenggan berturut-turut beserta bait-bait puisi tarbiah yang amat padat tanpa pembahagian kecil, yang boleh meletihkan pembacaan dan mengaburkan peralihan fokus huraian.
+* **Ketetapan Penyelarasan (Pilihan 1 - Pecahan 3 Subtajuk Mandiri):** Subtajuk ini dipecahkan secara rasmi kepada 3 subtajuk mandiri yang seimbang mengikut kesinambungan tema tarbiah haraki, menjadikan Bab 10 mempunyai 5 subtajuk keseluruhan:
+  1. `Menolak Keluhan Pasif dan Menyahut Seruan Himmah` (15 perenggan: P1–P15 — kritikan terhadap kesedihan pasif dan angan-angan kosong tanpa amal nyata (*istidrāk*), syair *Ayyuhal-masydūdu fī tīhil-amānī*, kalam Ibnu Taimiyah, dan seruan melangkah bersama himmah Syeikh Abdul Qadir al-Kailani; nota kaki [1], [2], [3], [4]).
+  2. `Memecahkan Belenggu Syahwat dan Tarikan Kerehatan` (14 perenggan: P16–P29 — hakikat ujian kerehatan nafsu, tuntutan anak isteri, keberanian jiwa da'i yang bebas daripada ketakutan [Iqbal], dan hakikat kemerdekaan hati daripada syahwat duniawi; nota kaki [5], [6], [7], [8]).
+  3. `Kemuliaan Darjat Melalui Ilmu, Jihad, dan Cita-Cita Helang` (20 perenggan: P30–P49 — empat ayat al-Quran tentang pengangkatan darjat (*al-darajāt al-'ulā*) melalui ilmu dan jihad, bait himmah Iqbal yang menghidupkan tulang reput, wasiat berek tentera Hasan al-Banna, dan alegori sang helang (*aṣ-Ṣaqr*) di ufuk keluhuran; nota kaki [9], [10], [11], [12], [13], [14], [15]).
+  4. `Mengutamakan Akhirat daripada Harta dan Keselesaan` (15 perenggan: P50–P64; nota kaki [16], [17], [18], [19]).
+  5. `Selepas Itu...` (9 perenggan: P65–P73; nota kaki [20], [21]).
+* **Statistik Keseluruhan Kitab:**
+  - Jumlah Bab: 14 (1 epigraf + 1 mukadimah + 12 bab teks)
+  - Jumlah Subtajuk: 93 (92 subtajuk teks + 1 epigraf)
+  - Jumlah Perenggan: 920 (100% terpelihara tanpa sebarang pengurangan)
+  - Jumlah Nota Kaki: 181 (100% terpelihara)
+* **Liputan Menyeluruh:** Diselaraskan di semua platform: Manuskrip Markdown (`TERJEMAHAN_AL-RAQAIQ.md`), Intisari Ilmiah Lengkap, Intisari Subtopik Fiqh Haraki, dokumen Word (`.docx`), pangkalan data JSON/JS PWA, dan bot Telegram.
