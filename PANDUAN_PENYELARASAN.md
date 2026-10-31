@@ -411,3 +411,15 @@ Telah ditetapkan bahawa terjemahan rasmi bagi judul-judul karya Syeikh Muhammad 
   - Jumlah Perenggan: 916 (100% terpelihara tanpa sebarang pengurangan)
   - Jumlah Nota Kaki: 181 (100% terpelihara)
 * **Liputan Menyeluruh:** Diselaraskan di semua platform: Manuskrip Markdown (`TERJEMAHAN_AL-RAQAIQ.md`), Intisari Ilmiah Lengkap, Intisari Subtopik Fiqh Haraki, dokumen Word (`.docx`), pangkalan data JSON/JS PWA, dan bot Telegram.
+
+### 42. Pembahagian Subtajuk 2 Bab 2 (*Tokoh-Tokoh Madrasah Malam*) Kepada 2 Subtajuk Mandiri
+* **Latar Belakang:** Subtajuk asal kedua Bab 2 (*Tokoh-Tokoh Madrasah Malam*) mengandungi 31 perenggan dan 3 nota kaki. Pada perenggan ke-21 (*"Mempelajari keikhlasan dan menelanjangi angan-angan duniawi yang dusta merupakan kurniaan paling berharga daripada Madrasah Malam..."*), fokus beralih daripada seruan qiamullail dan minit malam kepada natijah madrasah malam, penelanjangan tipu daya dunia, dan 6 bait syair agung *Yā laylu qiyāmuka madrasah* yang menghidupkan jiwa.
+* **Ketetapan Penyelarasan (Cadangan Sahabat):** Subtajuk ini dipecahkan secara rasmi kepada 2 subtajuk mandiri yang seimbang mengikut kesinambungan tema tarbiah malam, menjadikan Bab 2 mempunyai 4 subtajuk keseluruhan:
+  1. `Tokoh-Tokoh Madrasah Malam` (20 perenggan: P1–P20 — keheningan qiamullail, seruan *Yā rijālal-layli jiddū*, pengalaman lilin penyair Muhammad Iqbal, wasiat Syeikh Abu al-Hasan al-Nadwi tentang minit malam, dan hakikat kemenangan dakwah sebagai anugerah Allah bagi perwira malam; nota kaki [4], [5]).
+  2. `Menggapai Hasil Citra Madrasah Malam` (11 perenggan: P21–P31 — kurniaan keikhlasan daripada madrasah malam, 6 bait syair *Yā laylu qiyāmuka madrasah* membongkar tipu daya dunia ibarat sesumpah dan menautkan hati kepada zikir, serta natijah qiamullail yang melahirkan jiwa hidup yang menghidupkan hati masyarakat; nota kaki [6]).
+* **Statistik Keseluruhan Kitab:**
+  - Jumlah Bab: 14 (1 epigraf + 1 mukadimah + 12 bab teks)
+  - Jumlah Subtajuk: 99 (98 subtajuk teks + 1 epigraf)
+  - Jumlah Perenggan: 916 (100% terpelihara tanpa sebarang pengurangan)
+  - Jumlah Nota Kaki: 181 (100% terpelihara)
+* **Liputan Menyeluruh:** Diselaraskan di semua platform: Manuskrip Markdown (`TERJEMAHAN_AL-RAQAIQ.md`), Intisari Ilmiah Lengkap, Intisari Subtopik Fiqh Haraki, dokumen Word (`.docx`), pangkalan data JSON/JS PWA, dan bot Telegram.

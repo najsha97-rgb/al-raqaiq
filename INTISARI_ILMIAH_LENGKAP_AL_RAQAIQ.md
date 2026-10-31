@@ -80,7 +80,10 @@
 * **Intisari Subtajuk:**
   * **• Tokoh-Tokoh Madrasah Malam:**
     * Gambaran qiamullail para pejuang Islam sepanjang zaman; bagaimana mereka membelah malam dengan tilawah, tangisan taubat, dan rintihan hajat.
-    * Solat malam melahirkan ketenangan jiwa yang teguh, wajah yang bercahaya, dan ketajaman bashirah.
+    * Kemenangan dakwah bukan diukur pada banyaknya risalah dicetak, tetapi anugerah Allah yang diletakkan di tangan aktivis yang melazimi madrasah malam.
+  * **• Menggapai Hasil Citra Madrasah Malam:**
+    * Madrasah malam mengurniakan mutiara keikhlasan dan menelanjangi tipu daya angan-angan duniawi yang memperdayakan da'i ibarat sesumpah yang bertukar warna.
+    * Menghayati bait syair *Yā laylu qiyāmuka madrasah*; qiamullail melahirkan jiwa yang hidup yang mampu memancarkan kesan tarbiah kepada hati insan lain.
   * **• Adakah Burung Merpati Mendahuluimu?:**
     * Refleksi mendalam daripada bait penyair: Malunya seorang da'i apabila burung merpati telah bangun bertasbih pada waktu fajar menyingsing, sedangkan manusia yang memikul risalah dakwah masih lena dibalut kehangatan selimut.
     * Bangun bertahajud menuntut pengorbanan hawa nafsu dan latihan mujahadah yang berterusan.

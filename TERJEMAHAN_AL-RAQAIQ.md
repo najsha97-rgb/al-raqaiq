@@ -25,6 +25,7 @@ BAB 1: TASBIH MENGUKUHKAN KEKUASAAN (تسبيح يشد الملك) .............
 
 BAB 2: MINIT-MINIT YANG BERHARGA (الدقائق الغالية) ................................. 14
    • Tokoh-Tokoh Madrasah Malam .................................................... 16
+   • Menggapai Hasil Citra Madrasah Malam .......................................... 17
    • Adakah Burung Merpati Mendahuluimu? ........................................... 18
 
 BAB 3: PERMULAAN (الابتداء) ........................................................ 21
@@ -658,6 +659,8 @@ Itu merupakan syarat yang tidak dapat dielakkan.
 Seolah-olah kemenangan itu dihalang daripada kita kerana kita memohonnya dari sebalik dinding kamar; kita meninggikan suara seakan-akan mewajibkan ke atas Allah untuk memberikan kemenangan itu kepada kita dengan rasa bangga diri. Kita seolah-olah ingin membelinya dan menetapkan hak serta-merta untuk menerima habuan harganya, tanpa kita terlebih dahulu menghulurkan bisikan munajat pada waktu sahur dan linangan air mata yang mencurah-curah.
 
 Sesungguhnya kemenangan itu merupakan anugerah mutlak daripada Allah SWT; yang dengannya Dia menyejukkan pandangan mata sesiapa yang dikehendaki-Nya dalam kalangan tokoh-tokoh Madrasah Malam di dunia ini, tanpa mengurangkan sedikit pun ganjaran bagi mereka yang belum sempat melihatnya di akhirat kelak, bahkan mencatatkan pahala mereka di sisi-Nya.
+
+### Menggapai Hasil Citra Madrasah Malam
 
 Mempelajari keikhlasan dan menelanjangi angan-angan duniawi yang dusta merupakan kurniaan paling berharga daripada Madrasah Malam, sebagaimana yang diungkapkan oleh Walid al-A'zami; dan itulah perkara yang wajib ditekankan serta diperdalamkan oleh tarbiah kita dalam jiwa.
 

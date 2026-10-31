@@ -170,7 +170,19 @@
 
 ---
 
-### 2. subtajuk: *Adakah Burung Merpati Mendahuluimu?*
+### 2. subtajuk: *Menggapai Hasil Citra Madrasah Malam*
+* **1. Diagnosis Halangan / Rawatan Jiwa:**  
+  *Tertipu Angan-Angan Dusta Duniawi* — Hati yang mudah terpesona dengan angan-angan duniawi yang berkilau ibarat sesumpah yang bertukar warna, sehingga melupakan hakikat bahawa keikhlasan sejati hanya diperolehi melalui madrasah malam.
+* **2. Modus Operandi & Gejala Penyelusupan:**  
+  Aktivis menyangka bahawa kejayaan dakwah bergantung kepada kehebatan risalah dan publisiti, sedangkan batinnya terperangkap dalam fitnah dosa dan angan-angan kosong yang cuba menenggelamkannya.
+* **3. Implikasi Terhadap Saf Haraki:**  
+  Timbul aktivis yang zahirnya petah berhujah tetapi batinnya mati (*matat anfusuhum*); dakwah kehilangan daya pengaruh (*ta'thīr*) ke dalam sanubari masyarakat kerana kata-kata tidak lahir daripada hati yang basah dengan air mata sujud malam.
+* **4. Preskripsi Penawar (*Fiqh as-Sulūk*) & Petunjuk Salaf:**  
+  *Menghayati Bait Madrasah Malam:* *"Wahai malam! Bangkitmu adalah madrasah; di dalamnya Al-Quran mendidikku tentang pengertian ikhlas lalu kupegang teguh sebagai jalan ke syurga... dan menautkan hati kepada Penciptanya dengan zikir yang sentiasa mengawal."* Melahirkan jiwa yang hidup yang mampu menghidupkan hati orang lain.
+
+---
+
+### 3. subtajuk: *Adakah Burung Merpati Mendahuluimu?*
 * **1. Diagnosis Halangan / Rawatan Jiwa:**  
   *Rasa Malu Terhadap Makhluk yang Bertasbih* — Kelalaian insan berakal yang tewas kepada haiwan yang tidak berakal dalam mengingati dan memuji Allah pada fajar hari.
 * **2. Modus Operandi & Gejala Penyelusupan:**  
