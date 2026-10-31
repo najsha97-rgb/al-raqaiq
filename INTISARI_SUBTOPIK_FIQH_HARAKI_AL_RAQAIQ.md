@@ -317,15 +317,63 @@
 
 ---
 
-### 7. subtajuk: *Ujian Kelapangan Masa dan Kelalaian*
+### 7. subtajuk: *Hakikat Ujian Kelalaian dan Jiwa yang Diwakafkan untuk Allah*
 * **1. Diagnosis Halangan / Rawatan Jiwa:**  
-  *Pembaziran Waktu Terluang (Al-Faragh)* — Masa lapang yang tidak diisi dengan amal kebajikan akan diisi oleh syaitan dengan bisikan maksiat dan kelalaian.
+  *Kelalaian Meremehkan Hakikat Wakaf Jiwa* — Memandang bahawa komitmen dakwah ada had waktu dan cuti rehat sesuka hati, sedangkan jiwa pejuang telah diakadkan sebagai *Waqfun Lillahi Ta'ala* (Harta Wakaf Milik Allah).
 * **2. Modus Operandi & Gejala Penyelusupan:**  
-  Menghabiskan waktu berjam-jam melayari hiburan sia-sia, permainan video, atau lepak di kedai kopi atas nama "mengeratkan ukhuwah" tanpa sebarang pengisian ilmiah.
+  Mencipta ilusi bahawa mehnah itu hanya berlaku ketika dipenjara atau ditekan musuh; tatkala suasana aman, timbul sikap sambil lewa, mengurangkan zikir, dan membiarkan bara dakwah di dalam hati beransur padam.
 * **3. Implikasi Terhadap Saf Haraki:**  
-  Tumpulnya akal aktivis, pudarnya sensitiviti dosa, dan hilangnya daya produktiviti gerakan.
+  Kehilangan ketajaman haraki; aktivis menjadi lesu dan sekadar menunggu arahan tanpa ada inisiatif membakar jiwa dengan kebajikan. Saf kehilangan daya ledak tarbiah.
 * **4. Preskripsi Penawar (*Fiqh as-Sulūk*) & Petunjuk Salaf:**  
-  *Wasiat Ibnu Mas'ud RA*: *"Sesungguhnya aku amat benci melihat seorang lelaki yang menganggur; tidak berada dalam urusan dunianya dan tidak pula dalam urusan akhiratnya."* Mengisi setiap nafas dengan zikir, mutala'ah kitab, atau khidmat dakwah.
+  *Wasiat al-Ustaz al-Maududi:* Menyalakan api dakwah di dalam sanubari seperti melihat rumah sendiri terbakar—tidak mungkin seseorang berdiam diri tatkala kediamannya dijilat api. Memahami bahawa diri yang telah diwakafkan tidak berhak menuntut faedah untuk kerehatan hawa nafsu.
+
+---
+
+### 8. subtajuk: *Bahaya Kerehatan dan Kewaspadaan daripada Lena Kelalaian*
+* **1. Diagnosis Halangan / Rawatan Jiwa:**  
+  *Kecenderungan Mencari Kerehatan Palsu* — Jiwa yang mudah terpesona dengan rehat berpanjangan dan melampaui batas dalam menikmati perkara harus (mubah) sehingga menumpulkan ketajaman rohani.
+* **2. Modus Operandi & Gejala Penyelusupan:**  
+  Menjadikan alasan "merehatkan minda" untuk berlarut-larut dalam keseronokan duniawi, bertangguh menghadiri liqa' dan program, serta membiarkan waktu berlalu tanpa nilai akhirat.
+* **3. Implikasi Terhadap Saf Haraki:**  
+  Saf diserang penyakit kemalasan dan kelambatan bertindak; kubu dakwah terdedah kepada serangan musuh kerana pengawal di perbatasan tertidur dalam lena kelalaian.
+* **4. Preskripsi Penawar (*Fiqh as-Sulūk*) & Petunjuk Salaf:**  
+  *Ketetapan Kaum Salaf:* Menghayati kaedah: *“Kerehatan bagi pejuang merupakan suatu kelalaian”* (الرَّاحَةُ لِلرِّجَالِ غَفْلَةٌ) dan pesanan imam hadis Syu'bah: *“Janganlah kamu duduk membuang masa tanpa berbuat apa-apa, kerana kematian sentiasa mencarimu.”* Serta petunjuk Ibnu al-Qayyim: jadilah pejuang yang peka seperti tidur ayam di benteng kewaspadaan.
+
+---
+
+### 9. subtajuk: *Fitnah Ketamadunan Moden dan Neraca Masa Imam Hasan al-Banna*
+* **1. Diagnosis Halangan / Rawatan Jiwa:**  
+  *Hanyut dalam Arus Hiburan Ketamadunan Materialistik* — Terjerumus ke dalam jerangkap ketamadunan moden yang membanjiri kehidupan dengan media, hiburan, dan bisikan syahwat di hujung jari.
+* **2. Modus Operandi & Gejala Penyelusupan:**  
+  Menghabiskan waktu berjam-jam di skrin media sosial dan hiburan digital, terpengaruh dengan slogan kebendaan *"masa itu emas"* yang menyempitkan masa hanya untuk mengumpul wang dan kekayaan dunia.
+* **3. Implikasi Terhadap Saf Haraki:**  
+  Pencairan jati diri haraki (*tamyi'*); waktu da'i bocor tanpa disedari, menyebabkan tugasan dakwah terbengkalai dan hubungan jiwa dengan Al-Quran semakin renggang.
+* **4. Preskripsi Penawar (*Fiqh as-Sulūk*) & Petunjuk Salaf:**  
+  *Neraca Imam Hasan al-Banna:* Menegaskan prinsip bahawa **"Masa itu ialah Kehidupan"** (الوقت هو الحياة). Merancang waktu esok pada malam ini, tidur di atas keazaman beramal soleh, dan mengamalkan syair salaf: *“Bangkitlah daripada lena kelalaian, kerana umur amatlah singkat; dan buangkanlah sikap ‘nanti dulu’ dan ‘tunggulah’.”*
+
+---
+
+### 10. subtajuk: *Keteladanan Imam Ahmad Menanggalkan Kerehatan dalam Mehnah*
+* **1. Diagnosis Halangan / Rawatan Jiwa:**  
+  *Takut Menghadapi Kepenatan Beramal* — Mengelak daripada memikul beban tugas yang memerlukan pengorbanan tenaga, peluh, dan kesabaran menanggung kepedihan mehnah.
+* **2. Modus Operandi & Gejala Penyelusupan:**  
+  Memberi pelbagai alasan kesihatan yang remeh, memilih-milih tugas yang ringan dan popular, serta merungut apabila tugasan bertambah.
+* **3. Implikasi Terhadap Saf Haraki:**  
+  Beban kerja dakwah tertumpu kepada segelintir aktivis yang ikhlas sehingga mereka terbeban (*burnout*), manakala sebahagian saf menjadi rapuh apabila diuji mehnah.
+* **4. Preskripsi Penawar (*Fiqh as-Sulūk*) & Petunjuk Salaf:**  
+  *Meneladani Ketabahan Imam Ahmad bin Hanbal:* Menghayati ungkapan beliau tatkala berhadapan mehnah fitnah Khalqil Quran: *“Wahai anakku! Sesungguhnya aku telah mencurahkan segenap tenaga keupayaan daripada diriku”* (بَذَلْتُ مَجْهُودِي). Mengubah keletihan fizikal menjadi kelazatan ibadah, sebagaimana diungkapkan: *“jiwa yang hiburannya ialah keletihan beramal.”*
+
+---
+
+### 11. subtajuk: *Kerehatan Hakiki pada Langkah Pertama Menjejak Syurga*
+* **1. Diagnosis Halangan / Rawatan Jiwa:**  
+  *Mengejar Kerehatan di Dunia Fana* — Menuntut hasil dan rehat segera di dunia, lalu kecewa atau futur apabila kemenangan dan kesenangan belum kunjung tiba.
+* **2. Modus Operandi & Gejala Penyelusupan:**  
+  Merasa diri telah banyak berkorban lalu layak untuk bersara awal daripada medan dakwah sebelum ajal menjemput.
+* **3. Implikasi Terhadap Saf Haraki:**  
+  Fenomena gugur di jalan dakwah (*tasāqut*) di usia matang; tanzim kehilangan kader-kader berpengalaman yang sepatutnya menjadi tempat rujukan dan benteng thabat.
+* **4. Preskripsi Penawar (*Fiqh as-Sulūk*) & Petunjuk Salaf:**  
+  *Jawapan Abadi Imam Ahmad:* *"Tatkala tapak kakimu yang pertama melangkah masuk ke dalam Syurga!"* Memahami rumusan Ibnu al-Qayyim bahawa sesiapa yang memandang fajar ganjaran pahala di akhirat, nescaya segala kegelapan keletihan taklif dunia terasa amat ringan dan manis.
 
 ---
 

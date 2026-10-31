@@ -125,8 +125,16 @@
     * Matlamat yang jelas memandu da'i agar tidak terpesong oleh godaan remeh di tepi jalan.
   * **• Engkau Penuntut Akses Menuju Allah:**
     * Mendekatkan diri kepada Allah melalui pintu-pintu ketaatan dan tawajuh yang ikhlas.
-  * **• Ujian Kelapangan Masa dan Kelalaian:**
-    * Masa lapang adalah jerangkap maut bagi aktivis; ruang kosong yang tidak diisi dengan kebaikan pasti akan diracuni oleh fitnah syubhat dan syahwat.
+  * **• Hakikat Ujian Kelalaian dan Jiwa yang Diwakafkan untuk Allah:**
+    * Ujian terbesar pendakwah bukanlah mehnah penjara semata-mata, sebaliknya kelalaian; jiwa da'i adalah harta wakaf milik Allah Taala (*Waqfun Lillahi Ta'ala*) yang wajib sentiasa dinyalakan dengan api keprihatinan dakwah.
+  * **• Bahaya Kerehatan dan Kewaspadaan daripada Lena Kelalaian:**
+    * Kerehatan bagi pejuang merupakan satu kelalaian; kerehatan fizikal dan perkara mubah hanya diambil sekadar memulihkan kesegaran jasad untuk kembali beramal dan berwaspada di benteng dakwah.
+  * **• Fitnah Ketamadunan Moden dan Neraca Masa Imam Hasan al-Banna:**
+    * Ketamadunan moden memudahkan limpahan fitnah syahwat dan kelalaian; da'i wajib menghayati neraca Imam Hasan al-Banna bahawa *"Masa itu ialah Kehidupan"* dan merancang setiap detik untuk ketaatan.
+  * **• Keteladanan Imam Ahmad Menanggalkan Kerehatan dalam Mehnah:**
+    * Maruah pejuang menuntut penanggalan kerehatan; mencontohi ketabahan Imam Ahmad yang mencurahkan segenap tenaga keupayaan (*badzaltu majhūdī*) sehingga keletihan fizikal bertukar menjadi kelazatan rohani.
+  * **• Kerehatan Hakiki pada Langkah Pertama Menjejak Syurga:**
+    * Kerehatan sejati bagi da'i bukanlah di atas tilam dunia, melainkan tatkala kaki pertama melangkah masuk ke dalam Syurga; fajar ganjaran pahala meringankan segala beban taklif.
 
 ---
 

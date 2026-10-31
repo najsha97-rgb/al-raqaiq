@@ -39,7 +39,11 @@ BAB 4: MENUJU KEGEMBIRAAN AKHIRAT (نحو أفراح الآخرة) .............
    • Engkau Insan Merdeka yang Mulia ........................................... 29
    • Engkau Pemilik Matlamat ................................................... 29
    • Engkau Penuntut Akses Menuju Allah ........................................ 29
-   • Ujian Kelapangan Masa dan Kelalaian ........................................... 30
+   • Hakikat Ujian Kelalaian dan Jiwa yang Diwakafkan untuk Allah ............... 30
+• Bahaya Kerehatan dan Kewaspadaan daripada Lena Kelalaian ................... 31
+• Fitnah Ketamadunan Moden dan Neraca Masa Imam Hasan al-Banna .............. 32
+• Keteladanan Imam Ahmad Menanggalkan Kerehatan dalam Mehnah ................. 34
+• Kerehatan Hakiki pada Langkah Pertama Menjejak Syurga ..................... 35
 
 BAB 5: PERSAUDARAAN SYIAR DAKWAH KITA (الأخوة شعار دعوتنا) ......................... 36
    • Ketakwaan Terlebih Dahulu ..................................................... 36
@@ -1072,7 +1076,7 @@ Sesuatu yang menyampaikan pendakwah kepada matlamatnya hanyalah:
 
 ---
 
-### Ujian Kelapangan Masa dan Kelalaian
+### Hakikat Ujian Kelalaian dan Jiwa yang Diwakafkan untuk Allah
 
 Segala untaian kata yang benar ini berpadu untuk menetapkan bahawa ujian sebenar bagi seorang pendakwah Muslim bukanlah terletak pada penentangan golongan kafir terhadapnya, bukan pada penjaranya, bukan pada penyiksaannya, dan bukan pula pada kelaparannya; sebaliknya ujian sebenar terletak pada kekenduran cita-citanya dan kenikmatan yang dirasainya ketika berehat.
 
@@ -1111,6 +1115,8 @@ Beliau tidak berlebih-lebihan ketika mengulangi peringatannya buat kali kedua se
 >
 > *Suatu kegagalan yang generasi akan datang selepas ini tidak akan berani berfikir untuk melancarkan gerakan seumpama ini bagi satu tempoh masa yang panjang. Oleh itu, semaklah kekuatan jiwa dan moral kamu terlebih dahulu sebelum kamu berniat untuk melangkah dengan langkah-langkah yang besar.”* [8]
 
+### Bahaya Kerehatan dan Kewaspadaan daripada Lena Kelalaian
+
 Sesiapa yang menuntut pada hari ini agar kerehatan dihapuskan, sesungguhnya dia bersandarkan kepada peruntukan yang jelas dalam perlembagaan dakwah dan para pendakwah yang telah digariskan oleh Umar al-Faruq RA, yang menyatakan dengan tegas:
 
 **الرَّاحَةُ لِلرِّجَالِ : غَفْلَةٌ**  
@@ -1135,6 +1141,8 @@ Sekiranya ada pihak yang membantah, kita bawakan kepadanya kata-kata Ibnu al-Qay
 > *“Mestilah ada saatnya rasa mengantuk dan lena kelalaian itu datang; tetapi jadilah insan yang tidur ayam (sentiasa peka dan mudah terjaga).”* [11]
 
 Kita tidak mengingkari kepenatan yang terkandung pada erti harfiah daripada ucapan mereka yang mencela kerehatan. Sebaliknya, apa yang kita inginkan—sama seperti apa yang mereka inginkan—ialah meminimumkan kerehatan itu kepada kadar paling asas yang mencukupi untuk keperluan jasad, masing-masing mengikut tahap kesihatan dan keadaannya.
+
+### Fitnah Ketamadunan Moden dan Neraca Masa Imam Hasan al-Banna
 
 Lebih-lebih lagi orang yang beriman pada zaman ini jauh lebih memerlukan kepekaan, rawatan hati, dan muhasabah diri berbanding keadaan umat Islam pada zaman-zaman yang lalu. Hal ini kerana mereka dahulu hidup di dalam persekitaran Islam yang didominasi oleh nilai-nilai keutamaan dan tradisi saling berpesan dengan kebenaran; manakala segala maksiat berusaha keras menyembunyikan dirinya daripada pandangan para ulama dan pedang pemerintah.
 
@@ -1170,6 +1178,8 @@ Beliau dengan tegas menolak pandangan golongan kebendaan yang mendakwa: *“Masa
 
 Beliau rahimahullah menyukai sekiranya seorang pendakwah melangkah melepasi tahap sekadar mengetahui hak masa harinya kepada tahap merancang penggunaan masa esoknya; lalu dia berniat pada setiap jam untuk melakukan sesuatu jenis kebaikan, dan: *(tidur di atas sebaik-baik keazaman)*. [12]
 
+### Keteladanan Imam Ahmad Menanggalkan Kerehatan dalam Mehnah
+
 Meninggalkan kekosongan masa dan bangkit daripada lena kelalaian, maknanya ialah kepenatan, kemudian kepenatan, serta mencurahkan segala kemampuan untuk beramal kerana Allah SWT. Demikianlah yang ditegaskan oleh Imam al-Syafi'i rahimahullah, bahkan beliau menafikan kesahihan maruah seorang pendakwah yang mencari kerehatan, seraya berkata:
 
 > *“Mencari kerehatan di dunia ini tidak wajar bagi orang-orang yang memiliki maruah; sesungguhnya salah seorang daripada mereka tidak pernah berhenti berpenat lelah pada setiap zaman.”*
@@ -1198,6 +1208,8 @@ Kita menamakannya sebagai keletihan, denyutan sengal, dan kekejangan hanyalah be
 *yang melunaskan urusan, dan jiwa yang hiburannya ialah keletihan.* [15]
 
 Sesiapa yang tidak memahami neraca timbangan orang-orang beriman akan menyangka bahawa perkara ini merupakan satu penafian terhadap kelazatan hidup, tipu daya kata-kata, dan kesesatan mengikut pujangga penyair. Namun sesiapa yang dikurniakan ilmu daripada Kitabullah mengetahui bahawa kerehatan yang sebenar ialah: **kerehatan di akhirat**, bukannya kerehatan dalam kehidupan dunia.
+
+### Kerehatan Hakiki pada Langkah Pertama Menjejak Syurga
 
 Oleh sebab itulah, apabila ditanya kepada Imam Ahmad bin Hanbal rahimahullah: 
 

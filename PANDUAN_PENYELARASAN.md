@@ -204,6 +204,34 @@ Telah ditetapkan bahawa terjemahan rasmi bagi judul-judul karya Syeikh Muhammad 
 * **Al-Raqā'iq (الرقائق):** *Pelembut-pelembut Hati*
 * **Al-Masār (المسار):** *Haluan / Landasan Perjuangan*
 
+---
+
+### 22. Penyelarasan Nama Tokoh: Hasan al-Banna (حسن البنا)
+* **Ketetapan Ejaan:** Ejaan rasmi yang diselaraskan adalah **Hasan al-Banna** (dengan huruf 's' tunggal; bukan *Hassan al-Banna*).
+* Gunakan ejaan **Hasan al-Banna** di dalam teks terjemahan, intisari ilmiah, mutiara kata hikmah, serta rujukan nota kaki (contoh: *Hasan al-Banna, Muzakkirat al-Da'wah wa al-Da'iyah*).
+
+---
+
+### 23. Penyelarasan Istilah Bab 12: 'Berdakwah' Menggantikan 'Berbicara'
+* **Ketetapan Penyelarasan:** Di dalam Bab 12 (*Kisah-kisah "Hiburan" Para Da'i*), istilah **'Berbicara'** pada subtajuk dan teks aktiviti dakwah para rasul diselaraskan kepada **'Berdakwah'**.
+* **Contoh Subtajuk:**
+  * *Berdakwah Siang dan Malam* (bukan *Berbicara Siang dan Malam*)
+  * *Berdakwah Ketika Langkah-Langkah Hijrah* (bukan *Berbicara Ketika Langkah-Langkah Hijrah*)
+  * *Berdakwah di dalam Penjara* (bukan *Berbicara di dalam Penjara*)
+
+---
+
+### 24. Penyelarasan Perkataan: 'Islam' Menggantikan 'Islamiah'
+* **Ketetapan Penyelarasan:** Istilah sifat dan sandaran **'Islamiah'** diselaraskan kepada **'Islam'** sahaja bagi memastikan penggunaan bahasa Melayu yang lebih kemas, segar dan tepat.
+* **Contoh:**
+  * *Gerakan Islam* (bukan *Gerakan Islamiah*)
+  * *Dakwah Islam* (bukan *Dakwah Islamiah*)
+  * *Harakah Islam* (bukan *Harakah Islamiah*)
+  * *Jemaah Islam* (bukan *Jemaah Islamiah*)
+  * *Hikmah Islam* (bukan *Hikmah Islamiah*)
+  * *Akidah Islam* (bukan *Akidah Islamiah*)
+  * *Persaudaraan Islam* (bukan *Persaudaraan Islamiah*)
+
 
 ---
 
@@ -248,6 +276,40 @@ Telah ditetapkan bahawa terjemahan rasmi bagi judul-judul karya Syeikh Muhammad 
 * **Ketetapan Terjemahan Rasmi:**
   *"Orang yang bijak mampu menempuh perjalanan yang jauh dengan ketinggian cita-cita, keteguhan tekad, dan keikhlasan niat—walaupun dengan amalan yang sedikit—berlipat kali ganda lebih jauh daripada apa yang ditempuh oleh orang yang kosong daripada sifat-sifat tersebut, walaupun dia banyak berpenat lelah."*
 * **Huraian Penyelarasan:** Frasa *'menempuh perjalanan'* digunakan bagi menggantikan *'memotong jarak perjalanan'*, dan susunan keutamaan himmah, tekad dan niat diselaraskan secara lebih mengalir dan fasih.
+
+
+---
+
+### 29. Penyelarasan Subtajuk 2 & 4 Bab 9 (Sekolah-Sekolah Kematian)
+* **Ketetapan Penyelarasan:**
+  1. Subtajuk 2 diselaraskan kepada: **"Muncullah Umar bin Abdul Aziz di Syam"** (menggantikan *Lalu Muncul Umar di Syam*).
+  2. Subtajuk 4 diselaraskan kepada: **"Neraca Hasan al-Basri dalam Fiqh Dakwah"** (menggantikan *Neraca Basrah dalam Fiqh Dakwah*).
+* **Falsafah Ketetapan:** Menamakan secara khusus dan jelas dua tokoh agung yang menjadi mercu tanda tarbiah kedua-dua madrasah tersebut, iaitu Khalifah Umar bin Abdul Aziz (bagi madrasah Syam) dan Imam al-Hasan al-Basri (bagi neraca madrasah Basrah), sekali gus mengharmonikan teks pembaca dengan konteks ketokohan sejarah yang dibicarakan dalam bab berkenaan.
+
+
+---
+
+### 30. Penyelarasan Tajuk & Subtajuk 1 Bab 7: 'Penjara Harapan'
+* **Ketetapan Penyelarasan:** Judul Bab 7 dan subtajuk pertamanya diselaraskan terjemahannya kepada **"Penjara Harapan"** (menggantikan *Kepungan Angan-Angan*).
+* **Teks Arab:** *Ḥiṣār al-Amal (حِصَارُ الأَمَلِ)*.
+* **Falsafah Ketetapan:** Menepati konsep metafora yang dibawa oleh Syeikh Muhammad Ahmad ar-Rasyid berkenaan manusia yang terkurung dan terpenjara dalam angan-angan serta harapan palsu duniawi sehingga melalaikannya daripada persiapan menghadapi maut dan hari akhirat.
+
+
+---
+
+### 31. Penyelarasan Subtajuk Menyeluruh: Pengguguran Kata Sendi Awalan 'Dan'
+* **Ketetapan Penyelarasan:** Kesemua subtajuk dalam kitab *Al-Raqaiq* yang dahulunya bermula dengan perkataan sendi **'Dan'** telah digugurkan awalannya bagi mengekalkan ketepatan, kejelasan, dan kepatuhan kepada format tajuk substantif.
+* **Senarai Subtajuk yang Diselaraskan:**
+  1. Bab 5 ST 3: **"Kita Mengiringinya dengan Persaudaraan..."** *(menggantikan Dan Kita Mengiringinya...)*
+  2. Bab 9 ST 7: **"Selepas Itu..."** *(menggantikan Dan Selepas Itu...)*
+  3. Bab 10 ST 3: **"Selepas Itu..."** *(menggantikan Dan Selepas Itu...)*
+  4. Bab 12 ST 13: **"Kemuliaan Tatkala Saat Kematian...!"** *(menggantikan Dan Kemuliaan Tatkala Saat Kematian...!)*
+
+---
+
+### 32. Penyelarasan Bab 12 Subtajuk 11: Istilah 'Mazhab Hanbali'
+* **Ketetapan Penyelarasan:** Subtajuk 11 Bab 12 diselaraskan kepada: **"Ulama Mazhab Hanbali Memelihara Keterampilan dan Wibawa"** (menggantikan istilah jamak Arab *Ulama Hanabilah*).
+* **Falsafah Ketetapan:** Memudahkan kefahaman pembaca nusantara dengan menggunakan istilah bahasa Melayu rasmi "Mazhab Hanbali" yang lebih lazim dan jelas merujuk kepada para fuqaha aliran Imam Ahmad bin Hanbal rahimahullah.
 
 ---
 
@@ -322,3 +384,18 @@ Telah ditetapkan bahawa terjemahan rasmi bagi judul-judul karya Syeikh Muhammad 
   3. **Italisasi Teks Terjemahan:** Menyelaras format teks terjemahan kata-kata tersebut kepada bentuk condong (*italic*):  
      *“(Jadilah kamu seperti pohon; orang melemparkannya dengan batu, tetapi ia membalas mereka dengan buah.)”*
 * **Liputan Menyeluruh:** Diselaraskan di semua platform: Manuskrip Markdown (`TERJEMAHAN_AL-RAQAIQ.md`), dokumen Word (`Terjemahan_Al-Raqaiq_Penuh.docx`), pangkalan data JSON/JS PWA, dan bot Telegram.
+
+### 40. Pembahagian Subtajuk 8 Bab 4 Kepada 5 Subtajuk Mengikut Kaedah Pilihan 1
+* **Latar Belakang:** Subtajuk asal kelapan Bab 4 (*Ujian Kelapangan Masa dan Kelalaian*) mengandungi 61 perenggan berturut-turut dan 12 nota kaki ([7] hingga [18]). Ini merupakan antara teks paling panjang dan padat dengan nukilan tokoh-tokoh dakwah utama (al-Maududi, Syu'bah, Ibnu al-Qayyim, Badi'uzzaman Said Nursi, Imam Hasan al-Banna, dan Imam Ahmad bin Hanbal).
+* **Ketetapan Penyelarasan (Pilihan 1 - Pecahan 5 Subtajuk Mandiri):** Subtajuk ini dipecahkan secara rasmi kepada 5 subtajuk mandiri yang seimbang mengikut alur tema tarbiah haraki, menjadikan Bab 4 mempunyai 12 subtajuk keseluruhan:
+  1. `Hakikat Ujian Kelalaian dan Jiwa yang Diwakafkan untuk Allah` (14 perenggan: P1–P14 — hakikat ujian kelalaian, konsep jiwa da'i sebagai harta wakaf milik Allah Taala [*Waqfun Lillahi Ta'ala*], dan wasiat al-Maududi tentang api dakwah di sanubari; nota kaki [7], [8]).
+  2. `Bahaya Kerehatan dan Kewaspadaan daripada Lena Kelalaian` (12 perenggan: P15–P26 — kaedah salaf *al-rāḥatu li al-rijāli ghaflah*, pesanan Syu'bah tidak membuang masa menghadapi maut, batas menikmati perkara mubah, dan kewaspadaan peronda di sempadan menurut Ibnu al-Qayyim; nota kaki [9], [10], [11]).
+  3. `Fitnah Ketamadunan Moden dan Neraca Masa Imam Hasan al-Banna` (14 perenggan: P27–P40 — cabaran ketamadunan moden dan hiburan fasik menurut Said Nursi, bait syair amaran bangun daripada lena kelalaian, dan falsafah haraki Imam Hasan al-Banna bahawa *"Masa itu ialah Kehidupan"*; nota kaki [12]).
+  4. `Keteladanan Imam Ahmad Menanggalkan Kerehatan dalam Mehnah` (13 perenggan: P41–P53 — menanggalkan kerehatan sebagai maruah pejuang, teladan Imam Ahmad yang mencurahkan segenap tenaga keupayaan [*badzaltu majhūdī*], dan keletihan yang bertukar menjadi kelazatan ibadah; nota kaki [13], [14], [15]).
+  5. `Kerehatan Hakiki pada Langkah Pertama Menjejak Syurga` (8 perenggan: P54–P61 — jawapan abadi Imam Ahmad bilakah hamba dapat mengecap kerehatan: *"Tatkala tapak kakimu yang pertama melangkah masuk ke dalam Syurga!"*, serta rumusan Ibnu al-Qayyim tentang fajar balasan pahala; nota kaki [16], [17], [18]).
+* **Statistik Keseluruhan Kitab:**
+  - Jumlah Bab: 14 (1 epigraf + 1 mukadimah + 12 bab teks)
+  - Jumlah Subtajuk: 97 (96 subtajuk teks + 1 epigraf)
+  - Jumlah Perenggan: 916 (100% terpelihara tanpa sebarang pengurangan)
+  - Jumlah Nota Kaki: 181 (100% terpelihara)
+* **Liputan Menyeluruh:** Diselaraskan di semua platform: Manuskrip Markdown (`TERJEMAHAN_AL-RAQAIQ.md`), Intisari Ilmiah Lengkap, Intisari Subtopik Fiqh Haraki, dokumen Word (`.docx`), pangkalan data JSON/JS PWA, dan bot Telegram.
