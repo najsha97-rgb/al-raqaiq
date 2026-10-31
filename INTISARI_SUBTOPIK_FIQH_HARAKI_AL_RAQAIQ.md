@@ -30,25 +30,75 @@
 
 ---
 
-### • subtajuk: *Gerakan Islam Wajib Memiliki Firasat Meneliti Dirinya Sendiri (10 Disiplin Asas Kader Rabbani)*
-* **1. Diagnosis Halangan / Rawatan Jiwa (*Al-Ghaflah / Al-Raqīqah*):**  
-  *Bahaya Kebankrapan Kader & Tarbiah Semberono* — Ancaman paling dahsyat yang boleh meruntuhkan harakah Islam bukanlah kezaliman musuh dari luar, sebaliknya "kebankrapan kader" (*iflas al-kadar*) apabila tokoh-tokoh pembimbing pergi menghadap Ilahi tanpa ada barisan pelapis yang diacu dengan kualiti tarbiah yang setaraf.
+### 1. Subtopik: *Pengenalan: Jiwa Yang Beriman & Mengelakkan Kebankrapan Kader*
+* **1. Diagnosis Halangan / Rawatan Jiwa:**  
+  *Bahaya Kebankrapan Kader (Iflās al-Kādar)* — Tokoh-tokoh dakwah gugur atau beransur pergi tanpa pengganti yang setaraf akibat ketiadaan perancangan tarbiah jangka panjang.
 * **2. Modus Operandi & Gejala Penyelusupan:**  
-  Gerakan mudah tergelincir apabila ghairah meluaskan keahlian secara kuantiti (angka) tanpa mempedulikan mutu rohani dan kedalaman kefahaman. Da'i mula mengabaikan muhasabah dalaman, bersikap leka dengan kejayaan teknikal, dan membiarkan bibit penyakit jiwa merayap tanpa dikesan seawal peringkat rebung.
+  Ghairah menghimpunkan jumlah ramai tetapi mengabaikan pembinaan kualiti rohani dan ketahanan peribadi.
 * **3. Implikasi Terhadap Saf Haraki:**  
-  Saf dipenuhi oleh jasad-jasad aktivis yang keletihan, mudah berpecah apabila diuji dengan kepayahan (*mehnah*), serta hilang daya graviti dakwah di tengah masyarakat kerana kekeringan roh (*inhab ruhi*).
+  Gerakan runtuh dari dalam apabila ketiadaan nakhoda yang berwibawa memandu bahtera.
 * **4. Preskripsi Penawar (*Fiqh as-Sulūk*) & Petunjuk Salaf:**  
-  *Melazimi 10 Disiplin Asas Kader Rabbani*:
-  1. *Menjaga Solat & Aqidah:* Menjadikan solat fardhu berjemaah dan akidah salaf sebagai teras hidup.
-  2. *Adab Ukhuwwah:* Mengutamakan kasih sayang dan memaafkan kelemahan sahabat seperjuangan.
-  3. *Kemesraan dengan Keletihan:* Menganggap penat lelah dalam berdakwah sebagai kemanisan hidup.
-  4. *Rindu kepada Jihad & Syahid:* Membina cita-cita syahid tanpa terburu-buru merempuh kebinasaan.
-  5. *Disiplin Ketaatan Jama'i:* Mentaati keputusan syura dalam perkara makruf dengan hati yang lapang.
-  6. *Keringanan Beban Duniawi:* Memadai dengan kecukupan rezeki dan menjauhi perlumbaan kemewahan.
-  7. *Zikir Maut:* Sentiasa mengintai kematian bagi memotong angan-angan palsu yang memanjangkan rehat.
-  8. *Cinta Bersulamkan Khauf:* Menggabungkan antara kelazatan mahabbah Ilahi dengan ketakutan hisab akhirat.
-  9. *Pemisahan Mutlak (Al-Mufasalah):* Tegas memisahkan prinsip keimanan daripada kesyirikan dan nifak.
-  10. *Sabar Mengharungi Mehnah:* Berdiri teguh di atas bara api perjuangan tanpa goyah.
+  *Wasiat al-Nadwi*: Memilih pemuda yang cerdas dan berani, lalu mentarbiah mereka dengan acuan yang syumul dan mendalam.
+
+---
+
+### 2. Subtopik: *Firasat Meneliti Diri dan Neraca Tarbiah Harakiyyah*
+* **1. Diagnosis Halangan / Rawatan Jiwa:**  
+  *Kecelaruan Keutamaan & Kelesuan Firasat Dalaman* — Menyibukkan diri dengan keaiban luar sebelum membersihkan lompang dalaman jemaah.
+* **2. Modus Operandi & Gejala Penyelusupan:**  
+  Tarbiah melampau pada satu sudut (ibadah semata-mata, intelek semata-mata, atau politik harian semata-mata).
+* **3. Implikasi Terhadap Saf Haraki:**  
+  Acuan kader tempang dan mudah goyah apabila berdepan krisis realiti.
+* **4. Preskripsi Penawar (*Fiqh as-Sulūk*) & Petunjuk Salaf:**  
+  *Melazimi 10 Disiplin Asas Kader Rabbani*: Solat, ukhuwwah, kemesraan keletihan dakwah, rindu syahid, ketaatan jama'i, kezuhudan, zikir maut, cinta bersulam khauf, mufasalah, dan sabar mehnah.
+
+---
+
+### 3. Subtopik: *Ketenangan Jiwa dan Daya Lajakan Asal*
+* **1. Diagnosis Halangan / Rawatan Jiwa:**  
+  *Kelesuan Selepas Fasa Rehat (Inqitha' al-Harakah)* — Fasa terhenti seketika bertukar menjadi penyakit futur yang berpanjangan.
+* **2. Modus Operandi & Gejala Penyelusupan:**  
+  Syaitan meniupkan kilauan hiasan palsu (pangkat, hasad, tamak) untuk membantutkan pecutan asal da'i.
+* **3. Implikasi Terhadap Saf Haraki:**  
+  Aktivis kehilangan daya dinamik (*al-munṭalaq*) dan menjadi pasif.
+* **4. Preskripsi Penawar (*Fiqh as-Sulūk*) & Petunjuk Salaf:**  
+  *Menghayati Sifat Rama-Rama Ahmad al-Mukhtar*: Tenang dalam diam (*sākinatun fī samtihā*) dan segera memecut kembali lajakan asal sebaik sahaja tersedar daripada jeda rehat.
+
+---
+
+### 4. Subtopik: *Kilauan Bayang di Permukaan Tasik*
+* **1. Diagnosis Halangan / Rawatan Jiwa:**  
+  *Terpesona dengan Fatamorgana Duniawi* — Da'i tertipu dengan kilauan bayang jawatan atau pujian manusia laksana bintang di permukaan air.
+* **2. Modus Operandi & Gejala Penyelusupan:**  
+  Melayang merenung bayang air hingga lupa bahawa ia berlegar di ambang kelemasan.
+* **3. Implikasi Terhadap Saf Haraki:**  
+  Kejatuhan moral dan kelemasan jiwa dalam fitnah syahwat serta syubhah.
+* **4. Preskripsi Penawar (*Fiqh as-Sulūk*) & Petunjuk Salaf:**  
+  *Penyelamatan Keimanan (Lākinna-hā mu'minatun, la tastahmiq)*: Iman menyedarkan da'i di saat-saat genting agar tidak bertindak dungu merempuh kebinasaan.
+
+---
+
+### 5. Subtopik: *Simpang Petunjuk dan Keperluan Amaran Pelembut Hati*
+* **1. Diagnosis Halangan / Rawatan Jiwa:**  
+  *Kekaburan Batas Hakikat dan Riak Gelombang* — Terleka sehingga terpaksa diselamatkan ketika gelombang badai telah menerpa.
+* **2. Modus Operandi & Gejala Penyelusupan:**  
+  Menganggap remeh teguran pelembut hati (*al-raqā'iq*) dan menyangka diri kebal daripada godaan.
+* **3. Implikasi Terhadap Saf Haraki:**  
+  Kader tersungkur di selekoh fitnah akibat ketiadaan benteng peringatan awal.
+* **4. Preskripsi Penawar (*Fiqh as-Sulūk*) & Petunjuk Salaf:**  
+  *Mendampingi Kitab Pelembut Hati*: Meletakkan keselamatan jiwa pada keluhurannya dan membina daya pencegahan awal sebelum terhumban lemas.
+
+---
+
+### 6. Subtopik: *Ketinggian Iman Mendepani Falsafah Bahimiyyah*
+* **1. Diagnosis Halangan / Rawatan Jiwa:**  
+  *Racun Pemikiran Nihilisme & Materialisme (Ateisme)* — Menganggap hidup sekadar melampiaskan kelazatan haiwani (*bahimiyyah*) dan maut memadamkan segala perbezaan.
+* **2. Modus Operandi & Gejala Penyelusupan:**  
+  Menyebarkan syubhah bahawa orang soleh dan orang jahat sama sahaja kesudahannya di bawah tanah.
+* **3. Implikasi Terhadap Saf Haraki:**  
+  Melenyapkan semangat pengorbanan pemuda dan menyuburkan hedonisme.
+* **4. Preskripsi Penawar (*Fiqh as-Sulūk*) & Petunjuk Salaf:**  
+  *Hujah Mantik Abu Sulaiman al-Sijistani*: Menginsafi bahawa tanah kubur hanya membalut bangkai jasad, tetapi tidak sekali-kali membalut iman, tauhid, ketaatan, kezuhudan, dan maruah pejuang Islam.
 
 ---
 

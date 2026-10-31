@@ -170,7 +170,7 @@ Sesungguhnya—sebagaimana yang diungkapkan oleh Abu al-Hasan al-Nadwi:
 
 ---
 
-### Gerakan Islam Wajib Memiliki Firasat Meneliti Dirinya Sendiri
+### Firasat Meneliti Diri dan Neraca Tarbiah Harakiyyah
 
 Namun tarbiah ini bukanlah diceduk secara semberono. Ciri paling khusus bagi tarbiah ini ialah ia menyahut seruan keperluan mengikut tahap fasa dan merawat realiti semasa. Pada setiap adab yang dibimbing oleh Islam terkandung kebaikan. Namun kemampuan insan yang berniat ikhlas tetap terbatas. Oleh itu, wajib menetapkan keutamaan (*al-mufadhalah*) antara bahagian-bahagian kebaikan ini; memulakan dengan perkara yang lebih afdal serta perkara yang dapat menampung keperluan fasa tersebut setelah mengenal pasti lompang kekurangannya.
 
@@ -201,6 +201,10 @@ Fasal-fasal dalam kitab ini dikhususkan bagi menjelaskan sebahagian daripada pen
 
 Bagi menyedarkan manusia tentang keindahan jiwa yang beriman serta mendorong mereka meneladani pembawaannya yang tenang: maka hadirlah kitab ini.
 
+---
+
+### Ketenangan Jiwa dan Daya Lajakan Asal
+
 Saya amat tertarik dengan bait-bait nukilan seorang penyair Tunisia, Ahmad al-Mukhtar al-Wazir yang menggambarkan perihal jiwa yang suci murni. Beliau menggunakan simbolik rama-rama; hampir-hampir sahaja beliau menyentuh hakikat kebenaran yang mutlak kerana didorong oleh fitrahnya yang murni, cuma beliau tidak sempat menggenggamnya sepenuhnya. Beliau terlepas peluang untuk menyifatkan jiwa yang beriman dengan gambaran yang jauh lebih fasih berbanding orang lain...
 
 Beliau terpesona melihat rama-rama itu:
@@ -216,6 +220,10 @@ Begitulah rupa paras keimanan: penuh kelembutan, tafakur, ketenangan, hening, se
 Berhenti seketika merupakan satu kelaziman hidup dan ketentuan yang ditakdirkan ke atas manusia. Namun bagi orang yang beriman, fasa terhenti itu tidak sekali-kali menjadi kelalaian, kealpaan, atau kelesuan yang berpanjangan. Sebaliknya, ia hanyalah sekadar jeda seketika, yang kemudiannya segera dihapuskan oleh ransangan-ransangan terpendam; sama ada daripada bekalan peribadi yang tersimpan rapi atau warisan hikmah yang terpasak kukuh.
 
 Akan tetapi syaitan sentiasa menghalang dan cuba membantutkan pecutan lajakan ini. Syaitan memperdaya orang yang beriman dan meletakkan halangan-halangan berat bertopengkan perhiasan yang sarat dengan kilauan palsu, kelipan indah, dan sinar memukau yang mampu mengaburi jiwa yang melayang-layang. Namun jiwa yang diberikan ilham—yang diilhamkan keimanan kepadanya—mampu menembusi di sebalik kepalsuan itu untuk melihat hakikat sebenar. Ia menelanjangi kesombongan yang diada-adakan, hasad dengki yang dibisikkan, perebutan jawatan yang terlewat, atau ketamakan mengejar harta dunia yang fana.
+
+---
+
+### Kilauan Bayang di Permukaan Tasik
 
 Begitulah ibarat rama-rama yang berlegar-legar di sekitar kilauan bayangnya di permukaan tasik...
 
@@ -236,6 +244,10 @@ Atau begitulah gambaran pengalaman jiwa yang beriman:
 **لَكِنَّهَا مُؤْمِنَةٌ ، هَيْهَاتَ ، لاَ تَسْتَحْمِقُ**  
 *Namun ia beriman, sama sekali tidak, ia tidak bertindak dungu.*
 
+---
+
+### Simpang Petunjuk dan Keperluan Amaran Pelembut Hati
+
 **بَيْنَ الضَّلاَلِ وَالهُدَى : يَبْدُو لَهَا المُفْتَرَقُ**  
 *Antara kesesatan dan petunjuk: jelas terbentang simpang perbezaannya.*
 
@@ -248,6 +260,10 @@ Dari sinilah wajibnya peringatan dan perlu adanya amaran, melalui ungkapan persi
 Ia merupakan cebisan sastera yang amat bernilai yang dinukilkan oleh penyair dan dihadiahkan kepada para belia, tetapi ia sebenarnya mengandungi hikmah bagi orang yang telah matang.
 
 Hal sedemikian tidaklah pelik mengikut timbangan hikmah Islam. Sesungguhnya hikmah Islam itu mengandungi kebenaran yang abadi; ia tidak melalui fasa evolusi yang muncul selepas zaman kejahilan dan keterbelakangan. Sebaliknya, sebagaimana ia relevan pada fasa penamat, ia juga relevan pada fasa pertengahan, bahkan telah terbukti relevan sejak permulaan kehidupan manusia lagi. Buktinya, tauhid telah diwahyukan kepada Nabi Adam AS pada awal penciptaan dan Baginda merupakan seorang nabi; manakala ketakwaan pula diilhamkan kepada Habil, lalu beliau menahan tangannya daripada membalas kejahatan.
+
+---
+
+### Ketinggian Iman Mendepani Falsafah Bahimiyyah
 
 Lihatlah kecerahan hati dan kehalusan perasaan dalam simbolik ini yang menyingkap tabiat jiwa yang suci murni. Sebaliknya, perhatikan pula betapa tebalnya tabir yang menyelubungi hati seorang penyair ateis yang menyeru kepada kehidupan kehaiwanan:
 

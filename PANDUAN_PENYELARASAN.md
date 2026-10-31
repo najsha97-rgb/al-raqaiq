@@ -268,3 +268,14 @@ Telah ditetapkan bahawa terjemahan rasmi bagi judul-judul karya Syeikh Muhammad 
   1. **Bab 7:** `BAB 7: "PENJARA" HARAPAN` (tanda petik khusus pada perkataan `"Penjara"` yang melambangkan kepungan angan-angan kosong duniawi sebagaimana hadis segi empat Nabawi).
   2. **Bab 8:** `BAB 8: "KUBUR-KUBUR" KITA YANG KAKU` (tanda petik khusus pada perkataan `"Kubur-kubur"` yang melambangkan takwil pusara *Tilālunā* yang kaku membisu menanti hari penuaian dan kebangkitan).
 * **Liputan Menyeluruh:** Diselaraskan sepenuhnya merentas semua platform dan dokumen: Manuskrip Markdown (`TERJEMAHAN_AL-RAQAIQ.md`), Intisari Ilmiah Lengkap, Intisari Subtopik Fiqh Haraki, Mutiara Kata Hikmah, dokumen Word (`.docx`), pangkalan data JSON/JS PWA, dan bot Telegram.
+
+### 36. Pembahagian Subtajuk Mukadimah Kepada 5 Subtajuk Mengikut Kaedah B
+* **Latar Belakang:** Subtajuk asal kedua Mukadimah (*Gerakan Islam Wajib Memiliki Firasat Meneliti Dirinya Sendiri*) mengandungi 40 perenggan berturut-turut tanpa pembahagian kecil, yang boleh membebankan pembacaan dan mengaburkan intisari perbincangan.
+* **Ketetapan Penyelarasan (Kaedah B - Pecahan Subtajuk Rasmi Penuh):** Subtajuk ini dipecahkan secara rasmi kepada 5 subtajuk mandiri yang seimbang mengikut alur sastera dakwah Syeikh ar-Rasyid (menjadikan Mukadimah mempunyai 6 subtajuk keseluruhan bersama Pengenalan):
+  1. `Pengenalan: Jiwa Yang Beriman` (3 perenggan)
+  2. `Firasat Meneliti Diri dan Neraca Tarbiah Harakiyyah` (10 perenggan — mencakupi kalam Samnun, 10 disiplin kader rabbani, dan objektif Al-Raqā'iq).
+  3. `Ketenangan Jiwa dan Daya Lajakan Asal` (7 perenggan — huraian bait Ahmad al-Mukhtar: *Sākinatun fī samtihā* dan *Al-Munṭalaq*).
+  4. `Kilauan Bayang di Permukaan Tasik` (7 perenggan: P18–P24 — drama alegori rama-rama di permukaan air yang terpesona dengan bayangan hingga hampir lemas tetapi diselamatkan oleh iman: *Lākinna-hā mu'minatun, la tastahmiq*).
+  5. `Simpang Petunjuk dan Keperluan Amaran Pelembut Hati` (6 perenggan: P25–P30 — huraian *Baina adh-Dhalāl wa al-Hudā* dan keperluan amaran pencegahan awal *Al-Raqā'iq*).
+  6. `Ketinggian Iman Mendepani Falsafah Bahimiyyah` (10 perenggan: P31–P40 — bantahan mantik Abu Sulaiman al-Sijistani terhadap syair ateis mengenai syahwat haiwani dan alam kubur).
+* **Liputan Menyeluruh:** Diselaraskan di semua platform: Manuskrip Markdown (`TERJEMAHAN_AL-RAQAIQ.md`), Intisari Ilmiah Lengkap, Intisari Subtopik Fiqh Haraki, dokumen Word (`.docx`), pangkalan data JSON/JS PWA, dan bot Telegram.

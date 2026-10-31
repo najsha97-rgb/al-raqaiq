@@ -24,7 +24,9 @@
   Gerakan dakwah Islam berdiri di atas dua rukun utama: memilih pemuda yang berani dan cerdas, serta mentarbiah mereka dengan tarbiah yang mendalam, syumul dan kental. Syeikh al-Rasyid menegaskan bahawa bahaya terbesar sesebuah harakah adalah "kebankrapan kader" apabila tokoh-tokohnya lenyap seorang demi seorang tanpa pengganti yang setaraf. Jiwa yang beriman adalah benteng pertahanan terakhir; tanpa penyucian jiwa dan pelembut hati (*al-raqā'iq*), gerakan akan menjadi jasad kaku yang kehilangan roh perjuangan.
 
 * **Intisari Subtajuk:**
-  * **• Gerakan Islam Wajib Memiliki Firasat Meneliti Dirinya Sendiri:**
+  * **• Pengenalan: Jiwa Yang Beriman:**
+    * Kewajipan melahirkan tokoh pemikul dakwah yang mengemudi bahtera perjuangan bagi mengelakkan bahaya kebankrapan kader (pesanan Syeikh Abu al-Hasan al-Nadwi).
+  * **• Firasat Meneliti Diri dan Neraca Tarbiah Harakiyyah:**
     * **Firasat Dalaman Mendahului Firasat Luaran:** Menuruti mutiara kata Samnun al-Muhibb, sesiapa yang celik meneliti aib dan kelemahan dirinya, firasatnya terhadap orang lain dan musuh akan menjadi tajam dan tepat.
     * **Keutamaan Amal (*Al-Mufadhalah*):** Mengelakkan tarbiah semberono; harakah mesti mendahulukan perkara yang paling mendesak mengikut tuntutan fasa perjuangan.
     * **Sepuluh Disiplin Asas Kader Rabbani:** 
@@ -38,6 +40,15 @@
       8. Mencintai Allah SWT yang dikawal oleh rasa takut (*khawf*).
       9. Bersikap tegas memisahkan diri (*al-mufāṣalah*) daripada kekufuran dan nifak.
       10. Bersabar menempuh mehnah dan ujian.
+  * **• Ketenangan Jiwa dan Daya Lajakan Asal:**
+    * Menghuraikan bait Ahmad al-Mukhtar al-Wazir tentang keindahan sifat jiwa beriman: *Sākinatun fī samtihā* (tenang dalam diam, lebih fasih berbicara daripada mereka yang berkata-kata) dan *Al-Munṭalaq* (daya lajakan asal yang segera menyegerakan kembali jika terhenti seketika). Jeda rehat bukanlah kelesuan, dan godaan syaitan tidak mampu memperdaya bashirah mukmin.
+  * **• Kilauan Bayang di Permukaan Tasik:**
+    * Drama alegori rama-rama yang berlegar di sekitar bayangannya di permukaan air: terpesona melihat kilauan bintang di kaki langit air, melayang merenung hingga hampir binasa lemas, namun diselamatkan oleh benteng keimanan (*Lākinna-hā mu'minatun, la tastahmiq*).
+  * **• Simpang Petunjuk dan Keperluan Amaran Pelembut Hati:**
+    * Membezakan antara hakikat kebenaran dengan getaran fatamorgana riak air (*Baina adh-Dhalāl wa al-Hudā*). Kepentingan kitab *Al-Raqā'iq* sebagai loceng amaran sebelum jiwa tersungkur lemas ke lembah fitnah.
+  * **• Ketinggian Iman Mendepani Falsafah Bahimiyyah:**
+    * Menelanjangi kesesatan penyair ateis yang menyeru kepada kelazatan syahwat haiwani (*bahimiyyah*) dan mendakwa tanah kubur menyamakan orang dungu dan orang genius.
+    * Hujah mantik Abu Sulaiman al-Sijistani (riwayat Abu Hayyan al-Tauhidi): bumi hanya membalut jasad dan bangkai kasar manusia, bukan membalut iman, tauhid, kezuhudan, ketaatan, dan makrifat mereka.
 
 ---
 
