@@ -158,10 +158,7 @@ Melalui epigraf ini, Syeikh Muhammad Ahmad ar-Rasyid membuka gerbang kitab *Al-R
 
 ---
 NOTA KAKI EPIGRAF:
-[1] Sahih al-Bukhari, no. 6417 (Kitab al-Riqaq, Bab fi al-Amal wa Thulih).
-
----
-
+[1] *Ṣaḥīḥ al-Bukhārī*, no. 6417 (*Kitāb al-Riqāq*, *Bāb fī al-Amal wa Ṭūlih*).
 
 # MUKADIMAH: JIWA YANG BERIMAN
 

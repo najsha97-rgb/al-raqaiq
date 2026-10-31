@@ -1,4 +1,4 @@
-const CACHE_NAME = 'alraqaiq-cache-v31-amiri-epigraf';
+const CACHE_NAME = 'alraqaiq-cache-v32-epigraf-fn-italics';
 const ASSETS_TO_CACHE = [
   './',
   './index.html',
