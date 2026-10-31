@@ -1,4 +1,4 @@
-const CACHE_NAME = 'alraqaiq-cache-v33-bab7-8-quotes';
+const CACHE_NAME = 'alraqaiq-cache-v34-penjara-kubur-quotes';
 const ASSETS_TO_CACHE = [
   './',
   './index.html',

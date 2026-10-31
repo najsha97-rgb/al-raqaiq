@@ -263,8 +263,8 @@ Telah ditetapkan bahawa terjemahan rasmi bagi judul-judul karya Syeikh Muhammad 
 * **Teks Arab:** *Ḥiṣār al-Amal — Lawḥah min al-Fann al-Tajrīdī al-Islāmī (حِصَارُ الأَمَلِ — لَوْحَةٌ مِنَ الفَنِّ التَّجْرِيدِيِّ الإِسْلَامِيِّ)*.
 * **Falsafah Ketetapan:** Memelihara 100% ketulenan artistik dan ruhani naskhah asal susunan Syeikh Muhammad Ahmad ar-Rasyid rahimahullah, di mana beliau meletakkan lakaran simbolik hadis Abdullah bin Mas'ud RA (Sahih al-Bukhari) di halaman hadapan sebelum Mukadimah. Lakaran ini memvisualisasikan manusia yang hidup di dalam kandang ajal maut, sementara angan-angannya (al-amal) terkeluar jauh melangkaui batas umur, serta dikelilingi oleh anak panah dan rintangan kematian (al-a'radh). Pendedahan visual ini menjadi pemangkin tajdid niat dan pembuka jiwa pembaca sebelum menelusuri kelembutan rohani kitab Al-Raqā'iq.
 
-### 35. Penambahan Simbol Tanda Petik (" ") Pada Tajuk Bab 7 dan Bab 8
-* **Ketetapan Penyelarasan:** Judul Bab 7 dan Bab 8 kini ditambah simbol tanda petik berganda (`" "`) bagi mengukuhkan laras bahasa majaz (metafora simbolik) yang selaras dengan uslub sastera dakwah pengarang sebagaimana Bab 12 (`"HIBURAN"`):
-  1. **Bab 7:** `BAB 7: "PENJARA HARAPAN"` (menandakan gambaran metafora kepungan angan-angan duniawi sebagaimana diilhamkan daripada lakaran hadis segi empat Nabawi).
-  2. **Bab 8:** `BAB 8: "KUBUR-KUBUR KITA YANG KAKU"` (menandakan takwil simbolik *Tilālunā* / gundukan tanah perkuburan yang kaku membisu menanti hari penuaian dan kebangkitan).
+### 35. Penambahan Simbol Tanda Petik (" ") Pada Perkataan "Penjara" (Bab 7) dan "Kubur-kubur" (Bab 8)
+* **Ketetapan Penyelarasan:** Judul Bab 7 dan Bab 8 diletakkan simbol tanda petik berganda (`" "`) khusus pada perkataan kiasan/metafora (majaz) sahaja, selaras dengan uslub penulisan Bab 12 (`KISAH-KISAH "HIBURAN" PARA DA'I`):
+  1. **Bab 7:** `BAB 7: "PENJARA" HARAPAN` (tanda petik khusus pada perkataan `"Penjara"` yang melambangkan kepungan angan-angan kosong duniawi sebagaimana hadis segi empat Nabawi).
+  2. **Bab 8:** `BAB 8: "KUBUR-KUBUR" KITA YANG KAKU` (tanda petik khusus pada perkataan `"Kubur-kubur"` yang melambangkan takwil pusara *Tilālunā* yang kaku membisu menanti hari penuaian dan kebangkitan).
 * **Liputan Menyeluruh:** Diselaraskan sepenuhnya merentas semua platform dan dokumen: Manuskrip Markdown (`TERJEMAHAN_AL-RAQAIQ.md`), Intisari Ilmiah Lengkap, Intisari Subtopik Fiqh Haraki, Mutiara Kata Hikmah, dokumen Word (`.docx`), pangkalan data JSON/JS PWA, dan bot Telegram.

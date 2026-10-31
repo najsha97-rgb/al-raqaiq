@@ -166,7 +166,7 @@
 
 ---
 
-## 📌 BAB 7: "PENJARA HARAPAN"
+## 📌 BAB 7: "PENJARA" HARAPAN
 ### *(Penjara Harapan - حِصَارُ الأَمَلِ)*
 
 * **Ringkasan Am Bab 7:**
@@ -188,7 +188,7 @@
 
 ---
 
-## 📌 BAB 8: "KUBUR-KUBUR KITA YANG KAKU"
+## 📌 BAB 8: "KUBUR-KUBUR" KITA YANG KAKU
 ### *(Tilālunā al-Hāmidah - تِلاَلُنَا الهَامِدَةُ)*
 
 * **Ringkasan Am Bab 8:**
