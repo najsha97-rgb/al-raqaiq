@@ -218,7 +218,7 @@ Telah ditetapkan bahawa terjemahan rasmi bagi judul-judul karya Syeikh Muhammad 
   * **Bab 4 Subtajuk 2:** *Menuju Kegembiraan Akhirat* (menggantikan *Nahwa Afrāh al-Ākhirah*)
   * **Bab 5 Subtajuk 2:** *Persaudaraan Syiar Dakwah Kita* (menggantikan *(al-Ukhuwwah Syi'ār Da'watinā)*)
   * **Bab 6 Subtajuk 2:** *Pohon-Pohon Keimanan* (menggantikan *Asyjār al-Īmān*)
-  * **Bab 7 Subtajuk 2:** *Kepungan Angan-Angan* (menggantikan *Hisār al-Amal*)
+  * **Bab 7 Subtajuk 2:** *Penjara Harapan* (menggantikan *Hisār al-Amal*)
 
 
 ---

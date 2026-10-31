@@ -1,4 +1,4 @@
-const CACHE_NAME = 'alraqaiq-cache-v26-bab9-subtopics';
+const CACHE_NAME = 'alraqaiq-cache-v27-bab7-penjara-harapan';
 const ASSETS_TO_CACHE = [
   './',
   './index.html',

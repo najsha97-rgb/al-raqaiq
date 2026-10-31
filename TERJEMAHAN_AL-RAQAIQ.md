@@ -64,7 +64,7 @@ BAB 6: POHON-POHON KEIMANAN (أشجار الإيمان) ........................
    • Pohon Kesembilan: Pohon Zuhud ................................................. 52
    • Pohon Kesepuluh: Pohon Santun (al-Hilm) — Sulaman Hasan al-Banna .............. 53
 
-BAB 7: KEPUNGAN ANGAN-ANGAN (حصار الأمل) ........................................... 55
+BAB 7: PENJARA HARAPAN (حصار الأمل) ........................................... 55
    • Keagungan Perkara yang Disaksikan: Dalil Perkara Ghaib ........................ 56
    • Lukisan daripada Seni Kesenian Islam .......................................... 57
    • Pandangan yang Menjangkau Jauh ................................................ 58
@@ -1726,8 +1726,8 @@ Oleh yang demikian, tiada sebatang pohon pun yang tegak berdiri melainkan ia men
 ---
 
 
-# BAB 7: KEPUNGAN ANGAN-ANGAN
-### Kepungan Angan-Angan
+# BAB 7: PENJARA HARAPAN
+### Penjara Harapan
 
 Kehidupan ini — dengan pelbagai sudut dimensinya dan rentetan perubahan masyarakat yang dilalui — mungkin sukar difahami oleh generasi Muslim hari ini tanpa kembali kepada suatu pandangan yang realistik, berteraskan kesederhanaan, serta berpijak teguh pada realiti yang dapat dirasai dan disaksikan.
 
@@ -2378,7 +2378,7 @@ Melalui pendekatan seumpama inilah, para fakih di segenap pelosok negeri tertawa
 
 • **Madrasah Basrah Menyokong**
 
-Sekiranya 'Anbasah ataupun al-Qurazhi bersegera menyahut seruan Umar bersama sekumpulan ulama Syam dan Madinah, sesungguhnya al-Hasan al-Basri — melalui kepimpinannya ke atas seluruh generasi pertengahan tabi'in, dan melalui pengaruh intipati yang diceduknya daripada Ali RA dan madrasah Kufahnya — telah meletakkan Basrah di mercu kepimpinan pengaruh tarbiah ke atas umat sebelum Umar memerintah lagi. Hal itu membolehkan Basrah mendahului wilayah-wilayah lain dalam melakar semula garisan kepungan angan-angan (*hisār al-amal*), meriwayatkan kisah tidur yang panjang di alam barzakh, serta menegaskan dan menyebarluaskan mazhab Umar. Sehinggakan nasihat-nasihat al-Hasan menjadi wasilah tarbiah yang disalin dalam lembaran-lembaran dan diedarkan bersama pos khilafah sebagaimana diedarkannya akhbar-akhbar pada hari ini. Maka seorang Muslim yang berkawal di kubu perbatasan paling jauh mendapati dalam ketegasan nada suaranya suatu kehangatan yang menggetarkan hatinya ke arah syahid, setara dengan kelembutan jiwa yang menggetarkan tubuh penuntut ilmu yang tekun beribadah, petani yang lurus, mahupun pedagang yang gigih berusaha.
+Sekiranya 'Anbasah ataupun al-Qurazhi bersegera menyahut seruan Umar bersama sekumpulan ulama Syam dan Madinah, sesungguhnya al-Hasan al-Basri — melalui kepimpinannya ke atas seluruh generasi pertengahan tabi'in, dan melalui pengaruh intipati yang diceduknya daripada Ali RA dan madrasah Kufahnya — telah meletakkan Basrah di mercu kepimpinan pengaruh tarbiah ke atas umat sebelum Umar memerintah lagi. Hal itu membolehkan Basrah mendahului wilayah-wilayah lain dalam melakar semula garisan penjara harapan (*hisār al-amal*), meriwayatkan kisah tidur yang panjang di alam barzakh, serta menegaskan dan menyebarluaskan mazhab Umar. Sehinggakan nasihat-nasihat al-Hasan menjadi wasilah tarbiah yang disalin dalam lembaran-lembaran dan diedarkan bersama pos khilafah sebagaimana diedarkannya akhbar-akhbar pada hari ini. Maka seorang Muslim yang berkawal di kubu perbatasan paling jauh mendapati dalam ketegasan nada suaranya suatu kehangatan yang menggetarkan hatinya ke arah syahid, setara dengan kelembutan jiwa yang menggetarkan tubuh penuntut ilmu yang tekun beribadah, petani yang lurus, mahupun pedagang yang gigih berusaha.
 
 Demikianlah titisan air mata keinsafan berpadu dengan kefahaman yang mendalam di sisi imam penduduk Basrah ini. Angan-angan mula dipendekkan tatkala al-Hasan menggambarkan kesudahannya yang membawa kepada kebinasaan, serta mengingatkan mereka akan kedahsyatan hari mendatang yang bakal mereka hadapi, di mana kepedihan sakratulmaut hanyalah permulaan hisab dan anak tangga pertama pintunya. Lalu beliau berseru:
 

@@ -1147,7 +1147,7 @@ window.ALRAQAIQ_QUOTES = [
     "chapterIndex": 7,
     "chapter_id": 8,
     "chapterNumber": "BAB 7",
-    "chapterTitle": "KEPUNGAN ANGAN-ANGAN",
+    "chapterTitle": "PENJARA HARAPAN",
     "subtopicIndex": 0,
     "subtopicTitle": "Pengenalan & Permulaan Bab"
   },
@@ -1165,7 +1165,7 @@ window.ALRAQAIQ_QUOTES = [
     "chapterIndex": 7,
     "chapter_id": 8,
     "chapterNumber": "BAB 7",
-    "chapterTitle": "KEPUNGAN ANGAN-ANGAN",
+    "chapterTitle": "PENJARA HARAPAN",
     "subtopicIndex": 0,
     "subtopicTitle": "Pengenalan & Permulaan Bab"
   },
@@ -1183,7 +1183,7 @@ window.ALRAQAIQ_QUOTES = [
     "chapterIndex": 7,
     "chapter_id": 8,
     "chapterNumber": "BAB 7",
-    "chapterTitle": "KEPUNGAN ANGAN-ANGAN",
+    "chapterTitle": "PENJARA HARAPAN",
     "subtopicIndex": 0,
     "subtopicTitle": "Pengenalan & Permulaan Bab"
   },
@@ -1201,7 +1201,7 @@ window.ALRAQAIQ_QUOTES = [
     "chapterIndex": 7,
     "chapter_id": 8,
     "chapterNumber": "BAB 7",
-    "chapterTitle": "KEPUNGAN ANGAN-ANGAN",
+    "chapterTitle": "PENJARA HARAPAN",
     "subtopicIndex": 0,
     "subtopicTitle": "Pengenalan & Permulaan Bab"
   },
@@ -1219,7 +1219,7 @@ window.ALRAQAIQ_QUOTES = [
     "chapterIndex": 7,
     "chapter_id": 8,
     "chapterNumber": "BAB 7",
-    "chapterTitle": "KEPUNGAN ANGAN-ANGAN",
+    "chapterTitle": "PENJARA HARAPAN",
     "subtopicIndex": 0,
     "subtopicTitle": "Pengenalan & Permulaan Bab"
   },
@@ -1237,7 +1237,7 @@ window.ALRAQAIQ_QUOTES = [
     "chapterIndex": 7,
     "chapter_id": 8,
     "chapterNumber": "BAB 7",
-    "chapterTitle": "KEPUNGAN ANGAN-ANGAN",
+    "chapterTitle": "PENJARA HARAPAN",
     "subtopicIndex": 0,
     "subtopicTitle": "Pengenalan & Permulaan Bab"
   },
@@ -1255,7 +1255,7 @@ window.ALRAQAIQ_QUOTES = [
     "chapterIndex": 7,
     "chapter_id": 8,
     "chapterNumber": "BAB 7",
-    "chapterTitle": "KEPUNGAN ANGAN-ANGAN",
+    "chapterTitle": "PENJARA HARAPAN",
     "subtopicIndex": 0,
     "subtopicTitle": "Pengenalan & Permulaan Bab"
   },
@@ -1273,7 +1273,7 @@ window.ALRAQAIQ_QUOTES = [
     "chapterIndex": 7,
     "chapter_id": 8,
     "chapterNumber": "BAB 7",
-    "chapterTitle": "KEPUNGAN ANGAN-ANGAN",
+    "chapterTitle": "PENJARA HARAPAN",
     "subtopicIndex": 0,
     "subtopicTitle": "Pengenalan & Permulaan Bab"
   },
@@ -1291,7 +1291,7 @@ window.ALRAQAIQ_QUOTES = [
     "chapterIndex": 7,
     "chapter_id": 8,
     "chapterNumber": "BAB 7",
-    "chapterTitle": "KEPUNGAN ANGAN-ANGAN",
+    "chapterTitle": "PENJARA HARAPAN",
     "subtopicIndex": 0,
     "subtopicTitle": "Pengenalan & Permulaan Bab"
   },

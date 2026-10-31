@@ -804,7 +804,7 @@ Ketenangan batiniah pemimpin: kebergantungan kepada Allah melindungi hati da'i d
 ---
 
 
-## 📌 BAB 7: KEPUNGAN ANGAN-ANGAN
+## 📌 BAB 7: PENJARA HARAPAN
 
 ---
 
