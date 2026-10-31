@@ -1,4 +1,4 @@
-const CACHE_NAME = 'alraqaiq-cache-v40-b4st8-5subs';
+const CACHE_NAME = 'alraqaiq-cache-v41-b3st3-subdivision';
 const ASSETS_TO_CACHE = [
   './',
   './index.html',

@@ -399,3 +399,15 @@ Telah ditetapkan bahawa terjemahan rasmi bagi judul-judul karya Syeikh Muhammad 
   - Jumlah Perenggan: 916 (100% terpelihara tanpa sebarang pengurangan)
   - Jumlah Nota Kaki: 181 (100% terpelihara)
 * **Liputan Menyeluruh:** Diselaraskan di semua platform: Manuskrip Markdown (`TERJEMAHAN_AL-RAQAIQ.md`), Intisari Ilmiah Lengkap, Intisari Subtopik Fiqh Haraki, dokumen Word (`.docx`), pangkalan data JSON/JS PWA, dan bot Telegram.
+
+### 41. Pembahagian Subtajuk 3 Bab 3 (*Niat yang Bebas Ikhlas*) Kepada 2 Subtajuk Mandiri
+* **Latar Belakang:** Subtajuk asal ketiga Bab 3 (*Niat yang Bebas Ikhlas*) mengandungi 28 perenggan dan 7 nota kaki. Pada perenggan ke-17 (*"Adapun orang yang mencampuradukkan niatnya, nescaya akan bercelaru segala urusan dan perjalanan hidupnya..."*), perbincangan beralih daripada pembinaan konsep niat yang bebas ikhlas kepada membongkar penyakit hati yang bercelaru, tipu daya hawa nafsu, dan jurang perbezaan antara niat hakiki dengan angan-angan kosong (*al-umniyyah*).
+* **Ketetapan Penyelarasan (Pilihan No. 2 Sahabat):** Subtajuk ini dipecahkan secara rasmi kepada 2 subtajuk mandiri yang seimbang dan padat, menjadikan Bab 3 mempunyai 5 subtajuk keseluruhan:
+  1. `Niat yang Bebas Ikhlas` (16 perenggan: P1–P16 — jiwa yang memancarkan cahaya [*nafsun tuḍī'*], teladan Umar bin Abdul Aziz membetulkan kepincangan dua generasi dengan niat lillahi Taala, ikatan perjanjian taubat, amalan kecil menjadi besar kerana niat menurut Ibnu al-Mubarak, dan tuntutan membenarkan batin dalam kesunyian; nota kaki [1], [2], [3], [4], [5]).
+  2. `Kecelaruan Niat dan Jerangkap Angan-Angan Kosong` (12 perenggan: P17–P28 — bahaya mencampuradukkan niat mengikut tabi'in Mutharrif bin al-Syikhkhir, amaran al-Rafi'i tentang jiwa yang tidak terurus, seni mengurus jiwa, serta amaran keras membezakan niat yang ikhlas daripada angan-angan kosong [*al-umniyyah*] yang memperdayakan da'i; nota kaki [6], [7]).
+* **Statistik Keseluruhan Kitab:**
+  - Jumlah Bab: 14 (1 epigraf + 1 mukadimah + 12 bab teks)
+  - Jumlah Subtajuk: 98 (97 subtajuk teks + 1 epigraf)
+  - Jumlah Perenggan: 916 (100% terpelihara tanpa sebarang pengurangan)
+  - Jumlah Nota Kaki: 181 (100% terpelihara)
+* **Liputan Menyeluruh:** Diselaraskan di semua platform: Manuskrip Markdown (`TERJEMAHAN_AL-RAQAIQ.md`), Intisari Ilmiah Lengkap, Intisari Subtopik Fiqh Haraki, dokumen Word (`.docx`), pangkalan data JSON/JS PWA, dan bot Telegram.

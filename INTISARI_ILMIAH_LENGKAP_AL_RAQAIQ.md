@@ -98,8 +98,11 @@
     * Memulakan perjalanan dakwah dengan hati yang bersih daripada sebarang kepentingan peribadi.
     * Membina persepsi bahawa dakwah adalah medan memberi dan berkorban, bukan medan mengambil atau menuai faedah duniawi.
   * **• Niat yang Bebas Ikhlas:**
-    * Niat yang tulus ikhlas adalah "ruh" bagi setiap gerak kerja; tanpa keikhlasan, amal sebesar gunung akan hancur menjadi debu berterbangan.
-    * Sentiasa memperbaharui dan memeriksa niat pada setiap persimpangan jalan agar tidak diragut oleh penyakit riak dan ujub.
+    * Niat yang tulus ikhlas (*al-niyyah al-hurrah*) adalah "ruh" bagi setiap gerak kerja; tanpa keikhlasan, amal sebesar gunung akan hancur menjadi debu berterbangan.
+    * Mencontohi Umar bin Abdul Aziz yang tidak melangkah melainkan dengan niat kerana Allah, sehingga amalan kecil menjadi agung.
+  * **• Kecelaruan Niat dan Jerangkap Angan-Angan Kosong:**
+    * Percampuran niat mencetuskan kegelisahan batin dan kecelaruan hidup; jiwa yang tidak terurus tidak mampu memimpin perubahan di sekelilingnya.
+    * Membezakan secara tegas antara niat yang benar dengan angan-angan kosong (*al-umniyyah*) yang melahirkan sikap bertangguh dan melemahkan disiplin amal.
   * **• Mengorak Langkah Mengharungi Kesukaran:**
     * Kesediaan mental dan rohani untuk menghadapi jalan dakwah yang sememangnya dipagari oleh kepayahan (*makārih*), cemuhan manusia, dan keletihan fizikal.
     * Sikap istiqamah adalah buah daripada permulaan yang sahih.

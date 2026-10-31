@@ -30,6 +30,7 @@ BAB 2: MINIT-MINIT YANG BERHARGA (الدقائق الغالية) ...............
 BAB 3: PERMULAAN (الابتداء) ........................................................ 21
    • Kejernihan Langkah Permulaan .................................................. 21
    • Niat yang Bebas Ikhlas ........................................................ 23
+   • Kecelaruan Niat dan Jerangkap Angan-Angan Kosong .............................. 24
    • Mengorak Langkah Mengharungi Kesukaran ........................................ 25
 
 BAB 4: MENUJU KEGEMBIRAAN AKHIRAT (نحو أفراح الآخرة) ............................... 27
@@ -906,6 +907,8 @@ Bahkan amalan yang kecil akan menjadi agung disebabkan oleh niat, sebagaimana ya
 Seorang pendakwah yang kelu lidahnya mampu bertukar—dengan berkat niat yang ikhlas—menjadi seorang pemidato yang menaburkan mutiara kefasihan yang memukau manusia. Hal ini sama seperti penawar yang ditegaskan oleh Abdul Qadir al-Kailani dalam nasihatnya: 
 
 > *“Jadilah orang yang benar pada batinmu dalam kesunyian: nescaya engkau menjadi orang yang fasih berbicara di hadapan khalayak ramai.”* [5]
+
+### Kecelaruan Niat dan Jerangkap Angan-Angan Kosong
 
 Adapun orang yang mencampuradukkan niatnya, nescaya akan bercelaru segala urusan dan perjalanan hidupnya. Perkara itu dalam lipatan sejarah merupakan satu ketentuan pasti ke atas golongan yang mencampuradukkan niat. Hakikat inilah yang disingkap oleh seorang tabi'in yang mulia, Mutharrif—anak kepada sahabat yang mulia, Abdullah bin al-Syikhkhir al-'Amiri RA—melalui kata-katanya:
 

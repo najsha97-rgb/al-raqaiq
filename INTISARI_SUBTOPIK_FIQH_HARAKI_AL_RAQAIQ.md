@@ -219,7 +219,19 @@
 
 ---
 
-### 3. subtajuk: *Mengorak Langkah Mengharungi Kesukaran*
+### 3. subtajuk: *Kecelaruan Niat dan Jerangkap Angan-Angan Kosong*
+* **1. Diagnosis Halangan / Rawatan Jiwa:**  
+  *Pencemaran Niat & Angan-Angan Kosong (Al-Umniyyah)* — Percampuran antara niat ikhlas lillahi Taala dengan kepentingan peribadi, serta tertipu dengan angan-angan kosong bahawa cita-cita dakwah boleh dicapai tanpa disiplin dan kesungguhan jiwa.
+* **2. Modus Operandi & Gejala Penyelusupan:**  
+  Jiwa menjadi bercelaru (*takhalluṭ*); aktivis sibuk menyusun dan mengatur urusan di sekelilingnya tetapi membiarkan batinnya sendiri kacau-bilau. Sering berkhayal tentang kemenangan besar tetapi sentiasa menangguh-nangguhkan tindakan harian (*taswīf*).
+* **3. Implikasi Terhadap Saf Haraki:**  
+  Kehilangan keberkatan dan kemanisan amal; lahir aktivis yang pandai berteori dan berangan-angan tetapi sifar dari segi produktiviti lapangan, menyebabkan saf kaku dan tidak bergerak ke hadapan.
+* **4. Preskripsi Penawar (*Fiqh as-Sulūk*) & Petunjuk Salaf:**  
+  *Kalam Tabi'in Mutharrif bin al-Syikhkhir:* *"Baiknya amalan bergantung pada baiknya hati, dan baiknya hati bergantung pada baiknya niat."* Membezakan secara tegas antara niat yang benar (*al-niyyah al-sādiqah*) dengan angan-angan kosong (*al-umniyyah*), serta membuang sikap berlengah-lengah dengan menyegerakan ketaatan.
+
+---
+
+### 4. subtajuk: *Mengorak Langkah Mengharungi Kesukaran*
 * **1. Diagnosis Halangan / Rawatan Jiwa:**  
   *Sikap Mencari Keselesaan & Takut kepada Kepayahan* — Berangan-angan bahawa jalan menegakkan syariat Islam adalah lebuh raya berturap permaidani merah tanpa titisan keringat dan darah.
 * **2. Modus Operandi & Gejala Penyelusupan:**  
