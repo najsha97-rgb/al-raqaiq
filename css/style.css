@@ -88,13 +88,16 @@ body {
   width: 7px;
   height: 7px;
 }
+
 ::-webkit-scrollbar-track {
   background: var(--bg-app);
 }
+
 ::-webkit-scrollbar-thumb {
   background: rgba(56, 189, 248, 0.3);
   border-radius: 4px;
 }
+
 ::-webkit-scrollbar-thumb:hover {
   background: var(--sapphire-light);
 }
@@ -881,6 +884,7 @@ body {
     display: flex;
     justify-content: stretch;
   }
+
   .summary-scope-btn {
     flex: 1;
     justify-content: center;
@@ -1075,26 +1079,33 @@ body {
     font-size: 1.06rem !important;
     padding: 13px 14px !important;
   }
+
   .chapter-num-badge {
     min-width: 30px !important;
     height: 30px !important;
     font-size: 0.85rem !important;
     margin-right: 10px !important;
   }
+
   .subtopic-nav-btn {
-    font-size: 1.02rem !important; /* Font subtopik diperbesar untuk HP */
-    padding: 11px 14px !important; /* Sentuhan jari lebih lapang & selesa */
+    font-size: 1.02rem !important;
+    /* Font subtopik diperbesar untuk HP */
+    padding: 11px 14px !important;
+    /* Sentuhan jari lebih lapang & selesa */
     line-height: 1.48 !important;
     margin-bottom: 5px !important;
     gap: 9px !important;
   }
+
   .subtopic-num {
     min-width: 1.55rem !important;
     line-height: 1.48 !important;
   }
+
   .subtopic-title-text {
     line-height: 1.48 !important;
   }
+
   .search-input {
     font-size: 0.98rem !important;
     padding: 12px 14px 12px 40px !important;
@@ -1190,22 +1201,29 @@ body.light-theme .mobile-menu-btn:hover .menu-icon-svg {
     padding: 0 0.75rem;
     height: 64px;
   }
+
   .brand-wrapper {
     gap: 8px;
   }
+
   .brand-logo {
     width: 38px;
     height: 38px;
   }
+
   .brand-text h1 {
     font-size: 1.05rem;
   }
+
   .brand-subtitle {
-    display: none; /* Kemaskan ruang header pada mobile agar butang menu & tajuk luas dan tidak bertindih */
+    display: none;
+    /* Kemaskan ruang header pada mobile agar butang menu & tajuk luas dan tidak bertindih */
   }
+
   .pdf-btn-text {
     display: none;
   }
+
   .pdf-download-btn {
     padding: 0;
     width: 38px;
@@ -1506,7 +1524,8 @@ body.light-theme .mobile-menu-btn:hover .menu-icon-svg {
   gap: 8px !important;
   padding: 10px 22px !important;
   min-height: 42px !important;
-  border-radius: 25px !important; /* Bentuk melengkung elegan persis nota kaki */
+  border-radius: 25px !important;
+  /* Bentuk melengkung elegan persis nota kaki */
   font-size: 0.9rem !important;
   font-family: 'Outfit', sans-serif !important;
   font-weight: 700 !important;
@@ -1821,15 +1840,19 @@ body.light-theme .mobile-menu-btn:hover .menu-icon-svg {
   .hikmah-grid {
     grid-template-columns: 1fr;
   }
+
   .hikmah-hero-card {
     padding: 1.4rem;
   }
+
   .hikmah-hero-quote {
     font-size: 1.1rem;
   }
+
   .layer-switcher {
     padding: 2px;
   }
+
   .layer-btn {
     padding: 5px 10px;
     font-size: 0.76rem;
@@ -1841,9 +1864,11 @@ body.light-theme .mobile-menu-btn:hover .menu-icon-svg {
   .layer-btn span {
     font-size: 0.72rem;
   }
+
   .hikmah-hero-badge {
     font-size: 0.7rem;
   }
+
   .hikmah-action-btn {
     flex: 1;
     justify-content: center;
@@ -2363,8 +2388,13 @@ mark.content-search-match.active-match {
 }
 
 @keyframes searchMatchPulse {
-  0% { filter: brightness(1); }
-  100% { filter: brightness(1.25); }
+  0% {
+    filter: brightness(1);
+  }
+
+  100% {
+    filter: brightness(1.25);
+  }
 }
 
 /* Palang Terapung Navigasi Carian (Floating Search Navigator) */
@@ -2402,6 +2432,7 @@ mark.content-search-match.active-match {
     opacity: 0;
     transform: translate(-50%, 25px);
   }
+
   to {
     opacity: 1;
     transform: translate(-50%, 0);
@@ -2492,104 +2523,118 @@ mark.content-search-match.active-match {
     padding: 6px 12px;
     gap: 8px;
   }
+
   .sfb-badge {
     font-size: 0.8rem;
   }
+
   .sfb-query {
     max-width: 90px;
   }
 }
 
 
-  .sfb-topic-btn {
-    display: flex;
-    align-items: center;
-    gap: 6px;
-    background: rgba(245, 158, 11, 0.22);
-    border: 1px solid rgba(245, 158, 11, 0.45);
-    color: #fef08a;
-    padding: 4px 12px;
-    border-radius: 20px;
-    font-size: 0.8rem;
-    font-weight: 600;
-    cursor: pointer;
-    transition: all 0.2s ease;
-    white-space: nowrap;
-  }
-  [data-theme="light"] .sfb-topic-btn {
-    background: rgba(217, 119, 6, 0.15);
-    border-color: rgba(217, 119, 6, 0.35);
-    color: #92400e;
-  }
-  .sfb-topic-btn:hover {
-    background: #f59e0b;
-    color: #0b172a;
-    transform: scale(1.04);
-  }
-  .sfb-divider {
-    width: 1px;
-    height: 18px;
-    background: rgba(255, 255, 255, 0.2);
-    margin: 0 2px;
-  }
-  [data-theme="light"] .sfb-divider {
-    background: rgba(0, 0, 0, 0.15);
-  }
-  .sfb-btn:disabled, .sfb-btn[disabled] {
-    opacity: 0.35;
-    cursor: not-allowed;
-    pointer-events: none;
-  }
-  .search-result-item.active-reading {
-    border-left: 4px solid #f59e0b !important;
-    background: rgba(245, 158, 11, 0.14) !important;
-  }
-  .search-result-current-badge {
-    display: inline-block;
-    background: #f59e0b;
-    color: #0b172a;
-    font-size: 0.72rem;
-    font-weight: 700;
-    padding: 1px 7px;
-    border-radius: 10px;
-    margin-left: 8px;
-    vertical-align: middle;
-  }
+.sfb-topic-btn {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  background: rgba(245, 158, 11, 0.22);
+  border: 1px solid rgba(245, 158, 11, 0.45);
+  color: #fef08a;
+  padding: 4px 12px;
+  border-radius: 20px;
+  font-size: 0.8rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+[data-theme="light"] .sfb-topic-btn {
+  background: rgba(217, 119, 6, 0.15);
+  border-color: rgba(217, 119, 6, 0.35);
+  color: #92400e;
+}
+
+.sfb-topic-btn:hover {
+  background: #f59e0b;
+  color: #0b172a;
+  transform: scale(1.04);
+}
+
+.sfb-divider {
+  width: 1px;
+  height: 18px;
+  background: rgba(255, 255, 255, 0.2);
+  margin: 0 2px;
+}
+
+[data-theme="light"] .sfb-divider {
+  background: rgba(0, 0, 0, 0.15);
+}
+
+.sfb-btn:disabled,
+.sfb-btn[disabled] {
+  opacity: 0.35;
+  cursor: not-allowed;
+  pointer-events: none;
+}
+
+.search-result-item.active-reading {
+  border-left: 4px solid #f59e0b !important;
+  background: rgba(245, 158, 11, 0.14) !important;
+}
+
+.search-result-current-badge {
+  display: inline-block;
+  background: #f59e0b;
+  color: #0b172a;
+  font-size: 0.72rem;
+  font-weight: 700;
+  padding: 1px 7px;
+  border-radius: 10px;
+  margin-left: 8px;
+  vertical-align: middle;
+}
 
 
 
-  /* Lencana Status Layer Hasil Carian (Versi Penuh vs Ringkasan) */
-  .search-layer-badge {
-    display: inline-flex;
-    align-items: center;
-    gap: 4px;
-    font-size: 0.72rem;
-    font-weight: 600;
-    padding: 2px 7px;
-    border-radius: 4px;
-    margin-left: 8px;
-    vertical-align: middle;
-  }
-  .search-layer-badge.badge-layer1 {
-    background: rgba(16, 185, 129, 0.18);
-    color: #34d399;
-    border: 1px solid rgba(52, 211, 153, 0.35);
-  }
-  .search-layer-badge.badge-layer2 {
-    background: rgba(245, 158, 11, 0.18);
-    color: #fbbf24;
-    border: 1px solid rgba(245, 158, 11, 0.35);
-  }
-  [data-theme="light"] .search-layer-badge.badge-layer1 {
-    background: rgba(16, 185, 129, 0.12);
-    color: #065f46;
-    border-color: rgba(16, 185, 129, 0.3);
-  }
-  [data-theme="light"] .search-layer-badge.badge-layer2 {
-    background: rgba(245, 158, 11, 0.15);
-    color: #92400e;
-    border-color: rgba(245, 158, 11, 0.3);
-  }
+/* Lencana Status Layer Hasil Carian (Versi Penuh vs Ringkasan) */
+.search-layer-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  font-size: 0.72rem;
+  font-weight: 600;
+  padding: 2px 7px;
+  border-radius: 4px;
+  margin-left: 8px;
+  vertical-align: middle;
+}
+
+.search-layer-badge.badge-layer1 {
+  background: rgba(16, 185, 129, 0.18);
+  color: #34d399;
+  border: 1px solid rgba(52, 211, 153, 0.35);
+}
+
+.search-layer-badge.badge-layer2 {
+  background: rgba(245, 158, 11, 0.18);
+  color: #fbbf24;
+  border: 1px solid rgba(245, 158, 11, 0.35);
+}
+
+[data-theme="light"] .search-layer-badge.badge-layer1 {
+  background: rgba(16, 185, 129, 0.12);
+  color: #065f46;
+  border-color: rgba(16, 185, 129, 0.3);
+}
+
+[data-theme="light"] .search-layer-badge.badge-layer2 {
+  background: rgba(245, 158, 11, 0.15);
+  color: #92400e;
+  border-color: rgba(245, 158, 11, 0.3);
+}
 
 /* Inline Footnote Markers */
 .fn-ref {
@@ -2613,6 +2658,7 @@ mark.content-search-match.active-match {
   transform: scale(1.15);
   box-shadow: 0 0 8px rgba(212, 175, 55, 0.5);
 }
+
 /* ==========================================================================
    PREMIUM ISLAMIC FOOTNOTES & RETURN NAVIGATION SYSTEM (UI/UX PRO MAX)
    Theme: Obsidian Emerald & Illuminated Antique Gold (Manuscript Aesthetics)
@@ -2889,16 +2935,19 @@ mark.content-search-match.active-match {
 .book-ref-title {
   font-style: italic !important;
   font-weight: 600 !important;
-  color: #34d399 !important; /* Luminous emerald green */
+  color: #34d399 !important;
+  /* Luminous emerald green */
   display: inline-block;
-  transform: skewX(-9deg); /* Slants Latin titles */
+  transform: skewX(-9deg);
+  /* Slants Latin titles */
   padding: 0 2px;
   letter-spacing: 0.01em;
 }
 
 [data-theme="light"] .fn-card-body em,
 [data-theme="light"] .book-ref-title {
-  color: #047857 !important; /* Deep scholarly emerald green */
+  color: #047857 !important;
+  /* Deep scholarly emerald green */
   font-style: italic !important;
   font-weight: 600 !important;
   display: inline-block;
@@ -3027,18 +3076,21 @@ mark.content-search-match.active-match {
     box-shadow: 0 0 0 0 rgba(16, 185, 129, 0.9), 0 0 25px rgba(212, 175, 55, 0.8);
     transform: scale(1.45);
   }
+
   25% {
     background: linear-gradient(135deg, #10b981, #d4af37);
     color: #ffffff;
     box-shadow: 0 0 0 10px rgba(16, 185, 129, 0), 0 0 18px rgba(212, 175, 55, 0.5);
     transform: scale(1.25);
   }
+
   60% {
     background: rgba(16, 185, 129, 0.35);
     color: var(--gold-light);
     border-color: var(--gold-primary);
     transform: scale(1.1);
   }
+
   100% {
     background: linear-gradient(135deg, rgba(212, 175, 55, 0.18), rgba(16, 185, 129, 0.12));
     color: var(--gold-light);
@@ -3608,7 +3660,8 @@ textarea,
 .summary-arabic-quote-box .arabic-text-amiri-gold {
   font-family: 'Amiri', 'Traditional Arabic', serif !important;
   font-size: 1.45rem !important;
-  font-weight: 400 !important; /* Font biasa tidak tebal supaya tasykil/baris jelas */
+  font-weight: 400 !important;
+  /* Font biasa tidak tebal supaya tasykil/baris jelas */
   line-height: 2.2 !important;
   color: var(--gold-light, #f5c542) !important;
   letter-spacing: normal !important;
@@ -3673,6 +3726,7 @@ blockquote [dir="rtl"],
   font-family: 'Plus Jakarta Sans', sans-serif;
   color: var(--emerald-light, #34d399) !important;
 }
+
 .summary-subheading-banner em {
   font-style: normal !important;
 }
@@ -3940,11 +3994,13 @@ i .arabic-text-amiri-gold,
     flex-direction: column;
     gap: 12px;
   }
+
   .summary-footer-nav .summary-jump-btn {
     width: 100%;
     justify-content: center;
     order: -1;
   }
+
   .summary-footer-nav .summary-nav-btn {
     width: 100%;
     justify-content: center;
@@ -4212,4 +4268,354 @@ i .arabic-text-amiri-gold,
 .tarbiah-modal-btn:hover {
   background: linear-gradient(135deg, #10b981, #059669);
   box-shadow: 0 4px 12px rgba(16, 185, 129, 0.4);
+}
+
+
+/* ========================================================
+   MODUL KHAS: UMMAH FADHILAH & PERADABAN BARU ISLAM (PBI)
+   Sumbangan Al-Raqā'iq dalam Kuasa Watan & Peradaban
+   ======================================================== */
+
+.sidebar-peradaban-promo {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 10px 14px;
+  margin: 0 14px 16px 14px;
+  background: linear-gradient(135deg, rgba(2, 132, 199, 0.16) 0%, rgba(217, 119, 6, 0.15) 100%);
+  border: 1px solid rgba(56, 189, 248, 0.35);
+  border-radius: 12px;
+  cursor: pointer;
+  transition: all 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.2);
+}
+
+.sidebar-peradaban-promo:hover {
+  background: linear-gradient(135deg, rgba(2, 132, 199, 0.28) 0%, rgba(217, 119, 6, 0.25) 100%);
+  border-color: #38bdf8;
+  transform: translateY(-2px);
+  box-shadow: 0 6px 18px rgba(2, 132, 199, 0.25);
+}
+
+.peradaban-promo-icon {
+  font-size: 1.45rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 38px;
+  height: 38px;
+  border-radius: 10px;
+  background: rgba(2, 132, 199, 0.25);
+  border: 1px solid rgba(56, 189, 248, 0.4);
+  flex-shrink: 0;
+}
+
+.peradaban-promo-info {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+}
+
+.peradaban-promo-title {
+  font-size: 0.88rem;
+  font-weight: 700;
+  color: #7dd3fc;
+  line-height: 1.25;
+}
+
+.peradaban-promo-sub {
+  font-size: 0.72rem;
+  color: var(--gold-light, #fde047);
+  line-height: 1.2;
+  margin-top: 3px;
+}
+
+.peradaban-promo-badge {
+  font-size: 0.68rem;
+  font-weight: 700;
+  padding: 3px 7px;
+  border-radius: 6px;
+  background: rgba(2, 132, 199, 0.25);
+  color: #bae6fd;
+  border: 1px solid rgba(56, 189, 248, 0.45);
+  letter-spacing: 0.4px;
+}
+
+/* Peradaban Modal Enhancements */
+.peradaban-modal-box {
+  border-top: 4px solid #38bdf8 !important;
+  max-width: 760px !important;
+}
+
+.peradaban-modal-badge {
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.8px;
+  padding: 3px 10px;
+  border-radius: 20px;
+  background: rgba(2, 132, 199, 0.25);
+  color: #7dd3fc;
+  border: 1px solid rgba(56, 189, 248, 0.45);
+}
+
+.peradaban-modal-title {
+  color: #7dd3fc !important;
+}
+
+.peradaban-modal-subtitle {
+  border-bottom: 1px solid rgba(56, 189, 248, 0.2) !important;
+}
+
+/* Panel Muat Turun Fail Sedia Digunakan */
+.peradaban-download-panel {
+  background: linear-gradient(135deg, rgba(15, 23, 42, 0.85) 0%, rgba(30, 41, 59, 0.85) 100%);
+  border: 1px solid rgba(56, 189, 248, 0.35);
+  border-radius: 12px;
+  padding: 0.9rem 1.2rem;
+  margin: 0.6rem 1.5rem 0.5rem 1.5rem;
+}
+
+.download-panel-title {
+  font-size: 0.85rem;
+  font-weight: 700;
+  color: var(--gold-light, #fde047);
+  margin-bottom: 0.65rem;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.download-buttons-group {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 12px;
+}
+
+@media (max-width: 640px) {
+  .download-buttons-group {
+    grid-template-columns: 1fr;
+  }
+}
+
+.peradaban-doc-btn {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 10px 14px;
+  border-radius: 10px;
+  text-decoration: none;
+  font-family: inherit;
+  transition: all 0.2s ease;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+}
+
+.peradaban-doc-btn.docx-btn {
+  background: linear-gradient(135deg, rgba(37, 99, 235, 0.25) 0%, rgba(30, 64, 175, 0.35) 100%);
+  border: 1px solid rgba(59, 130, 246, 0.5);
+  color: #bfdbfe;
+}
+
+.peradaban-doc-btn.docx-btn:hover {
+  background: linear-gradient(135deg, rgba(37, 99, 235, 0.45) 0%, rgba(30, 64, 175, 0.55) 100%);
+  border-color: #60a5fa;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 14px rgba(37, 99, 235, 0.35);
+  color: #ffffff;
+}
+
+.peradaban-doc-btn.pdf-btn {
+  background: linear-gradient(135deg, rgba(225, 29, 72, 0.25) 0%, rgba(159, 18, 57, 0.35) 100%);
+  border: 1px solid rgba(244, 63, 94, 0.5);
+  color: #fecdd3;
+}
+
+.peradaban-doc-btn.pdf-btn:hover {
+  background: linear-gradient(135deg, rgba(225, 29, 72, 0.45) 0%, rgba(159, 18, 57, 0.55) 100%);
+  border-color: #fb7185;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 14px rgba(225, 29, 72, 0.35);
+  color: #ffffff;
+}
+
+.peradaban-doc-btn .doc-icon {
+  font-size: 1.5rem;
+  flex-shrink: 0;
+}
+
+.peradaban-doc-btn .doc-info {
+  display: flex;
+  flex-direction: column;
+}
+
+.peradaban-doc-btn .doc-main-text {
+  font-size: 0.9rem;
+  font-weight: 700;
+  line-height: 1.2;
+}
+
+.peradaban-doc-btn .doc-sub-text {
+  font-size: 0.72rem;
+  opacity: 0.85;
+  margin-top: 2px;
+}
+
+/* Highlight & Cards */
+.peradaban-card-highlight {
+  background: linear-gradient(135deg, rgba(15, 23, 42, 0.7) 0%, rgba(30, 41, 59, 0.7) 100%);
+  border: 1px solid rgba(56, 189, 248, 0.25);
+  border-radius: 12px;
+  padding: 1.15rem;
+}
+
+.peradaban-card-header {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.peradaban-card-icon {
+  font-size: 1.4rem;
+}
+
+.peradaban-desc-text {
+  font-size: 0.88rem;
+  line-height: 1.6;
+  color: #e2e8f0;
+  margin: 0.4rem 0 0 0;
+}
+
+.peradaban-pillar-card {
+  background: rgba(15, 23, 42, 0.5) !important;
+  border: 1px solid rgba(56, 189, 248, 0.2) !important;
+}
+
+.peradaban-pillar-card:hover {
+  background: rgba(15, 23, 42, 0.75) !important;
+  border-color: #38bdf8 !important;
+  transform: translateY(-2px);
+  box-shadow: 0 6px 18px rgba(2, 132, 199, 0.25) !important;
+}
+
+.simbiotik-chain-grid {
+  display: grid;
+  grid-template-columns: 1fr auto 1fr auto 1fr;
+  align-items: center;
+  gap: 8px;
+  margin-top: 0.75rem;
+}
+
+@media (max-width: 680px) {
+  .simbiotik-chain-grid {
+    grid-template-columns: 1fr;
+    text-align: center;
+  }
+
+  .chain-arrow {
+    transform: rotate(90deg);
+    margin: 4px auto;
+  }
+}
+
+.chain-box {
+  background: rgba(15, 23, 42, 0.8);
+  border: 1px solid rgba(245, 158, 11, 0.35);
+  border-radius: 8px;
+  padding: 0.75rem;
+  text-align: center;
+}
+
+.chain-badge {
+  font-size: 0.65rem;
+  font-weight: 700;
+  color: var(--gold-light);
+  margin-bottom: 4px;
+}
+
+.chain-arrow {
+  font-size: 1.2rem;
+  color: var(--gold-light);
+  font-weight: 700;
+  text-align: center;
+}
+
+.tetralogi-summary-box {
+  background: rgba(15, 23, 42, 0.6);
+  border: 1px solid rgba(217, 119, 6, 0.3);
+  border-radius: 10px;
+  padding: 1rem;
+}
+
+.tetralogi-list {
+  margin: 0;
+  padding-left: 1.2rem;
+  font-size: 0.85rem;
+  line-height: 1.6;
+  color: #cbd5e1;
+}
+
+.peradaban-close-footer-btn {
+  background: linear-gradient(135deg, #0284c7, #0369a1) !important;
+  border: 1px solid #38bdf8 !important;
+}
+
+.peradaban-close-footer-btn:hover {
+  background: linear-gradient(135deg, #0ea5e9, #0284c7) !important;
+  box-shadow: 0 4px 12px rgba(2, 132, 199, 0.4) !important;
+}
+
+/* Light Theme Overrides */
+[data-theme="light"] .sidebar-peradaban-promo {
+  background: linear-gradient(135deg, rgba(2, 132, 199, 0.08) 0%, rgba(217, 119, 6, 0.08) 100%);
+  border-color: rgba(2, 132, 199, 0.3);
+}
+
+[data-theme="light"] .peradaban-promo-title {
+  color: #0369a1;
+}
+
+[data-theme="light"] .peradaban-modal-box {
+  background: #ffffff;
+  border-color: rgba(2, 132, 199, 0.4);
+}
+
+[data-theme="light"] .peradaban-modal-title {
+  color: #0369a1 !important;
+}
+
+[data-theme="light"] .peradaban-download-panel {
+  background: #f8fafc;
+  border-color: rgba(2, 132, 199, 0.3);
+}
+
+[data-theme="light"] .peradaban-card-highlight {
+  background: #f0f9ff;
+  border-color: rgba(2, 132, 199, 0.25);
+}
+
+[data-theme="light"] .peradaban-pillar-card {
+  background: #f8fafc !important;
+  border-color: rgba(203, 213, 225, 0.8) !important;
+}
+
+[data-theme="light"] .peradaban-desc-text {
+  color: #334155;
+}
+
+[data-theme="light"] .chain-box {
+  background: #ffffff;
+  border-color: rgba(217, 119, 6, 0.4);
+}
+
+[data-theme="light"] .chain-box p {
+  color: #475569 !important;
+}
+
+[data-theme="light"] .tetralogi-summary-box {
+  background: #fffbeb;
+  border-color: rgba(217, 119, 6, 0.3);
+}
+
+[data-theme="light"] .tetralogi-list {
+  color: #334155;
 }

@@ -1,4 +1,4 @@
-const CACHE_NAME = 'alraqaiq-cache-v59-tonggak-tarbiah-badge';
+const CACHE_NAME = 'alraqaiq-cache-v62-ummah-pbi';
 const ASSETS_TO_CACHE = [
   './',
   './index.html',

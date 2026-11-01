@@ -12,7 +12,7 @@
   <link rel="icon" type="image/jpeg" href="./alraqaiq_islamic_icon.jpg">
   <link rel="apple-touch-icon" href="./alraqaiq_islamic_icon.jpg">
   <link rel="manifest" href="./manifest.json">
-  <link rel="stylesheet" href="./css/style.css?v=20261101_alraqaiq_v59_tonggak_tarbiah_badge">
+  <link rel="stylesheet" href="./css/style.css?v=20261101_alraqaiq_v61_dokumen_khas_update">
 
   <!-- Google Fonts: Premium Manuscript Typography -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -240,6 +240,9 @@
         <button class="layer-btn" id="btnLayerHikmah" role="tab" aria-selected="false">
           💎 <span>Mutiara Hikmah</span>
         </button>
+        <button class="layer-btn" id="btnHeaderPeradaban" role="tab" aria-selected="false" title="Wawasan Ummah Fadhilah &amp; PBI (Sumbangan al-Raqā'iq)">
+          🌍 <span>Ummah &amp; PBI</span>
+        </button>
       </div>
 
       <button class="icon-btn" id="themeToggleBtn" title="Tukar Tema (Gelap/Cerah)" aria-label="Tukar Tema">
@@ -279,6 +282,16 @@
           <span class="tarbiah-promo-sub">(Tilawah, Puasa Sunat &amp; Infaq)</span>
         </div>
         <span class="tarbiah-promo-badge">3 Tonggak</span>
+      </div>
+
+      <!-- Quick Access: Ummah Fadhilah & PBI (Sumbangan al-Raqā'iq) -->
+      <div class="sidebar-peradaban-promo" id="sidebarPeradabanBtn" role="button" tabindex="0" title="Buka Wawasan Ummah Fadhilah &amp; Peradaban Baru Islam (PBI)">
+        <div class="peradaban-promo-icon">🌍</div>
+        <div class="peradaban-promo-info">
+          <span class="peradaban-promo-title">Ummah Fadhilah &amp; PBI</span>
+          <span class="peradaban-promo-sub">(Sumbangan al-Raqā'iq)</span>
+        </div>
+        <span class="peradaban-promo-badge">Wawasan</span>
       </div>
 
       <!-- Navigation Tree -->
@@ -429,10 +442,10 @@
   </div>
 
   <!-- Data Scripts (Offline Direct Access) -->
-  <script src="./data/alraqaiq_quotes.js?v=20261101_alraqaiq_v59_tonggak_tarbiah_badge"></script>
-  <script src="./data/alraqaiq_data.js?v=20261101_alraqaiq_v59_tonggak_tarbiah_badge"></script>
+  <script src="./data/alraqaiq_quotes.js?v=20261101_alraqaiq_v61_dokumen_khas_update"></script>
+  <script src="./data/alraqaiq_data.js?v=20261101_alraqaiq_v61_dokumen_khas_update"></script>
   <!-- Application Core Script -->
-  <script src="./js/app.js?v=20261101_alraqaiq_v59_tonggak_tarbiah_badge"></script>
+  <script src="./js/app.js?v=20261101_alraqaiq_v61_dokumen_khas_update"></script>
 
   <!-- ================= SEKILAS TONGGAK AMALAN TARBIAH MODAL ================= -->
   <div class="tarbiah-modal-overlay" id="modalTarbiahSpotlight" style="display: none;">
@@ -505,6 +518,221 @@
 
       <div class="tarbiah-modal-footer">
         <button class="tarbiah-modal-btn" id="btnTarbiahModalCloseFooter">Faham &amp; Hayati Amalan</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- ================= MODAL UMMAH FADHILAH & PBI (SUMBANGAN AL-RAQAIQ) ================= -->
+  <div class="tarbiah-modal-overlay peradaban-modal-overlay" id="modalPeradabanSpotlight" style="display: none;">
+    <div class="tarbiah-modal-box peradaban-modal-box">
+      <div class="tarbiah-modal-header peradaban-modal-header">
+        <div class="peradaban-modal-badge">🌍 WAWASAN 100 TAHUN KEDUA (PBI)</div>
+        <button class="icon-btn tarbiah-modal-close" id="btnClosePeradabanModal" aria-label="Tutup">✕</button>
+      </div>
+      <h3 class="tarbiah-modal-title peradaban-modal-title">Ummah Fadhilah &amp; Peradaban Baru Islam</h3>
+      <p class="tarbiah-modal-subtitle peradaban-modal-subtitle">Sumbangan Kitab Al-Raqā'iq (As-Syeikh Muhammad Ahmad al-Rasyid) Sebagai Enjin Ruhiyyah &amp; Moral Membina Kuasa Watan</p>
+
+      <!-- Pautan Fail Dokumen Sedia Digunakan (Word & PDF) -->
+      <div class="peradaban-download-panel">
+        <div class="download-panel-title">📥 Pautan Fail Dokumen Sedia Digunakan:</div>
+        
+        <!-- Bahagian 1: Dokumen Pengenalan Am -->
+        <div style="font-size:0.75rem; color:#93c5fd; font-weight:700; margin: 4px 0 6px 0; letter-spacing:0.3px;">
+          📌 DOKUMEN PENGENALAN AM (GAGASAN UMMAH FADHILAH &amp; TETRALOGI):
+        </div>
+        <div class="download-buttons-group">
+          <a href="./Gagasan_Ummah_Fadhilah_Kuasa_Nasional_dan_Tetralogi_Al-Rasyid.docx" download class="peradaban-doc-btn docx-btn">
+            <span class="doc-icon">📄</span>
+            <div class="doc-info">
+              <span class="doc-main-text">Dokumen Am Word (.docx)</span>
+              <span class="doc-sub-text">Pengenalan Am Gagasan (42 KB)</span>
+            </div>
+          </a>
+          <a href="./Gagasan_Ummah_Fadhilah_Kuasa_Nasional_dan_Tetralogi_Al-Rasyid.pdf" target="_blank" class="peradaban-doc-btn pdf-btn">
+            <span class="doc-icon">📕</span>
+            <div class="doc-info">
+              <span class="doc-main-text">Dokumen Am PDF (.pdf)</span>
+              <span class="doc-sub-text">Format E-Buku Sedia Cetak (886 KB)</span>
+            </div>
+          </a>
+        </div>
+
+        <!-- Bahagian 2: Dokumen Khas Al-Raqaiq -->
+        <div style="font-size:0.75rem; color:var(--gold-light); font-weight:700; margin: 10px 0 6px 0; letter-spacing:0.3px;">
+          💎 DOKUMEN KHAS AL-RAQĀ'IQ (SUMBANGAN DALAM KUASA WATAN):
+        </div>
+        <div class="download-buttons-group">
+          <a href="./Sumbangan_Al_Raqaiq_Dalam_Ummah_Fadhilah_Kuasa_Nasional_dan_PBI.docx" download class="peradaban-doc-btn docx-btn">
+            <span class="doc-icon">📄</span>
+            <div class="doc-info">
+              <span class="doc-main-text">Dokumen Khas Word (.docx)</span>
+              <span class="doc-sub-text">Sumbangan Al-Raqā'iq (39 KB)</span>
+            </div>
+          </a>
+          <a href="./Sumbangan_Al_Raqaiq_Dalam_Ummah_Fadhilah_Kuasa_Nasional_dan_PBI.pdf" target="_blank" class="peradaban-doc-btn pdf-btn">
+            <span class="doc-icon">📕</span>
+            <div class="doc-info">
+              <span class="doc-main-text">Dokumen Khas PDF (.pdf)</span>
+              <span class="doc-sub-text">Format E-Buku Sedia Cetak (4.3 MB)</span>
+            </div>
+          </a>
+        </div>
+      </div>
+
+      <div class="tarbiah-modal-body peradaban-modal-body">
+        <!-- 1. Kedudukan Strategik -->
+        <div class="peradaban-card-highlight">
+          <div class="peradaban-card-header">
+            <span class="peradaban-card-icon">🧭</span>
+            <div>
+              <h4 style="margin:0; font-size:1.05rem; color:var(--gold-light);">Kedudukan Al-Raqā'iq dalam Kitaran 100 Tahun Kedua</h4>
+              <span style="font-size:0.75rem; color:#93c5fd;">Jantung Rohani, Enjin Batin &amp; Benteng Moral</span>
+            </div>
+          </div>
+          <p class="peradaban-desc-text">
+            Kitab <strong>Al-Raqā'iq</strong> (Pelembut-pelembut Hati) adalah <strong>enjin batin dan benteng moral</strong> kepada seluruh pembinaan Kuasa Nasional. Jika <em>Al-Masār</em> adalah seni bina perancangan fizikal negara, maka <em>Al-Raqā'iq</em> adalah roh dan perisian rohaniahnya.
+          </p>
+          <p class="peradaban-desc-text" style="color:#cbd5e1; margin-top:0.5rem;">
+            Ia merawat barah terbesar yang melumpuhkan gerakan Islam pada akhir 100 Tahun Pertama (1924–2024): <strong>kekeringan rohani dan mabuk kuasa (<em>ghuluw siasah</em>)</strong>. Al-Raqā'iq memastikan kedaulatan yang dibangunkan tidak menjadi rejim sekular baharu, sebaliknya menegakkan ubudiah mutlak kepada Allah SWT.
+          </p>
+        </div>
+
+        <!-- 2. Enam Pilar Al-Raqaiq -->
+        <h4 style="color:var(--gold-light); margin:0.5rem 0 0.25rem 0; font-size:1rem; display:flex; align-items:center; gap:6px;">
+          <span>📌</span> <span>Enam Teras Sumbangan Al-Raqā'iq dalam Kuasa Nasional</span>
+        </h4>
+
+        <!-- Pilar 1 -->
+        <div class="tarbiah-pillar-card peradaban-pillar-card">
+          <div class="tarbiah-pillar-header">
+            <span class="tarbiah-pillar-icon">👑</span>
+            <div class="tarbiah-pillar-titles">
+              <h4>1. Tasbih Mengukuhkan Kerajaan (Bab 1)</h4>
+              <span class="tarbiah-pillar-tag">Model Kepimpinan Kenabian: Nabi Daud AS</span>
+            </div>
+          </div>
+          <p class="peradaban-desc-text">
+            Nabi Daud AS dianugerahkan kerajaan perkasa (<em>mulk</em>) dan industri besi yang melentur kerana baginda seorang hamba yang sentiasa merintih (<em>awwāb</em>), bertahajud, dan bertasbih di mihrab. Kuasa Nasional Islam teguh di atas sujud dan istighfar, bukan sekadar kelicikan siasah semata-mata.
+          </p>
+        </div>
+
+        <!-- Pilar 2 -->
+        <div class="tarbiah-pillar-card peradaban-pillar-card">
+          <div class="tarbiah-pillar-header">
+            <span class="tarbiah-pillar-icon">🌙</span>
+            <div class="tarbiah-pillar-titles">
+              <h4>2. Madrasah Malam &amp; Minit-Minit Berharga (Bab 2)</h4>
+              <span class="tarbiah-pillar-tag">Sepertiga Malam Terakhir &amp; Menakluk Tidur</span>
+            </div>
+          </div>
+          <p class="peradaban-desc-text">
+            Kemenangan dakwah di siang hari ditentukan oleh rintihan air mata para pejuang di keheningan malam. Da'i yang gagal menakluk selimut tidurnya tidak akan mampu memimpin pembebasan watan mahupun menerajui peradaban agung.
+          </p>
+        </div>
+
+        <!-- Pilar 3 -->
+        <div class="tarbiah-pillar-card peradaban-pillar-card">
+          <div class="tarbiah-pillar-header">
+            <span class="tarbiah-pillar-icon">🤝</span>
+            <div class="tarbiah-pillar-titles">
+              <h4>3. Komuniti Akar Umbi &amp; Fiqh Al-I'tsār (Bab 5)</h4>
+              <span class="tarbiah-pillar-tag">Ukhuwah Takwa &amp; Menewaskan Individualisme</span>
+            </div>
+          </div>
+          <p class="peradaban-desc-text">
+            Membina asas masyarakat harmoni yang menewaskan individualisme liberal. Melalui amalan berkata benar, menolak kepura-puraan (<em>takalluf</em>), membersihkan diri daripada ketamakan dunia, dan mengutamakan saudara seakidah (<em>al-i'tsār</em>).
+          </p>
+        </div>
+
+        <!-- Pilar 4 -->
+        <div class="tarbiah-pillar-card peradaban-pillar-card">
+          <div class="tarbiah-pillar-header">
+            <span class="tarbiah-pillar-icon">⛓️</span>
+            <div class="tarbiah-pillar-titles">
+              <h4>4. Memecahkan Belenggu Bumi (Bab 10)</h4>
+              <span class="tarbiah-pillar-tag">Pembebasan daripada Belenggu Harta &amp; Jawatan</span>
+            </div>
+          </div>
+          <p class="peradaban-desc-text">
+            Membebaskan da'i daripada 'belenggu bumi' (<em>quyūd al-arḍ</em>) seperti ketakutan kehilangan pendapatan, cinta kemewahan, dan kedudukan. Pemimpin yang terbelenggu dengan keselesaan dunia tidak akan memiliki keberanian untuk mempertahankan kedaulatan negara.
+          </p>
+        </div>
+
+        <!-- Pilar 5 -->
+        <div class="tarbiah-pillar-card peradaban-pillar-card">
+          <div class="tarbiah-pillar-header">
+            <span class="tarbiah-pillar-icon">🕊️</span>
+            <div class="tarbiah-pillar-titles">
+              <h4>5. Hamba yang Merdeka (Bab 11)</h4>
+              <span class="tarbiah-pillar-tag">Izzah Islam &amp; Meruntuhkan Rasa Rendah Diri</span>
+            </div>
+          </div>
+          <p class="peradaban-desc-text">
+            Kemerdekaan sejati hanya lahir apabila seseorang menghambakan diri secara mutlak kepada Allah SWT. Ia melahirkan jiwa yang merdeka daripada rasa rendah diri (<em>inferiority complex</em>) terhadap kuasa hegemoni duniawi, meneladani keteguhan Rib'i bin 'Amir RA di hadapan Rustum.
+          </p>
+        </div>
+
+        <!-- Pilar 6 -->
+        <div class="tarbiah-pillar-card peradaban-pillar-card">
+          <div class="tarbiah-pillar-header">
+            <span class="tarbiah-pillar-icon">⏳</span>
+            <div class="tarbiah-pillar-titles">
+              <h4>6. Etos Kerja: "Lenyaplah Waktu Terluang!" (Bab 12)</h4>
+              <span class="tarbiah-pillar-tag">Wasiat Khalifah Umar bin Abdul Aziz</span>
+            </div>
+          </div>
+          <div class="tarbiah-quote-box" dir="rtl" style="margin: 0.5rem 0;">
+            <span class="arabic-text-amiri-gold">وَأَيْنَ الفَرَاغُ؟ ذَهَبَ الفَرَاغُ فَلَا فَرَاغَ إِلاَّ عِنْدَ اللهِ!</span>
+          </div>
+          <p class="peradaban-desc-text">
+            <em>"Di manakah lagi adanya masa lapang? Telah lenyaplah masa lapang, maka tiada lagi kerehatan melainkan apabila bertemu Allah!"</em> — Menukar masyarakat daripada pengguna pasif kepada pencipta peradaban alternatif yang berdaya saing.
+          </p>
+        </div>
+
+        <!-- 3. Rantaian Simbiotik Segi Tiga -->
+        <div class="peradaban-card-highlight" style="border-color: rgba(245, 158, 11, 0.4); background: linear-gradient(135deg, rgba(30, 27, 75, 0.6) 0%, rgba(69, 26, 3, 0.4) 100%);">
+          <div class="peradaban-card-header">
+            <span class="peradaban-card-icon">🔄</span>
+            <div>
+              <h4 style="margin:0; font-size:1.05rem; color:var(--gold-light);">Hubungan Simbiotik Segi Tiga Peradaban</h4>
+              <span style="font-size:0.75rem; color:#fde047;">Rantaian Strategik Menuju 100 Tahun Kedua</span>
+            </div>
+          </div>
+          <div class="simbiotik-chain-grid">
+            <div class="chain-box">
+              <div class="chain-badge">1. ASAS &amp; JIWA</div>
+              <strong style="color:#7dd3fc; font-size:0.88rem;">Ummah Fadhilah</strong>
+              <p style="font-size:0.75rem; color:#cbd5e1; margin-top:4px;">Masyarakat bertakwa, berakhlak mulia, berukhuwah itsar, dan mandiri di akar umbi.</p>
+            </div>
+            <div class="chain-arrow">➔</div>
+            <div class="chain-box">
+              <div class="chain-badge">2. KUASA &amp; STRUKTUR</div>
+              <strong style="color:#fde047; font-size:0.88rem;">Kuasa Nasional</strong>
+              <p style="font-size:0.75rem; color:#cbd5e1; margin-top:4px;">Kedaulatan politik, institusi berteraskan syura, dan keupayaan pertahanan watan.</p>
+            </div>
+            <div class="chain-arrow">➔</div>
+            <div class="chain-box">
+              <div class="chain-badge">3. KEMUNCAK GLOBAL</div>
+              <strong style="color:#6ee7b7; font-size:0.88rem;">Peradaban Baru Islam</strong>
+              <p style="font-size:0.75rem; color:#cbd5e1; margin-top:4px;">Prototaip sistem alternatif sejagat yang adil, makmur, dan berkat untuk kemanusiaan.</p>
+            </div>
+          </div>
+        </div>
+
+        <!-- 4. Harmonisasi Tetralogi Syeikh Muhammad Ahmad al-Rasyid -->
+        <div class="tetralogi-summary-box">
+          <h4 style="margin:0 0 0.5rem 0; color:var(--gold-light); font-size:0.95rem;">📚 Harmonisasi 4 Karya Tetralogi Syeikh Muhammad Ahmad al-Rasyid:</h4>
+          <ul class="tetralogi-list">
+            <li><strong>Al-Muntalaq:</strong> Menetapkan titik mula kesedaran, memurnikan tauhid, dan membentuk minda dakwah komprehensif.</li>
+            <li><strong>Al-‘Awā’iq:</strong> Mengesan ranjau nafsu, halangan keperibadian, dan penyakit fitnah di jalan dakwah.</li>
+            <li><strong>Al-Raqā'iq:</strong> Menyiram roh pejuang dengan tazkiyah, ukhuwah, dan tawaduk demi mengelakkan ghuluw siasah.</li>
+            <li><strong>Al-Masār:</strong> Merangka seni bina perancangan, polisi pentadbiran, dan strategi peradaban watan.</li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="tarbiah-modal-footer">
+        <button class="tarbiah-modal-btn peradaban-close-footer-btn" id="btnPeradabanModalCloseFooter">Tutup &amp; Hayati Wawasan</button>
       </div>
     </div>
   </div>

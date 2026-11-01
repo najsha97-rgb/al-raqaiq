@@ -158,9 +158,14 @@ document.addEventListener('DOMContentLoaded', () => {
   const layerBtnHikmah = document.getElementById('btnLayerHikmah');
   const sidebarHikmahBtn = document.getElementById('sidebarHikmahBtn');
   const sidebarTarbiahBtn = document.getElementById('sidebarTarbiahBtn');
+  const sidebarPeradabanBtn = document.getElementById('sidebarPeradabanBtn');
+  const btnHeaderPeradaban = document.getElementById('btnHeaderPeradaban');
   const modalTarbiahSpotlight = document.getElementById('modalTarbiahSpotlight');
+  const modalPeradabanSpotlight = document.getElementById('modalPeradabanSpotlight');
   const btnCloseTarbiahModal = document.getElementById('btnCloseTarbiahModal');
+  const btnClosePeradabanModal = document.getElementById('btnClosePeradabanModal');
   const btnTarbiahModalCloseFooter = document.getElementById('btnTarbiahModalCloseFooter');
+  const btnPeradabanModalCloseFooter = document.getElementById('btnPeradabanModalCloseFooter');
   const themeToggleBtn = document.getElementById('themeToggleBtn');
   const fontDecBtn = document.getElementById('fontDecBtn');
   const fontIncBtn = document.getElementById('fontIncBtn');
@@ -1513,6 +1518,34 @@ document.addEventListener('DOMContentLoaded', () => {
   if (modalTarbiahSpotlight) {
     modalTarbiahSpotlight.addEventListener('click', (e) => {
       if (e.target === modalTarbiahSpotlight) toggleTarbiahModal(false);
+    });
+  }
+
+  // Open / Close Peradaban Spotlight Modal (Ummah Fadhilah & PBI)
+  function togglePeradabanModal(show) {
+    if (!modalPeradabanSpotlight) return;
+    modalPeradabanSpotlight.style.display = show ? 'flex' : 'none';
+    if (show && state.mobileNavOpen) {
+      toggleMobileNav(false);
+    }
+  }
+  window.openPeradabanModal = () => togglePeradabanModal(true);
+
+  if (sidebarPeradabanBtn) {
+    sidebarPeradabanBtn.addEventListener('click', () => togglePeradabanModal(true));
+  }
+  if (btnHeaderPeradaban) {
+    btnHeaderPeradaban.addEventListener('click', () => togglePeradabanModal(true));
+  }
+  if (btnClosePeradabanModal) {
+    btnClosePeradabanModal.addEventListener('click', () => togglePeradabanModal(false));
+  }
+  if (btnPeradabanModalCloseFooter) {
+    btnPeradabanModalCloseFooter.addEventListener('click', () => togglePeradabanModal(false));
+  }
+  if (modalPeradabanSpotlight) {
+    modalPeradabanSpotlight.addEventListener('click', (e) => {
+      if (e.target === modalPeradabanSpotlight) togglePeradabanModal(false);
     });
   }
 
