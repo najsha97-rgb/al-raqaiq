@@ -61,7 +61,15 @@
 * **Intisari Subtajuk:**
   * **• Bermula Langkah daripada Masjid:**
     * Masjid adalah titik tolak pembinaan masyarakat Islam dan pangkalan penyatuan fikrah harakiah; meneladani langkah Rasulullah SAW memulakan pembinaan Madinah dari masjid.
-    * Melazimi masjid menghimpunkan 8 kurniaan agung termasuk ilmu yang mantap, persaudaraan yang tulus, dan rahmat Allah.
+    * Melazimi masjid menghimpunkan 8 kurniaan agung menurut athar Al-Hasan bin Ali bin Abi Thalib RA:
+      1. **Ayat al-Quran yang kukuh hukumnya** (*āyah muḥkamah*).
+      2. **Sahabat yang memberi manfaat** (*akh mustafād*).
+      3. **Ilmu pengetahuan yang baharu** (*'ilm mustajad*).
+      4. **Rahmat yang dinanti-nantikan** (*raḥmah muntazharah*).
+      5. **Kalimah yang membimbing kepada petunjuk** (*kalimah tadulluh 'alā hudan*).
+      6. **Kalimah yang mencegah daripada kebinasaan** (*kalimah tarudduh 'an radan*).
+      7. **Meninggalkan dosa kerana dorongan rasa malu** (*tark al-żanb ḥayā'an*).
+      8. **Meninggalkan dosa kerana rasa takut kepada Allah SWT** (*tark al-żanb khasy-yatan*).
   * **• Solat, Zikir dan Tasbih:**
     * Amalan solat, zikir, dan tasbih merupakan bekal rohani paling utama bagi da'i dalam mengangkat kelemahan dan kefakiran dirinya di hadapan Allah.
     * Menghayati bait Abdullah bin al-Mubarak: merebut dua rakaat dan menukar kata-kata batil kepada tasbih, serta wasiat Hasan al-Banna tentang saat hening bermunajat harian.

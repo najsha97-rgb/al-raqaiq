@@ -120,7 +120,15 @@
 * **3. Implikasi Terhadap Saf Haraki:**  
   Dakwah terasing daripada denyut nadi masyarakat tempatan; saf kehilangan keberkatan dan kesatuan fikrah yang diasaskan di atas keikhlasan iktikaf di rumah Allah.
 * **4. Preskripsi Penawar (*Fiqh as-Sulūk*) & Petunjuk Salaf:**  
-  *Sunnah Sirah Nabawiah:* Meneladani Rasulullah SAW yang membina masjid terlebih dahulu sebelum mendirikan institusi masyarakat di Madinah. Menghayati athar Ali bin Abi Thalib RA bahawa orang yang melazimi masjid meraih 8 fadhilat agung termasuk ilmu yang mantap, saudara yang tulus kerana Allah, dan pemeliharaan daripada dosa.
+  *Sunnah Sirah Nabawiah:* Meneladani Rasulullah SAW yang membina masjid terlebih dahulu sebelum mendirikan institusi masyarakat di Madinah. Menghayati athar Al-Hasan bin Ali bin Abi Thalib RA bahawa orang yang melazimi masjid meraih 8 kurniaan agung:
+    1. **Ayat al-Quran yang kukuh hukumnya** (*āyah muḥkamah*).
+    2. **Sahabat yang memberi manfaat** (*akh mustafād*).
+    3. **Ilmu pengetahuan yang baharu** (*'ilm mustajad*).
+    4. **Rahmat yang dinanti-nantikan** (*raḥmah muntazharah*).
+    5. **Kalimah yang membimbing kepada petunjuk** (*kalimah tadulluh 'alā hudan*).
+    6. **Kalimah yang mencegah daripada kebinasaan** (*kalimah tarudduh 'an radan*).
+    7. **Meninggalkan dosa kerana dorongan rasa malu** (*tark al-żanb ḥayā'an*).
+    8. **Meninggalkan dosa kerana rasa takut kepada Allah SWT** (*tark al-żanb khasy-yatan*).
 
 ---
 

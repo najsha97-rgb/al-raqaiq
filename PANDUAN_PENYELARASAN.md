@@ -469,3 +469,24 @@ Telah ditetapkan bahawa terjemahan rasmi bagi judul-judul karya Syeikh Muhammad 
      - Klik butang `Ringkasan` pada peringkat bab (modal bab atau butang pil di menu sisi) akan membuka skop ringkasan penuh bab.
      - Klik pada mana-mana nama subtajuk semasa berada dalam mod ringkasan (atau butang *next/prev*) akan terus mengekalkan fokus pada ringkasan subtajuk tersebut.
   4. **PWA Cache:** Dinaik taraf ke **`v45`** (`alraqaiq-cache-v45-summary-scope`).
+
+
+### 46. Penyenaraian Lengkap 8 Kurniaan Melazimi Masjid (Athar Al-Hasan bin Ali RA) dalam Ringkasan Subtajuk Bab 1
+* **Latar Belakang:** Dalam ringkasan ilmiah dan Fiqh Haraki bagi Bab 1 Subtajuk 1 (*Bermula Langkah daripada Masjid*), fadhilat melazimi masjid sebelum ini dirumuskan secara umum (*"Melazimi masjid menghimpunkan 8 kurniaan agung termasuk ilmu yang mantap, persaudaraan yang tulus, dan rahmat Allah"*). Pengguna memohon agar kesemua 8 kurniaan tersebut disenaraikan secara terperinci dan lengkap.
+* **Ketetapan Penyelarasan:**
+  1. **Sumber Teks Asal & Athar:** Mengikut teks Bab 1 *al-Raqaiq* (athar al-Hasan bin Ali bin Abi Thalib RA riwayat Ibn Abi Syaibah dalam *al-Musannaf*, no. 3474 dan al-Baihaqi dalam *al-Sunan al-Kubra*, no. 4930):
+     1. **Ayat al-Quran yang kukuh hukumnya** (*āyah muḥkamah*).
+     2. **Sahabat yang memberi manfaat** (*akh mustafād*).
+     3. **Ilmu pengetahuan yang baharu** (*'ilm mustajad*).
+     4. **Rahmat yang dinanti-nantikan** (*raḥmah muntazharah*).
+     5. **Kalimah yang membimbing kepada petunjuk** (*kalimah tadulluh 'alā hudan*).
+     6. **Kalimah yang mencegah daripada kebinasaan** (*kalimah tarudduh 'an radan*).
+     7. **Meninggalkan dosa kerana dorongan rasa malu** (*tark al-żanb ḥayā'an*).
+     8. **Meninggalkan dosa kerana rasa takut kepada Allah SWT** (*tark al-żanb khasy-yatan*).
+  2. **Pengemaskinian 7 Lapisan:**
+     - `INTISARI_ILMIAH_LENGKAP_AL_RAQAIQ.md`: Penyenaraian lengkap 8 kurniaan dalam format bernombor di bawah Subtajuk 1 Bab 1.
+     - `INTISARI_SUBTOPIK_FIQH_HARAKI_AL_RAQAIQ.md`: Penyenaraian lengkap 8 kurniaan pada Preskripsi Penawar (Poin 4) Subtajuk 1 Bab 1.
+     - `scratch/build_canonical_82_ecosystem.py`: Penambahbaikan regex pemisah subtajuk (`r'^[\*\-]\s*\*\*[•\u2022]\s*(.*?):?\*\*:?\s*(.*)$'`) agar senarai bernombor di bawah subtajuk tidak disalah anggap sebagai tajuk subtajuk baharu, menjamin keseluruhan 8 kurniaan terpelihara rapi dalam `subtopic.summary`.
+     - `INTISARI_ILMIAH_LENGKAP_AL_RAQAIQ.docx` & `INTISARI_SUBTOPIK_FIQH_HARAKI_AL_RAQAIQ.docx`: Dijana semula dan dimirror ke semua repositori.
+     - Pangkalan data `alraqaiq_data.json` & `alraqaiq_data.js`: Mengandungi teks lengkap 8 kurniaan untuk paparan modal ringkasan subtajuk PWA.
+  3. **PWA Cache:** Dinaik taraf ke **`v47`** (`alraqaiq-cache-v47-8-kurniaan-masjid`).
