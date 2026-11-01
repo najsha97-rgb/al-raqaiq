@@ -15,6 +15,7 @@
   * **• Sebuah Lukisan Seni Lukisan Abstrak Islam:**
     * Mengupas empat elemen lukisan Nabawi: lembaga insan di tengah, kotak segi empat ajal maut yang mengepung, garisan angan-angan panjang menjulur keluar, dan anak-anak panah pelbagai rintangan penyakit/musibah yang sedia menerkam. Menjadi pencetus muhasabah ruhiyyah dan pemangkin tajdid niat sebelum melangkah masuk ke dalam taman rohani *Al-Raqā'iq*.
 
+    * 🔑 **Kunci Amal:** Jadikan seni dan metafora dakwah sebagai cermin yang melembutkan hati nurani sebelum memikul beban amanah ummah.
 ---
 
 ## 📌 MUKADIMAH: JIWA YANG BERIMAN
@@ -26,6 +27,7 @@
 * **Intisari Subtajuk:**
   * **• Pengenalan: Jiwa Yang Beriman:**
     * Kewajipan melahirkan tokoh pemikul dakwah yang mengemudi bahtera perjuangan bagi mengelakkan bahaya kebankrapan kader (pesanan Syeikh Abu al-Hasan al-Nadwi).
+    * 🔑 **Kunci Amal:** Mulakan setiap gerak kerja dakwah dengan penyucian jiwa (*tazkiyatun nafs*) agar langkah tidak tersadung oleh penyakit hati.
   * **• Firasat Meneliti Diri dan Neraca Tarbiah Harakiah:**
     * **Firasat Dalaman Mendahului Firasat Luaran:** Menuruti mutiara kata Samnun al-Muhibb, sesiapa yang celik meneliti aib dan kelemahan dirinya, firasatnya terhadap orang lain dan musuh akan menjadi tajam dan tepat.
     * **Keutamaan Amal (*Al-Mufadhalah*):** Mengelakkan tarbiah semberono; harakah mesti mendahulukan perkara yang paling mendesak mengikut tuntutan fasa perjuangan.
@@ -40,16 +42,21 @@
       8. Mencintai Allah SWT yang dikawal oleh rasa takut (*khawf*).
       9. Bersikap tegas memisahkan diri (*al-mufāṣalah*) daripada kekufuran dan nifak.
       10. Bersabar menempuh mehnah dan ujian.
+    * 🔑 **Kunci Amal:** Asah firasat iman melalui muhasabah harian yang teliti terhadap kecenderungan hawa nafsu dan kelemahan diri.
   * **• Ketenangan Jiwa dan Daya Lajakan Asal:**
     * Menghuraikan bait Ahmad al-Mukhtar al-Wazir tentang keindahan sifat jiwa beriman: *Sākinatun fī samtihā* (tenang dalam diam, lebih fasih berbicara daripada mereka yang berkata-kata) dan *Al-Munṭalaq* (daya lajakan asal yang segera menyegerakan kembali jika terhenti seketika). Jeda rehat bukanlah kelesuan, dan godaan syaitan tidak mampu memperdaya bashirah mukmin.
+    * 🔑 **Kunci Amal:** Pelihara momentum rohani awal hijrah dengan terus berpaut pada keheningan zikir dan tilawah al-Quran.
   * **• Kilauan Bayang di Permukaan Tasik:**
     * Drama alegori rama-rama yang berlegar di sekitar bayangannya di permukaan air: terpesona melihat kilauan bintang di kaki langit air, melayang merenung hingga hampir binasa lemas, namun diselamatkan oleh benteng keimanan (*Lākinna-hā mu'minatun, la tastahmiq*).
+    * 🔑 **Kunci Amal:** Jangan terpedaya dengan kilauan pujian duniawi yang fana; carilah keredaan Allah yang kekal abadi di lubuk keikhlasan.
   * **• Simpang Petunjuk dan Keperluan Amaran Pelembut Hati:**
     * Membezakan antara hakikat kebenaran dengan getaran fatamorgana riak air (*Baina adh-Dhalāl wa al-Hudā*). Kepentingan kitab *Al-Raqā'iq* sebagai loceng amaran sebelum jiwa tersungkur lemas ke lembah fitnah.
+    * 🔑 **Kunci Amal:** Peka terhadap amaran pelembut hati (*al-raqaiq*) tatkala berada di persimpangan jalan antara tuntutan dakwah dan godaan kerehatan.
   * **• Ketinggian Iman Mendepani Falsafah Bahimiah (Kehaiwanan):**
     * Menelanjangi kesesatan penyair ateis yang menyeru kepada kelazatan syahwat haiwani (*bahimiyyah*) dan mendakwa tanah kubur menyamakan orang dungu dan orang genius.
     * Hujah mantik Abu Sulaiman al-Sijistani (riwayat Abu Hayyan al-Tauhidi): bumi hanya membalut jasad dan bangkai kasar manusia, bukan membalut iman, tauhid, kezuhudan, ketaatan, dan makrifat mereka.
 
+    * 🔑 **Kunci Amal:** Angkat martabat kemanusiaan dengan cahaya iman dan tolak falsafah kebendaan yang merendahkan jiwa ke darjat kehaiwanan.
 ---
 
 ## 📌 BAB 1: TASBIH MENGUKUHKAN KERAJAAN
@@ -107,13 +114,16 @@
   * **• Tokoh-Tokoh Madrasah Malam:**
     * Gambaran qiamullail para pejuang Islam sepanjang zaman; bagaimana mereka membelah malam dengan tilawah, tangisan taubat, dan rintihan hajat.
     * Kemenangan dakwah bukan diukur pada banyaknya risalah dicetak, tetapi anugerah Allah yang diletakkan di tangan aktivis yang melazimi madrasah malam.
+    * 🔑 **Kunci Amal:** Teladani disiplin tokoh salaf yang sentiasa menghidupkan sepertiga malam dengan rukuk, sujud, dan titisan air mata taubat.
   * **• Menggapai Hasil Citra Madrasah Malam:**
     * Madrasah malam mengurniakan mutiara keikhlasan dan menelanjangi tipu daya angan-angan duniawi yang memperdayakan da'i ibarat sesumpah yang bertukar warna.
     * Menghayati bait syair *Yā laylu qiyāmuka madrasah*; qiamullail melahirkan jiwa yang hidup yang mampu memancarkan kesan tarbiah kepada hati insan lain.
+    * 🔑 **Kunci Amal:** Tuai hasil didikan madrasah malam dalam bentuk akhlak yang luhur, ketajaman bashirah, dan wibawa kepimpinan di siang hari.
   * **• Adakah Burung Merpati Mendahuluimu?:**
     * Refleksi mendalam daripada bait penyair: Malunya seorang da'i apabila burung merpati telah bangun bertasbih pada waktu fajar menyingsing, sedangkan manusia yang memikul risalah dakwah masih lena dibalut kehangatan selimut.
     * Bangun bertahajud menuntut pengorbanan hawa nafsu dan latihan mujahadah yang berterusan.
 
+    * 🔑 **Kunci Amal:** Bangun mendahului kicauan burung di waktu sahur untuk beristighfar dan bertasbih memuji kebesaran Allah SWT.
 ---
 
 ## 📌 BAB 3: PERMULAAN
@@ -126,16 +136,20 @@
   * **• Kejernihan Langkah Permulaan:**
     * Memulakan perjalanan dakwah dengan hati yang bersih daripada sebarang kepentingan peribadi.
     * Membina persepsi bahawa dakwah adalah medan memberi dan berkorban, bukan medan mengambil atau menuai faedah duniawi.
+    * 🔑 **Kunci Amal:** Tetapkan asas permulaan langkah dakwah di atas landasan akidah yang teguh dan niat yang bebas daripada kepentingan peribadi.
   * **• Niat yang Bebas Ikhlas:**
     * Niat yang tulus ikhlas (*al-niyyah al-hurrah*) adalah "ruh" bagi setiap gerak kerja; tanpa keikhlasan, amal sebesar gunung akan hancur menjadi debu berterbangan.
     * Mencontohi Umar bin Abdul Aziz yang tidak melangkah melainkan dengan niat kerana Allah, sehingga amalan kecil menjadi agung.
+    * 🔑 **Kunci Amal:** Bersihkan hati daripada segala bentuk syirik tersembunyi dan harapkan balasan pahala semata-mata di sisi Allah.
   * **• Kecelaruan Niat dan Jerangkap Angan-Angan Kosong:**
     * Percampuran niat mencetuskan kegelisahan batin dan kecelaruan hidup; jiwa yang tidak terurus tidak mampu memimpin perubahan di sekelilingnya.
     * Membezakan secara tegas antara niat yang benar dengan angan-angan kosong (*al-umniyyah*) yang melahirkan sikap bertangguh dan melemahkan disiplin amal.
+    * 🔑 **Kunci Amal:** Waspadai jerangkap riak dan angan-angan kosong yang mampu meleburkan pahala jihad puluhan tahun dalam sekelip mata.
   * **• Mengorak Langkah Mengharungi Kesukaran:**
     * Kesediaan mental dan rohani untuk menghadapi jalan dakwah yang sememangnya dipagari oleh kepayahan (*makārih*), cemuhan manusia, dan keletihan fizikal.
     * Sikap istiqamah adalah buah daripada permulaan yang sahih.
 
+    * 🔑 **Kunci Amal:** Bulatkan tekad dan tabah melangkah meredah mehnah serta duri perjuangan demi menegakkan kalimah Allah.
 ---
 
 ## 📌 BAB 4: MENUJU KEGEMBIRAAN AKHIRAT
@@ -147,27 +161,38 @@
 * **Intisari Subtajuk:**
   * **• Ketinggian Martabat... Harganya Ialah Keletihan:**
     * Kebahagiaan abadi tidak dapat diraih melalui keselesaan jasad; siapa yang inginkan kerehatan di akhirat mesti sanggup meletihkan dirinya di dunia.
+    * 🔑 **Kunci Amal:** Rela berpenat lelah dalam ketaatan kerana darjat kemuliaan di syurga tidak akan dicapai dengan bermalas-malasan.
   * **• Engkau Pemilik Iman:**
     * Iman yang mendalam memberikan daya tahan luar biasa kepada aktivis untuk mengharungi tekanan dan mehnah.
+    * 🔑 **Kunci Amal:** Sedari martabat agungmu sebagai pewaris iman yang dipertanggungjawabkan memimpin manusia ke jalan kebenaran.
   * **• Manusia yang Paling Penat Ialah yang Agung Tuntutan Cita-Citanya:**
     * Semakin tinggi himmah (cita-cita) seorang insan, semakin penat jasadnya memikul tuntutan jiwa tersebut.
+    * 🔑 **Kunci Amal:** Lapangkan dada menerima keletihan tugas dakwah kerana jiwa yang bercita-cita besar sanggup menanggung beban yang berat.
   * **• Engkau Insan Merdeka yang Mulia:**
     * Jiwa yang merdeka tidak sujud kepada kebendaan dan tidak tunduk kepada ugutan penguasa zalim.
+    * 🔑 **Kunci Amal:** Pertahankan kemerdekaan jiwa daripada menjadi hamba kepada hawa nafsu, pangkat, atau tekanan manusia.
   * **• Engkau Pemilik Matlamat:**
     * Matlamat yang jelas memandu da'i agar tidak terpesong oleh godaan remeh di tepi jalan.
+    * 🔑 **Kunci Amal:** Sedari martabat agungmu sebagai pewaris iman yang dipertanggungjawabkan memimpin manusia ke jalan kebenaran.
   * **• Engkau Penuntut Akses Menuju Allah:**
     * Mendekatkan diri kepada Allah melalui pintu-pintu ketaatan dan tawajuh yang ikhlas.
+    * 🔑 **Kunci Amal:** Rebut jalan kedekatan kepada Allah melalui amal soleh yang konsisten dan doa munajat yang berterusan.
   * **• Hakikat Ujian Kelalaian dan Jiwa yang Diwakafkan untuk Allah:**
     * Ujian terbesar pendakwah bukanlah mehnah penjara semata-mata, sebaliknya kelalaian; jiwa da'i adalah harta wakaf milik Allah Taala (*Waqfun Lillahi Ta'ala*) yang wajib sentiasa dinyalakan dengan api keprihatinan dakwah.
+    * 🔑 **Kunci Amal:** Wakafkan jiwa dan raga untuk perjuangan Islam dan lawan segala godaan kelalaian yang mencuri waktu produktifmu.
   * **• Bahaya Kerehatan dan Kewaspadaan daripada Lena Kelalaian:**
     * Kerehatan bagi pejuang merupakan satu kelalaian; kerehatan fizikal dan perkara mubah hanya diambil sekadar memulihkan kesegaran jasad untuk kembali beramal dan berwaspada di benteng dakwah.
+    * 🔑 **Kunci Amal:** Bangkit daripada tidur kelalaian dan sentiasa berwaspada terhadap tipu daya kerehatan yang melumpuhkan himmah.
   * **• Fitnah Ketamadunan Moden dan Neraca Masa Imam Hasan al-Banna:**
     * Ketamadunan moden memudahkan limpahan fitnah syahwat dan kelalaian; da'i wajib menghayati neraca Imam Hasan al-Banna bahawa *"Masa itu ialah Kehidupan"* dan merancang setiap detik untuk ketaatan.
+    * 🔑 **Kunci Amal:** Praktikkan neraca waktu Imam Hasan al-Banna: 'Kewajipan kita jauh lebih banyak daripada waktu yang ada!'
   * **• Keteladanan Imam Ahmad Menanggalkan Kerehatan dalam Mehnah:**
     * Maruah pejuang menuntut penanggalan kerehatan; mencontohi ketabahan Imam Ahmad yang mencurahkan segenap tenaga keupayaan (*badzaltu majhūdī*) sehingga keletihan fizikal bertukar menjadi kelazatan rohani.
+    * 🔑 **Kunci Amal:** Teladani keteguhan Imam Ahmad bin Hanbal yang menanggalkan kerehatan jasad demi mempertahankan kesucian akidah Islam.
   * **• Kerehatan Hakiki pada Langkah Pertama Menjejak Syurga:**
     * Kerehatan sejati bagi da'i bukanlah di atas tilam dunia, melainkan tatkala kaki pertama melangkah masuk ke dalam Syurga; fajar ganjaran pahala meringankan segala beban taklif.
 
+    * 🔑 **Kunci Amal:** Bersabarlah mengharungi kepenatan dunia kerana kerehatan hakiki seorang mukmin hanyalah tatkala kaki pertama melangkah ke dalam syurga.
 ---
 
 ## 📌 BAB 5: PERSAUDARAAN SYIAR DAKWAH KITA
@@ -179,22 +204,40 @@
 * **Intisari Subtajuk:**
   * **• Ketakwaan Terlebih Dahulu:**
     * Persaudaraan yang hakiki tidak akan tegak melainkan di atas paksi takwa; ikatan tanpa takwa akan bertukar menjadi permusuhan di akhirat.
+    * 🔑 **Kunci Amal:** Asaskan persaudaraan di atas paksi takwa kepada Allah, bukan atas dasar kepentingan peribadi atau sentimen asabiah.
   * **• Kita Mengiringinya dengan Persaudaraan...:**
     * Mengintegrasikan hubungan ukhuwwah dengan amalan ibadah malam dan zikir bersama.
+    * 🔑 **Kunci Amal:** Suburkan kasih sayang kerana Allah dan tautkan hati-hati para pendakwah melalui ziarah, doa rabitah, dan tolong-menolong.
   * **• Ikatan Perjanjian Persaudaraan:**
     * Menjaga hak-hak persaudaraan seperti menjaga amanah akidah.
+    * 🔑 **Kunci Amal:** Pelihara kesucian janji setia ukhuwah dan jangan sesekali mengkhianati amanah sahabat seperjuangan.
   * **• Neraca Persahabatan:**
     * Menilai sahabat berdasarkan ketaatan mereka kepada syariat, bukan kepentingan material.
-  * **• Enam Sifat Rabbani Sahabat Sejati:**
-    1. *Pertuturan yang baik:* Berbicara dengan perkataan yang menyejukkan hati.
-    2. *Mengangkat beban kepura-puraan (takalluf):* Hubungan yang tulus, bersahaja, dan tiada rasa kekok.
-    3. *Meninggalkan kehinaan dinar dan dirham:* Bebas daripada sifat tamak dan berkira harta.
-    4. *Saling mengingatkan tentang akhirat:* Pertemuan yang sentiasa menghidupkan jiwa.
-    5. *Mengutamakan orang lain (al-i'tsār):* Sedia berkorban demi saudara seakidah.
-    6. *Sedia mencurahkan nasihat:* Menegur dengan kasih sayang dan adab.
-  * **• Penyakit-penyakit Majlis & Memperbesarkan Kesilapan Kecil:**
+    * 🔑 **Kunci Amal:** Nilai persahabatan dengan neraca akhirat: pilihlah sahabat yang mengingatkanmu kepada Allah tatkala engkau lalai.
+  * **• Sifat Pertama: Pertuturan yang Baik:**
+    * Berbicara dengan perkataan yang menyejukkan hati, memancarkan adab Islam, dan mengelakkan ucapan kasar atau sindiran.
+    * 🔑 **Kunci Amal:** Lazimi ucapan yang lemah-lembut, kata-kata yang membina, dan jauhi sindiran yang melukakan hati saudara.
+  * **• Sifat Kedua: Mengangkat Beban Kepura-puraan (Takalluf):**
+    * Hubungan persaudaraan yang tulus, bersahaja, apa adanya, dan bebas daripada beban formaliti yang melemaskan ukhuwah.
+    * 🔑 **Kunci Amal:** Buang sikap berpura-pura dan bergaullah dengan saudara seiman secara tulus, sederhana, dan ikhlas.
+  * **• Sifat Ketiga: Meninggalkan Lembah Kehinaan Dinar dan Dirham:**
+    * Membersihkan hubungan persaudaraan daripada sifat tamak, berkira harta, dan mengharapkan balasan kebendaan duniawi.
+    * 🔑 **Kunci Amal:** Pelihara maruah dan izzah peribadi bersama saudara tanpa menjatuhkan diri ke lembah meminta-minta atau mengharap habuan dunia.
+  * **• Sifat Keempat: Saling Mengingatkan tentang Akhirat:**
+    * Pertemuan yang sentiasa menghidupkan jiwa, merindui syurga, dan memperbaharui komitmen perjuangan Islam.
+    * 🔑 **Kunci Amal:** Hidupkan suasana muzakarah akhirat dalam setiap pertemuan agar hati sentiasa rindu kepada pertemuan dengan Allah.
+  * **• Sifat Kelima: Mengutamakan Orang Lain (al-I'tsar):**
+    * Sedia berkorban masa, tenaga, dan harta demi mendahulukan keperluan saudara seakidah melebihi diri sendiri.
+    * 🔑 **Kunci Amal:** Amalkan sifat itsar dengan mendahulukan keperluan saudara melebihi diri sendiri demi mengharap keredaan Allah.
+  * **• Sifat Keenam: Sedia Mencurahkan Nasihat:**
+    * Menegur dengan penuh kasih sayang, keikhlasan, dan adab tanpa berniat memalukan atau menjatuhkan maruah saudara.
+    * 🔑 **Kunci Amal:** Sampaikan nasihat secara berhemah dan berlapang dada menerima teguran ikhlas daripada sahabat saf.
+  * **• Penyakit-penyakit Majlis:**
     * Bahaya mengumpat, berdebat kusir, mencari aib saudara, serta bersikap sinis yang meruntuhkan mahabbah dalam jemaah.
-
+    * 🔑 **Kunci Amal:** Pelihara majlis perjumpaan daripada umpatan, perdebatan sia-sia, dan senda gurau yang mematikan hati.
+  * **• Seseorang Berasa Hairan dengan Kesalahan Kecil Saudaranya:**
+    * Penyakit membesar-besarkan kesilapan kecil sahabat sambil menutup mata daripada kebaikan besar yang telah dicurahkannya.
+    * 🔑 **Kunci Amal:** Tutup aib saudara dan jangan membesar-besarkan kesilapan kecil; sibukkan diri dengan membaiki keaiban peribadi.
 ---
 
 ## 📌 BAB 6: POHON-POHON KEIMANAN
@@ -260,17 +303,23 @@
 * **Intisari Subtajuk:**
   * **• Keagungan Perkara yang Disaksikan: Dalil Perkara Ghaib:**
     * Memerhatikan kematian orang lain sebagai bukti nyata bahawa giliran kita pasti akan tiba.
+    * 🔑 **Kunci Amal:** Ambil iktibar daripada pemergian orang-orang terdahulu sebagai bukti nyata bahawa giliran kita pasti tiba.
   * **• Lukisan daripada Seni Kesenian Islam:**
     * Menghayati hadis garisan Nabi SAW di atas pasir: kotak yang mengepung manusia, cita-cita yang menjulur keluar, dan ajal yang memintas tiba-tiba.
+    * 🔑 **Kunci Amal:** Hayati garisan Nabi SAW di atas pasir: sedarilah bahawa ajal sentiasa memintas angan-angan manusia sebelum ia sempat digapai.
   * **• Puisi Bebas Syeikh al-Rasyid:**
     * *"Maka penantiannya yang indah itu akhirnya bertukar menjadi keresahan yang mencengkam; naungannya yang rendang semakin mengecut; cita-citanya yang menjangkau lembah dan padang pasir tidak akan mampu melangkau apa yang telah ditakdirkan untuknya..."*
+    * 🔑 **Kunci Amal:** Hayati rintihan puisi para pejuang agar kelembutan rasa membuahkan keinsafan yang mendalam terhadap fana dunia.
   * **• Pandangan yang Menjangkau Jauh:**
     * Menembusi tirai masa kini untuk melihat hakikat kubur dan kebangkitan semula.
+    * 🔑 **Kunci Amal:** Luaskan pandangan melangkaui batas duniawi menuju ke alam barzakh dan mahsyar agar jiwa tidak terpaut pada perhiasan fana.
   * **• Melupakan Kematian Permulaan Penyelewengan:**
     * Apabila rasa takut kepada kematian pudar, da'i mula berundur ke belakang dan mencari kompromi dengan kebatilan.
+    * 🔑 **Kunci Amal:** Tetapkan asas permulaan langkah dakwah di atas landasan akidah yang teguh dan niat yang bebas daripada kepentingan peribadi.
   * **• Menghidupkan Umat dengan Mengingati Kematian:**
     * Ingatan maut bukanlah keputusasaan, tetapi suntikan keberanian untuk menjual diri demi syurga Allah.
 
+    * 🔑 **Kunci Amal:** Hidupkan roh pengorbanan umat dengan menanam kesedaran tentang hakikat kematian dan hisab yang menanti.
 ---
 
 ## 📌 BAB 8: "KUBUR-KUBUR" KITA YANG KAKU
@@ -284,15 +333,20 @@
     1. Orang yang mengejar dunia sedangkan maut giat memburunya.
     2. Orang yang lalai sedangkan Allah tidak pernah lalai terhadapnya.
     3. Orang yang ketawa terbahak-bahak sedangkan dia tidak tahu adakah Tuhannya reda atau murka kepadanya.
+    * 🔑 **Kunci Amal:** Insafi tiga kelalaian manusia menurut Abu al-Darda' RA: memburu dunia sedang mati mengejarnya, lalai sedang dia tidak dilalaikan, dan tertawa sedang dia tidak tahu Tuhannya reda atau murka.
   * **• Hari Penuaian:**
     * Saat kematian tiba menuai nyawa manusia laksana sabit menuai tanaman yang telah masak; tiada penangguhan walau sesaat.
+    * 🔑 **Kunci Amal:** Semai benih amal kebajikan sebanyak-banyaknya di dunia hari ini kerana esok di akhirat adalah hari menuai balasan.
   * **• Kemudian Hari Tidur yang Panjang:**
     * Tempoh penantian alam barzakh di bawah timbunan tanah, menunggu tiupan sangkakala.
+    * 🔑 **Kunci Amal:** Terangi kegelapan tidur panjang di alam kubur dengan cahaya sedekah jariah, ilmu bermanfaat, dan amal soleh.
   * **• Hisab dan Kitab Amalan:**
     * Lembaran amalan yang dibentangkan tanpa ada satu kejahatan atau kebaikan kecil pun yang tertinggal.
+    * 🔑 **Kunci Amal:** Hisablah dirimu sebelum kamu dihisab di hadapan Allah dan hiasi lembaran kitab amalanmu dengan istighfar.
   * **• Tiada Selepas Ini Melainkan Menyingsing Lengan Baju:**
     * Kesedaran bahawa waktu untuk beramal adalah sangat singkat; menyeru para da'i untuk segera bangkit menyingsing lengan berkhidmat untuk Islam.
 
+    * 🔑 **Kunci Amal:** Singkaplah lengan baju untuk bekerja dan berjihad bagi agama Allah; tiada lagi masa untuk bermalas-malas dan berlengah.
 ---
 
 ## 📌 BAB 9: SEKOLAH-SEKOLAH KEMATIAN
@@ -304,17 +358,23 @@
 * **Intisari Subtajuk:**
   * **• Madrasah Kufah Meneruskan Peringatan:**
     * Dipimpin oleh sahabat agung Abdullah bin Mas'ud RA dan murid-muridnya (seperti Al-Rabi' bin Khutsaim yang menggali kubur di dalam rumahnya untuk mengingati maut).
+    * 🔑 **Kunci Amal:** Ambil pengajaran daripada ketajaman peringatan ulama Kufah yang sentiasa mengingatkan tentang kedahsyatan sakaratul maut.
   * **• Muncullah Umar bin Abdul Aziz di Syam:**
     * Khalifah Umar bin Abdul Aziz mentarbiah para gabenor dan tenteranya dengan peringatan maut, meruntuhkan keangkuhan kuasa dan mengalirkan air mata keinsafan.
+    * 🔑 **Kunci Amal:** Teladani zuhud dan takutnya Khalifah Umar bin Abdul Aziz kepada Allah di sebalik takhta kekuasaan empayar Islam.
   * **• Madrasah Basrah Menyokong:**
     * Al-Hasan al-Basri memimpin gelombang zuhud di Basrah; kata-katanya laksana panah yang merobek kelalaian hati para pembesar dan pedagang.
+    * 🔑 **Kunci Amal:** Hidupkan kepekaan rohani Madrasah Basrah dengan membasahi mata meratapi dosa dan kekurangan diri.
   * **• Neraca Hasan al-Basri dalam Fiqh Dakwah:**
     * Mengimbangi antara tuntutan mencari rezeki dengan penumpuan jiwa kepada dakwah; dunia di tangan, akhirat di hati.
+    * 🔑 **Kunci Amal:** Praktikkan neraca Hasan al-Basri: anggaplah setiap hari yang dilalui adalah harimu yang terakhir di atas muka bumi.
   * **• Madrasah Baghdad Cenderung kepada Kesederhanaan:**
     * Dipelopori oleh Imam Ahmad bin Hanbal dan para muhaddisin; kesederhanaan hidup yang menewaskan fitnah kemewahan khalifah Abbasiyyah.
+    * 🔑 **Kunci Amal:** Amalkan kesederhanaan dalam urusan kehidupan duniawi agar beban hisab menjadi ringan di mahkamah Ilahi.
   * **• Tarbiah Melalui Pengakuan & Selepas Itu...:**
     * Muhasabah harian secara jujur dan berterusan; pengakuan terhadap kelemahan diri di hadapan Allah melahirkan kekuatan luar biasa di medan masyarakat.
 
+    * 🔑 **Kunci Amal:** Akui segala kelemahan dan dosa di hadapan Allah dengan taubat nasuha tanpa cuba membela diri.
 ---
 
 ## 📌 BAB 10: TIDAK.. WAHAI BELENGGU-BELENGGU BUMI!
@@ -326,15 +386,20 @@
 * **Intisari Subtajuk:**
   * **• Menolak Keluhan Pasif dan Menyahut Seruan Himmah:**
     * Membongkar hakikat bahawa kesedihan dan rintihan pasif melihat kemunduran umat langsung tidak memberi manfaat jika tidak diiringi dengan tindakan pembetulan (*istidrāk*). Menyahut seruan Syeikh Abdul Qadir al-Kailani agar bangkit melangkah bersama para pemilik himmah yang tinggi.
+    * 🔑 **Kunci Amal:** Tolak keluhan malas dan sahut seruan jihad serta himmah tinggi untuk mengangkat martabat ummah.
   * **• Memecahkan Belenggu Syahwat dan Tarikan Kerehatan:**
     * Mendedahkan muslihat nafsu yang memanjakan diri dengan kerehatan, tuntutan anak isteri, dan kemewahan yang mengikat jiwa. Da'i sejati membebaskan hatinya daripada belenggu syahwat dan bersedia menempuh jalan pengorbanan tanpa rasa takut.
+    * 🔑 **Kunci Amal:** Pecahkan rantai syahwat dan tarikan tilam empuk demi menyahut panggilan pengorbanan di medan amal.
   * **• Kemuliaan Darjat Melalui Ilmu, Jihad, dan Cita-Cita Helang:**
     * Mengupas empat ayat al-Quran tentang pengangkatan darjat (*al-darajāt al-'ulā*) yang berpaksi kepada ilmu dan jihad. Membina cita-cita tinggi ibarat burung helang yang menolak untuk turun ke tanah tandus, serta menghayati wasiat ketenteraan Imam Hasan al-Banna.
+    * 🔑 **Kunci Amal:** Terbanglah tinggi laksana burung helang dengan sayap ilmu dan jihad, jangan biarkan dirimu terperangkap mematuk bangkai duniawi.
   * **• Mengutamakan Akhirat daripada Harta dan Keselesaan:**
     * Memaparkan teladan Mus'ab bin Umair RA yang meninggalkan kekayaan Makkah demi memeluk Islam, serta para sahabat yang menjual perniagaan mereka demi membeli syurga.
+    * 🔑 **Kunci Amal:** Amalkan sifat itsar dengan mendahulukan keperluan saudara melebihi diri sendiri demi mengharap keredaan Allah.
   * **• Selepas Itu...:**
     * Da'i yang berjaya melepaskan diri daripada belenggu bumi akan merasai kelapangan jiwa yang luar biasa; langkahnya menjadi ringan dan kata-katanya memiliki wibawa yang menggetarkan musuh.
 
+    * 🔑 **Kunci Amal:** Akui segala kelemahan dan dosa di hadapan Allah dengan taubat nasuha tanpa cuba membela diri.
 ---
 
 ## 📌 BAB 11: HAMBA YANG MERDEKA
@@ -348,27 +413,34 @@
     * Jiwa yang bangkit dengan keazaman tinggi (*al-himam al-'āliyah*) menyempurnakan kebangkitannya dengan pemisahan prinsip (*tamayyuz*).
     * Empat rukun tasawur Sayyid Qutb: Kewarganegaraan = akidah, Tanah air = Dar al-Islam, Pemerintah = Allah, Perlembagaan = al-Quran; bersih daripada syirik bangsa, kaum, dan tanah air.
     * Surah Ghafir: 14 menegaskan tiada titik pertemuan antara iman dan kufur, menuntut da'i berpegang teguh tanpa mengharapkan keredaan orang kafir.
+    * 🔑 **Kunci Amal:** Pertahankan ketulenan tasawur Islam tanpa mencampur-adukkan hakikat iman dengan fahaman sesat moden.
   * **• Pemisahan Nabawi dan Tarbiah Keluhuran Iman:**
     * Pemisahan era Mekah dan Madinah adalah hakikat keimanan dan nikmat ketuhanan.
     * Menghayati hadis Sahih Muslim ketika solat Isyak lewat malam: *"Bergembiralah kamu! Sesungguhnya antara nikmat Allah ke atas kamu ialah tiada seorang pun dalam kalangan manusia yang menunaikan solat pada saat ini melainkan kamu!"*
     * Mentarbiah jiwa da'i dengan makna keluhuran (*al-isti'lā'*) mencabar kebatilan di sekelilingnya walau dalam jumlah minoriti.
+    * 🔑 **Kunci Amal:** Teladani pemisahan tegas Nabi SAW terhadap jahiliah Makkah demi memelihara keluhuran akidah para sahabat.
   * **• Barisan Pelopor dan Hakikat Pembebasan Syahadah:**
     * Barisan pelopor (*ṭalī'ah islāmiah*) yang mengamalkan pemisahan prinsip di satu pihak dan pergaulan dakwah di pihak yang lain.
     * Hakikat syahadah adalah tindakan melepaskan diri (*al-inkhilā'*) daripada nilai, kepimpinan, dan perlembagaan jahiliah menuju kesetiaan mutlak kepada jemaah Islam.
     * Madinah menjadi mercu tanda bercahaya dan pelindung bagi jiwa yang mencari kebenaran.
+    * 🔑 **Kunci Amal:** Hayati kalimah Tauhid sebagai pembebasan mutlak daripada perhambaan kepada sesama manusia menuju perhambaan hanya kepada Allah.
   * **• Pemisahan Kedua: Mematikan Kebatilan dengan Memulaukannya:**
     * Keperluan pemisahan kedua terhadap sisa kemunafikan dan dorongan hawa nafsu selepas tertegaknya kemenangan Islam.
     * Wasiat Umar bin al-Khattab RA: *"Sesungguhnya Allah memiliki hamba-hamba yang mematikan kebatilan dengan meninggalkannya (hajrihi), dan menghidupkan kebenaran dengan menyebutnya!"*
     * Membentengi masyarakat agar peredaran zaman tidak mengubah kebatilan menjadi kebenaran palsu.
+    * 🔑 **Kunci Amal:** Matikan kebatilan dengan memulaukannya dan jangan sesekali memberi ruang atau sokongan kepada agenda kerosakan.
   * **• Da'i sebagai Model Teladan yang Merdeka:**
     * Di tengah ketiadaan model pemerintahan Islam hari ini, keagungan Islam terjelma pada peribadi-peribadi pendakwah yang memiliki keikhlasan total (*tajarrud*) dan mengikut Sunnah.
     * Hakikat teladan Islam (*al-qudwah al-islāmiah*): peribadi yang merdeka dalam fikiran, akidah, dan amal; memancarkan ketenangan dan wibawa sebagai bukti keunggulan tarbiah Islam.
+    * 🔑 **Kunci Amal:** Jadilah model teladan da'i yang merdeka jiwanya, berani menyatakan kebenaran dan tidak tunduk kepada ugutan taghut.
   * **• Izzah Seorang Mukmin Berdepan Penguasa Dunia:**
     * Menyorot keberanian para ulama salaf (seperti Sa'id bin al-Musayyab dan Sa'id bin Jubair) yang berdiri teguh tanpa gentar di hadapan al-Hajjaj bin Yusuf dan raja-raja Bani Umayyah.
     * Kematian di jalan Allah adalah kemuncak kemerdekaan jiwa.
+    * 🔑 **Kunci Amal:** Menzahirkan izzah keimanan dengan penuh keberanian di hadapan penguasa yang zalim tanpa gentar kehilangan nyawa atau kedudukan.
   * **• Kemanisan Ketaatan Hakiki:**
     * Ketaatan kepada syariat bukanlah bebanan yang menyeksa, sebaliknya ia adalah sumber kelazatan rohani yang tidak dapat ditandingi oleh mana-mana kenikmatan duniawi.
 
+    * 🔑 **Kunci Amal:** Rasai kemanisan iman yang hakiki tatkala seluruh hidup, mati, solat, dan ibadahmu diserahkan bulat-bulat kepada Allah SWT.
 ---
 
 ## 📌 BAB 12: KISAH-KISAH "HIBURAN" PARA DA'I
@@ -380,31 +452,44 @@
 * **Intisari Subtajuk:**
   * **• Kemuliaan dalam Kehidupan...:**
     * Da'i hidup dengan kebebasan yang mematahkan belenggu syahwat dan harapan yang membakar keyakinan kemenangan.
+    * 🔑 **Kunci Amal:** Terbanglah tinggi laksana burung helang dengan sayap ilmu dan jihad, jangan biarkan dirimu terperangkap mematuk bangkai duniawi.
   * **• Berdakwah Siang dan Malam:**
     * Meneladani Nabi Nuh AS yang berdakwah tanpa henti malam dan siang, rahsia mahupun terang-terangan.
+    * 🔑 **Kunci Amal:** Teladani para rasul yang tidak pernah jemu menyampaikan risalah Islam pada setiap saat, baik siang mahupun malam.
   * **• Berdakwah Ketika Langkah-Langkah Hijrah:**
     * Nabi SAW tidak pernah lalai daripada berdakwah walau ketika diburu musuh dalam perjalanan hijrah (mengislamkan Buraidah al-Aslami).
+    * 🔑 **Kunci Amal:** Jadikan setiap langkah perjalanan dan musafir hidup sebagai peluang emas untuk mengajak manusia kepada kebaikan.
   * **• Berdakwah di dalam Penjara:**
     * Nabi Yusuf AS segera merebut peluang mentauhidkan dua penghuni penjara sebelum mentafsirkan mimpi mereka.
+    * 🔑 **Kunci Amal:** Tukarkan bilik tahanan atau kepungan mehnah menjadi madrasah dakwah yang memancarkan cahaya hidayah.
   * **• Petunjuk Menghalang Rasa Mengantuk:**
     * Abu Bakar al-Siddiq RA tidak pernah lena sehingga bermimpi kerana memikul beban riddah dan kedaulatan negara Islam.
+    * 🔑 **Kunci Amal:** Lawan rasa mengantuk dan lesu dengan kesedaran bahawa amanah dakwah menuntut kewaspadaan mata dan hati.
   * **• Debu... !:**
     * Abdullah bin Abbas RA tidur di hadapan pintu rumah sahabat demi menuntut hadis sehingga diselubungi debu angin panas.
+    * 🔑 **Kunci Amal:** Bergembiralah dengan debu-debu yang melekat di pakaian dan wajahmu di jalan Allah kerana ia menjadi perisai daripada api neraka.
   * **• Kegemaran Mengangkat Beban yang Berat:**
     * Kabilah al-Nakha' dalam perang al-Qadisiyyah berlumba-lumba memikul beban pertempuran paling sukar.
+    * 🔑 **Kunci Amal:** Bersedialah memikul tugasan dakwah yang paling berat dan sukar sebagaimana kegemaran para pahlawan kabilah an-Nakha'.
   * **• Kubu Tarbiah al-Asadiah:**
     * Abu Wa'il Syaqiq membina kubu sempit di Kufah hanya untuk dirinya, kudanya dan senjatanya demi bersiap sedia untuk jihad.
+    * 🔑 **Kunci Amal:** Bina benteng tarbiah peribadi yang kukuh agar dirimu sentiasa bersiap siaga tatkala seruan jihad dilaungkan.
   * **• Lenyaplah Waktu Terluang... !:**
     * Umar bin Abdul Aziz menolak pelawaan rakan lamanya untuk berehat dengan lafaz: *"Di manakah lagi adanya waktu terluang? Lenyaplah waktu terluang, maka tiada lagi masa lapang melainkan di sisi Allah!"*
+    * 🔑 **Kunci Amal:** Ingati jeritan Umar bin Abdul Aziz: 'Lenyaplah waktu terluang!' Tiada lagi masa berehat melainkan di syurga Allah.
   * **• Al-Kausaj Menjelajah Mencari Ilmu dengan Berjalan Kaki:**
     * Al-Kausaj berjalan kaki dari Khurasan ke Baghdad demi mengesahkan masalah fiqh di hadapan Imam Ahmad.
+    * 🔑 **Kunci Amal:** Tabah menuntut ilmu dakwah dan bersedia berkorban tenaga serta wang ringgit demi mendalami kefahaman syariat.
   * **• Ulama Mazhab Hanbali Memelihara Keterampilan dan Wibawa:**
     * Ibnu Aqil tidak mensia-siakan walau sesaat, berfikir tentang dakwah tatkala berbaring; Muhammad bin Ahmad al-Dabbahi yang memancarkan tanda kesungguhan pada raut wajahnya.
+    * 🔑 **Kunci Amal:** Pelihara keterampilan, kerapian penampilan, dan wibawa da'i agar dakwah Islam dihormati dan dipandang tinggi.
   * **• Sahabat-Sahabat Imam al-Banna Memperbaharui Jejak Ini:**
     * Berjaga malam, bekerja dari asar hingga tengah malam, dan mendermakan gaji bulanan untuk tanzim dakwah.
+    * 🔑 **Kunci Amal:** Perbaharui keazaman dan setia melangkah di atas jejak para perintis dakwah tanpa goyah atau berpaling tadah.
   * **• Kemuliaan Tatkala Saat Kematian... !:**
     * Kisah Abu Safwan al-Dabbagh di Iraq (1952 M) yang memperbaharui baiah di atas katil hospital sejurus sebelum menghembuskan nafas terakhir.
 
+    * 🔑 **Kunci Amal:** Kejarlah husnul khatimah dengan menghembuskan nafas terakhir dalam keadaan teguh berbaiah dan beramal di jalan Allah.
 ---
 
 ## 📌 KHATIMAH: NANTIKANLAH KITAB «AL-BAWARIQ»

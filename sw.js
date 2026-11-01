@@ -1,4 +1,4 @@
-const CACHE_NAME = 'alraqaiq-cache-v51-bab6-nav-fix';
+const CACHE_NAME = 'alraqaiq-cache-v52-kunci-amal-101';
 const ASSETS_TO_CACHE = [
   './',
   './index.html',

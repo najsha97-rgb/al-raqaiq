@@ -531,3 +531,16 @@ Telah ditetapkan bahawa terjemahan rasmi bagi judul-judul karya Syeikh Muhammad 
   3. Mengemaskini fungsi butang navigasi kaki (`btnPrevSubSummary` & `btnNextSubSummary`) kepada `navigateTo(...)` bagi memastikan menu sisi dan paparan kandungan sentiasa berpindah secara serentak dan lancar.
   4. Membetulkan butang pintas `btnJumpToFullText` agar menukar mod ke `state.layer = 'layer1'` (Versi Penuh) dengan tepat.
 * **PWA Cache:** Dinaik taraf ke **`v51`** (`alraqaiq-cache-v51-bab6-nav-fix`).
+
+
+### 50. Pelengkapan 100% Kunci Amal Haraki Bagi Kesemua 101 Subtajuk Kitab Al-Raqā'iq
+* **Latar Belakang:** Selaras dengan saranan pengguna dan visi dakwah Syeikh Muhammad Ahmad al-Rasyid bahawa kefahaman fiqh tarbiah mesti membuahkan amal nyata (*al-amal wa al-istiqamah*), ciri **🔑 Kunci Amal** telah diperluaskan secara menyeluruh ke atas setiap satu daripada 101 subtajuk kanonikal kitab *Al-Raqā'iq*.
+* **Status Pelaksanaan:**
+  1. **Liputan 100% (101/101 Subtajuk):** Bermula dari Epigraf Pembuka (*Sebuah Lukisan Seni Lukisan Abstrak Islam*), Mukadimah (6 subtajuk), Bab 1 hingga Bab 12 (94 subtajuk), kesemua 101 subtajuk kini diperlengkapkan dengan resolusi tindakan haraki khusus `🔑 Kunci Amal`.
+  2. **Penyelarasan Merentas Sumber Data:**
+     - `INTISARI_ILMIAH_LENGKAP_AL_RAQAIQ.md`: 101 entri Kunci Amal telah direkodkan.
+     - `scratch/build_canonical_82_ecosystem.py`: Memuatkan kanonikal data secara padu dan menjana `alraqaiq_data.json` serta `alraqaiq_data.js` tanpa sebarang subtajuk tertinggal (`TOTAL: 101, WITH KUNCI AMAL: 101/101, MISSING: 0`).
+     - Dokumen rasmi `.docx` (`INTISARI_ILMIAH_LENGKAP_AL_RAQAIQ.docx` dan `INTISARI_SUBTOPIK_FIQH_HARAKI_AL_RAQAIQ.docx`) telah dijana semula dan diselaras ke repositori bot.
+  3. **Visual PWA:** Setiap subtajuk dalam mod Ringkasan kini mempamerkan kad seruan eksklusif bersempadan emas-zamrud `summary-kunci-amal-box` yang menyuntik azam amali da'i sebaik sahaja menelaah intisari.
+* **PWA Cache:** Dinaik taraf ke **`v52`** (`alraqaiq-cache-v52-kunci-amal-101`).
+
