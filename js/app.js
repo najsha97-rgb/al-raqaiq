@@ -996,8 +996,10 @@ document.addEventListener('DOMContentLoaded', () => {
       if (btnJump) {
         btnJump.addEventListener('click', (e) => {
           e.preventDefault();
-          state.viewMode = 'full';
-          localStorage.setItem('alraqaiq_view_mode', 'full');
+          state.layer = 'layer1';
+          localStorage.setItem('alraqaiq_layer', 'layer1');
+          if (layerBtnLengkap) layerBtnLengkap.classList.add('active');
+          if (layerBtnRingkasan) layerBtnRingkasan.classList.remove('active');
           renderContent();
           window.scrollTo({ top: 0, behavior: 'smooth' });
         });
@@ -1006,18 +1008,14 @@ document.addEventListener('DOMContentLoaded', () => {
       if (btnPrevSub && state.currentSubtopic > 0) {
         btnPrevSub.addEventListener('click', (e) => {
           e.preventDefault();
-          state.currentSubtopic--;
-          renderContent();
-          window.scrollTo({ top: 0, behavior: 'smooth' });
+          navigateTo(state.currentChapter, state.currentSubtopic - 1);
         });
       }
       const btnNextSub = summaryBox.querySelector('#btnNextSubSummary');
       if (btnNextSub && state.currentSubtopic < ch.subtopics.length - 1) {
         btnNextSub.addEventListener('click', (e) => {
           e.preventDefault();
-          state.currentSubtopic++;
-          renderContent();
-          window.scrollTo({ top: 0, behavior: 'smooth' });
+          navigateTo(state.currentChapter, state.currentSubtopic + 1);
         });
       }
     }

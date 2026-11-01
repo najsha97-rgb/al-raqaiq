@@ -203,17 +203,51 @@
 * **Ringkasan Am Bab 6:**
   Syeikh al-Rasyid membina metafora sastera yang amat memukau: mengibaratkan jiwa mukmin laksana sebuah rimba keimanan yang sarat dengan pohon-pohon yang rendang dan berbuah lebat. Sepuluh pohon keimanan dihuraikan secara artistik dan mendalam sebagai paksi keperibadian da'i.
 
-* **Intisari Sepuluh Pohon Keimanan:**
-  1. **• Pohon Tauhid:** Akar umbi yang menembusi bumi keyakinan, menolak segala bentuk syirik dan pergantungan selain Allah.
-  2. **• Pohon Ketaatan:** Sentiasa berbunga dengan ketaatan melaksanakan perintah syariat dan tanzim.
-  3. **• Pohon Keikhlasan:** Melindungi diri daripada debu-debu riak; mehnah adalah air yang menyiram kesuburannya.
-  4. **• Pohon Sabar:** Ditanam oleh sunnah Nabi SAW; bertahan ketika diuji dan teguh ketika diserang.
-  5. **• Pohon Keteguhan (Tsabāt):** Tidak goyah oleh tiupan angin fitnah atau godaan kebendaan.
-  6. **• Pohon Ketenangan (al-Uns):** Memberikan ketenteraman tatkala bersendirian bermunajat bersama Allah.
-  7. **• Pohon Pemisahan Mutlak (al-Mufāṣalah):** Garis pemisah yang tegas antara iman dan kufur, haq dan batil.
-  8. **• Pohon Memaafkan (al-Ightifār):** Berlapang dada terhadap kesilapan saudara dan memaafkan kelemahan manusia.
-  9. **• Pohon Zuhud:** Memandang dunia dengan kadar keperluannya, melepaskan keterikatan hati daripada kemewahan.
-  10. **• Pohon Santun (al-Ḥilm) — Sulaman Hasan al-Banna:** Bersikap lemah-lembut, menahan kemarahan, dan mendidik mad'u dengan hikmah yang mendalam.
+* **Intisari Subtajuk:**
+  * **• Pohon-Pohon Keimanan:**
+    * Jiwa mukmin laksana rimba keimanan yang sarat dengan pepohon rendang dan berbuah lebat; hakikat ubudiah alam semesta yang tunduk sepenuhnya kepada Allah SWT.
+    * Keteraturan alam membuktikan bahawa iman yang subur memerlukan akar tauhid yang menghunjam dalam ke lubuk jiwa da'i.
+    * 🔑 **Kunci Amal:** Renungi keteraturan ubudiah alam dan semai rimba keimanan di dalam jiwa sebelum melangkah ke medan jihad.
+  * **• Mengejutkanmu Padanya: Pohon Tauhid:**
+    * Akar umbi yang menembusi bumi keyakinan, menolak segala bentuk syirik, pergantungan kepada makhluk, dan kegusaran terhadap rezeki.
+    * Keimanan sejati membebaskan jiwa daripada ketakutan kepada ancaman kuasa duniawi dan menyandarkan segalanya kepada Allah semata-mata.
+    * 🔑 **Kunci Amal:** Siram pohon tauhid dengan air mata taubat dan nikmati kemanisan berkhilwat dengan Allah di hening malam.
+  * **• Pohon Ketaatan:**
+    * Sentiasa berbunga dengan ketaatan melaksanakan perintah syariat dan memelihara disiplin tanzim haraki tanpa bertangguh.
+    * Ketaatan kepada Allah dan kepimpinan dakwah merupakan benteng utama yang memelihara saf daripada perpecahan.
+    * 🔑 **Kunci Amal:** Buktikan keimanan melalui ketaatan amali yang segera terhadap arahan syarak dan amanah dakwah.
+  * **• Pohon Keikhlasan (Ujian Mehnah sebagai Jalan Menuju Kurniaan):**
+    * Melindungi diri daripada debu-debu riak dan tuntutan sanjungan manusia; mehnah adalah "baja penyubur" yang menguji ketulenan niat.
+    * Ujian kepayahan dan pemulauan membersihkan saf daripada anasir munafik dan mengekalkan barisan yang benar-benar ikhlas.
+    * 🔑 **Kunci Amal:** Hadapi mehnah dengan sabar dan sangka baik bahawa ujian adalah pembuka pintu kurniaan Ilahi.
+  * **• Pohon Sabar (Tanaman Nabi SAW di dalam Rimba Ini):**
+    * Ditanam oleh sunnah Rasulullah SAW; bertahan ketika diuji dan teguh melangkah tatkala berdepan tentangan musuh.
+    * Kesabaran para pejuang bukan kepasifan yang lemah, tetapi ketabahan aktif yang menyalakan harapan kemenangan.
+    * 🔑 **Kunci Amal:** Pasakkan kesabaran meneladani jejak langkah Rasulullah SAW ketika menempuh kesukaran dakwah.
+  * **• Pohon Kelima: Pohon Keteguhan (Tsabat):**
+    * Tidak goyah oleh tiupan angin fitnah, ujian penjara, ugutan musuh, mahupun kilauan kemewahan kebendaan duniawi.
+    * Kecekalan hati berpaut pada tali Allah memastikan da'i tidak berpaling tadah di saat ujian memuncak.
+    * 🔑 **Kunci Amal:** Pelihara keteguhan pendirian dan tolak sebarang kompromi yang mencairkan prinsip akidah.
+  * **• Pohon Keenam: Pohon Ketenangan (al-Uns):**
+    * Merasai ketenteraman batin dan kelazatan bermunajat tatkala bersendirian menghadap Allah SWT.
+    * Jiwa yang tenang dengan zikrullah tidak akan berasa sepi walaupun dipulaukan oleh seluruh manusia.
+    * 🔑 **Kunci Amal:** Basahkan lidah dan tenangkan jiwa dengan zikir munajat ketika berada dalam kesendirian.
+  * **• Pohon Ketujuh: Pemisahan Mutlak (al-Mufashalah):**
+    * Garis pemisah yang tegas dan berani antara iman dan kufur, kebenaran dan kebatilan, tanpa rasa rendah diri.
+    * Pemisahan fikrah dan amalan mencegah saf daripada terperangkap dalam lumpur kompromi jahiliah.
+    * 🔑 **Kunci Amal:** Zahirkan identiti Islam dengan izzah dan asingkan diri daripada persekitaran maksiat serta kefasiqan.
+  * **• Pohon Kelapan: Pohon Memaafkan (al-Ightifar):**
+    * Berlapang dada terhadap kesilapan saudara seakidah, memaafkan kelemahan manusia, dan menolak penyakit dendam.
+    * Hati yang pemaaf merawat keretakan saf ukhuwah dan menyatukan kembali hati-hati para pendakwah.
+    * 🔑 **Kunci Amal:** Buka pintu kemaafan seluas-luasnya untuk saudara seiman demi memelihara kesucian saf ukhuwah.
+  * **• Pohon Kesembilan: Pohon Zuhud:**
+    * Memandang dunia sekadar bekal musafir, melepaskan keterikatan hati daripada kemewahan, dan mendambakan kampung akhirat.
+    * Zuhud yang sebenar memerdekakan tangan dan jiwa da'i daripada dibeli oleh habuan dunia atau jawatan sementara.
+    * 🔑 **Kunci Amal:** Jadikan harta dan kedudukan sebagai alat berkhidmat untuk agama, bukan matlamat kehidupan.
+  * **• Pohon Kesepuluh: Pohon Santun (al-Hilm) — Sulaman Hasan al-Banna:**
+    * Bersikap lemah-lembut, menahan kemarahan, membalas kejahatan dengan kebaikan, dan mendidik mad'u dengan hikmah yang mendalam.
+    * Sulaman hilm Imam al-Banna membentuk keperibadian da'i yang merangkul umat dengan kasih sayang dan kesabaran dakwah.
+    * 🔑 **Kunci Amal:** Hadapi provokasi mad'u dengan kesantunan jiwa dan doa kebaikan sebagaimana teladan para mursyid.
 
 ---
 

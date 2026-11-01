@@ -517,3 +517,17 @@ Telah ditetapkan bahawa terjemahan rasmi bagi judul-judul karya Syeikh Muhammad 
      - Butang `« Subtajuk Sebelumnya` & `Subtajuk Seterusnya »` untuk membaca intisari secara santai tanpa perlu keluar ke menu sisi.
      - Butang `📖 Baca Teks Penuh Subtajuk Ini` yang melompat terus ke teks penuh kitab.
 * **PWA Cache:** Dinaik taraf ke **`v50`** (`alraqaiq-cache-v50-kunci-amal-nav`).
+
+
+### 49. Pemulihan Pautan dan Pengisian Ringkasan 11 Subtajuk Bab 6 (Pohon-Pohon Keimanan)
+* **Latar Belakang:** Dikesan bahawa apabila butang 'Subtajuk Seterusnya' atau pautan subtajuk diklik semasa membaca Ringkasan Bab 6 (*Pohon-Pohon Keimanan*), paparan tidak berpindah ke subtajuk berikutnya.
+* **Punca Isu:**
+  1. Dalam fail intisari ilmiah asal, Bab 6 disusun dalam format bernombor senarai (`1. • Pohon Tauhid... 10. • Pohon Santun`), menyebabkan skrip pengekstrakan kanonikal (`extract_subtopic_summary`) gagal memadankannya dengan 11 subtajuk sebenar Bab 6, lantas medan `sub.summary` untuk kesemua 11 subtajuk Bab 6 menjadi kosong (`""`).
+  2. Akibatnya, `renderContent()` sentiasa jatuh balik (*fallback*) kepada rumusan umum satu bab (`ch.summary`) yang sama pada setiap subtajuk.
+  3. Pengendali butang kaki `btnPrevSubSummary` dan `btnNextSubSummary` sebelum ini hanya menaikkan `state.currentSubtopic` tanpa memanggil `navigateTo(...)`, menyebabkan status aktif pada menu sisi tidak dikemaskini.
+* **Ketetapan Penyelarasan:**
+  1. Menstrukturkan semula kesemua 11 subtajuk Bab 6 dalam `INTISARI_ILMIAH_LENGKAP_AL_RAQAIQ.md` mengikut format kanonikal bertanda bintang (`* **• <Tajuk>:**`) lengkap dengan huraian ilmiah dan `🔑 Kunci Amal`.
+  2. Menjana semula pangkalan data ekosistem (`build_canonical_82_ecosystem.py`) di mana kesemua 11 subtajuk Bab 6 kini 100% terisi dan tiada lagi mana-mana daripada 101 subtajuk kitab yang kosong (0 subtajuk kosong).
+  3. Mengemaskini fungsi butang navigasi kaki (`btnPrevSubSummary` & `btnNextSubSummary`) kepada `navigateTo(...)` bagi memastikan menu sisi dan paparan kandungan sentiasa berpindah secara serentak dan lancar.
+  4. Membetulkan butang pintas `btnJumpToFullText` agar menukar mod ke `state.layer = 'layer1'` (Versi Penuh) dengan tepat.
+* **PWA Cache:** Dinaik taraf ke **`v51`** (`alraqaiq-cache-v51-bab6-nav-fix`).
