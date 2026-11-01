@@ -583,5 +583,15 @@ Telah ditetapkan bahawa terjemahan rasmi bagi judul-judul karya Syeikh Muhammad 
 * **PWA Cache:** Dinaik taraf ke **`v55`** (`alraqaiq-cache-v55-tonggak-tarbiah`).
 
 
+### 54. Pemulihan Mutlak Aksara Arab & Emoji 'Mojibake' (PWA v56)
+* **Latar Belakang:** Dikesan bahawa teks utama Arab (termasuk tajuk الرَّقَـائِق, nama Syeikh رحمه الله) dan emoji pada `index.html` bertukar menjadi aksara cacat (*mojibake* seperti `Ø§Ù„Ø±Ù‘...` dan `ðŸ“–`).
+* **Punca Isu Teknis:** Penggunaan arahan PowerShell 5.1 `Get-Content` tanpa parameter `-Encoding UTF8` semasa menggantikan rentetan versi cache. Dalam persekitaran Windows PowerShell 5.1, `Get-Content` membaca bait fail secara *default* sebagai ANSI/Windows-1252, menyebabkan bait berbilang bait UTF-8 teks Arab dan emoji terurai kepada aksara Windows-1252 dan kemudian ditulis semula sebagai UTF-8 berganda (*double UTF-8 encoding / mojibake*).
+* **Ketetapan Penyelarasan:**
+  1. **Pemulihan Sumber Kanonikal:** Mengembalikan `index.html` terus daripada *commit* bersih sebelum rasuah, kemudian menyepadukan semula elemen Modul Tonggak Tarbiah dengan pembacaan dan penulisan bait UTF-8 tulin tanpa BOM (`utf-8`).
+  2. **Larangan Penggunaan PowerShell Get-Content/Set-Content Tanpa UTF-8:** Sebarang pengubahsuaian fail teks dalam repositori hendaklah menggunakan `edit_file` tool atau Python dengan `open(..., encoding='utf-8')` secara eksplisit bagi menjamin integriti teks Arab dan Unicode.
+  3. **PWA Cache:** Dinaik taraf ke **`v56`** (`alraqaiq-cache-v56-fix-arabic-mojibake`) bagi memaksa pelayar web menyegarkan fail `index.html` dan `sw.js` yang bersih serta-merta.
+
+
+
 
 

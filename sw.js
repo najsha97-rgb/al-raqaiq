@@ -1,4 +1,4 @@
-const CACHE_NAME = 'alraqaiq-cache-v55-tonggak-tarbiah';
+const CACHE_NAME = 'alraqaiq-cache-v56-fix-arabic-mojibake';
 const ASSETS_TO_CACHE = [
   './',
   './index.html',

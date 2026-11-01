@@ -1,10 +1,10 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="ms">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
   <meta name="theme-color" content="#052e16">
-  <meta name="description" content="Aplikasi PWA Al-Raqaiq (Ø§Ù„Ø±Ù‘ÙŽÙ‚ÙŽÙ€Ø§Ø¦ÙÙ‚) - Strategi, Polisi & Fiqh Perancangan Dakwah Harakah Islamiyah karya Syeikh Muhammad Ahmad Ar-Rasyid.">
+  <meta name="description" content="Aplikasi PWA Al-Raqaiq (الرَّقَـائِق) - Strategi, Polisi & Fiqh Perancangan Dakwah Harakah Islamiyah karya Syeikh Muhammad Ahmad Ar-Rasyid.">
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <title>Al-Raqaiq | Pelembut-pelembut Hati</title>
@@ -12,7 +12,7 @@
   <link rel="icon" type="image/jpeg" href="./alraqaiq_islamic_icon.jpg">
   <link rel="apple-touch-icon" href="./alraqaiq_islamic_icon.jpg">
   <link rel="manifest" href="./manifest.json">
-  <link rel="stylesheet" href="./css/style.css?v=20261101_alraqaiq_v55_tonggak_tarbiah">
+  <link rel="stylesheet" href="./css/style.css?v=20261101_alraqaiq_v56_fix_arabic_mojibake">
 
   <!-- Google Fonts: Premium Manuscript Typography -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -223,7 +223,7 @@
       </button>
       <img src="./alraqaiq_islamic_icon.jpg" alt="Logo Al-Raqaiq" class="brand-logo">
       <div class="brand-text">
-        <h1>AL-RAQÄ€'IQ <span class="ar-badge">Ø§Ù„Ø±Ù‘ÙŽÙ‚ÙŽÙ€Ø§Ø¦ÙÙ‚</span></h1>
+        <h1>AL-RAQĀ'IQ <span class="ar-badge">الرَّقَـائِق</span></h1>
         <div class="brand-subtitle">Pelembut-pelembut Hati Para Da'i</div>
       </div>
     </div>
@@ -232,18 +232,18 @@
     <div class="header-actions">
       <div class="layer-switcher" role="tablist">
         <button class="layer-btn active" id="btnLayerLengkap" role="tab" aria-selected="true">
-          ðŸ“– <span>Versi Penuh</span>
+          📖 <span>Versi Penuh</span>
         </button>
         <button class="layer-btn" id="btnLayerRingkasan" role="tab" aria-selected="false">
-          âš¡ <span>Ringkasan</span>
+          ⚡ <span>Ringkasan</span>
         </button>
         <button class="layer-btn" id="btnLayerHikmah" role="tab" aria-selected="false">
-          ðŸ’Ž <span>Mutiara Hikmah</span>
+          💎 <span>Mutiara Hikmah</span>
         </button>
       </div>
 
       <button class="icon-btn" id="themeToggleBtn" title="Tukar Tema (Gelap/Cerah)" aria-label="Tukar Tema">
-        â˜€ï¸
+        ☀️
       </button>
     </div>
   </header>
@@ -256,14 +256,14 @@
       <!-- Search Input -->
       <div class="search-box-wrap">
         <div class="search-input-group">
-          <span class="search-icon">ðŸ”</span>
+          <span class="search-icon">🔍</span>
           <input type="text" id="searchInput" class="search-input" placeholder="Cari topik, dalil, tokoh..." autocomplete="off">
         </div>
       </div>
 
       <!-- Quick Access: Mutiara Hikmah Dakwah -->
       <div class="sidebar-hikmah-promo" id="sidebarHikmahBtn" role="button" tabindex="0" title="Buka Koleksi Mutiara Hikmah Dakwah">
-        <div class="hikmah-promo-icon">ðŸ’Ž</div>
+        <div class="hikmah-promo-icon">💎</div>
         <div class="hikmah-promo-info">
           <span class="hikmah-promo-title">Mutiara Kata Hikmah</span>
           <span class="hikmah-promo-sub">(Hadis Nabi SAW + Tokoh & Da'i)</span>
@@ -273,7 +273,7 @@
 
       <!-- Quick Access: Sekilas Tonggak Amalan Tarbiah -->
       <div class="sidebar-tarbiah-promo" id="sidebarTarbiahBtn" role="button" tabindex="0" title="Buka Sekilas Tonggak Amalan Tarbiah">
-        <div class="tarbiah-promo-icon">ðŸŒ±</div>
+        <div class="tarbiah-promo-icon">🌱</div>
         <div class="tarbiah-promo-info">
           <span class="tarbiah-promo-title">Tonggak Amalan Tarbiah</span>
           <span class="tarbiah-promo-sub">(Tilawah, Puasa Sunat &amp; Infaq)</span>
@@ -292,22 +292,22 @@
 
       <!-- Hero / Introduction Card -->
       <div class="hero-card" id="heroCard">
-        <span class="hero-badge">â€” SIRI IHYA' FIQH AL-DA'WAH (Tazkiyah & Tarbiah Harakiah) â€”</span>
-        <h2 class="hero-title">AL-RAQÄ€'IQ <span class="hero-ar-title">(Ø§Ù„Ø±Ù‘ÙŽÙ‚ÙŽÙ€Ø§Ø¦ÙÙ‚)</span></h2>
+        <span class="hero-badge">— SIRI IHYA' FIQH AL-DA'WAH (Tazkiyah & Tarbiah Harakiah) —</span>
+        <h2 class="hero-title">AL-RAQĀ'IQ <span class="hero-ar-title">(الرَّقَـائِق)</span></h2>
         <div style="font-size: 1.15rem; font-weight: 700; color: var(--gold-light); margin: -4px 0 10px 0; letter-spacing: 0.5px;">Pelembut-pelembut Hati Para Da'i</div>
         <p class="hero-desc">
-          Karya agung As-Syeikh Muhammad Ahmad ar-Rasyid (Ø±Ø­Ù…Ù‡ Ø§Ù„Ù„Ù‡) yang menyuburkan kelembutan jiwa dengan zikir, tilawah, tahajud, dan ukhuwah fillah serta mengingati kematian dan Hari Akhirat sebagai bekalan rohani peneguh langkah para pejuang di medan amal Islami.
+          Karya agung As-Syeikh Muhammad Ahmad ar-Rasyid (رحمه الله) yang menyuburkan kelembutan jiwa dengan zikir, tilawah, tahajud, dan ukhuwah fillah serta mengingati kematian dan Hari Akhirat sebagai bekalan rohani peneguh langkah para pejuang di medan amal Islami.
         </p>
         <div class="hero-stats">
           <div class="stat-item">
-            <span>ðŸ“š Bab Utama:</span> <strong>(Epigraf, Mukadimah, Bab 1 - 12)</strong>
+            <span>📚 Bab Utama:</span> <strong>(Epigraf, Mukadimah, Bab 1 - 12)</strong>
           </div>
           <div class="stat-item">
-            <span>ðŸ“‘ Subtajuk:</span> <strong id="heroSubtopicsStat">100 Subtajuk Tematik + 1 Epigraf Pembuka</strong>
+            <span>📑 Subtajuk:</span> <strong id="heroSubtopicsStat">100 Subtajuk Tematik + 1 Epigraf Pembuka</strong>
             <div style="font-size: 0.85rem; color: var(--gold-light); font-weight: 600; margin-top: 3px;">(Ringkasan Bab &amp; Intisari Subtajuk)</div>
           </div>
           <div class="stat-item">
-            <span>ðŸŒ Status:</span> <strong style="color: var(--emerald-primary);">Luar Talian (Offline-First)</strong>
+            <span>🌐 Status:</span> <strong style="color: var(--emerald-primary);">Luar Talian (Offline-First)</strong>
           </div>
         </div>
       </div>
@@ -326,11 +326,11 @@
           <!-- Interactive Mode Switcher on Chapter Title -->
           <div class="chapter-mode-tabs" id="chapterModeTabs" role="tablist" aria-label="Mod Bacaan Bab">
             <button class="ch-mode-tab active" id="btnChModeLengkap" role="tab" aria-selected="true" title="Buka Versi Penuh Bab Ini">
-              <span class="mode-icon">ðŸ“–</span>
+              <span class="mode-icon">📖</span>
               <span class="mode-label">Versi Penuh</span>
             </button>
             <button class="ch-mode-tab" id="btnChModeRingkasan" role="tab" aria-selected="false" title="Buka Ringkasan &amp; Fiqh Haraki Subtajuk Ini">
-              <span class="mode-icon">âš¡</span>
+              <span class="mode-icon">⚡</span>
               <span class="mode-label">Ringkasan Subtajuk</span>
             </button>
           </div>
@@ -346,7 +346,7 @@
             <button class="tool-btn" id="fontDecBtn" title="Kecilkan Fon">A-</button>
             <button class="tool-btn" id="fontResetBtn" title="Set Semula Saiz Fon">A</button>
             <button class="tool-btn" id="fontIncBtn" title="Besarkan Fon">A+</button>
-            <button class="tool-btn" id="bookmarkBtn" title="Tanda Bahagian Ini">â˜† Tanda Buku</button>
+            <button class="tool-btn" id="bookmarkBtn" title="Tanda Bahagian Ini">☆ Tanda Buku</button>
           </div>
         </div>
 
@@ -358,10 +358,10 @@
         <!-- Bottom Navigation -->
         <nav class="reader-bottom-nav">
           <button class="nav-jump-btn" id="prevSubBtn" disabled>
-            â† Bahagian Sebelumnya
+            ← Bahagian Sebelumnya
           </button>
           <button class="nav-jump-btn" id="nextSubBtn">
-            Bahagian Seterusnya â†’
+            Bahagian Seterusnya →
           </button>
         </nav>
       </article>
@@ -377,7 +377,7 @@
           <h3 style="color: var(--gold-light);">Hasil Carian</h3>
           <small id="searchCountBadge" style="color: var(--text-muted);"></small>
         </div>
-        <button class="icon-btn" id="closeSearchBtn" style="font-size: 1.2rem;">âœ•</button>
+        <button class="icon-btn" id="closeSearchBtn" style="font-size: 1.2rem;">✕</button>
       </div>
       <div class="search-results-list" id="searchResultsList">
         <!-- Results appended here -->
@@ -390,15 +390,15 @@
     <div class="chapter-select-modal-box">
       <div class="ch-modal-header">
         <div class="ch-modal-badge" id="chModalBadge">BAB 1</div>
-        <button class="icon-btn ch-modal-close" id="btnCloseChModal" aria-label="Tutup">âœ•</button>
+        <button class="icon-btn ch-modal-close" id="btnCloseChModal" aria-label="Tutup">✕</button>
       </div>
       <h3 class="ch-modal-title" id="chModalTitle">JIWA YANG BERIMAN</h3>
-      <div class="ch-modal-arabic" id="chModalArabic">Ø²ÙÙ…Ù’Ø±ÙŽØ©Ù Ø§Ù„Ù‚ÙŽÙ„Ù’Ø¨Ù Ø§Ù„ÙˆÙŽØ§Ø­ÙØ¯Ù</div>
+      <div class="ch-modal-arabic" id="chModalArabic">زُمْرَةُ القَلْبِ الوَاحِدِ</div>
       <p class="ch-modal-desc">Sila pilih mod bacaan yang anda inginkan untuk bab ini:</p>
       
       <div class="ch-modal-actions">
         <button class="ch-modal-btn btn-modal-lengkap" id="btnModalLengkap" type="button">
-          <div class="ch-modal-btn-icon">ðŸ“–</div>
+          <div class="ch-modal-btn-icon">📖</div>
           <div class="ch-modal-btn-text">
             <div class="ch-modal-btn-title">Versi Penuh (Terjemahan Lengkap)</div>
             <div class="ch-modal-btn-sub">Teks terjemahan lengkap dengan ayat al-Quran, hadis, athar, dan nota kaki rujukan</div>
@@ -406,7 +406,7 @@
         </button>
 
         <button class="ch-modal-btn btn-modal-ringkasan" id="btnModalRingkasan" type="button">
-          <div class="ch-modal-btn-icon">âš¡</div>
+          <div class="ch-modal-btn-icon">⚡</div>
           <div class="ch-modal-btn-text">
             <div class="ch-modal-btn-title">Ringkasan (Intisari &amp; Fiqh Haraki)</div>
             <div class="ch-modal-btn-sub">Intipati padat, falsafah tarbiah, dan radar pengesan halangan dakwah</div>
@@ -416,7 +416,7 @@
 
       <div class="ch-modal-footer">
         <button class="ch-modal-subtopics-btn" id="btnModalExpandSubtopics" type="button">
-          <span>ðŸ“‘</span> <span>Lihat Senarai Subtajuk Bab</span>
+          <span>📑</span> <span>Lihat Senarai Subtajuk Bab</span>
         </button>
       </div>
     </div>
@@ -424,40 +424,40 @@
 
   <!-- Toast Notification -->
   <div class="toast-notice" id="toastNotice">
-    <span id="toastIcon">â„¹ï¸</span>
+    <span id="toastIcon">ℹ️</span>
     <span id="toastMsg">Notifikasi</span>
   </div>
 
   <!-- Data Scripts (Offline Direct Access) -->
-  <script src="./data/alraqaiq_quotes.js?v=20261101_alraqaiq_v55_tonggak_tarbiah"></script>
-  <script src="./data/alraqaiq_data.js?v=20261101_alraqaiq_v55_tonggak_tarbiah"></script>
+  <script src="./data/alraqaiq_quotes.js?v=20261101_alraqaiq_v56_fix_arabic_mojibake"></script>
+  <script src="./data/alraqaiq_data.js?v=20261101_alraqaiq_v56_fix_arabic_mojibake"></script>
   <!-- Application Core Script -->
-  <script src="./js/app.js?v=20261101_alraqaiq_v55_tonggak_tarbiah"></script>
+  <script src="./js/app.js?v=20261101_alraqaiq_v56_fix_arabic_mojibake"></script>
 
   <!-- ================= SEKILAS TONGGAK AMALAN TARBIAH MODAL ================= -->
   <div class="tarbiah-modal-overlay" id="modalTarbiahSpotlight" style="display: none;">
     <div class="tarbiah-modal-box">
       <div class="tarbiah-modal-header">
-        <div class="tarbiah-modal-badge">ðŸŒ± DISIPLIN ASAS RUHIYYAH</div>
-        <button class="icon-btn tarbiah-modal-close" id="btnCloseTarbiahModal" aria-label="Tutup">âœ•</button>
+        <div class="tarbiah-modal-badge">🌱 DISIPLIN ASAS RUHIYYAH</div>
+        <button class="icon-btn tarbiah-modal-close" id="btnCloseTarbiahModal" aria-label="Tutup">✕</button>
       </div>
       <h3 class="tarbiah-modal-title">Sekilas Tonggak Amalan Tarbiah</h3>
-      <p class="tarbiah-modal-subtitle">Tiga Rukun Pembinaan Jiwa Salafussoleh Prasyarat Kelembutan Hati dalam Kitab Al-RaqÄ'iq</p>
+      <p class="tarbiah-modal-subtitle">Tiga Rukun Pembinaan Jiwa Salafussoleh Prasyarat Kelembutan Hati dalam Kitab Al-Raqā'iq</p>
 
       <div class="tarbiah-modal-body">
         <!-- Tonggak 1: Tilawah al-Quran -->
         <div class="tarbiah-pillar-card">
           <div class="tarbiah-pillar-header">
-            <span class="tarbiah-pillar-icon">ðŸ“–</span>
+            <span class="tarbiah-pillar-icon">📖</span>
             <div class="tarbiah-pillar-titles">
               <h4>1. Tilawah &amp; Bertahajud dengan Al-Quran</h4>
               <span class="tarbiah-pillar-tag">Madrasah Malam &amp; Wirid Harian</span>
             </div>
           </div>
           <div class="tarbiah-quote-box" dir="rtl">
-            <span class="arabic-text-amiri-gold">Ù„ÙŽÙ…Ù’ ÙŠÙŽØ¨Ù’Ù‚ÙŽ Ù…ÙÙ†Ù’ Ø±ÙŽÙˆÙ’Ø­Ù Ø§Ù„Ø¯Ù‘ÙÙ†Ù’ÙŠÙŽØ§ Ø¥ÙÙ„Ø§Ù‘ÙŽ Ø«ÙŽÙ„Ø§ÙŽØ«ÙŽØ©ÙŒ: Ù„ÙÙ‚ÙŽØ§Ø¡Ù Ø§Ù„Ø¥ÙØ®Ù’ÙˆÙŽØ§Ù†ÙØŒ ÙˆÙŽØ§Ù„ØªÙ‘ÙŽÙ‡ÙŽØ¬Ù‘ÙØ¯Ù Ø¨ÙØ§Ù„Ù‚ÙØ±Ù’Ø¢Ù†ÙØŒ ÙˆÙŽØ¨ÙŽÙŠÙ’ØªÙŒ Ø®ÙŽØ§Ù„Ù ÙŠÙØ°Ù’ÙƒÙŽØ±Ù Ø§Ù„Ù„Ù‡Ù ÙÙÙŠÙ‡Ù</span>
+            <span class="arabic-text-amiri-gold">لَمْ يَبْقَ مِنْ رَوْحِ الدُّنْيَا إِلاَّ ثَلاَثَةٌ: لِقَاءُ الإِخْوَانِ، وَالتَّهَجُّدُ بِالقُرْآنِ، وَبَيْتٌ خَالٍ يُذْكَرُ اللهُ فِيهِ</span>
           </div>
-          <p class="tarbiah-quote-trans"><em>â€œTidak berbaki lagi daripada ketenangan jiwa di dunia ini melainkan tiga perkara: bertemu saudara seakidah, bertahajud dengan al-Quran, dan berada di rumah yang sunyi di mana Allah diingati.â€</em> <small style="color: var(--gold-light);">(Malik bin Dinar rahimahullah, Bab 5)</small></p>
+          <p class="tarbiah-quote-trans"><em>“Tidak berbaki lagi daripada ketenangan jiwa di dunia ini melainkan tiga perkara: bertemu saudara seakidah, bertahajud dengan al-Quran, dan berada di rumah yang sunyi di mana Allah diingati.”</em> <small style="color: var(--gold-light);">(Malik bin Dinar rahimahullah, Bab 5)</small></p>
           <ul class="tarbiah-checklist">
             <li><strong>Wirid Harian:</strong> Melazimi pembacaan al-Quran sekurang-kurangnya 1 juzuk sehari.</li>
             <li><strong>Tadabbur Malam:</strong> Menghidupkan ayat-ayat pelembut hati dalam solat tahajud dan qiamullail.</li>
@@ -467,16 +467,16 @@
         <!-- Tonggak 2: Puasa Sunat -->
         <div class="tarbiah-pillar-card">
           <div class="tarbiah-pillar-header">
-            <span class="tarbiah-pillar-icon">ðŸŒ™</span>
+            <span class="tarbiah-pillar-icon">🌙</span>
             <div class="tarbiah-pillar-titles">
               <h4>2. Puasa Sunat &amp; Menundukkan Syahwat</h4>
               <span class="tarbiah-pillar-tag">Kekuatan Rohani Siang Hari</span>
             </div>
           </div>
           <div class="tarbiah-quote-box" dir="rtl">
-            <span class="arabic-text-amiri-gold">Ø§Ø¹Ù’Ù„ÙŽÙ…Ù’ ÙŠÙŽØ§ Ø¹ÙÙ…ÙŽØ±Ù! Ø£ÙŽÙ†Ù‘ÙŽ Ù„ÙÙ„Ù‘ÙŽÙ‡Ù Ø­ÙŽÙ‚Ù‘Ø§Ù‹ Ø¨ÙØ§Ù„Ù„Ù‘ÙŽÙŠÙ’Ù„Ù Ù„ÙŽØ§ ÙŠÙŽÙ‚Ù’Ø¨ÙŽÙ„ÙÙ‡Ù Ø¨ÙØ§Ù„Ù†Ù‘ÙŽÙ‡ÙŽØ§Ø±ÙØŒ ÙˆÙŽØ¥ÙÙ†Ù‘ÙŽ Ù„ÙÙ„Ù‘ÙŽÙ‡Ù Ø­ÙŽÙ‚Ù‘Ø§Ù‹ Ø¨ÙØ§Ù„Ù†Ù‘ÙŽÙ‡ÙŽØ§Ø±Ù Ù„ÙŽØ§ ÙŠÙŽÙ‚Ù’Ø¨ÙŽÙ„ÙÙ‡Ù Ø¨ÙØ§Ù„Ù„Ù‘ÙŽÙŠÙ’Ù„Ù</span>
+            <span class="arabic-text-amiri-gold">اعْلَمْ يَا عُمَرُ! أَنَّ لِلَّهِ حَقّاً بِاللَّيْلِ لَا يَقْبَلُهُ بِالنَّهَارِ، وَإِنَّ لِلَّهِ حَقّاً بِالنَّهَارِ لَا يَقْبَلُهُ بِاللَّيْلِ</span>
           </div>
-          <p class="tarbiah-quote-trans"><em>â€œKetahuilah wahai Umar! Sesungguhnya Allah mempunyai hak pada waktu siang yang tidak diterima-Nya pada waktu malam, dan hak pada waktu malam yang tidak diterima-Nya pada waktu siang.â€</em> <small style="color: var(--gold-light);">(Wasiat Saidina Abu Bakar RA, Bab 12)</small></p>
+          <p class="tarbiah-quote-trans"><em>“Ketahuilah wahai Umar! Sesungguhnya Allah mempunyai hak pada waktu siang yang tidak diterima-Nya pada waktu malam, dan hak pada waktu malam yang tidak diterima-Nya pada waktu siang.”</em> <small style="color: var(--gold-light);">(Wasiat Saidina Abu Bakar RA, Bab 12)</small></p>
           <ul class="tarbiah-checklist">
             <li><strong>Puasa Berkala:</strong> Melazimi puasa sunat Isnin &amp; Khamis atau Hari-Hari Putih (13, 14, 15 hijrah).</li>
             <li><strong>Mengekang Hawa Nafsu:</strong> Menjaga kesederhanaan perut demi memelihara ketajaman fikiran dan kepekaan nurani.</li>
@@ -486,16 +486,16 @@
         <!-- Tonggak 3: Sedekah & Infaq -->
         <div class="tarbiah-pillar-card">
           <div class="tarbiah-pillar-header">
-            <span class="tarbiah-pillar-icon">ðŸ’°</span>
+            <span class="tarbiah-pillar-icon">💰</span>
             <div class="tarbiah-pillar-titles">
               <h4>3. Sedekah, Infaq &amp; Mengutamakan Orang Lain (Al-I'tsar)</h4>
               <span class="tarbiah-pillar-tag">Pembersih Jiwa &amp; Pengorbanan</span>
             </div>
           </div>
           <div class="tarbiah-quote-box" dir="rtl">
-            <span class="arabic-text-amiri-gold">Ù…ÙŽØ§ Ù†ÙŽØ¹Ù’Ù„ÙŽÙ…Ù Ø¹ÙŽÙ…ÙŽÙ„Ø§Ù‹ Ø£ÙŽØ´ÙŽØ¯Ù‘ÙŽ Ù…ÙÙ†Ù’ Ù…ÙÙƒÙŽØ§Ø¨ÙŽØ¯ÙŽØ©Ù Ù‡ÙŽØ°ÙŽØ§ Ø§Ù„Ù„Ù‘ÙŽÙŠÙ’Ù„ÙØŒ ÙˆÙŽÙ†ÙŽÙÙŽÙ‚ÙŽØ©Ù Ù‡ÙŽØ°ÙŽØ§ Ø§Ù„Ù…ÙŽØ§Ù„Ù</span>
+            <span class="arabic-text-amiri-gold">مَا نَعْلَمُ عَمَلاً أَشَدَّ مِنْ مُكَابَدَةِ هَذَا اللَّيْلِ، وَنَفَقَةِ هَذَا المَالِ</span>
           </div>
-          <p class="tarbiah-quote-trans"><em>â€œKami tidak mengetahui suatu amal pun yang lebih sukar dan berat ke atas jiwa melainkan bersungguh-sungguh mengharungi malam (qiamullail) dan menafkahkan harta ini.â€</em> <small style="color: var(--gold-light);">(Imam Hasan al-Basri rahimahullah, Bab 2)</small></p>
+          <p class="tarbiah-quote-trans"><em>“Kami tidak mengetahui suatu amal pun yang lebih sukar dan berat ke atas jiwa melainkan bersungguh-sungguh mengharungi malam (qiamullail) dan menafkahkan harta ini.”</em> <small style="color: var(--gold-light);">(Imam Hasan al-Basri rahimahullah, Bab 2)</small></p>
           <ul class="tarbiah-checklist">
             <li><strong>Infaq Istiqamah:</strong> Memperuntukkan sumbangan tetap bulanan untuk kebajikan dan aktiviti dakwah.</li>
             <li><strong>Sifat Al-I'tsar:</strong> Mendahulukan keperluan saudara seiman yang memerlukan melebihi diri sendiri.</li>
@@ -511,4 +511,3 @@
 
 </body>
 </html>
-
