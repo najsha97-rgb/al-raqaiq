@@ -4705,6 +4705,7 @@ i .arabic-text-amiri-gold,
 #modalPeradabanSpotlight,
 .peradaban-modal-overlay,
 .tarbiah-modal-overlay.peradaban-modal-overlay {
+  display: none !important; /* DEFAULT IS HIDDEN */
   position: fixed !important;
   inset: 0 !important;
   top: 0 !important;
@@ -4717,12 +4718,17 @@ i .arabic-text-amiri-gold,
   backdrop-filter: blur(8px) !important;
   -webkit-backdrop-filter: blur(8px) !important;
   z-index: 999999 !important;
-  display: flex !important;
   align-items: center !important;
   justify-content: center !important;
   padding: 1rem !important;
   box-sizing: border-box !important;
   overflow: hidden !important;
+}
+
+#modalPeradabanSpotlight.show,
+.peradaban-modal-overlay.show,
+.tarbiah-modal-overlay.peradaban-modal-overlay.show {
+  display: flex !important; /* ONLY DISPLAYED WHEN .show IS ACTIVE */
 }
 
 /* Modal Dialog Box */
