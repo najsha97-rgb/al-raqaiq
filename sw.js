@@ -1,4 +1,4 @@
-const CACHE_NAME = 'alraqaiq-cache-v66-modal-restored';
+const CACHE_NAME = 'alraqaiq-v67-modal-overlay-fix';
 const ASSETS_TO_CACHE = [
   './',
   './index.html',
