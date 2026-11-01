@@ -12,7 +12,7 @@
   <link rel="icon" type="image/jpeg" href="./alraqaiq_islamic_icon.jpg">
   <link rel="apple-touch-icon" href="./alraqaiq_islamic_icon.jpg">
   <link rel="manifest" href="./manifest.json">
-  <link rel="stylesheet" href="./css/style.css?v=20261102_v65_pdf_only">
+  <link rel="stylesheet" href="./css/style.css?v=20261102_v66_modal_restored">
 
   <!-- Google Fonts: Premium Manuscript Typography -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -240,7 +240,7 @@
         <button class="layer-btn" id="btnLayerHikmah" role="tab" aria-selected="false">
           💎 <span>Mutiara Hikmah</span>
         </button>
-        <button class="layer-btn" id="btnHeaderPeradaban" role="tab" aria-selected="false" title="Wawasan Ummah Fadhilah &amp; PBI (Sumbangan al-Raqā'iq)">
+        <button class="layer-btn" id="btnHeaderPeradaban" onclick="if(window.openPeradabanModal){window.openPeradabanModal();}else{var m=document.getElementById(\'modalPeradabanSpotlight\');if(m){m.style.display=\'flex\';document.body.style.overflow=\'hidden\';}}" role="tab" aria-selected="false" title="Wawasan Ummah Fadhilah &amp; PBI (Sumbangan al-Raqā'iq)">
           🌍 <span>Ummah &amp; PBI</span>
         </button>
       </div>
@@ -285,7 +285,7 @@
       </div>
 
       <!-- Quick Access: Ummah Fadhilah & PBI (Sumbangan al-Raqā'iq) -->
-      <div class="sidebar-peradaban-promo" id="sidebarPeradabanBtn" role="button" tabindex="0" title="Buka Wawasan Ummah Fadhilah &amp; Peradaban Baru Islam (PBI)">
+      <div class="sidebar-peradaban-promo" id="sidebarPeradabanBtn" role="button" tabindex="0" title="Buka Wawasan Ummah Fadhilah &amp; Peradaban Baru Islam (PBI)" onclick="if(window.openPeradabanModal){window.openPeradabanModal();}else{var m=document.getElementById('modalPeradabanSpotlight');if(m){m.style.display='flex';document.body.style.overflow='hidden';}}">
         <div class="peradaban-promo-icon">🌍</div>
         <div class="peradaban-promo-info">
           <span class="peradaban-promo-title">Ummah Fadhilah &amp; PBI</span>
@@ -442,10 +442,10 @@
   </div>
 
   <!-- Data Scripts (Offline Direct Access) -->
-  <script src="./data/alraqaiq_quotes.js?v=20261101_alraqaiq_v61_dokumen_khas_update"></script>
-  <script src="./data/alraqaiq_data.js?v=20261101_alraqaiq_v61_dokumen_khas_update"></script>
+  <script src="./data/alraqaiq_quotes.js?v=20261102_v66_modal_restored"></script>
+  <script src="./data/alraqaiq_data.js?v=20261102_v66_modal_restored"></script>
   <!-- Application Core Script -->
-  <script src="./js/app.js?v=20261101_alraqaiq_v61_dokumen_khas_update"></script>
+  <script src="./js/app.js?v=20261102_v66_modal_restored"></script>
 
   <!-- ================= SEKILAS TONGGAK AMALAN TARBIAH MODAL ================= -->
   <div class="tarbiah-modal-overlay" id="modalTarbiahSpotlight" style="display: none;">
@@ -523,11 +523,11 @@
   </div>
 
   <!-- ================= MODAL UMMAH FADHILAH & PBI (SUMBANGAN AL-RAQAIQ) ================= -->
-  <div class="tarbiah-modal-overlay peradaban-modal-overlay" id="modalPeradabanSpotlight" style="display: none;">
+  <div class="tarbiah-modal-overlay peradaban-modal-overlay" id="modalPeradabanSpotlight" style="display: none;" onclick="if(event.target===this){if(window.togglePeradabanModal){window.togglePeradabanModal(false);}else{this.style.display=\'none\';document.body.style.overflow=\'\';}}">
     <div class="tarbiah-modal-box peradaban-modal-box">
       <div class="tarbiah-modal-header peradaban-modal-header">
         <div class="peradaban-modal-badge">🌍 WAWASAN 100 TAHUN KEDUA (PBI)</div>
-        <button class="icon-btn tarbiah-modal-close" id="btnClosePeradabanModal" aria-label="Tutup">✕</button>
+        <button class="icon-btn tarbiah-modal-close" id="btnClosePeradabanModal" onclick="if(window.togglePeradabanModal){window.togglePeradabanModal(false);}else{var m=document.getElementById(\'modalPeradabanSpotlight\');if(m){m.style.display=\'none\';document.body.style.overflow=\'\';}}" aria-label="Tutup">✕</button>
       </div>
       <h3 class="tarbiah-modal-title peradaban-modal-title">Ummah Fadhilah &amp; Peradaban Baru Islam</h3>
       <p class="tarbiah-modal-subtitle peradaban-modal-subtitle">Sumbangan Kitab Al-Raqā'iq (As-Syeikh Muhammad Ahmad al-Rasyid) Sebagai Enjin Ruhiyyah &amp; Moral Membina Kuasa Watan</p>
@@ -707,7 +707,7 @@
       </div>
 
       <div class="tarbiah-modal-footer">
-        <button class="tarbiah-modal-btn peradaban-close-footer-btn" id="btnPeradabanModalCloseFooter">Tutup &amp; Hayati Wawasan</button>
+        <button class="tarbiah-modal-btn peradaban-close-footer-btn" id="btnPeradabanModalCloseFooter" onclick="if(window.togglePeradabanModal){window.togglePeradabanModal(false);}else{var m=document.getElementById(\'modalPeradabanSpotlight\');if(m){m.style.display=\'none\';document.body.style.overflow=\'\';}}">Tutup &amp; Hayati Wawasan</button>
       </div>
     </div>
   </div>
