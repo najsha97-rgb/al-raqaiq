@@ -506,3 +506,14 @@ Telah ditetapkan bahawa terjemahan rasmi bagi judul-judul karya Syeikh Muhammad 
      - `data/alraqaiq_data.json` & `data/alraqaiq_data.js`: Mengandungi teks lengkap 4 tahap untuk paparan modal ringkasan subtajuk PWA.
      - Dokumen Word `.docx` dijana semula dan dimirror.
   3. **PWA Cache:** Dinaik taraf ke **`v49`** (`alraqaiq-cache-v49-tahap-ubudiah`).
+
+
+### 48. Peningkatan Visual & Navigasi Ringkasan Subtopik (Lencana Tema, Senarai Beraksen, Kunci Amal Haraki, dan Butang Navigasi Pantas)
+* **Latar Belakang:** Bagi mempertingkatkan kebolehbacaan (*readability*) dan penghayatan amali dalam mod Ringkasan Subtajuk, beberapa penambahbaikan struktur visual dan navigasi telah diperkenalkan:
+  1. **Lencana Sub-Header Elegan (`summary-subheading-banner`):** Menggantikan paparan kurungan mentah `(Tajuk)` kepada lencana pil anggun `🎯 Tajuk Subtajuk` dengan sempadan zamrud bercahaya.
+  2. **Senarai Bernombor Beraksen (`summary-ordered-list`):** Memformatkan senarai bernombor (seperti 8 Kurniaan Masjid dan 4 Tahap Ubudiah) dengan lencana nombor bulat hijau zamrud bergradien emas (`1`, `2`, `3`...).
+  3. **Kad Seruan "Kunci Amal Haraki" (`summary-kunci-amal-box`):** Setiap subtajuk diakhiri dengan resolusi amalan harian seorang da'i (`🔑 Kunci Amal: ...`) yang dibingkai dengan kad aksen emas-zamrud.
+  4. **Bar Navigasi Pantas Kaki (`summary-footer-nav`):**
+     - Butang `« Subtajuk Sebelumnya` & `Subtajuk Seterusnya »` untuk membaca intisari secara santai tanpa perlu keluar ke menu sisi.
+     - Butang `📖 Baca Teks Penuh Subtajuk Ini` yang melompat terus ke teks penuh kitab.
+* **PWA Cache:** Dinaik taraf ke **`v50`** (`alraqaiq-cache-v50-kunci-amal-nav`).

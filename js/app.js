@@ -785,7 +785,7 @@ document.addEventListener('DOMContentLoaded', () => {
         html = html.replace(/^###\s*\*?\((.*?)\)\*?\s*$/gm, function(match, inner) {
           let cleanInner = inner.replace(/[ \t]*\|[ \t]*Halaman\s+Asal[ \t\d–—\-]+/gi, '');
           let formattedInner = formatArabicInlineAmiri(cleanInner, '1.25em');
-          return '<div class="summary-subheading-banner" style="font-size: 1.05rem; color: var(--emerald-light, #34d399); font-weight: 600; margin: 0.4rem 0 0.9rem 0;">(' + formattedInner + ')</div>';
+          return `<div class="summary-subheading-banner"><span class="subheading-banner-icon">🎯</span> <span class="subheading-banner-text">${formattedInner}</span></div>`;
         });
 
         html = html.replace(/^###\s*(.*?)$/gm, function(match, inner) {
@@ -805,9 +805,10 @@ document.addEventListener('DOMContentLoaded', () => {
           return '<em>' + p1 + '</em>';
         });
 
-        // Convert bullet list lines
+        // Convert bullet list lines, numbered lists, and Kunci Amal callout
         const lines = html.split('\n');
         let inList = false;
+        let inOrderedList = false;
         let formattedLines = [];
 
         for (let l of lines) {
@@ -816,48 +817,102 @@ document.addEventListener('DOMContentLoaded', () => {
           if (!tr || tr === '---' || tr === '–' || tr === '—' || tr.startsWith('---') || /^[-_–—\s]{3,}$/.test(tr)) {
             continue;
           }
+
+          // Handle Kunci Amal Callout Box
+          if (tr.includes('🔑') || tr.toLowerCase().includes('kunci amal')) {
+            if (inList) {
+              formattedLines.push('</ul>');
+              inList = false;
+            }
+            if (inOrderedList) {
+              formattedLines.push('</ol>');
+              inOrderedList = false;
+            }
+            let cleanKunci = tr.replace(/^[•\*\-\s]*🔑\s*/, '').trim();
+            formattedLines.push(`
+              <div class="summary-kunci-amal-box">
+                <span class="kunci-amal-icon">🔑</span>
+                <div class="kunci-amal-body">${cleanKunci}</div>
+              </div>
+            `);
+            continue;
+          }
+
           // Handle Arabic Blockquote (Mutiara Kata Hikmah) in Amiri Gold
           if (tr.startsWith('&gt;') || tr.startsWith('>')) {
             if (inList) {
               formattedLines.push('</ul>');
               inList = false;
             }
+            if (inOrderedList) {
+              formattedLines.push('</ol>');
+              inOrderedList = false;
+            }
             let cleanQuote = tr.replace(/^(&gt;|>)\s*/, '').trim();
-            // Remove any <strong> wrapping if it wraps entire quote to keep font biasa
             cleanQuote = cleanQuote.replace(/^<strong[^>]*>(.*)<\/strong>$/i, '$1');
             formattedLines.push(`
               <div class="summary-arabic-quote-box" dir="rtl">
                 <span class="arabic-text-amiri-gold" dir="rtl">${cleanQuote}</span>
               </div>
             `);
-          } else if (tr.startsWith('* ') || tr.startsWith('- ') || tr.startsWith('• ')) {
-            if (!inList) {
-              formattedLines.push('<ul class="summary-list" style="margin: 0.8rem 0; padding-left: 1.5rem; line-height: 1.8;">');
-              inList = true;
-            }
-            let itemText = tr.replace(/^[\*\-•]\s*/, '');
-            formattedLines.push(`<li style="margin-bottom: 0.6rem;">${itemText}</li>`);
-          } else {
+            continue;
+          }
+
+          // Handle Numbered List (e.g. 1. 2. 3.)
+          const numMatch = tr.match(/^(\d+)[\.\)]\s*(.*)$/);
+          if (numMatch) {
             if (inList) {
               formattedLines.push('</ul>');
               inList = false;
             }
-            if (tr) {
-              // Check if standalone Arabic line
-              const arChars = (tr.match(/[\u0600-\u06FF]/g) || []).length;
-              if (arChars > 8 && arChars >= (tr.match(/[a-zA-Z]/g) || []).length) {
-                formattedLines.push(`
-                  <div class="summary-arabic-quote-box" dir="rtl">
-                    <span class="arabic-text-amiri-gold" dir="rtl">${tr}</span>
-                  </div>
-                `);
-              } else {
-                formattedLines.push(`<p style="margin-bottom: 0.75rem; line-height: 1.75;">${tr}</p>`);
-              }
+            if (!inOrderedList) {
+              formattedLines.push('<ol class="summary-ordered-list">');
+              inOrderedList = true;
+            }
+            formattedLines.push(`<li>${numMatch[2]}</li>`);
+            continue;
+          }
+
+          // Handle Bullet List
+          if (tr.startsWith('* ') || tr.startsWith('- ') || tr.startsWith('• ') || tr.startsWith('\u2022 ')) {
+            if (inOrderedList) {
+              formattedLines.push('</ol>');
+              inOrderedList = false;
+            }
+            if (!inList) {
+              formattedLines.push('<ul class="summary-list" style="margin: 0.8rem 0; padding-left: 1.5rem; line-height: 1.8;">');
+              inList = true;
+            }
+            let itemText = tr.replace(/^[\*\-•\u2022]\s*/, '');
+            formattedLines.push(`<li style="margin-bottom: 0.6rem;">${itemText}</li>`);
+            continue;
+          }
+
+          // Standalone / Paragraph
+          if (inList) {
+            formattedLines.push('</ul>');
+            inList = false;
+          }
+          if (inOrderedList) {
+            formattedLines.push('</ol>');
+            inOrderedList = false;
+          }
+
+          if (tr) {
+            const arChars = (tr.match(/[\u0600-\u06FF]/g) || []).length;
+            if (arChars > 8 && arChars >= (tr.match(/[a-zA-Z]/g) || []).length) {
+              formattedLines.push(`
+                <div class="summary-arabic-quote-box" dir="rtl">
+                  <span class="arabic-text-amiri-gold" dir="rtl">${tr}</span>
+                </div>
+              `);
+            } else {
+              formattedLines.push(`<p style="margin-bottom: 0.75rem; line-height: 1.75;">${tr}</p>`);
             }
           }
         }
         if (inList) formattedLines.push('</ul>');
+        if (inOrderedList) formattedLines.push('</ol>');
 
         let finalHtml = formattedLines.join('\n');
 
@@ -889,6 +944,19 @@ document.addEventListener('DOMContentLoaded', () => {
             <div style="color: var(--text-main); font-size: 0.98rem;">
               ${finalHtml}
             </div>
+            ${isSubScope ? `
+            <div class="summary-footer-nav">
+              <button class="summary-nav-btn" id="btnPrevSubSummary" ${state.currentSubtopic > 0 ? '' : 'disabled'} title="Pergi ke ringkasan subtajuk sebelumnya">
+                <span>«</span> Subtajuk Sebelumnya
+              </button>
+              <button class="summary-jump-btn" id="btnJumpToFullText" title="Buka huraian penuh subtajuk ini dalam kitab">
+                <span>📖</span> Baca Teks Penuh Subtajuk Ini
+              </button>
+              <button class="summary-nav-btn" id="btnNextSubSummary" ${state.currentSubtopic < ch.subtopics.length - 1 ? '' : 'disabled'} title="Pergi ke ringkasan subtajuk seterusnya">
+                Subtajuk Seterusnya <span>»</span>
+              </button>
+            </div>
+            ` : ''}
           </div>
         `;
       } else {
@@ -918,6 +986,36 @@ document.addEventListener('DOMContentLoaded', () => {
           e.preventDefault();
           state.summaryScope = 'chapter';
           localStorage.setItem('alraqaiq_summary_scope', 'chapter');
+          renderContent();
+          window.scrollTo({ top: 0, behavior: 'smooth' });
+        });
+      }
+
+      // Event listeners for Subtopic Footer Navigation & Quick Jump
+      const btnJump = summaryBox.querySelector('#btnJumpToFullText');
+      if (btnJump) {
+        btnJump.addEventListener('click', (e) => {
+          e.preventDefault();
+          state.viewMode = 'full';
+          localStorage.setItem('alraqaiq_view_mode', 'full');
+          renderContent();
+          window.scrollTo({ top: 0, behavior: 'smooth' });
+        });
+      }
+      const btnPrevSub = summaryBox.querySelector('#btnPrevSubSummary');
+      if (btnPrevSub && state.currentSubtopic > 0) {
+        btnPrevSub.addEventListener('click', (e) => {
+          e.preventDefault();
+          state.currentSubtopic--;
+          renderContent();
+          window.scrollTo({ top: 0, behavior: 'smooth' });
+        });
+      }
+      const btnNextSub = summaryBox.querySelector('#btnNextSubSummary');
+      if (btnNextSub && state.currentSubtopic < ch.subtopics.length - 1) {
+        btnNextSub.addEventListener('click', (e) => {
+          e.preventDefault();
+          state.currentSubtopic++;
           renderContent();
           window.scrollTo({ top: 0, behavior: 'smooth' });
         });

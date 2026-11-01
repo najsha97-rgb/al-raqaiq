@@ -70,24 +70,30 @@
       6. **Kalimah yang mencegah daripada kebinasaan** (*kalimah tarudduh 'an radan*).
       7. **Meninggalkan dosa kerana dorongan rasa malu** (*tark al-żanb ḥayā'an*).
       8. **Meninggalkan dosa kerana rasa takut kepada Allah SWT** (*tark al-żanb khasy-yatan*).
+    * 🔑 **Kunci Amal:** Melazimi masjid qaryah dan saf awal sebagai pangkalan penyatuan saf, tarbiah hati, dan kubu ukhuwah para da'i.
   * **• Solat, Zikir dan Tasbih:**
     * Amalan solat, zikir, dan tasbih merupakan bekal rohani paling utama bagi da'i dalam mengangkat kelemahan dan kefakiran dirinya di hadapan Allah.
     * Menghayati bait Abdullah bin al-Mubarak: merebut dua rakaat dan menukar kata-kata batil kepada tasbih, serta wasiat Hasan al-Banna tentang saat hening bermunajat harian.
+    * 🔑 **Kunci Amal:** Rebut dua rakaat pada saat lapang dan tukar kalimah lagho kepada tasbih demi menyuburkan roh jihad.
   * **• Tahap-Tahap Merealisasikan Matlamat Ubudiah:**
     * Taujihat agung Imam al-Maududi berkenaan manhaj bertahap-tahap (*al-tadarruj*) Rasulullah SAW dalam merealisasikan ubudiah di muka bumi:
       1. **Menanam & Memantapkan Keimanan (Akidah):** Menyeru manusia kepada iman dan memancangkannya kukuh di dalam hati sebelum sebarang tuntutan lain.
       2. **Tarbiah Ketaatan Jiwa (Islam, Takwa & Ihsan):** Membina ketaatan praktikal, kebersihan akhlak, dan kecintaan serta kesetiaan mutlak kepada Allah.
       3. **Menegakkan Sistem Soleh & Meruntuhkan Jahiliah:** Menggerakkan amal tersusun berasaskan syariat Ilahi bagi menggantikan sistem kebatilan.
       4. **Penyempurnaan Adab & Syiar Zahir:** Mengatur penampilan luaran dan tatatertib sopan—ibarat meleburkan emas sebelum mencetaknya menjadi dinar, dan melatih perajurit sebelum memakaikan pakaian seragam.
+    * 🔑 **Kunci Amal:** Utamakan pembinaan akidah dan kebersihan jiwa kader sebelum mengejar simbol zahir dan retorik kekuasaan.
   * **• Sahutlah Seruan Nabimu SAW:**
     * Menyuburkan jiwa dengan zikir dan doa harian; bukan zikir lisan yang kosong, tetapi zikir yang menghidupkan muraqabah.
     * Solat fardhu berjemaah di masjid adalah nadi utama yang membezakan pejuang ikhlas dengan penuntut keselesaan duniawi.
+    * 🔑 **Kunci Amal:** Hidupkan doa dan wirid harian sebagai perisai muraqabah daripada penyakit lena dan lalai.
   * **• Keutamaan Golongan Terdahulu Menjaga Solat:**
     * Menyorot teladan para sahabat dan tabi'in (seperti Sa'id bin al-Musayyab yang tidak pernah terlepas takbiratul ihram selama 40 tahun).
     * Tangisan para salaf tatkala terlepas solat berjemaah mencerminkan kepekaan hati yang hidup.
+    * 🔑 **Kunci Amal:** Pelihara takbiratul ihram solat berjemaah dan rasai kerugian jiwa tatkala terlepas saf pertama.
   * **• Dakwah yang Menimba Pengajaran daripada Nabi Daud AS:**
     * Rahsia kekuatan kerajaan Nabi Daud AS ialah baginda seorang raja yang sentiasa merintih (*awwāb*), banyak bertasbih, dan bangun pada sebahagian malam.
     * Amaran keras terhadap "syaitan kelalaian" yang cuba mencuri waktu-waktu sujud seorang da'i di sebalik kesibukan kerja-kerja teknikal harakah.
+    * 🔑 **Kunci Amal:** Sandarkan keteguhan kuasa dan pengaruh dakwah kepada kehebatan munajat, tasbih, dan sujud kepada Allah SWT.
 
 ---
 

@@ -129,6 +129,8 @@
     6. **Kalimah yang mencegah daripada kebinasaan** (*kalimah tarudduh 'an radan*).
     7. **Meninggalkan dosa kerana dorongan rasa malu** (*tark al-żanb ḥayā'an*).
     8. **Meninggalkan dosa kerana rasa takut kepada Allah SWT** (*tark al-żanb khasy-yatan*).
+* **5. Kunci Amal Haraki:**  
+  🔑 Melazimi masjid qaryah dan saf awal sebagai pangkalan penyatuan saf, tarbiah hati, dan kubu ukhuwah para da'i.
 
 ---
 
@@ -141,6 +143,8 @@
   Hati menjadi keras, mudah bertelingkah dalam mesyuarat, dan hilang daya ketahanan rohani tatkala berdepan tekanan ujian fitnah.
 * **4. Preskripsi Penawar (*Fiqh as-Sulūk*) & Petunjuk Salaf:**  
   *Wasiat Abdullah bin al-Mubarak & Hasan al-Banna:* Rebutlah dua rakaat mendekatkan diri kepada Allah tatkala berkesempatan rehat, dan apabila terdorong bercakap kebatilan, gantikanlah dengan tasbih! Mengambil saat hening harian untuk bermunajat dan menginsafi kekurangan diri menurut panduan Said Nursi.
+* **5. Kunci Amal Haraki:**  
+  🔑 Rebut dua rakaat pada saat lapang dan tukar kalimah lagho kepada tasbih demi menyuburkan roh jihad.
 
 ---
 
@@ -157,6 +161,8 @@
   2. **Tarbiah Rohani (Islam, Takwa & Ihsan):** Menyuburkan ketaatan amali, kesucian akhlak, dan kecintaan mutlak kepada Allah SWT.
   3. **Penegakan Sistem Soleh:** Menggerakkan saf mukmin yang ikhlas untuk menggantikan sistem jahiliah dengan syariat Ilahi.
   4. **Penyempurnaan Adab & Syiar Zahir:** Mengatur adab penampilan lahiriah setelah jiwa disucikan—ibarat meleburkan emas sebelum mencap dinar, dan melatih perajurit sebelum memakaikan seragam perang.
+* **5. Kunci Amal Haraki:**  
+  🔑 Utamakan pembinaan akidah dan kebersihan jiwa kader sebelum mengejar simbol zahir dan retorik kekuasaan.
 
 ---
 
@@ -169,6 +175,8 @@
   Kata-kata da'i hilang wibawa dan keberkatan (*barakah*); mesyuarat dan perbincangan haraki dipenuhi ketegangan akal tanpa naungan sakinah malaikat.
 * **4. Preskripsi Penawar (*Fiqh as-Sulūk*) & Petunjuk Salaf:**  
   Menghidupkan zikir yang mencetuskan muraqabah. Menyandarkan setiap ayunan langkah kepada istighfar dan tasbih sepertimana para anbiya' mendahului cabaran umat dengan istighfar.
+* **5. Kunci Amal Haraki:**  
+  🔑 Hidupkan doa dan wirid harian sebagai perisai muraqabah daripada penyakit lena dan lalai.
 
 ---
 
@@ -181,6 +189,8 @@
   Masjid yang menjadi markas penyatuan roh para rijal bertukar sunyi daripada saf-saf pejuang dakwah, memutuskan hubungan ukhuwah batiniah yang terbina di bawah panji sujud bersama.
 * **4. Preskripsi Penawar (*Fiqh as-Sulūk*) & Petunjuk Salaf:**  
   *Teladan Sa'id bin al-Musayyab rahimahullah*: Mencontohi tokoh salaf yang selama 40 tahun muazzin tidak pernah melaungkan azan melainkan beliau telah sedia berada di dalam masjid, dan tidak pernah melihat belakang kepala jemaah lain kerana sentiasa di saf pertama. Menangisi luputnya takbiratul ihram laksana tangisan ditimpa musibah kematian anak.
+* **5. Kunci Amal Haraki:**  
+  🔑 Pelihara takbiratul ihram solat berjemaah dan rasai kerugian jiwa tatkala terlepas saf pertama.
 
 ---
 
@@ -193,6 +203,8 @@
   Kekuasaan yang dibina menjadi rapuh, mudah diruntuhkan oleh konspirasi musuh kerana hilangnya pertolongan ghaib (*al-madad al-ilahi*) yang hanya turun kepada mereka yang banyak bertasbih.
 * **4. Preskripsi Penawar (*Fiqh as-Sulūk*) & Petunjuk Salaf:**  
   *Menggabungkan Sifat Pemimpin & Ahli Ibadah (Awwāb)* — Nabi Daud AS adalah raja yang menakluki musuh di medan perang, namun baginda sentiasa menangis merintih di mihrabnya, membahagikan malamnya untuk solat dan siangnya untuk berpuasa. Da'i wajib memperkukuh saf kekuasaan dengan memperbanyakkan tasbih dan tahajud.
+* **5. Kunci Amal Haraki:**  
+  🔑 Sandarkan keteguhan kuasa dan pengaruh dakwah kepada kehebatan munajat, tasbih, dan sujud kepada Allah SWT.
 
 ---
 
