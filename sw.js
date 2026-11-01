@@ -1,4 +1,4 @@
-const CACHE_NAME = 'alraqaiq-cache-v45-summary-scope';
+const CACHE_NAME = 'alraqaiq-cache-v46-spacing-fix';
 const ASSETS_TO_CACHE = [
   './',
   './index.html',

@@ -771,22 +771,26 @@ document.addEventListener('DOMContentLoaded', () => {
           .replace(/Halaman\s+Asal[ \t\d–—\-]+/gi, '')
           .replace(/[ \t]*\(MS\s+[\d\s–—\-]+\)/gi, '');
 
+        // Helper: Format hanya perkataan Arab dengan Amiri Gold tanpa membuang jarak perkataan Latin
+        const formatArabicInlineAmiri = (str, fontSize = '1.25em') => {
+          const arRegex = /[\u0600-\u06FF\u0750-\u077F\u08A0-\u08FF\uFB50-\uFDFF\uFE70-\uFEFF\u064B-\u0652]+(?:\s+[\u0600-\u06FF\u0750-\u077F\u08A0-\u08FF\uFB50-\uFDFF\uFE70-\uFEFF\u064B-\u0652]+)*/g;
+          return str.replace(arRegex, function(ar) {
+            if (!/[\u0600-\u06FF]/.test(ar)) return ar;
+            return `<span class="arabic-text-amiri-gold" dir="rtl" style="font-family: 'Amiri', serif !important; color: var(--gold-light, #fde047) !important; font-style: normal !important; font-weight: 700 !important; font-size: ${fontSize} !important; display: inline-block;">${ar.trim()}</span>`;
+          });
+        };
+
         // Format subheaders bertanda ### *(Tajuk Transliterasi - Teks Arab)*
         // Asingkan teks Arab supaya fon Amiri Gold, TEGAK (tidak condong/italic)
         html = html.replace(/^###\s*\*?\((.*?)\)\*?\s*$/gm, function(match, inner) {
           let cleanInner = inner.replace(/[ \t]*\|[ \t]*Halaman\s+Asal[ \t\d–—\-]+/gi, '');
-          // Pecahkan teks Arab dan Latin
-          let formattedInner = cleanInner.replace(/([\u0600-\u06FF\u0750-\u077F\u08A0-\u08FF\uFB50-\uFDFF\uFE70-\uFEFF\s\u064B-\u0652]+)/g, function(ar) {
-            return '<span class="arabic-text-amiri-gold" dir="rtl" style="font-family: \'Amiri\', serif !important; color: var(--gold-light, #fde047) !important; font-style: normal !important; font-weight: 700 !important; font-size: 1.25em !important; display: inline-block;">' + ar.trim() + '</span>';
-          });
+          let formattedInner = formatArabicInlineAmiri(cleanInner, '1.25em');
           return '<div class="summary-subheading-banner" style="font-size: 1.05rem; color: var(--emerald-light, #34d399); font-weight: 600; margin: 0.4rem 0 0.9rem 0;">(' + formattedInner + ')</div>';
         });
 
         html = html.replace(/^###\s*(.*?)$/gm, function(match, inner) {
           let cleanInner = inner.replace(/[ \t]*\|[ \t]*Halaman\s+Asal[ \t\d–—\-]+/gi, '');
-          let formattedInner = cleanInner.replace(/([\u0600-\u06FF\u0750-\u077F\u08A0-\u08FF\uFB50-\uFDFF\uFE70-\uFEFF\s\u064B-\u0652]+)/g, function(ar) {
-            return '<span class="arabic-text-amiri-gold" dir="rtl" style="font-family: \'Amiri\', serif !important; color: var(--gold-light, #fde047) !important; font-style: normal !important; font-weight: 700 !important; font-size: 1.25em !important; display: inline-block;">' + ar.trim() + '</span>';
-          });
+          let formattedInner = formatArabicInlineAmiri(cleanInner, '1.25em');
           return '<h4 style="color: var(--gold-light, #fde047); margin-top: 1.2rem; margin-bottom: 0.4rem; font-size: 1.05rem; font-weight: 700;">' + formattedInner + '</h4>';
         });
 
@@ -796,9 +800,7 @@ document.addEventListener('DOMContentLoaded', () => {
         // Format italic sambil melindungi teks Arab agar TIDAK menjadi condong
         html = html.replace(/(?<!\*)\*(?!\*)(.*?)(?<!\*)\*(?!\*)/g, function(match, p1) {
           if (/[\u0600-\u06FF]/.test(p1)) {
-            return p1.replace(/([\u0600-\u06FF\u0750-\u077F\u08A0-\u08FF\uFB50-\uFDFF\uFE70-\uFEFF\s\u064B-\u0652]+)/g, function(ar) {
-              return '<span class="arabic-text-amiri-gold" dir="rtl" style="font-family: \'Amiri\', serif !important; color: var(--gold-light, #fde047) !important; font-style: normal !important; font-weight: 700 !important;">' + ar.trim() + '</span>';
-            });
+            return formatArabicInlineAmiri(p1, '1.15em');
           }
           return '<em>' + p1 + '</em>';
         });
@@ -2044,8 +2046,11 @@ document.addEventListener('DOMContentLoaded', () => {
     str = str.replace(/:\s*>\s*/g, ': ').replace(/\n>\s*/g, '\n');
     let out = str.replace(/\*(.*?)\*/g, (match, p1) => {
       if (/[\u0600-\u06FF]/.test(p1)) {
-        return p1.replace(/([\u0600-\u06FF\u0750-\u077F\u08A0-\u08FF\uFB50-\uFDFF\uFE70-\uFEFF\s\u064B-\u0652]+)/g,
-          '<span class="arabic-text-amiri-gold" dir="rtl" style="font-family: \'Amiri\', serif !important; color: var(--gold-light, #fde047) !important; font-style: normal !important; font-weight: 700 !important; font-size: 1.15em !important; display: inline-block;">$1</span>');
+        const arWordRegex = /[\u0600-\u06FF\u0750-\u077F\u08A0-\u08FF\uFB50-\uFDFF\uFE70-\uFEFF\u064B-\u0652]+(?:\s+[\u0600-\u06FF\u0750-\u077F\u08A0-\u08FF\uFB50-\uFDFF\uFE70-\uFEFF\u064B-\u0652]+)*/g;
+        return p1.replace(arWordRegex, function(ar) {
+          if (!/[\u0600-\u06FF]/.test(ar)) return ar;
+          return `<span class="arabic-text-amiri-gold" dir="rtl" style="font-family: 'Amiri', serif !important; color: var(--gold-light, #fde047) !important; font-style: normal !important; font-weight: 700 !important; font-size: 1.15em !important; display: inline-block;">${ar.trim()}</span>`;
+        });
       }
       return `<em>${p1}</em>`;
     });
