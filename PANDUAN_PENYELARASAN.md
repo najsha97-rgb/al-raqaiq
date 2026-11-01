@@ -559,3 +559,14 @@ Telah ditetapkan bahawa terjemahan rasmi bagi judul-judul karya Syeikh Muhammad 
 * **PWA Cache:** Dinaik taraf ke **`v53`** (`alraqaiq-cache-v53-kunci-amal-single-icon`).
 
 
+### 52. Pemulihan Ralat Sintaks Regex & 'Hang/Loading' Pada Web PWA (PWA v54)
+* **Latar Belakang:** Dikesan bahawa web PWA tersangkut pada animasi pemuatan (*hang / loading spinner*) sejurus selepas penaiktarafan v53.
+* **Punca Isu:** Semasa penulisan skrip python regex italic pada v53, urutan aksara `\n` telah ditafsirkan menjadi baris baharu literal (*literal newline*) yang membahagikan ungkapan RegExp JavaScript kepada dua baris, mencetuskan `SyntaxError: Invalid regular expression: missing /` dalam `app.js`. Ini menghalang `app.js` daripada selesai dimuatkan.
+* **Ketetapan Penyelarasan:**
+  1. Membetulkan baris regex `app.js` kepada format selamat satu baris: `/(?<!\*)\*(?!\s)([^\*\r\n]+?)(?<!\s)\*(?!\*)/g`.
+  2. Mengesahkan sintaks kod secara automatik menerusi ujian kompilasi Node.js (`node -c al-Raqaiq/js/app.js` -> 0 Ralat).
+  3. Memastikan animasi pemuatan (*spinner*) ditutup dengan serta-merta sebaik sahaja data dimuatkan ke DOM.
+* **PWA Cache:** Dinaik taraf ke **`v54`** (`alraqaiq-cache-v54-fix-loading-syntax`).
+
+
+
