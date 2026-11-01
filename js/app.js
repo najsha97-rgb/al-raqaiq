@@ -797,8 +797,9 @@ document.addEventListener('DOMContentLoaded', () => {
         // Format bold
         html = html.replace(/\*\*(.*?)\*\*/g, '<strong style="color: var(--gold-light);">$1</strong>');
 
-        // Format italic sambil melindungi teks Arab agar TIDAK menjadi condong
-        html = html.replace(/(?<!\*)\*(?!\*)(.*?)(?<!\*)\*(?!\*)/g, function(match, p1) {
+        // Format italic sambil melindungi teks Arab agar TIDAK menjadi condong dan TIDAK memakan bullet '*' di pangkal baris
+        html = html.replace(/(?<!\*)\*(?!\s)([^\*
+]+?)(?<!\s)\*(?!\*)/g, function(match, p1) {
           if (/[\u0600-\u06FF]/.test(p1)) {
             return formatArabicInlineAmiri(p1, '1.15em');
           }
@@ -828,7 +829,8 @@ document.addEventListener('DOMContentLoaded', () => {
               formattedLines.push('</ol>');
               inOrderedList = false;
             }
-            let cleanKunci = tr.replace(/^[•\*\-\s]*🔑\s*/, '').trim();
+            // Buang semua lambang kunci dari teks badan agar hanya 1 lambang kunci dipamerkan pada ikon kotak
+            let cleanKunci = tr.replace(/🔑/gu, '').replace(/^<em[^>]*>\s*<\/em>/gi, '').replace(/^[•\*\-\s•]+/, '').trim();
             formattedLines.push(`
               <div class="summary-kunci-amal-box">
                 <span class="kunci-amal-icon">🔑</span>

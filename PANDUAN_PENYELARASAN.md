@@ -544,3 +544,18 @@ Telah ditetapkan bahawa terjemahan rasmi bagi judul-judul karya Syeikh Muhammad 
   3. **Visual PWA:** Setiap subtajuk dalam mod Ringkasan kini mempamerkan kad seruan eksklusif bersempadan emas-zamrud `summary-kunci-amal-box` yang menyuntik azam amali da'i sebaik sahaja menelaah intisari.
 * **PWA Cache:** Dinaik taraf ke **`v52`** (`alraqaiq-cache-v52-kunci-amal-101`).
 
+
+### 51. Penyahduaan Lambang Kunci Bertindan & Pemurnian Penguraian Teks Kunci Amal (PWA v53)
+* **Latar Belakang:** Dikesan bahawa pada beberapa subtajuk (seperti Mukadimah Subtajuk 1 dan 5), lambang kunci (🔑) muncul secara bertindan / berulang dua kali (`🔑 🔑 Kunci Amal: ...`) di dalam kotak seruan amalan.
+* **Punca Isu Teknis:**
+  1. Ungkapan nalar (*regex*) penukaran teks condong (*italic*) sebelum ini memadankan sebarang pasangan asterik tunggal `*(.*?)*` secara rakus merentas baris tanpa mengecualikan tanda bullet `* ` di permulaan baris.
+  2. Apabila baris Kunci Amal mengandungi istilah Arab/transliterasi bertanda condong seperti `(*tazkiyatun nafs*)` atau `(*al-raqā'iq*)`, asterisk bullet di pangkal baris terikat dengan tanda condong pertama dan terbungkus ke dalam tag `<em>...</em>`.
+  3. Akibatnya, baris tersebut bermula dengan `<em> 🔑 ...` dan bukannya `* 🔑 ...`, menyebabkan logik `tr.replace(/^[•\*\-\s]*🔑\s*/, '')` gagal memotong emoji kunci daripada teks badan.
+  4. Ini menghasilkan dua lambang kunci: satu daripada ikon bingkai kotak `<span class="kunci-amal-icon">🔑</span>` dan satu lagi daripada teks badan `${cleanKunci}` yang tidak terpadam.
+* **Ketetapan Penyelarasan:**
+  1. **Pembaikan Regex Italic:** Memperketat padanan condong kepada `(?<!\*)\*(?!\s)([^\*\n]+?)(?<!\s)\*(?!\*)` agar tanda bullet `* ` (diikuti jarak) tidak lagi dimakan oleh parser condong.
+  2. **Pembersihan Mutlak Lambang Kunci (`tr.replace(/🔑/gu, '')`):** Memastikan teks badan Kunci Amal sentiasa bersih 100% daripada sebarang emoji kunci berulang sebelum dimasukkan ke dalam elemen `${cleanKunci}`.
+  3. **Imbasan 100%:** Imbasan menyeluruh ke atas kesemua 101 subtajuk mengesahkan kini hanya terdapat **tepat 1 lambang kunci sahaja** yang tersusun kemas dan estetik pada setiap kotak Kunci Amal.
+* **PWA Cache:** Dinaik taraf ke **`v53`** (`alraqaiq-cache-v53-kunci-amal-single-icon`).
+
+
