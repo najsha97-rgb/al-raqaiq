@@ -599,7 +599,8 @@ Telah ditetapkan bahawa terjemahan rasmi bagi judul-judul karya Syeikh Muhammad 
   2. **Kad Paparan Seni Epigraf (`c1_s0`):** Ditukar kepada `"Penjara" Harapan` pada teks tajuk Latin kad dan atribut `alt`.
   3. **Lukisan Vektor SVG (`epigraf_penjara_harapan.svg`):** Elemen teks Latin utama dikemas kini kepada `"Penjara" Harapan`.
   4. **Dokumentasi & Manuskrip:** Seluruh dokumen Markdown (`TERJEMAHAN_AL-RAQAIQ.md`, `INTISARI_ILMIAH_LENGKAP_AL_RAQAIQ.md`, `INTISARI_SUBTOPIK_FIQH_HARAKI_AL_RAQAIQ.md`) dan fail Microsoft Word (`.docx`) dikemas kini sepenuhnya.
-  5. **PWA Cache:** Dinaik taraf ke **`v57`** (`alraqaiq-cache-v57-penjara-quotes`).
+  5. **Tajuk Bab Epilog pada Bar Sisi:** Tajuk bab epilog dikemas kini daripada `PENJARA HARAPAN` kepada `\"PENJARA\" HARAPAN` agar label menu bar sisi memaparkan `🖼️ Epilog: \"PENJARA\" HARAPAN` secara seragam.
+  6. **PWA Cache:** Dinaik taraf ke **`v58`** (`alraqaiq-cache-v58-epilog-penjara-quotes`).
 
 
 
