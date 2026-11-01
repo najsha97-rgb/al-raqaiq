@@ -38,6 +38,7 @@ document.addEventListener('DOMContentLoaded', () => {
     currentChapter: 0,
     currentSubtopic: 0,
     layer: localStorage.getItem('alraqaiq_layer') || 'layer1', // 'layer1' = Lengkap, 'layer2' = Ringkasan, 'layer3' = Mutiara Hikmah
+    summaryScope: localStorage.getItem('alraqaiq_summary_scope') || 'subtopic', // 'subtopic' (ringkasan subtajuk sahaja) atau 'chapter' (ringkasan keseluruhan bab)
     theme: localStorage.getItem('alraqaiq_theme') || 'dark',
     fontSize: parseFloat(localStorage.getItem('alraqaiq_fontsize') || '1.05'),
     bookmarks: JSON.parse(localStorage.getItem('alraqaiq_bookmarks') || '[]'),
@@ -119,6 +120,8 @@ document.addEventListener('DOMContentLoaded', () => {
   if (btnModalRingkasan) {
     btnModalRingkasan.addEventListener('click', () => {
       closeChapterModal();
+      state.summaryScope = 'chapter';
+      localStorage.setItem('alraqaiq_summary_scope', 'chapter');
       navigateTo(modalActiveChapterIdx, 0, 'layer2');
       if (window.innerWidth <= 900) toggleMobileNav(false);
     });
@@ -246,6 +249,10 @@ document.addEventListener('DOMContentLoaded', () => {
         pill.addEventListener('click', (e) => {
           e.stopPropagation();
           const targetMode = pill.getAttribute('data-mode');
+          if (targetMode === 'layer2') {
+            state.summaryScope = 'chapter';
+            localStorage.setItem('alraqaiq_summary_scope', 'chapter');
+          }
           navigateTo(chIdx, 0, targetMode);
           if (window.innerWidth <= 900) {
             toggleMobileNav(false);
@@ -278,6 +285,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
         subBtn.addEventListener('click', (e) => {
           e.stopPropagation();
+          state.summaryScope = 'subtopic';
+          localStorage.setItem('alraqaiq_summary_scope', 'subtopic');
           navigateTo(chIdx, sIdx);
           if (window.innerWidth <= 900) {
             toggleMobileNav(false);
@@ -454,9 +463,15 @@ document.addEventListener('DOMContentLoaded', () => {
     }
     const shortBadgeSubTitle = cleanSubTitleForBadge.length > 32 ? cleanSubTitleForBadge.substring(0, 30) + '...' : cleanSubTitleForBadge;
     
-    modeBadge.textContent = state.layer === 'layer1' 
-      ? `Versi Lengkap (${sub.paragraphs ? sub.paragraphs.length : 0} Perenggan${subFnCount > 0 ? ` & ${subFnCount} Nota Kaki` : ''})` 
-      : `Ringkasan Subtajuk ${subDisplayNumber}: ${shortBadgeSubTitle}`;
+    if (state.layer === 'layer1') {
+      modeBadge.textContent = `Versi Lengkap (${sub.paragraphs ? sub.paragraphs.length : 0} Perenggan${subFnCount > 0 ? ` & ${subFnCount} Nota Kaki` : ''})`;
+    } else {
+      if (state.summaryScope === 'chapter') {
+        modeBadge.textContent = `Ringkasan Penuh: ${ch.number} - ${ch.title}`;
+      } else {
+        modeBadge.textContent = `Ringkasan Subtajuk ${subDisplayNumber}: ${shortBadgeSubTitle}`;
+      }
+    }
 
     // Update bookmark status
     updateBookmarkBtnStatus();
@@ -720,9 +735,33 @@ document.addEventListener('DOMContentLoaded', () => {
       const summaryBox = document.createElement('div');
       summaryBox.className = 'summary-container';
 
-                        const summaryRaw = (sub && sub.summary && sub.summary.trim() !== '') 
-        ? sub.summary 
-        : (ch && ch.summary && ch.summary.trim() !== '' ? ch.summary : '');
+      const isSubScope = (state.summaryScope !== 'chapter');
+      let summaryRaw = '';
+
+      if (isSubScope) {
+        summaryRaw = (sub && sub.summary && sub.summary.trim() !== '') 
+          ? sub.summary 
+          : (ch && ch.summary && ch.summary.trim() !== '' ? ch.summary : '');
+      } else {
+        summaryRaw = (ch && ch.summary && ch.summary.trim() !== '') 
+          ? ch.summary 
+          : (sub && sub.summary && sub.summary.trim() !== '' ? sub.summary : '');
+      }
+
+      // Prepend Scope Switcher Toolbar
+      const scopeBar = document.createElement('div');
+      scopeBar.className = 'summary-scope-toggle-bar';
+      scopeBar.innerHTML = `
+        <button class="summary-scope-btn ${isSubScope ? 'active' : ''}" id="btnScopeSubtopic" type="button" title="Papar ringkasan khusus subtajuk ini sahaja">
+          <span class="scope-icon">📌</span>
+          <span class="scope-label">Ringkasan Subtajuk Ini</span>
+        </button>
+        <button class="summary-scope-btn ${!isSubScope ? 'active' : ''}" id="btnScopeChapter" type="button" title="Papar ringkasan penuh dan menyeluruh satu bab">
+          <span class="scope-icon">📚</span>
+          <span class="scope-label">Ringkasan Penuh Bab</span>
+        </button>
+      `;
+      summaryBox.appendChild(scopeBar);
 
       if (summaryRaw && summaryRaw.trim() !== '') {
         // Padamkan sebarang baki Halaman Asal atau rujukan muka surat secara mutlak
@@ -859,6 +898,28 @@ document.addEventListener('DOMContentLoaded', () => {
         `;
       }
       contentBody.appendChild(summaryBox);
+
+      // Event listeners for scope toggle buttons
+      const btnScopeSub = summaryBox.querySelector('#btnScopeSubtopic');
+      const btnScopeCh = summaryBox.querySelector('#btnScopeChapter');
+      if (btnScopeSub) {
+        btnScopeSub.addEventListener('click', (e) => {
+          e.preventDefault();
+          state.summaryScope = 'subtopic';
+          localStorage.setItem('alraqaiq_summary_scope', 'subtopic');
+          renderContent();
+          window.scrollTo({ top: 0, behavior: 'smooth' });
+        });
+      }
+      if (btnScopeCh) {
+        btnScopeCh.addEventListener('click', (e) => {
+          e.preventDefault();
+          state.summaryScope = 'chapter';
+          localStorage.setItem('alraqaiq_summary_scope', 'chapter');
+          renderContent();
+          window.scrollTo({ top: 0, behavior: 'smooth' });
+        });
+      }
     }
 
     // Paparan Jalur Mutiara Hikmah Bab / Bahagian Ini (jika ada mutiara hikmah berkaitan)

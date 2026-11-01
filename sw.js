@@ -1,4 +1,4 @@
-const CACHE_NAME = 'alraqaiq-cache-v44-stat-fix';
+const CACHE_NAME = 'alraqaiq-cache-v45-summary-scope';
 const ASSETS_TO_CACHE = [
   './',
   './index.html',

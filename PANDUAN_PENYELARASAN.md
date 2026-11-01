@@ -456,3 +456,16 @@ Telah ditetapkan bahawa terjemahan rasmi bagi judul-judul karya Syeikh Muhammad 
   - Jumlah Perenggan: 919 (100% terpelihara)
   - Jumlah Nota Kaki: 181 (100% terpelihara)
 * **PWA Cache:** Dinaik taraf ke **`v44`** (`alraqaiq-cache-v44-stat-fix`).
+
+
+### 45. Pelaksanaan Dwi-Skop Ringkasan: Pengasingan Ringkasan Subtajuk Mandiri & Ringkasan Penuh Bab
+* **Latar Belakang:** Sebelum ini, pemilihan mod "Ringkasan" pada mana-mana subtajuk memaparkan keseluruhan ringkasan bab (`ch.summary`) kerana objek setiap subtajuk belum mempunyai medan `summary` khusus miliknya. Ini menyukarkan pembaca yang hanya mahu meneliti rumusan bagi subtajuk tertentu yang sedang dibaca.
+* **Ketetapan Penyelarasan:**
+  1. **Pengisian Medan `subtopic.summary` Kanonikal:** Skrip penjana kanonikal (`build_canonical_82_ecosystem.py`) dikemaskini dengan fungsi `extract_subtopic_summary` berkeupayaan normalisasi teks bagi mengekstrak dan memadankan intisari ilmiah khusus bagi kesemua 101 subtajuk (0 subtajuk tertinggal/kosong).
+  2. **Dwi-Togol Skop Ringkasan (UI):** Di bahagian atas paparan ringkasan, disediakan togol kapsul melengkung (*scope toggle bar*):
+     - `[ 📌 Ringkasan Subtajuk Ini ]` *(Aktif secara lalai apabila menavigasi subtajuk)* — Memaparkan rumusan padat subtajuk berkenaan sahaja.
+     - `[ 📚 Ringkasan Penuh Bab ]` — Memaparkan ringkasan am bab bersama senarai intisari menyeluruh semua subtajuk dalam bab itu.
+  3. **Penyelarasan Logik Navigasi (`app.js`):**
+     - Klik butang `Ringkasan` pada peringkat bab (modal bab atau butang pil di menu sisi) akan membuka skop ringkasan penuh bab.
+     - Klik pada mana-mana nama subtajuk semasa berada dalam mod ringkasan (atau butang *next/prev*) akan terus mengekalkan fokus pada ringkasan subtajuk tersebut.
+  4. **PWA Cache:** Dinaik taraf ke **`v45`** (`alraqaiq-cache-v45-summary-scope`).
