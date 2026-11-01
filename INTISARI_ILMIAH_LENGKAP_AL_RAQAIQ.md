@@ -5,7 +5,7 @@
 
 ---
 
-## 📌 EPILOG / EPIGRAF: PENJARA HARAPAN
+## 📌 EPILOG / EPIGRAF: "PENJARA" HARAPAN
 ### *(Ḥiṣār al-Amal - حِصَارُ الأَمَلِ)*
 
 * **Ringkasan Epilog / Epigraf:**
@@ -295,7 +295,7 @@
 ---
 
 ## 📌 BAB 7: "PENJARA" HARAPAN
-### *(Penjara Harapan - حِصَارُ الأَمَلِ)*
+### *("Penjara" Harapan - حِصَارُ الأَمَلِ)*
 
 * **Ringkasan Am Bab 7:**
   Angan-angan panjang (*tūl al-amal*) adalah racun pembunuh yang melalaikan manusia daripada persiapan akhirat. Syeikh al-Rasyid melukiskan bagaimana angan-angan mengepung da'i dengan ilusi masa depan duniawi, lalu mencadangkan penawarnya: menghidupkan ingatan terhadap mati dan merasai betapa hampirnya ajal.

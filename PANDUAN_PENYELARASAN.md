@@ -592,6 +592,16 @@ Telah ditetapkan bahawa terjemahan rasmi bagi judul-judul karya Syeikh Muhammad 
   3. **PWA Cache:** Dinaik taraf ke **`v56`** (`alraqaiq-cache-v56-fix-arabic-mojibake`) bagi memaksa pelayar web menyegarkan fail `index.html` dan `sw.js` yang bersih serta-merta.
 
 
+### 55. Penyelarasan Simbol Pengapit Kata Bagi Perkataan "Penjara" (PWA v57)
+* **Latar Belakang:** Perkataan 'Penjara' dalam konsep *Ḥiṣār al-Amal* (حِصَارُ الأَمَلِ) adalah istilah kiasan (metafora) dakwah yang merujuk kepada kepungan dan kurungan angan-angan panjang (*tūl al-amal*) yang mengepung cita-cita manusia. Bagi mengekalkan konsistensi semantik dan estetika dengan Tajuk Utama Bab 7 (`"PENJARA" HARAPAN`), perkataan 'Penjara' hendaklah sentiasa diapit tanda petik `"` pada setiap paparan tajuk, subtajuk, dan kad epigraf visual.
+* **Komponen yang Diselaraskan:**
+  1. **Subtajuk 1 Bab 7:** Ditukar daripada `Penjara Harapan` kepada `"Penjara" Harapan` pada menu bar sisi (sidebar tree), paparan tajuk utama (`#subtopicMainTitle`), dan intisari subtajuk.
+  2. **Kad Paparan Seni Epigraf (`c1_s0`):** Ditukar kepada `"Penjara" Harapan` pada teks tajuk Latin kad dan atribut `alt`.
+  3. **Lukisan Vektor SVG (`epigraf_penjara_harapan.svg`):** Elemen teks Latin utama dikemas kini kepada `"Penjara" Harapan`.
+  4. **Dokumentasi & Manuskrip:** Seluruh dokumen Markdown (`TERJEMAHAN_AL-RAQAIQ.md`, `INTISARI_ILMIAH_LENGKAP_AL_RAQAIQ.md`, `INTISARI_SUBTOPIK_FIQH_HARAKI_AL_RAQAIQ.md`) dan fail Microsoft Word (`.docx`) dikemas kini sepenuhnya.
+  5. **PWA Cache:** Dinaik taraf ke **`v57`** (`alraqaiq-cache-v57-penjara-quotes`).
+
+
 
 
 
