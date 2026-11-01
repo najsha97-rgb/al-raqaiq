@@ -1,4 +1,4 @@
-const CACHE_NAME = 'alraqaiq-cache-v58-epilog-penjara-quotes';
+const CACHE_NAME = 'alraqaiq-cache-v59-tonggak-tarbiah-badge';
 const ASSETS_TO_CACHE = [
   './',
   './index.html',

@@ -603,6 +603,14 @@ Telah ditetapkan bahawa terjemahan rasmi bagi judul-judul karya Syeikh Muhammad 
   6. **PWA Cache:** Dinaik taraf ke **`v58`** (`alraqaiq-cache-v58-epilog-penjara-quotes`).
 
 
+### 56. Penggantian Istilah 'Rukun' Kepada 'Tonggak' Pada Modul Tarbiah (PWA v59)
+* **Latar Belakang & Rasional Fiqh/Tarbiah:** Penggunaan istilah 'Rukun' lebih tepat dan bertepatan dari segi disiplin ilmu fiqh untuk merujuk kepada amalan-amalan asas yang fardu dan wajib (seperti Rukun Islam atau rukun solat yang jika ditinggalkan membatalkan amalan). Sebaliknya, tiga amalan yang diketengahkan di sini (Tilawah al-Quran, Puasa Sunat, dan Sedekah/Infaq) merupakan tonggak amalan sunat (*sunat muakkadah*) dan disiplin rohani tarbiah para da'i.
+* **Ketetapan Penyelarasan:**
+  1. **Lencana Bar Sisi (*Sidebar Badge*):** Ditukar daripada `3 Rukun` kepada `3 Tonggak`.
+  2. **Subtajuk Modal Interaktif:** Ditukar daripada `Tiga Rukun Pembinaan Jiwa...` kepada `Tiga Tonggak Pembinaan Jiwa...`.
+  3. **PWA Cache:** Dinaik taraf ke **`v59`** (`alraqaiq-cache-v59-tonggak-tarbiah-badge`).
+
+
 
 
 
