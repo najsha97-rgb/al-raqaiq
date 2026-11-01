@@ -490,3 +490,19 @@ Telah ditetapkan bahawa terjemahan rasmi bagi judul-judul karya Syeikh Muhammad 
      - `INTISARI_ILMIAH_LENGKAP_AL_RAQAIQ.docx` & `INTISARI_SUBTOPIK_FIQH_HARAKI_AL_RAQAIQ.docx`: Dijana semula dan dimirror ke semua repositori.
      - Pangkalan data `alraqaiq_data.json` & `alraqaiq_data.js`: Mengandungi teks lengkap 8 kurniaan untuk paparan modal ringkasan subtajuk PWA.
   3. **PWA Cache:** Dinaik taraf ke **`v47`** (`alraqaiq-cache-v47-8-kurniaan-masjid`).
+
+
+### 47. Penyenaraian 4 Tahap Merealisasikan Matlamat Ubudiah (Taujihat Imam al-Maududi) dalam Ringkasan Subtajuk Bab 1
+* **Latar Belakang:** Pada Bab 1 Subtajuk 3 (*Tahap-Tahap Merealisasikan Matlamat Ubudiah*), ringkasan sebelum ini hanya memuatkan rumusan am tanpa pecahan tahap. Pengguna memohon agar tahap-tahap tersebut disenaraikan secara ringkas dan dimasukkan ke dalam Ringkasan Subtopik.
+* **Ketetapan Penyelarasan:**
+  1. **Sumber Teks Asal (Taujihat Imam al-Maududi):** 4 Tahap bertahap-tahap (*al-tadarruj*) Rasulullah SAW:
+     1. **Menanam & Memantapkan Keimanan (Akidah):** Menyeru manusia kepada iman dan memancangkannya kukuh di dalam hati sebelum sebarang tuntutan lain.
+     2. **Tarbiah Ketaatan Jiwa (Islam, Takwa & Ihsan):** Membina ketaatan praktikal, kebersihan akhlak, dan kecintaan serta kesetiaan mutlak kepada Allah.
+     3. **Menegakkan Sistem Soleh & Meruntuhkan Jahiliah:** Menggerakkan amal tersusun berasaskan syariat Ilahi bagi menggantikan sistem kebatilan.
+     4. **Penyempurnaan Adab & Syiar Zahir:** Mengatur penampilan luaran dan tatatertib sopan—ibarat meleburkan emas sebelum mencetaknya menjadi dinar, dan melatih perajurit sebelum memakaikan pakaian seragam.
+  2. **Pengemaskinian 7 Lapisan:**
+     - `INTISARI_ILMIAH_LENGKAP_AL_RAQAIQ.md`: Penyenaraian 4 tahap di bawah Bab 1 Subtajuk 3.
+     - `INTISARI_SUBTOPIK_FIQH_HARAKI_AL_RAQAIQ.md`: Penyenaraian 4 tahap pada Poin 4 (Preskripsi Penawar) Bab 1 Subtajuk 3.
+     - `data/alraqaiq_data.json` & `data/alraqaiq_data.js`: Mengandungi teks lengkap 4 tahap untuk paparan modal ringkasan subtajuk PWA.
+     - Dokumen Word `.docx` dijana semula dan dimirror.
+  3. **PWA Cache:** Dinaik taraf ke **`v49`** (`alraqaiq-cache-v49-tahap-ubudiah`).

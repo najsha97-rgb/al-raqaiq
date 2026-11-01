@@ -1,4 +1,4 @@
-const CACHE_NAME = 'alraqaiq-cache-v48-taujihat-fix';
+const CACHE_NAME = 'alraqaiq-cache-v49-tahap-ubudiah';
 const ASSETS_TO_CACHE = [
   './',
   './index.html',

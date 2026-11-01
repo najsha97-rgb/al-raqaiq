@@ -152,7 +152,11 @@
 * **3. Implikasi Terhadap Saf Haraki:**  
   Lahirnya kepimpinan yang rapuh dari sudut akhlak dan keikhlasan, mudah tumbang apabila berhadapan godaan kuasa, rasuah, dan persengketaan duniawi.
 * **4. Preskripsi Penawar (*Fiqh as-Sulūk*) & Petunjuk Salaf:**  
-  *Manhaj Bertahap-tahap (Tadarruj) al-Maududi:* Memahami sunnatullah bahawa Rasulullah SAW terlebih dahulu meleburkan emas dan membersihkannya daripada kotoran, barulah mencetaknya menjadi dinar; melatih perajurit terlebih dahulu, barulah memakaikan pakaian seragam. Pembinaan akidah dan takwa mesti mendahului penampilan lahiriah dan penguatkuasaan hukum.
+  *Manhaj Bertahap-tahap (Tadarruj) al-Maududi:* Meneladani 4 tahap tarbiah Rasulullah SAW dalam merealisasikan ubudiah:
+  1. **Pemantapan Iman (Akidah):** Menanam dan memantapkan asas iman di dalam lubuk hati sebelum sebarang tuntutan lain.
+  2. **Tarbiah Rohani (Islam, Takwa & Ihsan):** Menyuburkan ketaatan amali, kesucian akhlak, dan kecintaan mutlak kepada Allah SWT.
+  3. **Penegakan Sistem Soleh:** Menggerakkan saf mukmin yang ikhlas untuk menggantikan sistem jahiliah dengan syariat Ilahi.
+  4. **Penyempurnaan Adab & Syiar Zahir:** Mengatur adab penampilan lahiriah setelah jiwa disucikan—ibarat meleburkan emas sebelum mencap dinar, dan melatih perajurit sebelum memakaikan seragam perang.
 
 ---
 
