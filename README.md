@@ -12,6 +12,7 @@ Siri Tarbiah & Tazkiyah Fiqh Haraki dalam himpunan *Rasā'il al-'Ayn* (seiring d
   1. 📖 **Versi Penuh:** 14 Bahagian (1 Epigraf Pembuka, Mukadimah, Bab 1-12) bersama 100 Subtajuk tematik (101 Subtajuk keseluruhan), 919 perenggan, dan 181 nota kaki ilmiah kanonikal.
   2. ⚡ **Ringkasan & Intisari Ilmiah:** Ringkasan am setiap bab berpandukan falsafah dakwah dan poin-poin teras perjuangan.
   3. 💎 **Intisari Subtopik 4 Tiang Fiqh Haraki & Mutiara Hikmah:** Analisis diagnostik menyeluruh merungkai kelalaian hati, gejala penyelusupan nafsu, implikasi ke atas saf, serta preskripsi penawar salaf.
+- **🌱 Sekilas Tonggak Amalan Tarbiah:** Modul interaktif 3 Tonggak Amalan Salafussoleh (Tilawah Al-Quran, Puasa Sunat, dan Sedekah/Infaq) bersama kalam mutiara dan checklist praktikal da'i.
 - **Enjin Carian Pantas:** Mencari perkataan kunci, hadis, kalam tokoh, dan topik dengan penyerlahan kata (*highlighting*).
 - **Luar Talian Sepenuhnya (Offline-First):** Dilengkapi Service Worker (`sw.js`) dan Cache Storage untuk pembacaan lancar tanpa sambungan internet.
 - **Reka Bentuk Premium & Responsif:** Bertemakan *Emerald Sage & Warm Radiant Gold*, menyokong Mod Gelap (*Dark Mode*) dan Mod Cerah (*Light Mode*), penanda halaman (*bookmarks*), serta kawalan saiz fon.
