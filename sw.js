@@ -1,4 +1,4 @@
-const CACHE_NAME = 'alraqaiq-cache-v53-kunci-amal-single-icon';
+const CACHE_NAME = 'alraqaiq-cache-v54-fix-loading-syntax';
 const ASSETS_TO_CACHE = [
   './',
   './index.html',

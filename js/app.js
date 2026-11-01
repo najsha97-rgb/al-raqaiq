@@ -798,8 +798,7 @@ document.addEventListener('DOMContentLoaded', () => {
         html = html.replace(/\*\*(.*?)\*\*/g, '<strong style="color: var(--gold-light);">$1</strong>');
 
         // Format italic sambil melindungi teks Arab agar TIDAK menjadi condong dan TIDAK memakan bullet '*' di pangkal baris
-        html = html.replace(/(?<!\*)\*(?!\s)([^\*
-]+?)(?<!\s)\*(?!\*)/g, function(match, p1) {
+        html = html.replace(/(?<!\*)\*(?!\s)([^\*\r\n]+?)(?<!\s)\*(?!\*)/g, function(match, p1) {
           if (/[\u0600-\u06FF]/.test(p1)) {
             return formatArabicInlineAmiri(p1, '1.15em');
           }
