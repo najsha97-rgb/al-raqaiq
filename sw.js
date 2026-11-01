@@ -1,4 +1,4 @@
-const CACHE_NAME = 'alraqaiq-cache-v54-fix-loading-syntax';
+const CACHE_NAME = 'alraqaiq-cache-v55-tonggak-tarbiah';
 const ASSETS_TO_CACHE = [
   './',
   './index.html',

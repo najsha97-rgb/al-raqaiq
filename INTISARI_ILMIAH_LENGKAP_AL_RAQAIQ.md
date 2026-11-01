@@ -497,3 +497,70 @@
 
 * **Intisari Penutup Agung:**
   Syeikh Muhammad Ahmad al-Rasyid menutup mahakarya *al-Raqā'iq* ini dengan menjanjikan kemunculan siri seterusnya: **«Al-Bawāriq»** (Kilauan Pedang Perjuangan) — sebuah naskhah dokumentasi mengenai kehangatan semangat jihad (*al-hamāsah*), fiqh pengorbanan, kepahlawanan ulama, serta penggemblengan pemuda Islam untuk mencegah kemungkaran dan menumbangkan kezaliman golongan thaghut di muka bumi.
+
+---
+
+# 🌿 LAMPIRAN KHAS: SEKILAS TONGGAK AMALAN TARBIAH
+## Tiga Disiplin Ruhiyyah Asas Da'i Menurut Manhaj Salafussoleh
+*(Pilar Fizikal-Spiritual yang Menjadi Prasyarat Kelembutan Hati dalam Kitab Al-Raqā'iq)*
+
+> *"Sesungguhnya kelembutan hati (al-raqā'iq) bukanlah sekadar sentimen perasaan atau teori kerohanian yang terawang-awang; ia berdiri teguh di atas tiga tonggak amalan fizikal-spiritual salafussoleh: menghidupkan malam dengan tilawah al-Quran, mengekang syahwat pada siang hari dengan puasa, dan menakluk ketamakan duniawi dengan infaq serta mendahulukan orang lain (al-i'tsār)."*
+
+---
+
+### 📖 1. TONGGAK PERTAMA: TILAWAH & BERTAHAJUD DENGAN AL-QURAN
+* **Kedudukan dalam Fiqh Tarbiah al-Rasyid:**  
+  Al-Quran adalah madrasah rohani malam seorang da'i. Membaca al-Quran pada waktu malam bukan sekadar mengulang hafazan, tetapi proses menimba ilmu terus daripada Allah Taala sebelum memimpin masyarakat di siang hari.
+* **Mutiara Kata & Dalil Salafussoleh:**
+  * **Kalam Tokoh Tabi'in Malik bin Dinar *rahimahullah* (Bab 5):**  
+    > **لَمْ يَبْقَ مِنْ رَوْحِ الدُّنْيَا إِلاَّ ثَلاَثَةٌ: لِقَاءُ الإِخْوَانِ، وَالتَّهَجُّدُ بِالقُرْآنِ، وَبَيْتٌ خَالٍ يُذْكَرُ اللهُ فِيهِ**  
+    > *"Tidak berbaki lagi daripada ketenangan jiwa (kelazatan hakiki) di dunia ini melainkan tiga perkara: bertemu dengan saudara-saudara seakidah, **bertahajud dengan al-Quran**, dan berada di dalam rumah yang sunyi di mana Allah diingati di dalamnya."*
+  * **Bait Madu Madrasah Malam (Bab 2):**  
+    > **يَا لَيْلُ قِيَامُكَ مَدْرَسَةٌ ... فِيهَا القُرْآنُ يُدَرِّسُنِي**  
+    > *"Wahai malam, qiammu merupakan sebuah madrasah; di dalamnya al-Quran mengajarku."*
+  * **Kurniaan Melazimi Masjid (Bab 1):**  
+    Saidina al-Hasan bin Ali RA meletakkan **"ayat al-Quran yang kukuh hukumnya"** (*āyah muḥkamah*) sebagai kurniaan pertama melazimi rumah Allah.
+* **Preskripsi Amali Harian Da'i:**
+  1. Menetapkan wirid harian membaca al-Quran sekurang-kurangnya satu juzuk sehari secara istiqamah (*wird al-tilāwah*).
+  2. Menghidupkan ayat-ayat tadabbur di dalam solat tahajud malam (*al-tahajjud bi al-Qur'ān*).
+  3. Memastikan hati sentiasa tercegah daripada kelalaian dan maksiat dengan peringatan al-Quran (*al-rad' bi al-Qur'ān*).
+
+---
+
+### 🌙 2. TONGGAK KEDUA: PUASA SUNAT & MUJAHADAH MENUNDUKKAN SYAHWAT
+* **Kedudukan dalam Fiqh Tarbiah al-Rasyid:**  
+  Memecahkan belenggu syahwat perut dan tarikan keselesaan duniawi. Jiwa yang kekenyangan akan menjadi malas untuk bangun bertahajud dan berat untuk memikul amanah dakwah.
+* **Mutiara Kata & Dalil Salafussoleh:**
+  * **Wasiat Khalifah Abu Bakar al-Siddiq RA kepada Umar bin al-Khattab RA (Bab 12 - Q#111):**  
+    > **اعْلَمْ يَا عُمَرُ! أَنَّ لِلَّهِ حَقّاً بِاللَّيْلِ لَا يَقْبَلُهُ بِالنَّهَارِ، وَإِنَّ لِلَّهِ حَقّاً بِالنَّهَارِ لَا يَقْبَلُهُ بِاللَّيْلِ؛ وَلَا يُقْبَلُ نَافِلَةٌ حَتَّى تُؤَدَّى الفَرِيضَةُ**  
+    > *"Ketahuilah wahai Umar! Sesungguhnya Allah mempunyai hak pada waktu siang yang tidak diterima-Nya pada waktu malam; dan sesungguhnya Allah mempunyai hak pada waktu malam yang tidak diterima-Nya pada waktu siang; dan tidak akan diterima amalan sunat sehinggalah ditunaikan amalan fardu."*
+  * **Neraca Siang Salafussoleh (Bab 2):**  
+    > *"Siang generasi terdahulu sarat dengan kesungguhan (berpuasa, menuntut ilmu, dan berjihad), sedangkan siang orang selain mereka dipenuhi dengan melayan syahwat?"*
+  * **Memecahkan Belenggu Kerehatan (Bab 10):**  
+    Syeikh al-Rasyid menegaskan bahawa cita-cita da'i yang tinggi laksana burung helang (*himmah shaqriyyah*) hanya dapat terbang apabila terputus rantai kelazatan makan minum dan tilam empuk.
+* **Preskripsi Amali Harian Da'i:**
+  1. Melazimi puasa sunat Isnin dan Khamis atau Hari-Hari Putih (13, 14, 15 hijrah / *Ayyām al-Bīḍ*).
+  2. Mengurangkan kekenyangan berlebihan bagi memelihara ketajaman akal fikiran dan kepekaan hati nurani.
+  3. Menyibukkan waktu siang dengan dakwah dan khidmat ummah sebagai pelengkap kepada ibadah malam.
+
+---
+
+### 💰 3. TONGGAK KETIGA: SEDEKAH, INFAQ & PENGORBANAN HARTA (AL-I'TSĀR)
+* **Kedudukan dalam Fiqh Tarbiah al-Rasyid:**  
+  Ujian harta adalah batu penimbang ketulusan iman. Da'i yang tidak mampu mengorbankan wang ringgitnya tidak akan mampu mengorbankan jiwa dan tenaganya di medan dakwah.
+* **Mutiara Kata & Dalil Salafussoleh:**
+  * **Kalam Imam al-Hasan al-Basri *rahimahullah* (Bab 2 - Q#22):**  
+    > **مَا نَعْلَمُ عَمَلاً أَشَدَّ مِنْ مُكَابَدَةِ هَذَا اللَّيْلِ، وَنَفَقَةِ هَذَا المَالِ**  
+    > *"Kami tidak mengetahui suatu amal pun yang lebih sukar dan berat ke atas jiwa melainkan **mujahadah mengharungi malam ini (qiamullail) serta menafkahkan harta ini (infaq fi sabilillah)**."*
+  * **Sifat Rijal Dakwah Hakiki (Bab 12 - Q#117):**  
+    > **...وَمَالُهُ: خَادِماً لِغَايَتِهِ، وَلِسَانُ حَالِهِ يَقُولُ لِبَنِي قَوْمِهِ: ﴿لَآ أَسْـَٔلُكُمْ عَلَيْهِ أَجْرًا ۖ إِنْ أَجْرِىَ إِلَّا عَلَى ٱللَّهِ﴾**  
+    > *"...Dan **hartanya dijadikan khadam kepada matlamat perjuangannya**, bukan dirinya menjadi hamba kepada hartanya."*
+  * **Kalam Imam Hasan al-Banna *rahimahullah* (Bab 3 - Q#34):**  
+    > **الدَّاعِيَةُ الصَّادِقُ يَسْتَهِينُ بِالمَالِ كُلِّهِ، وَبِالدَّمِ كُلِّهِ، وَبِالنَّفْسِ كُلِّهَا فِي سَبِيلِ عَقِيدَتِهِ**  
+    > *"Pendakwah yang benar merelakan pengorbanan seluruh hartanya, seluruh darahnya, dan seluruh jiwanya pada jalan akidahnya."*
+  * **Puncak Ukhuwah: Mengutamakan Saudara (*Al-I'tsār*) (Bab 5):**  
+    Meneladani firman Allah: *Wa yu'tsirūna 'alā anfusihim wa law kāna bihim khashāṣah* (Surah al-Hasyr: 9) — da'i bersedia berkongsi rezeki dan mendahulukan keperluan saudaranya.
+* **Preskripsi Amali Harian Da'i:**
+  1. Menetapkan peruntukan infaq tetap bulanan daripada pendapatan untuk dana perjuangan dan kebajikan ummah.
+  2. Melatih diri bersedekah secara rahsia (*ṣadaqah al-sirr*) bagi memadamkan kemurkaan Allah dan menyucikan hati daripada penyakit riak.
+  3. Mempraktikkan sifat *al-i'tsār* tatkala melihat saudara seperjuangan dalam kesempitan hidup.

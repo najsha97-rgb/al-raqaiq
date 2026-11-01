@@ -569,4 +569,19 @@ Telah ditetapkan bahawa terjemahan rasmi bagi judul-judul karya Syeikh Muhammad 
 * **PWA Cache:** Dinaik taraf ke **`v54`** (`alraqaiq-cache-v54-fix-loading-syntax`).
 
 
+### 53. Pengenalan Modul 'Sekilas Tonggak Amalan Tarbiah' (3 Rukun Asas Salafussoleh) (PWA v55)
+* **Latar Belakang:** Ketiga-tiga rukun amalan praktikal (Tilawah al-Quran, Puasa Sunat, dan Sedekah/Infaq) merupakan prasyarat pembinaan peribadi da'i yang tersirat di sebalik naskhah *Al-Raqā'iq*. Bagi memastikan pembaca dan aktivis tidak terlepas pandang tiga rukun ini, modul khas telah disepadukan merentas seluruh ekosistem projek.
+* **Komponen Pelaksanaan Bersepadu:**
+  1. **Aplikasi Web PWA (v55):**
+     - Kad akses pantas menu sisi (`sidebar-tarbiah-promo`) berikon `🌱 Tonggak Amalan Tarbiah (3 Rukun)`.
+     - Modal interaktif eksklusif (`modalTarbiahSpotlight`) yang mempamerkan ketiga-tiga tonggak bersama teks Arab bersalut emas (Amiri font), mutiara kata Malik bin Dinar, Hasan al-Basri, wasiat Saidina Abu Bakar RA, dan senarai semak praktikal (*tarbiah checklist*).
+  2. **Bot Telegram (`al-Raqaiq-bot`):**
+     - Arahan baharu: `/fakta_tarbiah` dan `/amalan` berserta butang menu interaktif untuk menelaah setiap satu daripada tiga tonggak atau memaparkan kesemuanya sekali.
+     - Butang pintas `🌱 Sekilas Tonggak Amalan Tarbiah` pada menu utama bot.
+  3. **Dokumentasi Ilmiah:**
+     - Penambahan **"Lampiran Khas: Sekilas Tonggak Amalan Tarbiah"** pada naskhah [INTISARI_ILMIAH_LENGKAP_AL_RAQAIQ.md](file:///c:/Users/pc/OneDrive/Desktop/Al-Raqaiq/INTISARI_ILMIAH_LENGKAP_AL_RAQAIQ.md) dan penjanaan semula fail Word `.docx`.
+* **PWA Cache:** Dinaik taraf ke **`v55`** (`alraqaiq-cache-v55-tonggak-tarbiah`).
+
+
+
 

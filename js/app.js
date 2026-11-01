@@ -157,6 +157,10 @@ document.addEventListener('DOMContentLoaded', () => {
   const layerBtnRingkasan = document.getElementById('btnLayerRingkasan');
   const layerBtnHikmah = document.getElementById('btnLayerHikmah');
   const sidebarHikmahBtn = document.getElementById('sidebarHikmahBtn');
+  const sidebarTarbiahBtn = document.getElementById('sidebarTarbiahBtn');
+  const modalTarbiahSpotlight = document.getElementById('modalTarbiahSpotlight');
+  const btnCloseTarbiahModal = document.getElementById('btnCloseTarbiahModal');
+  const btnTarbiahModalCloseFooter = document.getElementById('btnTarbiahModalCloseFooter');
   const themeToggleBtn = document.getElementById('themeToggleBtn');
   const fontDecBtn = document.getElementById('fontDecBtn');
   const fontIncBtn = document.getElementById('fontIncBtn');
@@ -1484,6 +1488,31 @@ document.addEventListener('DOMContentLoaded', () => {
       if (state.mobileNavOpen) {
         toggleMobileNav(false);
       }
+    });
+  }
+
+  // Open / Close Tarbiah Spotlight Modal
+  function toggleTarbiahModal(show) {
+    if (!modalTarbiahSpotlight) return;
+    modalTarbiahSpotlight.style.display = show ? 'flex' : 'none';
+    if (show && state.mobileNavOpen) {
+      toggleMobileNav(false);
+    }
+  }
+  window.openTarbiahSpotlightModal = () => toggleTarbiahModal(true);
+
+  if (sidebarTarbiahBtn) {
+    sidebarTarbiahBtn.addEventListener('click', () => toggleTarbiahModal(true));
+  }
+  if (btnCloseTarbiahModal) {
+    btnCloseTarbiahModal.addEventListener('click', () => toggleTarbiahModal(false));
+  }
+  if (btnTarbiahModalCloseFooter) {
+    btnTarbiahModalCloseFooter.addEventListener('click', () => toggleTarbiahModal(false));
+  }
+  if (modalTarbiahSpotlight) {
+    modalTarbiahSpotlight.addEventListener('click', (e) => {
+      if (e.target === modalTarbiahSpotlight) toggleTarbiahModal(false);
     });
   }
 
