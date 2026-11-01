@@ -441,3 +441,18 @@ Telah ditetapkan bahawa terjemahan rasmi bagi judul-judul karya Syeikh Muhammad 
   - Jumlah Perenggan: 919 (100% teks terpelihara; pertambahan 3 perenggan susulan perungkaian kata-kata al-Maududi kepada 4 perenggan kemas)
   - Jumlah Nota Kaki: 181 (100% terpelihara)
 * **Liputan Menyeluruh:** Diselaraskan di semua 7 lapisan ekosistem: Manuskrip Markdown (TERJEMAHAN_AL-RAQAIQ.md), Intisari Ilmiah Lengkap, Intisari Subtopik Fiqh Haraki, dokumen Word (.docx), pangkalan data JSON/JS PWA, dan bot Telegram.
+
+
+### 44. Penyelarasan Paparan Bilangan Subtajuk pada PWA Hero Stats & Metadata
+* **Latar Belakang:** Skrin utama PWA (*hero stats*) dan metadata ekosistem sebelum ini masih memaparkan angka lama iaitu *'82 Subtajuk Tematik + 1 Epigraf Pembuka'*, sedangkan perkembangan mutakhir kitab telah mencapai 100 subtajuk tematik hasil daripada beberapa siri pembahagian subtajuk yang mendalam dan seimbang.
+* **Ketetapan Penyelarasan:**
+  1. **Paparan Hero Stats PWA (`index.html`):** Dikemaskini secara statik dan ber-ID kepada `<strong id="heroSubtopicsStat">100 Subtajuk Tematik + 1 Epigraf Pembuka</strong>`.
+  2. **Logik Dinamik (`app.js`):** Ditambah pengiraan automatik daripada `data.chapters` untuk `#heroSubtopicsStat` supaya sentiasa selaras secara tepat sekiranya terdapat sebarang penambahan pada masa hadapan.
+  3. **Metadata Ekosistem (`build_canonical_82_ecosystem.py`, `alraqaiq_data.json`, `alraqaiq_data.js`):** Nilai `version` dan `layer1` dikemaskini daripada *'82 Subtajuk Kanonikal'* kepada *'100 Subtajuk Kanonikal + 1 Epigraf Pembuka'*.
+  4. **Dokumentasi (`README.md`):** Statistik dikemaskini kepada 14 Bahagian, 100 Subtajuk Tematik (101 Subtajuk Keseluruhan), 919 Perenggan, dan 181 Nota Kaki Kanonikal.
+* **Statistik Keseluruhan Kitab:**
+  - Jumlah Bab: 14 (1 epigraf + 1 mukadimah + 12 bab teks)
+  - Jumlah Subtajuk: 101 (100 subtajuk tematik teks + 1 epigraf pembuka)
+  - Jumlah Perenggan: 919 (100% terpelihara)
+  - Jumlah Nota Kaki: 181 (100% terpelihara)
+* **PWA Cache:** Dinaik taraf ke **`v44`** (`alraqaiq-cache-v44-stat-fix`).

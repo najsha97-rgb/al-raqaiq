@@ -9,7 +9,7 @@ Siri Tarbiah & Tazkiyah Fiqh Haraki dalam himpunan *Rasā'il al-'Ayn* (seiring d
 ## 🌟 Ciri-Ciri Utama Aplikasi
 
 - **3 Lapisan Kandungan Lengkap:**
-  1. 📖 **Versi Penuh:** 13 Bahagian (Mukadimah, Bab 1-12 & Khatimah al-Bawariq) bersama 82 Subtajuk tematik, 948 perenggan, dan 122 nota kaki ilmiah kanonikal.
+  1. 📖 **Versi Penuh:** 14 Bahagian (1 Epigraf Pembuka, Mukadimah, Bab 1-12) bersama 100 Subtajuk tematik (101 Subtajuk keseluruhan), 919 perenggan, dan 181 nota kaki ilmiah kanonikal.
   2. ⚡ **Ringkasan & Intisari Ilmiah:** Ringkasan am setiap bab berpandukan falsafah dakwah dan poin-poin teras perjuangan.
   3. 💎 **Intisari Subtopik 4 Tiang Fiqh Haraki & Mutiara Hikmah:** Analisis diagnostik menyeluruh merungkai kelalaian hati, gejala penyelusupan nafsu, implikasi ke atas saf, serta preskripsi penawar salaf.
 - **Enjin Carian Pantas:** Mencari perkataan kunci, hadis, kalam tokoh, dan topik dengan penyerlahan kata (*highlighting*).

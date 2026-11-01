@@ -24,6 +24,14 @@ document.addEventListener('DOMContentLoaded', () => {
     promoSubEl.textContent = "(Hadis Nabi SAW + Tokoh & Pejuang)";
   }
 
+  // Update hero subtopics count dynamically from canonical data
+  const heroSubtopicsStat = document.getElementById('heroSubtopicsStat');
+  if (heroSubtopicsStat && data.chapters) {
+    const thematicSubtopics = data.chapters.slice(1).reduce((acc, ch) => acc + (ch.subtopics ? ch.subtopics.length : 0), 0);
+    const epigrafCount = (data.chapters[0] && data.chapters[0].subtopics) ? data.chapters[0].subtopics.length : 1;
+    heroSubtopicsStat.textContent = `${thematicSubtopics} Subtajuk Tematik + ${epigrafCount} Epigraf Pembuka`;
+  }
+
 
   // App State
   const state = {
