@@ -1,4 +1,4 @@
-const CACHE_NAME = 'alraqaiq-cache-v47-8-kurniaan-masjid';
+const CACHE_NAME = 'alraqaiq-cache-v48-taujihat-fix';
 const ASSETS_TO_CACHE = [
   './',
   './index.html',

@@ -74,7 +74,7 @@
     * Amalan solat, zikir, dan tasbih merupakan bekal rohani paling utama bagi da'i dalam mengangkat kelemahan dan kefakiran dirinya di hadapan Allah.
     * Menghayati bait Abdullah bin al-Mubarak: merebut dua rakaat dan menukar kata-kata batil kepada tasbih, serta wasiat Hasan al-Banna tentang saat hening bermunajat harian.
   * **• Tahap-Tahap Merealisasikan Matlamat Ubudiah:**
-    * Taujihad agung Imam al-Maududi berkenaan manhaj bertahap-tahap (*al-tadarruj*) para rasul menegakkan ubudiah di muka bumi.
+    * Taujihat agung Imam al-Maududi berkenaan manhaj bertahap-tahap (*al-tadarruj*) para rasul menegakkan ubudiah di muka bumi.
     * Melatih dan membersihkan jiwa kader dakwah terlebih dahulu sebelum memakaikan mereka pakaian amanah kepimpinan dan hukum.
   * **• Sahutlah Seruan Nabimu SAW:**
     * Menyuburkan jiwa dengan zikir dan doa harian; bukan zikir lisan yang kosong, tetapi zikir yang menghidupkan muraqabah.
