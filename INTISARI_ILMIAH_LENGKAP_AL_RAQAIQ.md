@@ -434,7 +434,7 @@
     * Hakikat teladan Islam (*al-qudwah al-islāmiah*): peribadi yang merdeka dalam fikiran, akidah, dan amal; memancarkan ketenangan dan wibawa sebagai bukti keunggulan tarbiah Islam.
     * 🔑 **Kunci Amal:** Jadilah model teladan da'i yang merdeka jiwanya, berani menyatakan kebenaran dan tidak tunduk kepada ugutan taghut.
   * **• Izzah Seorang Mukmin Berdepan Penguasa Dunia:**
-    * Menyorot keberanian para ulama salaf (seperti Sa'id bin al-Musayab dan Sa'id bin Jubair) yang berdiri teguh tanpa gentar di hadapan al-Hajjaj bin Yusuf dan raja-raja Bani Umayah.
+    * Menyorot keberanian para ulama salaf (seperti Sa'id bin al-Musayab dan Sa'id bin Jubair) yang berdiri teguh tanpa gentar di hadapan al-Hajjaj bin Yusuf dan raja-raja Bani Umaiyah.
     * Kematian di jalan Allah adalah kemuncak kemerdekaan jiwa.
     * 🔑 **Kunci Amal:** Menzahirkan izzah keimanan dengan penuh keberanian di hadapan penguasa yang zalim tanpa gentar kehilangan nyawa atau kedudukan.
   * **• Kemanisan Ketaatan Hakiki:**

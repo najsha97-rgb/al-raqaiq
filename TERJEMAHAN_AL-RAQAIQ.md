@@ -599,7 +599,7 @@ Dalam rakaat yang lain pula, engkau mengingati al-Hasan al-Basri, Ibnu Sirin, da
 
 Dalam rakaat yang lain, engkau mengingati Imam Ahmad bin Hanbal bersama kelompok ahli hadis yang dipimpin taufik; serta Bisyr al-Marisi dan Ibnu Abi Daud daripada kalangan golongan yang zalim.
 
-Dalam rakaat yang lain, engkau mengingati Ibnu Taimiyah, Ibnu al-Qayim, dan Ibnu al-Jauzi daripada kalangan tokoh pembaharu (*muslihin*); serta golongan penganut *wahdatul wujud*, fana khayalan, ucapan melampau (*syathahat*), dan bid'ah daripada kalangan pemalsu agama.
+Dalam rakaat yang lain, engkau mengingati Ibnu Taimiyah, Ibnu al-Qayyim, dan Ibnu al-Jauzi daripada kalangan tokoh pembaharu (*muslihin*); serta golongan penganut *wahdatul wujud*, fana khayalan, ucapan melampau (*syathahat*), dan bid'ah daripada kalangan pemalsu agama.
 
 Dalam rakaat yang lain, engkau mengingati Imam Hasan al-Banna, Abdul Qadir 'Audah, dan Sayid Qutb, serta keteguhan mereka mendepani para thaghut yang sombong menindas.
 
@@ -637,7 +637,7 @@ Inilah pengalaman penyair Muhammad Iqbal yang diringkaskannya seraya berkata:
 **تَصْطَلِي رُوحِي بِحُزْنٍ وَأَلَمْ**  
 **وِرْدُ «يَا قَيُّومُ» أُنْسِي فِي الظُّلَمْ**  
 *Rohku membara dengan kedukaan dan keperitan,*  
-*wirid «Ya Qayum» menjadi penemanku dalam kegelapan.*  
+*wirid «Ya Qayyum» menjadi penemanku dalam kegelapan.*  
 
 **أَنَا كَالشَّمْعِ دُمُوعِي غُسْلِي**  
 **فِي ظَلاَمِ اللَّيْلِ أُذْكِي شُعَلِي**  
@@ -649,7 +649,7 @@ Inilah pengalaman penyair Muhammad Iqbal yang diringkaskannya seraya berkata:
 *Perhimpunan manusia berseri-seri dengan cahayaku,*  
 *aku menyebarkan cahaya sedang diriku sendiri terbakar lebur.* [4]
 
-Gerakan dakwah Islam pada hari ini tidak akan mampu melonjak naik melainkan para pendakwahnya menyalakan obor mereka pada waktu malam; dan cahayanya tidak akan bersinar menyinari kegelapan jahiliah kurun kedua puluh ini selagi mana lidah mereka tidak basah berzikir dengan seruan: *(Ya Qayum)*.
+Gerakan dakwah Islam pada hari ini tidak akan mampu melonjak naik melainkan para pendakwahnya menyalakan obor mereka pada waktu malam; dan cahayanya tidak akan bersinar menyinari kegelapan jahiliah kurun kedua puluh ini selagi mana lidah mereka tidak basah berzikir dengan seruan: *(Ya Qayyum)*.
 
 Kita tidak menuturkan perkara ini buat kali pertama, bahkan ia merupakan wasiat Imam Hasan al-Banna ketika berbicara kepada para pendakwah seraya berkata:
 
@@ -725,7 +725,7 @@ Sesungguhnya kelembutan hati seorang fakih yang zuhud, Abu Sahl al-Su'luki rahim
 *Demi Allah aku berdusta! Kalaulah aku ini berakal waras,*  
 *tidak mungkin burung merpati mendahuluiku meratap menangis.* [7]
 
-Sesungguhnya dosa itu tidak dapat dibersihkan melainkan dengan titisan air mata, dan keberanian itu disiram dengan tangisan pada waktu malam. Sejarah Islam tidak mengenali para tokohnya melainkan dengan sifat sedemikian. Benarlah bait-bait Ibnu al-Qayim rahimahullah ketika menggambarkan perihal mereka:
+Sesungguhnya dosa itu tidak dapat dibersihkan melainkan dengan titisan air mata, dan keberanian itu disiram dengan tangisan pada waktu malam. Sejarah Islam tidak mengenali para tokohnya melainkan dengan sifat sedemikian. Benarlah bait-bait Ibnu al-Qayyim rahimahullah ketika menggambarkan perihal mereka:
 
 **يُحْيُونَ لَيْلَهُمُ بِطَاعَةِ رَبِّهِمْ**  
 **بِتِلاَوَةٍ ، وَتَضَرُّعٍ ، وَسُؤَالِ**  
@@ -814,7 +814,7 @@ Mereka turut membimbing orang-orang berdosa yang tersilap langkah menuju ke jala
 [5] Majalah *al-Da'wah*, keluaran lama, bil. 63.  
 [6] Walid al-A'zami, *Aghani al-Ma'rakah*, hlm. 38.  
 [7] Al-Subki, *Tabaqat al-Syafi'iyah*, jld. 3, hlm. 171.  
-[8] Ibnu al-Qayim, *Ighathat al-Lahfan*, hlm. 255.  
+[8] Ibnu al-Qayyim, *Ighathat al-Lahfan*, hlm. 255.  
 [9] Abdul Wahhab 'Azzam, *Diwan al-Mathani*, hlm. 35.  
 [10] Walid al-A'zami, majalah *al-Tarbiah al-Islamiah*, jld. 7, hlm. 636.  
 [11] Walid al-A'zami, *Aghani al-Ma'rakah*, hlm. 94.
@@ -952,7 +952,7 @@ Cita-cita yang tinggi (*al-himmah*) merupakan pasangan kembar kepada niat yang i
 
 > *“Peliharalah cita-citamu, kerana cita-cita merupakan permulaan bagi segala sesuatu. Sesiapa yang baik cita-citanya dan jujur padanya, nescaya akan baiklah segala amalan selepasnya.”*
 
-Ibnu al-Qayim rahimahullah memberikan satu perumpamaan yang indah mengenainya seraya berkata:
+Ibnu al-Qayyim rahimahullah memberikan satu perumpamaan yang indah mengenainya seraya berkata:
 
 > *“Perumpamaan hati itu sama seperti seekor burung. Setiap kali ia terbang tinggi, ia semakin jauh daripada bahaya kebinasaan; dan setiap kali ia terbang rendah, ia akan dikerumuni oleh pelbagai malapetaka.”* [8]
 
@@ -985,7 +985,7 @@ Daripada generasi salafussoleh inilah, generasi pembaharu pada kurun ini menimba
 [5] Abdul Qadir al-Kailani, *al-Fath al-Rabbani*, hlm. 64.  
 [6] Mustafa Sadiq al-Rafi'i, *Wahy al-Qalam*, jld. 2, hlm. 44.  
 [7] Al-Khatib al-Baghdadi, *Tarikh Baghdad*, jld. 5, hlm. 184.  
-[8] Ibnu al-Qayim, *al-Jawab al-Kafi*, hlm. 70.  
+[8] Ibnu al-Qayyim, *al-Jawab al-Kafi*, hlm. 70.  
 [9] Al-Khatib al-Baghdadi, *Tarikh Baghdad*, jld. 1, hlm. 352.  
 [10] Hasan al-Banna, *Muzakkirat al-Da'wah wa al-Da'iyah*, hlm. 233.
 
@@ -1013,7 +1013,7 @@ Nabi SAW bersabda seraya mengisyaratkan ke arah dada Baginda:
 التَّقْوَى هَا هُنَا
 > *“Ketakwaan itu di sini.”*
 
-Ibnu al-Qayim rahimahullah menghuraikan:
+Ibnu al-Qayyim rahimahullah menghuraikan:
 
 > *“Orang yang bijak mampu menempuh perjalanan yang jauh dengan ketinggian cita-cita, keteguhan tekad, dan keikhlasan niat—walaupun dengan amalan yang sedikit—berlipat kali ganda lebih jauh daripada apa yang ditempuh oleh orang yang kosong daripada sifat-sifat tersebut, walaupun dia banyak berpenat lelah.”* [1]
 
@@ -1149,7 +1149,7 @@ Lalu beliau menjawab:
 
 > *“Pada dirimu telah sedia ada kelalaian yang mencukupi untuknya!”* [10]
 
-Sekiranya ada pihak yang membantah, kita bawakan kepadanya kata-kata Ibnu al-Qayim rahimahullah tatkala beliau berkata: 
+Sekiranya ada pihak yang membantah, kita bawakan kepadanya kata-kata Ibnu al-Qayyim rahimahullah tatkala beliau berkata: 
 
 > *“Mestilah ada saatnya rasa mengantuk dan lena kelalaian itu datang; tetapi jadilah insan yang tidur ayam (sentiasa peka dan mudah terjaga).”* [11]
 
@@ -1234,7 +1234,7 @@ Tatkala seorang insan yang lalai merasa pelik terhadap seorang pejuang yang berk
 
 > *“Kerehatan jua yang kuinginkan!”* [17]
 
-Ibnu al-Qayim rahimahullah menyimpulkan:
+Ibnu al-Qayyim rahimahullah menyimpulkan:
 
 > *“Penuntut yang jujur dalam pencariannya: setiap kali ada sesuatu yang runtuh daripada keduniaannya, dia menjadikannya sebagai pembina bagi hati dan rohnya. Setiap kali berkurang sesuatu daripada urusan dunianya, dia menjadikannya sebagai pertambahan bagi akhiratnya. Setiap kali dihalang sesuatu daripada kelazatan dunianya, dia menjadikannya sebagai pertambahan bagi kelazatan akhiratnya. Dan setiap kali dia ditimpa kegelisahan, kesedihan, atau kedukaan di dunia, dia menjadikannya sebagai pelaburan bagi kegembiraan-kegembiraan akhiratnya.”* [18]
 
@@ -1246,23 +1246,23 @@ Demi Allah! Taklif itu bukanlah satu kegelapan, namun ia hanyalah bahasa kiasan 
 
 ### Nota Kaki:
 
-[1] Ibnu al-Qayim, *al-Fawa'id*, hlm. 140.  
+[1] Ibnu al-Qayyim, *al-Fawa'id*, hlm. 140.  
 [2] Majalah *al-Muslimun*, jld. 1, hlm. 595.  
 [3] Sayid Qutb, *Haza al-Din*, hlm. 10.  
 [4] Mustafa Sadiq al-Rafi'i, *Wahy al-Qalam*, jld. 1, hlm. 65.  
 [5] Abu al-Hasan al-Nadwi, kata pengantar untuk *Muzakkirat al-Da'wah wa al-Da'iyah*.  
-[6] Ibnu al-Qayim, *al-Fawa'id*, hlm. 19.  
+[6] Ibnu al-Qayyim, *al-Fawa'id*, hlm. 19.  
 [7] Al-Maududi, *Tazkirah Du'at al-Islam*, hlm. 57.  
 [8] *Ibid.*, hlm. 59.  
 [9] Al-Mawardi, *Adab al-Dunya wa al-Din*, hlm. 82.  
 [10] Ibnu Rajab, *Zail Tabaqat al-Hanabilah*, jld. 1, hlm. 422.  
-[11] Ibnu al-Qayim, *al-Fawa'id*, hlm. 41.  
+[11] Ibnu al-Qayyim, *al-Fawa'id*, hlm. 41.  
 [12] Hasan al-Banna, *Majmu'ah Rasa'il al-Imam*, hlm. 498.  
 [13] Al-Khatib al-Baghdadi, *Tarikh Baghdad*, jld. 3, hlm. 75.  
 [14] Ibnu al-Jauzi, *Manaqib al-Imam Ahmad*, hlm. 339.  
 [15] Al-Buhturi, *Diwan al-Buhturi*, jld. 1, hlm. 172.  
 [16] Ibnu Abi Ya'la, *Tabaqat al-Hanabilah*, jld. 1, hlm. 293.  
-[17] Ibnu al-Qayim, *al-Fawa'id*, hlm. 42.  
+[17] Ibnu al-Qayyim, *al-Fawa'id*, hlm. 42.  
 [18] *Ibid.*, hlm. 189.
 
 
@@ -1490,7 +1490,7 @@ Jadikanlah dia saudaramu, cintailah dia, dampingilah dia, dan berikanlah kepadan
 
 Oleh itu, carilah saudara-saudara seakidah, nescaya kami akan menggugurkan sifat lemah itu daripada dirimu.
 
-Ibnu al-Qayim *rahimahullah* mempunyai ulasan yang ringkas namun menyeluruh mengenai perkara ini, yang membuktikan pengalaman seorang da'i daripada kalangan orang yang memiliki kesedaran tinggi. Beliau mendiagnosis bahaya-bahaya yang wujud dalam majlis pergaulan seraya berkata:
+Ibnu al-Qayyim *rahimahullah* mempunyai ulasan yang ringkas namun menyeluruh mengenai perkara ini, yang membuktikan pengalaman seorang da'i daripada kalangan orang yang memiliki kesedaran tinggi. Beliau mendiagnosis bahaya-bahaya yang wujud dalam majlis pergaulan seraya berkata:
 
 ( "Pertemuan sesama saudara seakidah terbahagi kepada dua bahagian:
 
@@ -1502,7 +1502,7 @@ Pertama: Sebahagian mereka berhias-hias (berpura-pura menzahirkan kebaikan) untu
 Kedua: Berbual dan bergaul melebihi kadar keperluan.
 Ketiga: Pertemuan itu berubah menjadi suatu syahwat (keinginan nafsu) dan kebiasaan yang memutuskannya daripada matlamat asal." ) [22]
 
-Apa yang mendukacitakan ialah kebimbangan Ibnu al-Qayim ini telah bertukar menjadi suatu realiti yang sedang dialami oleh sebahagian majlis para da'i pada masa kini: sikap berhias-hias mencari jalan untuk muncul dalam kalangan kita, manakala pergaulan sesama da'i meningkat melebihi kadar yang diperlukan oleh dakwah, lalu bertukar menjadi seakan-akan pengangguran dan kehendak nafsu yang melalaikan daripada matlamat sebenar perhimpunan kita dalam memantau kerja bersama generasi muda dan anggota-anggota baharu, serta melangkah mara merentas masyarakat umum untuk menyampaikan kalimah Islam kepada mereka.
+Apa yang mendukacitakan ialah kebimbangan Ibnu al-Qayyim ini telah bertukar menjadi suatu realiti yang sedang dialami oleh sebahagian majlis para da'i pada masa kini: sikap berhias-hias mencari jalan untuk muncul dalam kalangan kita, manakala pergaulan sesama da'i meningkat melebihi kadar yang diperlukan oleh dakwah, lalu bertukar menjadi seakan-akan pengangguran dan kehendak nafsu yang melalaikan daripada matlamat sebenar perhimpunan kita dalam memantau kerja bersama generasi muda dan anggota-anggota baharu, serta melangkah mara merentas masyarakat umum untuk menyampaikan kalimah Islam kepada mereka.
 
 • **Seseorang Berasa Hairan dengan Kesalahan Kecil Orang Lain!**
 
@@ -1591,7 +1591,7 @@ Maka engkau dituntut, wahai da'i Muslim, agar memenuhi hatimu dengan perasaan pe
 [19] Majalah *al-Tarbiah al-Islāmiah*, jld. 7, hlm. 55.  
 [20] Ibnu Hajar, *Tahzib al-Tahzib*, jld. 3, hlm. 396.  
 [21] Muhammad Iqbal, *Dīwān al-Asrār wa al-Rumūz*, hlm. 72.  
-[22] Ibnu al-Qayim, *al-Fawā'id*, hlm. 51.  
+[22] Ibnu al-Qayyim, *al-Fawā'id*, hlm. 51.  
 [23] Abdul Wahhab 'Azzam, *Dīwān al-Mathānī*, hlm. 38.
 
 
@@ -1640,7 +1640,7 @@ Abdul Wahhab 'Azzam merupakan orang pertama yang menyahut seruannya, lalu beliau
 
 Semua ini memperkukuh bahawa langkah ini memperbaharui manhaj terdahulu dan tradisi yang telah berakar umbi pada generasi awal umat Islam. Mereka meluangkan masa sejenak daripada kesibukan gerakan mengajar dan belajar, amar ma'ruf nahi munkar, serta tuntutan mencari nafkah; lalu keluar menyendiri dan bertumpu di pinggir kota mereka, duduk di celah-celah tanaman, dengan harapan jiwa mereka beroleh panduan batin dan peringatan.
 
-Ibnu al-Qayim *rahimahullah* meriwayatkan bahawa gurunya, Ibnu Taimiyah *rahimahullah* sering meninggalkan mereka pada waktu pagi selepas solat subuh berulang kali. Ibnu al-Qayim memerhatikannya, lalu mendapati beliau menyendiri di kawasan kebun dan ladang Damsyik, sehinggalah hal tersebut menjadi suatu kebiasaan baginya.
+Ibnu al-Qayyim *rahimahullah* meriwayatkan bahawa gurunya, Ibnu Taimiyah *rahimahullah* sering meninggalkan mereka pada waktu pagi selepas solat subuh berulang kali. Ibnu al-Qayyim memerhatikannya, lalu mendapati beliau menyendiri di kawasan kebun dan ladang Damsyik, sehinggalah hal tersebut menjadi suatu kebiasaan baginya.
 
 Perkara ini bukanlah sesuatu yang asing daripada gaya pengungkapan al-Quran, bukan pula daripada simbol-simbol nas hadis yang mulia serta perumpamaannya; bahkan ia merupakan hubung kait yang nyata antara kehijauan alam dengan pekerti fitrah, yang meninggalkan kesannya pada kaedah pengungkapan dan perumpamaan orang-orang yang beriman. Hal ini menunjukkan kepada hati-hati yang memahami keserasian ini, menangkap isyaratnya, serta menyaksikan ikatan menyeluruh antara pertemuan dengan pepohonan dan makna-makna keimanan.
 
@@ -1652,13 +1652,13 @@ Ia adalah pohon yang ditanam sendiri oleh al-Quran; engkau berehat di bawah rant
 
 *(Tidakkah engkau melihat bagaimana Allah membuat perumpamaan kalimah yang baik adalah seperti sebatang pohon yang baik, akarnya teguh terpacak dan cabangnya menjulang ke langit? Ia mengeluarkan buahnya pada setiap musim dengan izin Tuhannya; dan Allah membuat perumpamaan-perumpamaan itu untuk manusia agar mereka beringat.)*
 
-Ibnu al-Qayim berkata:
+Ibnu al-Qayyim berkata:
 
 ( "Sesungguhnya Allah SWT menyamakan pohon tauhid di dalam hati dengan pohon yang baik yang akarnya teguh terpacak dan cabangnya menjulang tinggi ke langit, yang sentiasa membuahkan hasilnya pada setiap masa. Sekiranya engkau merenungi perumpamaan ini, nescaya engkau mendapati ia bertepatan persis dengan pohon tauhid yang kukuh tertanam di dalam hati, yang mana cabang-cabangnya berupa amal-amal soleh yang naik menjulang ke langit. Pohon ini sentiasa membuahkan amal-amal soleh pada setiap waktu, setaraf dengan keteguhannya di dalam hati, kecintaan hati terhadapnya, keikhlasan padanya, makrifat terhadap hakikatnya, serta pelaksanaan hak-haknya dan penjagaannya dengan sebaik-baik penjagaan." ) [4]
 
 Sebahagian ulama salaf menyatakan bahawa: pohon yang baik tersebut ialah pokok kurma (tamar), dan hal ini disokong oleh hadis Ibnu Umar RA dalam kitab *Sahih*; manakala al-Rabi' bin Anas *rahimahullah* pula berkata: ( "Itu adalah perumpamaan orang yang beriman; asas amalnya teguh terpacak di bumi, dan sebutan namanya menjulang di langit." )
 
-Ibnu al-Qayim mengulas:
+Ibnu al-Qayyim mengulas:
 
 ( "Tiada percanggahan antara kedua-dua pandangan tersebut, kerana maksud perumpamaan ini ialah: orang yang beriman diserupakan dengan pokok tamar, manakala pokok tamar diserupakan dengannya." ) [5]
 
@@ -1801,7 +1801,7 @@ Oleh yang demikian, tiada sebatang pohon pun yang tegak berdiri melainkan ia men
 [1] Al-Ṭabarī, *Jāmi' al-Bayān* (*Tafsīr al-Ṭabarī*), jld. 1, hlm. 516 (cetakan Dar al-Ma'arif).  
 [2] Muhammad Iqbal, *Payām-i Mashriq* (*Dīwān Risālah al-Mashriq*), hlm. 30.  
 [3] Abdul Wahhab 'Azzam, *Dīwān al-Mathānī*, hlm. 117.  
-[4] Ibnu al-Qayim, *I'lām al-Muwaqqi'īn 'an Rabb al-'Ālamīn*, jld. 1, hlm. 188 (cetakan al-Wakil).  
+[4] Ibnu al-Qayyim, *I'lām al-Muwaqqi'īn 'an Rabb al-'Ālamīn*, jld. 1, hlm. 188 (cetakan al-Wakil).  
 [5] *Ibid.*  
 [6] *Ṣaḥīḥ al-Bukhārī*, jld. 2, hlm. 11.  
 [7] *Ṣaḥīḥ al-Bukhārī*, jld. 9, hlm. 65.  
@@ -1903,7 +1903,7 @@ Akan tetapi, kalaulah dia memandang dengan mata hatinya, nescaya dia mengetahui 
 
 Melalui pandangan dan penantian seumpama inilah — yang disemai oleh para nabi 'alaihimussalam ke dalam jiwa para pejuang rabbani yang berjuang bersama mereka — jiwa-jiwa mereka menjadi jernih, lalu mereka beroleh keteguhan di atas paksi ketenangan jiwa yang mantap. Apabila goncangan keresahan reda dan lenyap, mereka melihat batasan hakikat debu bagi syahwat keduniaan, maka padamlah sebarang ketamakan yang melampau.
 
-Keteguhan dalam menghadapi angan-angan palsu ini laksana keteguhan Nabi Ibrahim 'Alaihissalam tatkala melihat bintang, bulan dan matahari yang terbenam, lalu baginda menegaskan bahawa baginda tidak menyukai perkara yang lenyap; dan saki-baki ajaran hanif baginda hampir-hampir bersambung dengan perutusan Nabi kita Muhammad SAW tatkala hakikat kehidupan ini diperlihatkan kepada Umayah bin Abi al-Shalt sehingga dia hampir-hampir memeluk Islam. Lalu dia melaungkan di tengah masyarakat jahiliah di sekelilingnya:
+Keteguhan dalam menghadapi angan-angan palsu ini laksana keteguhan Nabi Ibrahim 'Alaihissalam tatkala melihat bintang, bulan dan matahari yang terbenam, lalu baginda menegaskan bahawa baginda tidak menyukai perkara yang lenyap; dan saki-baki ajaran hanif baginda hampir-hampir bersambung dengan perutusan Nabi kita Muhammad SAW tatkala hakikat kehidupan ini diperlihatkan kepada Umaiyah bin Abi al-Shalt sehingga dia hampir-hampir memeluk Islam. Lalu dia melaungkan di tengah masyarakat jahiliah di sekelilingnya:
 
 **اقْتَرَبَ الوَعْدُ ، وَالقُلُوْبُ إِلَى اللَّهْوِ**  
 *Makin hampirlah saat yang dijanjikan, sedang hati-hati asyik lalai,*  
@@ -2876,15 +2876,15 @@ Nota Kaki:
 [2] Mahmud Al Ja'far, *Ḥanīn ilā al-Fajr*, hlm. 140.  
 [3] Salahuddin Majid, majalah *al-Tarbiah al-Islāmiah*, jld. 5, hlm. 594.  
 [4] Abdul Qadir al-Kailani, *al-Fatḥ al-Rabbānī*, hlm. 298.  
-[5] Ibnu al-Qayim, *Miftāḥ Dār al-Sa'ādah*, jld. 1, hlm. 35.  
+[5] Ibnu al-Qayyim, *Miftāḥ Dār al-Sa'ādah*, jld. 1, hlm. 35.  
 [6] Muhammad Iqbal, *Dīwān al-Asrār wa al-Rumūz*, hlm. 39.  
-[7] Ibnu al-Qayim, *Miftāḥ Dār al-Sa'ādah*, jld. 1, hlm. 46.  
+[7] Ibnu al-Qayyim, *Miftāḥ Dār al-Sa'ādah*, jld. 1, hlm. 46.  
 [8] Ibnu Taimiyah, *Majmū' Fatāwā*, jld. 10, hlm. 186.  
 [9] Surah al-Mujādilah, ayat 11.  
 [10] Surah al-Anfāl, ayat 2–4.  
 [11] Surah Ṭāhā, ayat 75.  
 [12] Surah al-Nisā', ayat 95–96.  
-[13] Ibnu al-Qayim, *Miftāḥ Dār al-Sa'ādah*, jld. 1, hlm. 50.  
+[13] Ibnu al-Qayyim, *Miftāḥ Dār al-Sa'ādah*, jld. 1, hlm. 50.  
 [14] Hasan al-Banna, *Risālah al-Ta'ālīm* dlm. *Majmū'ah Rasā'il al-Imām*, hlm. 24.  
 [15] Abdul Wahhab 'Azzam, *Dīwān al-Mathānī*, hlm. 35.  
 [16] Surah al-Tawbah, ayat 38.  

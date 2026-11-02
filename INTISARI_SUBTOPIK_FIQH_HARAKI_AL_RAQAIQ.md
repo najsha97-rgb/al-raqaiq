@@ -421,7 +421,7 @@
 * **3. Implikasi Terhadap Saf Haraki:**  
   Saf diserang penyakit kemalasan dan kelambatan bertindak; kubu dakwah terdedah kepada serangan musuh kerana pengawal di perbatasan tertidur dalam lena kelalaian.
 * **4. Preskripsi Penawar (*Fiqh as-Sulūk*) & Petunjuk Salaf:**  
-  *Ketetapan Kaum Salaf:* Menghayati kaedah: *“Kerehatan bagi pejuang merupakan suatu kelalaian”* (الرَّاحَةُ لِلرِّجَالِ غَفْلَةٌ) dan pesanan imam hadis Syu'bah: *“Janganlah kamu duduk membuang masa tanpa berbuat apa-apa, kerana kematian sentiasa mencarimu.”* Serta petunjuk Ibnu al-Qayim: jadilah pejuang yang peka seperti tidur ayam di benteng kewaspadaan.
+  *Ketetapan Kaum Salaf:* Menghayati kaedah: *“Kerehatan bagi pejuang merupakan suatu kelalaian”* (الرَّاحَةُ لِلرِّجَالِ غَفْلَةٌ) dan pesanan imam hadis Syu'bah: *“Janganlah kamu duduk membuang masa tanpa berbuat apa-apa, kerana kematian sentiasa mencarimu.”* Serta petunjuk Ibnu al-Qayyim: jadilah pejuang yang peka seperti tidur ayam di benteng kewaspadaan.
 
 ---
 
@@ -457,7 +457,7 @@
 * **3. Implikasi Terhadap Saf Haraki:**  
   Fenomena gugur di jalan dakwah (*tasāqut*) di usia matang; tanzim kehilangan kader-kader berpengalaman yang sepatutnya menjadi tempat rujukan dan benteng thabat.
 * **4. Preskripsi Penawar (*Fiqh as-Sulūk*) & Petunjuk Salaf:**  
-  *Jawapan Abadi Imam Ahmad:* *"Tatkala tapak kakimu yang pertama melangkah masuk ke dalam Syurga!"* Memahami rumusan Ibnu al-Qayim bahawa sesiapa yang memandang fajar ganjaran pahala di akhirat, nescaya segala kegelapan keletihan taklif dunia terasa amat ringan dan manis.
+  *Jawapan Abadi Imam Ahmad:* *"Tatkala tapak kakimu yang pertama melangkah masuk ke dalam Syurga!"* Memahami rumusan Ibnu al-Qayyim bahawa sesiapa yang memandang fajar ganjaran pahala di akhirat, nescaya segala kegelapan keletihan taklif dunia terasa amat ringan dan manis.
 
 ---
 
@@ -965,7 +965,7 @@
 * **3. Implikasi Terhadap Saf Haraki:**  
   Kelesuan dan ketiadaan respon kecemasan tatkala krisis melanda umat.
 * **4. Preskripsi Penawar (*Fiqh as-Sulūk*) & Petunjuk Salaf:**  
-  *Kewaspadaan Sayidina Abu Bakar RA*: Tatkala gelombang murtad menggoncang Madinah, Abu Bakar tidak lena tidur sehingga bermimpi. Beliau menghunus pedang sambil berkata: *"Adakah agama ini akan berkurang sedangkan aku masih hidup?!"* Beban risalah menyingkirkan rasa mengantuk daripada kelopak mata para perajurit.
+  *Kewaspadaan Saidina Abu Bakar RA*: Tatkala gelombang murtad menggoncang Madinah, Abu Bakar tidak lena tidur sehingga bermimpi. Beliau menghunus pedang sambil berkata: *"Adakah agama ini akan berkurang sedangkan aku masih hidup?!"* Beban risalah menyingkirkan rasa mengantuk daripada kelopak mata para perajurit.
 
 ---
 

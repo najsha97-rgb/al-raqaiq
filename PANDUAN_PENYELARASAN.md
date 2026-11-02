@@ -40,7 +40,7 @@ Dokumen ini memuatkan 10 peraturan dan piawaian penyelarasan bahasa, ejaan, isti
 
 ### 5. Ejaan 'Ibnu' Bagi Nama Tokoh
 * Ejaan lama *Ibn* hendaklah ditukar kepada **Ibnu**.
-* Huruf pertama **'I'** hendaklah sentiasa huruf besar kerana merujuk nama orang/tokoh (contoh: `Ibnu Taimiyah`, `Ibnu Katsir`, `Ibnu al-Qayim`).
+* Huruf pertama **'I'** hendaklah sentiasa huruf besar kerana merujuk nama orang/tokoh (contoh: `Ibnu Taimiyah`, `Ibnu Katsir`, `Ibnu al-Qayyim`).
 
 ---
 
@@ -49,11 +49,11 @@ Dokumen ini memuatkan 10 peraturan dan piawaian penyelarasan bahasa, ejaan, isti
    `Nama pengarang, Nama karya, jld. X, hlm. Y.`  
    *Contoh:*  
    * `Al-Tabari, Tarikh al-Tabari, jld. 6, hlm. 569.`  
-   * `Ibnu al-Qayim, I'lam al-Muwaqqi'in, jld. 1, hlm. 88.`
+   * `Ibnu al-Qayyim, I'lam al-Muwaqqi'in, jld. 1, hlm. 88.`
 2. **Huruf Condong (Italic):** 
    Nama karya dalam bahasa Arab serta istilah rujukan (*Ibid.* / *Ibid, op.cit.*) hendaklah di-*italic*-kan.
 3. **Nama Tokoh / Pengarang di Nota Kaki:** 
-   Jangan letakkan perkataan `rahimahullah` pada nama tokoh/pengarang di nota kaki. Cukup sekadar namanya sahaja (contoh: `Al-Bukhari`, `Al-Tabari`, `Ibnu al-Qayim`, `Sayid Qutb`).
+   Jangan letakkan perkataan `rahimahullah` pada nama tokoh/pengarang di nota kaki. Cukup sekadar namanya sahaja (contoh: `Al-Bukhari`, `Al-Tabari`, `Ibnu al-Qayyim`, `Sayid Qutb`).
 4. **Rujukan Berurutan (Ibid & op.cit.):**
    * **Situasi 1: Nama pengarang & karya yang sama berurutan, jilid dan halaman berlainan:**  
      *Rujukan asal:* `Al-Tabari, Tarikh al-Tabari, jld. 6, hlm. 569.`  
@@ -270,7 +270,7 @@ Telah ditetapkan bahawa terjemahan rasmi bagi judul-judul karya Syeikh Muhammad 
 
 ---
 
-### 28. Penyelarasan Terjemahan Kalam Hikmah Ibnu al-Qayim (Bab 4 / Mutiara 35)
+### 28. Penyelarasan Terjemahan Kalam Hikmah Ibnu al-Qayyim (Bab 4 / Mutiara 35)
 * **Teks Arab:**
   «يَقْطَعُ الكَيِّسُ بِهِمَّتِهِ وَحُسْنِ قَصْدِهِ وَصِدْقِ عَزْمِهِ مَعَ العَمَلِ القَلِيلِ: أَضْعَافَ مَا يَقْطَعُهُ الفَارِغُ مِنْ ذَلِكَ مَعَ كَثْرَةِ تَعَبِهِ وَرُكُوبِهِ المَشَاقَّ.»
 * **Ketetapan Terjemahan Rasmi:**
@@ -362,7 +362,7 @@ Telah ditetapkan bahawa terjemahan rasmi bagi judul-judul karya Syeikh Muhammad 
 ### 38. Pembahagian Subtajuk 1 Bab 10 Kepada 3 Subtajuk Mengikut Kaedah Pilihan 1
 * **Latar Belakang:** Subtajuk asal pertama Bab 10 (*Hakikat Belenggu Dunia dan Rayuannya*) mengandungi 49 perenggan berturut-turut beserta bait-bait puisi tarbiah yang amat padat tanpa pembahagian kecil, yang boleh meletihkan pembacaan dan mengaburkan peralihan fokus huraian.
 * **Ketetapan Penyelarasan (Pilihan 1 - Pecahan 3 Subtajuk Mandiri):** Subtajuk ini dipecahkan secara rasmi kepada 3 subtajuk mandiri yang seimbang mengikut kesinambungan tema tarbiah haraki, menjadikan Bab 10 mempunyai 5 subtajuk keseluruhan:
-  1. `Menolak Keluhan Pasif dan Menyahut Seruan Himmah` (15 perenggan: P1–P15 — kritikan terhadap kesedihan pasif dan angan-angan kosong tanpa amal nyata (*istidrāk*), syair *Ayuhal-masydūdu fī tīhil-amānī*, kalam Ibnu Taimiyah, dan seruan melangkah bersama himmah Syeikh Abdul Qadir al-Kailani; nota kaki [1], [2], [3], [4]).
+  1. `Menolak Keluhan Pasif dan Menyahut Seruan Himmah` (15 perenggan: P1–P15 — kritikan terhadap kesedihan pasif dan angan-angan kosong tanpa amal nyata (*istidrāk*), syair *Aiyuhal-masydūdu fī tīhil-amānī*, kalam Ibnu Taimiyah, dan seruan melangkah bersama himmah Syeikh Abdul Qadir al-Kailani; nota kaki [1], [2], [3], [4]).
   2. `Memecahkan Belenggu Syahwat dan Tarikan Kerehatan` (14 perenggan: P16–P29 — hakikat ujian kerehatan nafsu, tuntutan anak isteri, keberanian jiwa da'i yang bebas daripada ketakutan [Iqbal], dan hakikat kemerdekaan hati daripada syahwat duniawi; nota kaki [5], [6], [7], [8]).
   3. `Kemuliaan Darjat Melalui Ilmu, Jihad, dan Cita-Cita Helang` (20 perenggan: P30–P49 — empat ayat al-Quran tentang pengangkatan darjat (*al-darajāt al-'ulā*) melalui ilmu dan jihad, bait himmah Iqbal yang menghidupkan tulang reput, wasiat berek tentera Hasan al-Banna, dan alegori sang helang (*aṣ-Ṣaqr*) di ufuk keluhuran; nota kaki [9], [10], [11], [12], [13], [14], [15]).
   4. `Mengutamakan Akhirat daripada Harta dan Keselesaan` (15 perenggan: P50–P64; nota kaki [16], [17], [18], [19]).
@@ -386,13 +386,13 @@ Telah ditetapkan bahawa terjemahan rasmi bagi judul-judul karya Syeikh Muhammad 
 * **Liputan Menyeluruh:** Diselaraskan di semua platform: Manuskrip Markdown (`TERJEMAHAN_AL-RAQAIQ.md`), dokumen Word (`Terjemahan_Al-Raqaiq_Penuh.docx`), pangkalan data JSON/JS PWA, dan bot Telegram.
 
 ### 40. Pembahagian Subtajuk 8 Bab 4 Kepada 5 Subtajuk Mengikut Kaedah Pilihan 1
-* **Latar Belakang:** Subtajuk asal kelapan Bab 4 (*Ujian Kelapangan Masa dan Kelalaian*) mengandungi 61 perenggan berturut-turut dan 12 nota kaki ([7] hingga [18]). Ini merupakan antara teks paling panjang dan padat dengan nukilan tokoh-tokoh dakwah utama (al-Maududi, Syu'bah, Ibnu al-Qayim, Badi'uzzaman Said Nursi, Imam Hasan al-Banna, dan Imam Ahmad bin Hanbal).
+* **Latar Belakang:** Subtajuk asal kelapan Bab 4 (*Ujian Kelapangan Masa dan Kelalaian*) mengandungi 61 perenggan berturut-turut dan 12 nota kaki ([7] hingga [18]). Ini merupakan antara teks paling panjang dan padat dengan nukilan tokoh-tokoh dakwah utama (al-Maududi, Syu'bah, Ibnu al-Qayyim, Badi'uzzaman Said Nursi, Imam Hasan al-Banna, dan Imam Ahmad bin Hanbal).
 * **Ketetapan Penyelarasan (Pilihan 1 - Pecahan 5 Subtajuk Mandiri):** Subtajuk ini dipecahkan secara rasmi kepada 5 subtajuk mandiri yang seimbang mengikut alur tema tarbiah haraki, menjadikan Bab 4 mempunyai 12 subtajuk keseluruhan:
   1. `Hakikat Ujian Kelalaian dan Jiwa yang Diwakafkan untuk Allah` (14 perenggan: P1–P14 — hakikat ujian kelalaian, konsep jiwa da'i sebagai harta wakaf milik Allah Taala [*Waqfun Lillahi Ta'ala*], dan wasiat al-Maududi tentang api dakwah di sanubari; nota kaki [7], [8]).
-  2. `Bahaya Kerehatan dan Kewaspadaan daripada Lena Kelalaian` (12 perenggan: P15–P26 — kaedah salaf *al-rāḥatu li al-rijāli ghaflah*, pesanan Syu'bah tidak membuang masa menghadapi maut, batas menikmati perkara mubah, dan kewaspadaan peronda di sempadan menurut Ibnu al-Qayim; nota kaki [9], [10], [11]).
+  2. `Bahaya Kerehatan dan Kewaspadaan daripada Lena Kelalaian` (12 perenggan: P15–P26 — kaedah salaf *al-rāḥatu li al-rijāli ghaflah*, pesanan Syu'bah tidak membuang masa menghadapi maut, batas menikmati perkara mubah, dan kewaspadaan peronda di sempadan menurut Ibnu al-Qayyim; nota kaki [9], [10], [11]).
   3. `Fitnah Ketamadunan Moden dan Neraca Masa Imam Hasan al-Banna` (14 perenggan: P27–P40 — cabaran ketamadunan moden dan hiburan fasik menurut Said Nursi, bait syair amaran bangun daripada lena kelalaian, dan falsafah haraki Imam Hasan al-Banna bahawa *"Masa itu ialah Kehidupan"*; nota kaki [12]).
   4. `Keteladanan Imam Ahmad Menanggalkan Kerehatan dalam Mehnah` (13 perenggan: P41–P53 — menanggalkan kerehatan sebagai maruah pejuang, teladan Imam Ahmad yang mencurahkan segenap tenaga keupayaan [*badzaltu majhūdī*], dan keletihan yang bertukar menjadi kelazatan ibadah; nota kaki [13], [14], [15]).
-  5. `Kerehatan Hakiki pada Langkah Pertama Menjejak Syurga` (8 perenggan: P54–P61 — jawapan abadi Imam Ahmad bilakah hamba dapat mengecap kerehatan: *"Tatkala tapak kakimu yang pertama melangkah masuk ke dalam Syurga!"*, serta rumusan Ibnu al-Qayim tentang fajar balasan pahala; nota kaki [16], [17], [18]).
+  5. `Kerehatan Hakiki pada Langkah Pertama Menjejak Syurga` (8 perenggan: P54–P61 — jawapan abadi Imam Ahmad bilakah hamba dapat mengecap kerehatan: *"Tatkala tapak kakimu yang pertama melangkah masuk ke dalam Syurga!"*, serta rumusan Ibnu al-Qayyim tentang fajar balasan pahala; nota kaki [16], [17], [18]).
 * **Statistik Keseluruhan Kitab:**
   - Jumlah Bab: 14 (1 epigraf + 1 mukadimah + 12 bab teks)
   - Jumlah Subtajuk: 97 (96 subtajuk teks + 1 epigraf)

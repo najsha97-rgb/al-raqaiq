@@ -300,7 +300,7 @@ Sumber cas bateri haraki: ketajaman lidah berbicara, keberanian di medan debat, 
 
 ---
 
-### 💎 Mutiara 24: Imam Ibnu al-Qayim rahimahullah
+### 💎 Mutiara 24: Imam Ibnu al-Qayyim rahimahullah
 
 > **«فِي اللَّيْلِ رُهْبَانٌ ، وَعِنْدَ جِهَادِهِمْ ... لِعَدُوِّهِمْ مِنْ أَشْجَعِ الأَبْطَالِ**<br>
 > **بِوُجُوهِهِمْ أَثَرُ السُّجُودِ لِرَبِّهِمْ ... وَبِهَا أَشِعَّةُ نُورِهِ المُتَلَالِي»**
@@ -403,7 +403,7 @@ Lonjakan himmah harakiyah: murabbi wajib menyuntik cita-cita agung menegakkan pe
 
 ---
 
-### 💎 Mutiara 32: Imam Ibnu al-Qayim rahimahullah
+### 💎 Mutiara 32: Imam Ibnu al-Qayyim rahimahullah
 
 > **«مَثَلُ القَلْبِ مَثَلُ الطَّائِرِ؛ كُلَّمَا عَلَا بَعُدَ عَنِ الآفَاتِ، وَكُلَّمَا هَبَطَ احْتَوَشَتْهُ الآفَاتُ.»**
 
@@ -444,7 +444,7 @@ Prinsip Baiah al-'Aqabah: langkah pertama penyertaan ke dalam saf dakwah mestila
 
 ---
 
-### 💎 Mutiara 35: Imam Ibnu al-Qayim rahimahullah
+### 💎 Mutiara 35: Imam Ibnu al-Qayyim rahimahullah
 
 > **«يَقْطَعُ الكَيِّسُ بِهِمَّتِهِ وَحُسْنِ قَصْدِهِ وَصِدْقِ عَزْمِهِ مَعَ العَمَلِ القَلِيلِ: أَضْعَافَ مَا يَقْطَعُهُ الفَارِغُ مِنْ ذَلِكَ مَعَ كَثْرَةِ تَعَبِهِ وَرُكُوبِهِ المَشَاقَّ.»**
 
@@ -654,7 +654,7 @@ Tuntutan rukun I'tsar (mendahulukan saudara): puncak persaudaraan haraki ialah r
 
 ---
 
-### 💎 Mutiara 52: Imam Ibnu al-Qayim rahimahullah
+### 💎 Mutiara 52: Imam Ibnu al-Qayyim rahimahullah
 
 > **«مُخَالَطَةُ النَّاسِ عَلَى أَرْبَعَةِ أَقْسَامٍ: كَالغِذَاءِ لَا يُسْتَغْنَى عَنْهُ، وَكَالدَّوَاءِ يُحْتَاجُ إِلَيْهِ عِنْدَ المَرَضِ، وَكَالدَّاءِ يَمْرَضُ بِمُخَالَطَتِهِ القَلْبُ، وَكَالهَلَاكِ وَهُوَ كَأَكْلِ السُّمِّ.»**
 
@@ -707,7 +707,7 @@ Pohon keteguhan (tsabat) dan ketenangan (al-uns): jiwa yang menanam pohon keiman
 
 ---
 
-### 💎 Mutiara 56: Imam Ibnu al-Qayim rahimahullah
+### 💎 Mutiara 56: Imam Ibnu al-Qayyim rahimahullah
 
 > **«شَجَرَةُ الإِيمَانِ أَصْلُهَا ثَابِتٌ فِي قَلْبِ المُؤْمِنِ مَعْرِفَةً وَتَصْدِيقاً، وَفَرْعُهَا فِي السَّمَاءِ عَمَلاً وَجِهَاداً، وَثَمَرَتُهَا طَيِّبُ الحَيَاةِ فِي الدُّنْيَا وَالخُلْدُ فِي الجَنَّةِ.»**
 
@@ -1162,7 +1162,7 @@ Kemerdekaan ekonomi jiwa: da'i yang tidak dapat dibeli dengan wang ringgit atau 
 
 ---
 
-### 💎 Mutiara 92: Imam Ibnu al-Qayim rahimahullah
+### 💎 Mutiara 92: Imam Ibnu al-Qayyim rahimahullah
 
 > **«إِذَا اسْتَغْنَى النَّاسُ بِالدُّنْيَا فَاسْتَغْنِ أَنْتَ بِاللَّهِ، وَإِذَا فَرِحُوا بِالدُّنْيَا فَافْرَحْ أَنْتَ بِاللَّهِ، وَإِذَا أَنِسُوا بِأَحْبَابِهِمْ فَاجْعَلْ أُنْسَكَ بِاللَّهِ.»**
 
