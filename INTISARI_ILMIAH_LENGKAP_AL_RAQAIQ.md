@@ -410,7 +410,7 @@
 
 * **Intisari Subtajuk:**
   * **• Pemisahan Prinsip dan Rukun Tasawur Islam:**
-    * Jiwa yang bangkit dengan keazaman tinggi (*al-himam al-'āliyah*) menyempurnakan kebangkitannya dengan pemisahan prinsip (*tamayuz*).
+    * Jiwa yang bangkit dengan keazaman tinggi (*al-himam al-'āliyah*) menyempurnakan kebangkitannya dengan pemisahan prinsip (*tamayyuz*).
     * Empat rukun tasawur Sayid Qutb: Kewarganegaraan = akidah, Tanah air = Dar al-Islam, Pemerintah = Allah, Perlembagaan = al-Quran; bersih daripada syirik bangsa, kaum, dan tanah air.
     * Surah Ghafir: 14 menegaskan tiada titik pertemuan antara iman dan kufur, menuntut da'i berpegang teguh tanpa mengharapkan keredaan orang kafir.
     * 🔑 **Kunci Amal:** Pertahankan ketulenan tasawur Islam tanpa mencampur-adukkan hakikat iman dengan fahaman sesat moden.

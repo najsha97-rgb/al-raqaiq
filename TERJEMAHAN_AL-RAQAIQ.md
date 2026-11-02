@@ -2900,7 +2900,7 @@ Nota Kaki:
 
 • **Pemisahan Prinsip dan Rukun Tasawur Islam**
 
-Sesungguhnya seorang Muslim yang diseru untuk berjalan bersama keazaman yang tinggi (*al-himam al-'āliyah*), lalu dia bangkit tersentak, melepaskan diri daripada belenggu-belenggu tarikan bumi, dan terbang melayang dengan sayap kemuliaan (*'izzah*): dia adalah seorang Muslim yang sewajarnya menyempurnakan kebangkitannya itu dengan langkah pemisahan prinsip (*tamayuz*) yang jelas dan nyata.
+Sesungguhnya seorang Muslim yang diseru untuk berjalan bersama keazaman yang tinggi (*al-himam al-'āliyah*), lalu dia bangkit tersentak, melepaskan diri daripada belenggu-belenggu tarikan bumi, dan terbang melayang dengan sayap kemuliaan (*'izzah*): dia adalah seorang Muslim yang sewajarnya menyempurnakan kebangkitannya itu dengan langkah pemisahan prinsip (*tamayyuz*) yang jelas dan nyata.
 
 Atau sebagaimana yang diungkapkan oleh Sayid Qutb rahimahullah:
 
@@ -2927,7 +2927,7 @@ Para pembawa panji Islam hanyasanya bertolak daripada kefahaman Islam yang jelas
 
 Selagi mana kesimpulan ini adalah suatu ketetapan yang pasti — bahawa orang-orang kafir tidak akan pernah reda kepada orang-orang beriman — maka hendaklah para da'i menempuh mukadimah yang serasi dengannya, iaitu mukadimah yang membalas penolakan kufur dan kedegilannya terhadap iman.
 
-Dan tindak balas ini tidak lain hanyalah penzahiran perbezaan prinsip (*al-tamayuz*) dan pemisahan (*al-infiṣāl*) daripadanya.
+Dan tindak balas ini tidak lain hanyalah penzahiran perbezaan prinsip (*al-tamayyuz*) dan pemisahan (*al-infiṣāl*) daripadanya.
 
 ---
 
