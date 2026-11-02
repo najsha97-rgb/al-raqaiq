@@ -5,11 +5,11 @@
 
 ---
 
-## 📌 EPILOG / EPIGRAF: "PENJARA" HARAPAN
+## 📌 EPILOG / EPIGRAF: KEPUNGAN ANGAN-ANGAN
 ### *(Ḥiṣār al-Amal - حِصَارُ الأَمَلِ)*
 
 * **Ringkasan Epilog / Epigraf:**
-  Kitab *Al-Raqā'iq* didahului oleh sebuah epigraf berupa lakaran seni lukisan abstrak Islam bertajuk **"Penjara Harapan"** (*Ḥiṣār al-Amal*). Lakaran ini diilhamkan daripada hadis sahih Rasulullah SAW (riwayat Abdullah bin Mas'ud RA dalam Sahih al-Bukhari) mengenai manusia yang terkurung dalam kepungan ajal maut, sementara angan-angan kosongnya melangkaui sempadan usia.
+  Kitab *Al-Raqā'iq* didahului oleh sebuah epigraf berupa lakaran seni lukisan abstrak Islam bertajuk **"Kepungan Angan-angan"** (*Ḥiṣār al-Amal*). Lakaran ini diilhamkan daripada hadis sahih Rasulullah SAW (riwayat Abdullah bin Mas'ud RA dalam Sahih al-Bukhari) mengenai manusia yang terkurung dalam kepungan ajal maut, sementara angan-angan kosongnya melangkaui sempadan usia.
 
 * **Intisari Subtajuk:**
   * **• Sebuah Lukisan Seni Lukisan Abstrak Islam:**
@@ -294,8 +294,8 @@
 
 ---
 
-## 📌 BAB 7: "PENJARA" HARAPAN
-### *("Penjara" Harapan - حِصَارُ الأَمَلِ)*
+## 📌 BAB 7: KEPUNGAN ANGAN-ANGAN
+### *(Kepungan Angan-angan - حِصَارُ الأَمَلِ)*
 
 * **Ringkasan Am Bab 7:**
   Angan-angan panjang (*tūl al-amal*) adalah racun pembunuh yang melalaikan manusia daripada persiapan akhirat. Syeikh al-Rasyid melukiskan bagaimana angan-angan mengepung da'i dengan ilusi masa depan duniawi, lalu mencadangkan penawarnya: menghidupkan ingatan terhadap mati dan merasai betapa hampirnya ajal.

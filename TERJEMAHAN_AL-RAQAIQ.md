@@ -12,7 +12,7 @@
 KANDUNGAN                                                                  MUKA SURAT
 =====================================================================================
 
-EPILOG / EPIGRAF: "PENJARA" HARAPAN (حصار الأمل) ........................ Halaman Pembuka
+EPILOG / EPIGRAF: KEPUNGAN ANGAN-ANGAN (حصار الأمل) ........................ Halaman Pembuka
    • Sebuah Lukisan Seni Lukisan Abstrak Islam ........................ Halaman Pembuka
 
 MUKADIMAH: JIWA YANG BERIMAN (النفس المؤمنة) ........................................ 1
@@ -76,7 +76,7 @@ BAB 6: POHON-POHON KEIMANAN (أشجار الإيمان) ........................
    • Pohon Kesembilan: Pohon Zuhud ................................................. 52
    • Pohon Kesepuluh: Pohon Santun (al-Hilm) — Sulaman Hasan al-Banna .............. 53
 
-BAB 7: "PENJARA" HARAPAN (حصار الأمل) ........................................... 55
+BAB 7: KEPUNGAN ANGAN-ANGAN (حصار الأمل) ........................................... 55
    • Keagungan Perkara yang Disaksikan: Dalil Perkara Ghaib ........................ 56
    • Lukisan daripada Seni Kesenian Islam .......................................... 57
    • Pandangan yang Menjangkau Jauh ................................................ 58
@@ -134,11 +134,11 @@ BAB 12: KISAH-KISAH "HIBURAN" PARA DA'I (قصص من لهو الدعاة) ......
 
 ---
 
-# EPILOG / EPIGRAF: "PENJARA" HARAPAN (Hishar al-Amal)
+# EPILOG / EPIGRAF: KEPUNGAN ANGAN-ANGAN (Hishar al-Amal)
 
 <div class="epigraf-art-presentation-card" style="text-align: center; margin: 20px auto 35px auto; max-width: 540px; background: var(--bg-card, #ffffff); border: 1px solid var(--border-subtle, #cbd5e1); border-radius: 16px; padding: 24px; box-shadow: var(--shadow-glow, 0 10px 30px rgba(0,0,0,0.1));">
   <div class="art-viewer-wrap" style="position: relative; border-radius: 12px; overflow: hidden; background: #fafaf9; border: 2px solid #1c1917; padding: 10px; box-shadow: inset 0 2px 6px rgba(0,0,0,0.1);">
-    <img id="epigrafMainArt" src="images/epigraf_penjara_harapan.svg" alt="Epigraf: \"Penjara\" Harapan - Sebuah Lukisan Seni Lukisan Abstrak Islam" style="max-width: 100%; height: auto; display: block; margin: 0 auto; border-radius: 4px;" />
+    <img id="epigrafMainArt" src="images/epigraf_penjara_harapan.svg" alt="Epigraf: Kepungan Angan-angan - Sebuah Lukisan Seni Lukisan Abstrak Islam" style="max-width: 100%; height: auto; display: block; margin: 0 auto; border-radius: 4px;" />
   </div>
   <div class="art-view-switch-bar" style="display: flex; justify-content: center; gap: 10px; margin-top: 14px;">
     <button type="button" class="art-toggle-btn active-art-btn" onclick="document.getElementById('epigrafMainArt').src='images/epigraf_penjara_harapan.svg'; this.classList.add('active-art-btn'); this.nextElementSibling.classList.remove('active-art-btn');" style="cursor: pointer; padding: 6px 14px; border-radius: 20px; border: 1px solid var(--emerald-primary); background: var(--emerald-primary); color: #fff; font-size: 0.85rem; font-weight: 600; display: inline-flex; align-items: center; gap: 6px;">
@@ -150,14 +150,14 @@ BAB 12: KISAH-KISAH "HIBURAN" PARA DA'I (قصص من لهو الدعاة) ......
   </div>
   <div class="art-caption-box" style="margin-top: 22px; padding-top: 18px; border-top: 1px dashed var(--border-subtle, #cbd5e1);">
     <div style="font-family: 'Amiri', serif; font-size: 2.6rem; font-weight: 700; color: var(--text-gold, #fde047); line-height: 1.35; text-shadow: 0 2px 12px rgba(253, 224, 71, 0.25);">حِصَارُ الأَمَلِ</div>
-    <div style="font-family: 'Outfit', 'Times New Roman', serif; font-size: 1.6rem; font-weight: 800; color: var(--text-main, #f0f6fc); margin: 6px 0 6px 0; letter-spacing: 0.5px;">"Penjara" Harapan</div>
+    <div style="font-family: 'Outfit', 'Times New Roman', serif; font-size: 1.6rem; font-weight: 800; color: var(--text-main, #f0f6fc); margin: 6px 0 6px 0; letter-spacing: 0.5px;">Kepungan Angan-angan</div>
     <div style="font-family: 'Amiri', serif; font-size: 1.7rem; font-weight: 400; color: var(--text-light, #cde0f7); margin-top: 6px; line-height: 1.35;">لَوْحَةٌ مِنَ الفَنِّ التَّجْرِيدِيِّ الإِسْلَامِيِّ</div>
     <div style="font-family: 'Outfit', 'Times New Roman', serif; font-size: 1.15rem; font-style: italic; color: var(--text-gold, #fde047); margin-top: 4px;">Sebuah Lukisan Seni Lukisan Abstrak Islam</div>
   </div>
 </div>
 </div>
 
-Kitab *Al-Raqā'iq* didahului oleh sebuah epigraf berupa lakaran seni lukisan abstrak Islam yang masyhur bertajuk **"Penjara Harapan"** (*Ḥiṣār al-Amal*). Lakaran ini diilhamkan daripada hadis sahih Rasulullah SAW yang diriwayatkan oleh Abdullah bin Mas'ud RA:
+Kitab *Al-Raqā'iq* didahului oleh sebuah epigraf berupa lakaran seni lukisan abstrak Islam yang masyhur bertajuk **"Kepungan Angan-angan"** (*Ḥiṣār al-Amal*). Lakaran ini diilhamkan daripada hadis sahih Rasulullah SAW yang diriwayatkan oleh Abdullah bin Mas'ud RA:
 
 « خَطَّ النَّبِيُّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ خَطًّا مُرَبَّعًا ، وَخَطَّ خَطًّا فِي الوَسَطِ خَارِجًا مِنْهُ ، وَخَطَّ خُطَطًا صِغَارًا إِلَى هَذَا الَّذِي فِي الوَسَطِ ، مِنْ جَانِبِهِ الَّذِي فِي الوَسَطِ ، وَقَالَ : هَذَا الإِنْسَانُ ، وَهَذَا أَجَلُهُ مُحِيطٌ بِهِ ـ أَوْ : قَدْ أَحَاطَ بِهِ ـ وَهَذَا الَّذِي هُوَ خَارِجٌ : أَمَلُهُ ، وَهَذِهِ الخُطَطُ الصِّغَارُ : الأَعْرَاضُ ، فَإِنْ أَخْطَأَهُ هَذَا نَهَشَهُ هَذَا ، وَإِنْ أَخْطَأَهُ هَذَا نَهَشَهُ هَذَا » [1]
 
@@ -1814,8 +1814,8 @@ Oleh yang demikian, tiada sebatang pohon pun yang tegak berdiri melainkan ia men
 ---
 
 
-# BAB 7: "PENJARA" HARAPAN
-### "Penjara" Harapan
+# BAB 7: KEPUNGAN ANGAN-ANGAN
+### Kepungan Angan-angan
 
 Kehidupan ini — dengan pelbagai sudut dimensinya dan rentetan perubahan masyarakat yang dilalui — mungkin sukar difahami oleh generasi Muslim hari ini tanpa kembali kepada suatu pandangan yang realistik, berteraskan kesederhanaan, serta berpijak teguh pada realiti yang dapat dirasai dan disaksikan.
 

@@ -321,13 +321,13 @@ Telah ditetapkan bahawa terjemahan rasmi bagi judul-judul karya Syeikh Muhammad 
 ---
 
 ### 34. Pemasukan Epilog / Epigraf 'Penjara Harapan' (Sebuah Lukisan Seni Lukisan Abstrak Islam)
-* **Ketetapan Penyelarasan:** Menambah bahagian pembuka naskhah kitab secara rasmi berupa sebuah epigraf bertajuk **"EPILOG / EPIGRAF: PENJARA HARAPAN"** dengan subtajuk **"Sebuah Lukisan Seni Lukisan Abstrak Islam"** yang diletakkan pada halaman pembuka sebelum MUKADIMAH, serta didaftarkan ke dalam menu skroll navigasi PWA.
+* **Ketetapan Penyelarasan:** Menambah bahagian pembuka naskhah kitab secara rasmi berupa sebuah epigraf bertajuk **"EPILOG / EPIGRAF: KEPUNGAN ANGAN-ANGAN"** dengan subtajuk **"Sebuah Lukisan Seni Lukisan Abstrak Islam"** yang diletakkan pada halaman pembuka sebelum MUKADIMAH, serta didaftarkan ke dalam menu skroll navigasi PWA.
 * **Teks Arab:** *Ḥiṣār al-Amal — Lawḥah min al-Fann al-Tajrīdī al-Islāmī (حِصَارُ الأَمَلِ — لَوْحَةٌ مِنَ الفَنِّ التَّجْرِيدِيِّ الإِسْلَامِيِّ)*.
 * **Falsafah Ketetapan:** Memelihara 100% ketulenan artistik dan ruhani naskhah asal susunan Syeikh Muhammad Ahmad ar-Rasyid rahimahullah, di mana beliau meletakkan lakaran simbolik hadis Abdullah bin Mas'ud RA (Sahih al-Bukhari) di halaman hadapan sebelum Mukadimah. Lakaran ini memvisualisasikan manusia yang hidup di dalam kandang ajal maut, sementara angan-angannya (al-amal) terkeluar jauh melangkaui batas umur, serta dikelilingi oleh anak panah dan rintangan kematian (al-a'radh). Pendedahan visual ini menjadi pemangkin tajdid niat dan pembuka jiwa pembaca sebelum menelusuri kelembutan rohani kitab Al-Raqā'iq.
 
 ### 35. Penambahan Simbol Tanda Petik (" ") Pada Perkataan "Penjara" (Bab 7) dan "Kubur-kubur" (Bab 8)
 * **Ketetapan Penyelarasan:** Judul Bab 7 dan Bab 8 diletakkan simbol tanda petik berganda (`" "`) khusus pada perkataan kiasan/metafora (majaz) sahaja, selaras dengan uslub penulisan Bab 12 (`KISAH-KISAH "HIBURAN" PARA DA'I`):
-  1. **Bab 7:** `BAB 7: "PENJARA" HARAPAN` (tanda petik khusus pada perkataan `"Penjara"` yang melambangkan kepungan angan-angan kosong duniawi sebagaimana hadis segi empat Nabawi).
+  1. **Bab 7:** `BAB 7: KEPUNGAN ANGAN-ANGAN` (tanda petik khusus pada perkataan `"Penjara"` yang melambangkan kepungan angan-angan kosong duniawi sebagaimana hadis segi empat Nabawi).
   2. **Bab 8:** `BAB 8: "KUBUR-KUBUR" KITA YANG KAKU` (tanda petik khusus pada perkataan `"Kubur-kubur"` yang melambangkan takwil pusara *Tilālunā* yang kaku membisu menanti hari penuaian dan kebangkitan).
 * **Liputan Menyeluruh:** Diselaraskan sepenuhnya merentas semua platform dan dokumen: Manuskrip Markdown (`TERJEMAHAN_AL-RAQAIQ.md`), Intisari Ilmiah Lengkap, Intisari Subtopik Fiqh Haraki, Mutiara Kata Hikmah, dokumen Word (`.docx`), pangkalan data JSON/JS PWA, dan bot Telegram.
 

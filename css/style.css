@@ -772,18 +772,32 @@ body {
   margin-bottom: 0.6rem;
 }
 
-/* Highlight Arabic passages */
-.content-body .arabic-text {
-  font-family: 'Amiri', serif;
+/* Highlight Arabic passages - Jajaran Kanan Penuh Mutlak (RTL Standard) */
+.content-body p.arabic-text,
+.content-body div.arabic-text,
+.content-body .arabic-text,
+.content-body .ar-quote,
+.content-body .ar-verse-line,
+.content-body .ar-poem-quote,
+.content-body .ar-quote-block,
+.content-body [dir="rtl"].arabic-text {
+  font-family: 'Amiri', serif !important;
   font-size: 1.35rem;
-  line-height: 2.1;
-  color: var(--gold-light);
-  direction: rtl;
-  text-align: right;
+  line-height: 2.2;
+  color: var(--gold-light) !important;
+  direction: rtl !important;
+  text-align: right !important;
+  text-align-last: right !important;
+  -webkit-text-align-last: right !important;
+  unicode-bidi: isolate !important;
+  display: block !important;
+  width: 100% !important;
+  box-sizing: border-box !important;
   background: rgba(212, 175, 55, 0.05);
   padding: 0.8rem 1.2rem;
   border-radius: var(--radius-sm);
   border-right: 3px solid var(--gold-primary);
+  border-left: none !important;
   margin: 1rem 0;
 }
 
@@ -1402,8 +1416,10 @@ body.light-theme .mobile-menu-btn:hover .menu-icon-svg {
 
 .hikmah-hero-quote .ar-quote,
 .hikmah-card-body .ar-quote,
+.quote-highlight-box .ar-quote,
 .ar-quote {
   display: block !important;
+  width: 100% !important;
   font-family: 'Amiri', 'Traditional Arabic', serif !important;
   font-style: normal !important;
   font-weight: 400 !important;
@@ -1412,6 +1428,8 @@ body.light-theme .mobile-menu-btn:hover .menu-icon-svg {
   color: var(--gold-light, #fde047) !important;
   direction: rtl !important;
   text-align: right !important;
+  text-align-last: right !important;
+  -webkit-text-align-last: right !important;
   unicode-bidi: isolate !important;
   margin: 0.8rem 0 1rem 0 !important;
   padding: 12px 18px !important;
@@ -1421,6 +1439,7 @@ body.light-theme .mobile-menu-btn:hover .menu-icon-svg {
   border-radius: 10px !important;
   word-spacing: 0.08em !important;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+  box-sizing: border-box !important;
 }
 
 [data-theme="light"] .hikmah-hero-quote .ar-quote,
@@ -1438,6 +1457,8 @@ body.light-theme .mobile-menu-btn:hover .menu-icon-svg {
   display: block !important;
   direction: rtl !important;
   text-align: right !important;
+  text-align-last: right !important;
+  -webkit-text-align-last: right !important;
   unicode-bidi: isolate !important;
   width: 100% !important;
   margin: 0 !important;
@@ -3710,7 +3731,6 @@ em:has(:lang(ar)),
 i:has(:lang(ar)),
 em [dir="rtl"],
 i [dir="rtl"],
-blockquote [dir="rtl"],
 .summary-subheading-banner span[dir="rtl"],
 .summary-subheading-banner .arabic-text-amiri-gold {
   font-family: 'Amiri', serif !important;
@@ -3797,36 +3817,49 @@ i .arabic-text-amiri-gold,
 }
 
 /* Arabic Quote inside Green Quote Box */
-.quote-highlight-box .ar-quote-block {
-  display: block;
+.quote-highlight-box .ar-quote-block,
+.quote-highlight-box .ar-quote {
+  display: block !important;
+  width: 100% !important;
   font-family: 'Amiri', serif !important;
   color: var(--gold-light, #fde047) !important;
   font-size: 1.35rem !important;
-  line-height: 2 !important;
+  line-height: 2.2 !important;
   margin-bottom: 0.75rem !important;
   text-align: right !important;
+  text-align-last: right !important;
+  -webkit-text-align-last: right !important;
   direction: rtl !important;
   font-style: normal !important;
+  unicode-bidi: isolate !important;
+  box-sizing: border-box !important;
 }
 
-[data-theme="light"] .quote-highlight-box .ar-quote-block {
+[data-theme="light"] .quote-highlight-box .ar-quote-block,
+[data-theme="light"] .quote-highlight-box .ar-quote {
   color: #8c6b00 !important;
 }
 
 .quote-highlight-box.arabic-quote-box {
   background: rgba(16, 185, 129, 0.08) !important;
-  border-left: 4px solid var(--emerald-primary) !important;
-  border-right: none !important;
-  border-radius: 0 var(--radius-sm) var(--radius-sm) 0 !important;
+  border-right: 4px solid var(--emerald-primary) !important;
+  border-left: none !important;
+  border-radius: var(--radius-sm) 0 0 var(--radius-sm) !important;
   padding: 1rem 1.4rem !important;
   margin: 1.5rem 0 !important;
   direction: rtl !important;
   text-align: right !important;
+  text-align-last: right !important;
+  -webkit-text-align-last: right !important;
+  unicode-bidi: isolate !important;
   font-family: 'Amiri', serif !important;
   font-size: 1.35rem !important;
-  line-height: 2 !important;
+  line-height: 2.2 !important;
   color: var(--gold-light, #fde047) !important;
   font-style: normal !important;
+  display: block !important;
+  width: 100% !important;
+  box-sizing: border-box !important;
 }
 
 [data-theme="light"] .quote-highlight-box.arabic-quote-box {
@@ -4910,4 +4943,47 @@ i .arabic-text-amiri-gold,
 [data-theme="light"] #modalPeradabanSpotlight #btnClosePeradabanModal {
   background: rgba(0, 0, 0, 0.05) !important;
   color: #334155 !important;
+}
+
+/* ==========================================================================
+   PENJAZARAN KANAN MUTLAK SEMUA TEKS ARAB (AMIRI GOLD) - ANTI-JATUH KIRI
+   Menjamin setiap barisan petikan teks Arab, termasuk barisan kedua dan
+   seterusnya, dijajarkan 100% rapat ke kanan (RTL right-aligned).
+   ========================================================================== */
+.content-body p.arabic-text,
+.content-body div.arabic-text,
+.content-body .arabic-text,
+.content-body .ar-quote,
+.content-body .ar-verse-line,
+.content-body .ar-poem-quote,
+.content-body .ar-quote-block,
+.content-body .quote-highlight-box.arabic-quote-box,
+.content-body .quote-highlight-box .ar-quote,
+.content-body .quote-highlight-box .ar-quote-block,
+.content-body .summary-arabic-quote-box,
+.content-body .summary-arabic-quote-box .arabic-text-amiri-gold,
+.content-body [dir="rtl"].arabic-text,
+.arabic-text,
+.ar-quote,
+.ar-verse-line,
+.ar-poem-quote,
+.ar-quote-block,
+.quote-highlight-box.arabic-quote-box,
+.summary-arabic-quote-box,
+.summary-arabic-quote-box .arabic-text-amiri-gold,
+.hikmah-card-body .ar-quote,
+.hikmah-card-body .ar-verse-line {
+  direction: rtl !important;
+  text-align: right !important;
+  text-align-last: right !important;
+  -webkit-text-align-last: right !important;
+  unicode-bidi: isolate !important;
+  box-sizing: border-box !important;
+}
+
+/* Elakkan span inline-block memecahkan jajaran perenggan quote */
+.quote-highlight-box .ar-quote-block,
+.quote-highlight-box .ar-quote {
+  display: block !important;
+  width: 100% !important;
 }

@@ -543,16 +543,16 @@ document.addEventListener('DOMContentLoaded', () => {
           if (groups.length > 1) {
             const isBlockquote = para.trim().startsWith('>');
             if (isBlockquote) {
-              const p = document.createElement('p');
+              const p = document.createElement('div');
               p.className = 'quote-highlight-box';
               let innerHtml = '';
               groups.forEach(g => {
                 const cleanLines = g.lines.map(l => l.replace(/^[>\s]+/, '').trim()).filter(Boolean).join('<br>');
                 if (g.type === 'ar') {
-                  innerHtml += `<span class="ar-quote-block" dir="rtl" style="display: block; font-family: 'Amiri', serif !important; color: var(--gold-light, #fde047) !important; font-size: 1.35rem; line-height: 2; margin-bottom: 0.6rem; text-align: right; font-style: normal !important;">${cleanLines.replace(/\*\*(.*?)\*\*/g, '$1')}</span>`;
+                  innerHtml += `<div class="ar-quote-block" dir="rtl" style="display: block !important; width: 100% !important; font-family: 'Amiri', serif !important; color: var(--gold-light, #fde047) !important; font-size: 1.35rem !important; line-height: 2.2 !important; margin-bottom: 0.6rem !important; text-align: right !important; text-align-last: right !important; -webkit-text-align-last: right !important; direction: rtl !important; font-style: normal !important; unicode-bidi: isolate !important;">${cleanLines.replace(/\*\*(.*?)\*\*/g, '$1')}</div>`;
                 } else {
                   const formatted = cleanLines.replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>');
-                  innerHtml += `<span class="lat-quote-block" style="display: block; font-style: italic; color: var(--text-main); font-size: 1.05rem; line-height: 1.7;">${formatSmartItalicHtml(formatted)}</span>`;
+                  innerHtml += `<div class="lat-quote-block" style="display: block; font-style: italic; color: var(--text-main); font-size: 1.05rem; line-height: 1.7;">${formatSmartItalicHtml(formatted)}</div>`;
                 }
               });
               p.innerHTML = innerHtml;
@@ -561,10 +561,12 @@ document.addEventListener('DOMContentLoaded', () => {
             }
 
             groups.forEach(g => {
-              const pChild = document.createElement('p');
+              const pChild = document.createElement(g.type === 'ar' ? 'div' : 'p');
               const cleanLines = g.lines.map(l => l.replace(/^[>\s]+/, '').trim()).filter(Boolean).join('<br>');
               if (g.type === 'ar') {
                 pChild.className = 'arabic-text';
+                pChild.setAttribute('dir', 'rtl');
+                pChild.style.cssText = "direction: rtl !important; text-align: right !important; text-align-last: right !important; -webkit-text-align-last: right !important; font-family: 'Amiri', serif !important; display: block !important; width: 100% !important; unicode-bidi: isolate !important;";
                 pChild.innerHTML = cleanLines.replace(/\*\*(.*?)\*\*/g, '$1');
               } else {
                 pChild.className = 'quote-highlight-box';
@@ -587,11 +589,13 @@ document.addEventListener('DOMContentLoaded', () => {
             if (para.trim().startsWith('>')) {
               p.className = 'quote-highlight-box arabic-quote-box';
               p.setAttribute('dir', 'rtl');
-              p.style.cssText = "font-family: 'Amiri', serif !important; color: var(--gold-light, #fde047) !important; font-size: 1.35rem !important; line-height: 2 !important; text-align: right !important; font-style: normal !important;";
+              p.style.cssText = "font-family: 'Amiri', serif !important; color: var(--gold-light, #fde047) !important; font-size: 1.35rem !important; line-height: 2.2 !important; text-align: right !important; text-align-last: right !important; -webkit-text-align-last: right !important; direction: rtl !important; font-style: normal !important; display: block !important; width: 100% !important; unicode-bidi: isolate !important;";
               const cleanText = para.split('\n').map(l => l.replace(/^[>\s]+/, '').trim()).filter(Boolean).join('<br>');
               p.innerHTML = cleanText.replace(/\*\*(.*?)\*\*/g, '$1');
             } else {
               p.className = 'arabic-text';
+              p.setAttribute('dir', 'rtl');
+              p.style.cssText = "direction: rtl !important; text-align: right !important; text-align-last: right !important; -webkit-text-align-last: right !important; font-family: 'Amiri', serif !important; display: block !important; width: 100% !important; unicode-bidi: isolate !important;";
               const cleanText = para.split('\n').map(l => l.replace(/^[>\s]+/, '').trim()).filter(Boolean).join('<br>');
               p.innerHTML = cleanText.replace(/\*\*(.*?)\*\*/g, '$1');
             }
@@ -600,9 +604,12 @@ document.addEventListener('DOMContentLoaded', () => {
             const cleanHeader = para.replace(/^###\s*/, '').replace(/^\*\*/, '').replace(/\*\*$/, '').trim();
             p.innerHTML = `<span class="subheading-accent" aria-hidden="true"></span><span class="subheading-title">${cleanHeader}</span>`;
           } else if (para.trim().startsWith('>') || para.startsWith('«')) {
-            p.className = 'quote-highlight-box';
+            const pQuote = document.createElement('div');
+            pQuote.className = 'quote-highlight-box';
             const cleanQuote = para.split('\n').map(l => l.replace(/^[>\s]+/, '').trim()).filter(Boolean).join('<br>');
-            p.innerHTML = formatQuoteText(cleanQuote);
+            pQuote.innerHTML = formatQuoteText(cleanQuote);
+            contentBody.appendChild(pQuote);
+            return;
           } else if (para.trim().endsWith(':')) {
             p.className = 'intro-lead-in';
             const cleanText = para.replace(/^[>\s]+/, '').trim();
@@ -877,8 +884,8 @@ document.addEventListener('DOMContentLoaded', () => {
             let cleanQuote = tr.replace(/^(&gt;|>)\s*/, '').trim();
             cleanQuote = cleanQuote.replace(/^<strong[^>]*>(.*)<\/strong>$/i, '$1');
             formattedLines.push(`
-              <div class="summary-arabic-quote-box" dir="rtl">
-                <span class="arabic-text-amiri-gold" dir="rtl">${cleanQuote}</span>
+              <div class="summary-arabic-quote-box" dir="rtl" style="direction: rtl !important; text-align: right !important; text-align-last: right !important; -webkit-text-align-last: right !important;">
+                <span class="arabic-text-amiri-gold" dir="rtl" style="direction: rtl !important; text-align: right !important; text-align-last: right !important; -webkit-text-align-last: right !important; display: block !important; width: 100% !important;">${cleanQuote}</span>
               </div>
             `);
             continue;
@@ -928,8 +935,8 @@ document.addEventListener('DOMContentLoaded', () => {
             const arChars = (tr.match(/[\u0600-\u06FF]/g) || []).length;
             if (arChars > 8 && arChars >= (tr.match(/[a-zA-Z]/g) || []).length) {
               formattedLines.push(`
-                <div class="summary-arabic-quote-box" dir="rtl">
-                  <span class="arabic-text-amiri-gold" dir="rtl">${tr}</span>
+                <div class="summary-arabic-quote-box" dir="rtl" style="direction: rtl !important; text-align: right !important; text-align-last: right !important; -webkit-text-align-last: right !important;">
+                  <span class="arabic-text-amiri-gold" dir="rtl" style="direction: rtl !important; text-align: right !important; text-align-last: right !important; -webkit-text-align-last: right !important; display: block !important; width: 100% !important;">${tr}</span>
                 </div>
               `);
             } else {
@@ -1378,11 +1385,21 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // 3. Format quote brackets « ... »
     // ONLY apply dir="rtl" if content actually contains Arabic!
-    formatted = formatted.replace(/«\s*(.*?)\s*»/g, (match, p1) => {
+    formatted = formatted.replace(/«\s*([\s\S]*?)\s*»/g, (match, p1) => {
       const arCount = (p1.match(/[\u0600-\u06FF]/g) || []).length;
       const latCount = (p1.match(/[a-zA-Z]/g) || []).length;
       if (arCount > 0 && arCount >= latCount) {
-        return `<span class="ar-quote" dir="rtl" style="font-style: normal !important; transform: none !important; font-family: 'Amiri', serif;">« ${p1} »</span>`;
+        const rawLines = p1.split(/(?:<br\s*\/?>|\n)/)
+          .map(l => l.replace(/^[ \t]*(?:>|&gt;)[ \t]*/, '').trim())
+          .filter(Boolean);
+        if (rawLines.length > 1) {
+          const linesHtml = rawLines
+            .map(line => `<div class="ar-verse-line" dir="rtl" style="display: block !important; width: 100% !important; direction: rtl !important; text-align: right !important; text-align-last: right !important; -webkit-text-align-last: right !important; unicode-bidi: isolate !important; line-height: 2.2 !important; margin: 0 0 0.45rem 0 !important;">${line}</div>`)
+            .join('');
+          return `<div class="ar-quote ar-poem-quote" dir="rtl" style="display: block !important; width: 100% !important; direction: rtl !important; text-align: right !important; text-align-last: right !important; -webkit-text-align-last: right !important; unicode-bidi: isolate !important; font-style: normal !important; transform: none !important; font-family: 'Amiri', serif !important; color: var(--gold-light, #fde047) !important;">${linesHtml}</div>`;
+        } else {
+          return `<div class="ar-quote" dir="rtl" style="display: block !important; width: 100% !important; direction: rtl !important; text-align: right !important; text-align-last: right !important; -webkit-text-align-last: right !important; unicode-bidi: isolate !important; font-style: normal !important; transform: none !important; font-family: 'Amiri', serif !important; color: var(--gold-light, #fde047) !important;">« ${rawLines[0] || p1} »</div>`;
+        }
       }
       return `« ${p1} »`;
     });
@@ -2142,11 +2159,11 @@ document.addEventListener('DOMContentLoaded', () => {
       if (arCount > 0 && arCount >= latCount) {
         if (rawLines.length > 1) {
           const linesHtml = rawLines
-            .map(line => `<div class="ar-verse-line" dir="rtl" style="direction: rtl !important; text-align: right !important;">${line}</div>`)
+            .map(line => `<div class="ar-verse-line" dir="rtl" style="display: block !important; width: 100% !important; direction: rtl !important; text-align: right !important; text-align-last: right !important; -webkit-text-align-last: right !important; unicode-bidi: isolate !important; line-height: 2.2 !important; margin: 0 0 0.45rem 0 !important;">${line}</div>`)
             .join('');
-          return `<div class="ar-quote ar-poem-quote" dir="rtl" style="direction: rtl !important; text-align: right !important;">${linesHtml}</div>`;
+          return `<div class="ar-quote ar-poem-quote" dir="rtl" style="display: block !important; width: 100% !important; direction: rtl !important; text-align: right !important; text-align-last: right !important; -webkit-text-align-last: right !important; unicode-bidi: isolate !important;">${linesHtml}</div>`;
         } else {
-          return `<div class="ar-quote" dir="rtl" style="direction: rtl !important; text-align: right !important;">${rawLines[0] || p1}</div>`;
+          return `<div class="ar-quote" dir="rtl" style="display: block !important; width: 100% !important; direction: rtl !important; text-align: right !important; text-align-last: right !important; -webkit-text-align-last: right !important; unicode-bidi: isolate !important;">${rawLines[0] || p1}</div>`;
         }
       }
       return `« ${p1} »`;
