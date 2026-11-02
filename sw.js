@@ -1,4 +1,4 @@
-const CACHE_NAME = 'alraqaiq-v68-modal-close-fix';
+const CACHE_NAME = 'alraqaiq-v73-single-y-sync';
 const ASSETS_TO_CACHE = [
   './',
   './index.html',

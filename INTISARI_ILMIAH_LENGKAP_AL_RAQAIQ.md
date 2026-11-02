@@ -13,7 +13,7 @@
 
 * **Intisari Subtajuk:**
   * **• Sebuah Lukisan Seni Lukisan Abstrak Islam:**
-    * Mengupas empat elemen lukisan Nabawi: lembaga insan di tengah, kotak segi empat ajal maut yang mengepung, garisan angan-angan panjang menjulur keluar, dan anak-anak panah pelbagai rintangan penyakit/musibah yang sedia menerkam. Menjadi pencetus muhasabah ruhiyyah dan pemangkin tajdid niat sebelum melangkah masuk ke dalam taman rohani *Al-Raqā'iq*.
+    * Mengupas empat elemen lukisan Nabawi: lembaga insan di tengah, kotak segi empat ajal maut yang mengepung, garisan angan-angan panjang menjulur keluar, dan anak-anak panah pelbagai rintangan penyakit/musibah yang sedia menerkam. Menjadi pencetus muhasabah ruhiyah dan pemangkin tajdid niat sebelum melangkah masuk ke dalam taman rohani *Al-Raqā'iq*.
 
     * 🔑 **Kunci Amal:** Jadikan seni dan metafora dakwah sebagai cermin yang melembutkan hati nurani sebelum memikul beban amanah ummah.
 ---
@@ -53,8 +53,8 @@
     * Membezakan antara hakikat kebenaran dengan getaran fatamorgana riak air (*Baina adh-Dhalāl wa al-Hudā*). Kepentingan kitab *Al-Raqā'iq* sebagai loceng amaran sebelum jiwa tersungkur lemas ke lembah fitnah.
     * 🔑 **Kunci Amal:** Peka terhadap amaran pelembut hati (*al-raqaiq*) tatkala berada di persimpangan jalan antara tuntutan dakwah dan godaan kerehatan.
   * **• Ketinggian Iman Mendepani Falsafah Bahimiah (Kehaiwanan):**
-    * Menelanjangi kesesatan penyair ateis yang menyeru kepada kelazatan syahwat haiwani (*bahimiyyah*) dan mendakwa tanah kubur menyamakan orang dungu dan orang genius.
-    * Hujah mantik Abu Sulaiman al-Sijistani (riwayat Abu Hayyan al-Tauhidi): bumi hanya membalut jasad dan bangkai kasar manusia, bukan membalut iman, tauhid, kezuhudan, ketaatan, dan makrifat mereka.
+    * Menelanjangi kesesatan penyair ateis yang menyeru kepada kelazatan syahwat haiwani (*bahimiyah*) dan mendakwa tanah kubur menyamakan orang dungu dan orang genius.
+    * Hujah mantik Abu Sulaiman al-Sijistani (riwayat Abu Hayan al-Tauhidi): bumi hanya membalut jasad dan bangkai kasar manusia, bukan membalut iman, tauhid, kezuhudan, ketaatan, dan makrifat mereka.
 
     * 🔑 **Kunci Amal:** Angkat martabat kemanusiaan dengan cahaya iman dan tolak falsafah kebendaan yang merendahkan jiwa ke darjat kehaiwanan.
 ---
@@ -94,7 +94,7 @@
     * Solat fardhu berjemaah di masjid adalah nadi utama yang membezakan pejuang ikhlas dengan penuntut keselesaan duniawi.
     * 🔑 **Kunci Amal:** Hidupkan doa dan wirid harian sebagai perisai muraqabah daripada penyakit lena dan lalai.
   * **• Keutamaan Golongan Terdahulu Menjaga Solat:**
-    * Menyorot teladan para sahabat dan tabi'in (seperti Sa'id bin al-Musayyab yang tidak pernah terlepas takbiratul ihram selama 40 tahun).
+    * Menyorot teladan para sahabat dan tabi'in (seperti Sa'id bin al-Musayab yang tidak pernah terlepas takbiratul ihram selama 40 tahun).
     * Tangisan para salaf tatkala terlepas solat berjemaah mencerminkan kepekaan hati yang hidup.
     * 🔑 **Kunci Amal:** Pelihara takbiratul ihram solat berjemaah dan rasai kerugian jiwa tatkala terlepas saf pertama.
   * **• Dakwah yang Menimba Pengajaran daripada Nabi Daud AS:**
@@ -138,12 +138,12 @@
     * Membina persepsi bahawa dakwah adalah medan memberi dan berkorban, bukan medan mengambil atau menuai faedah duniawi.
     * 🔑 **Kunci Amal:** Tetapkan asas permulaan langkah dakwah di atas landasan akidah yang teguh dan niat yang bebas daripada kepentingan peribadi.
   * **• Niat yang Bebas Ikhlas:**
-    * Niat yang tulus ikhlas (*al-niyyah al-hurrah*) adalah "ruh" bagi setiap gerak kerja; tanpa keikhlasan, amal sebesar gunung akan hancur menjadi debu berterbangan.
+    * Niat yang tulus ikhlas (*al-niyah al-hurrah*) adalah "ruh" bagi setiap gerak kerja; tanpa keikhlasan, amal sebesar gunung akan hancur menjadi debu berterbangan.
     * Mencontohi Umar bin Abdul Aziz yang tidak melangkah melainkan dengan niat kerana Allah, sehingga amalan kecil menjadi agung.
     * 🔑 **Kunci Amal:** Bersihkan hati daripada segala bentuk syirik tersembunyi dan harapkan balasan pahala semata-mata di sisi Allah.
   * **• Kecelaruan Niat dan Jerangkap Angan-Angan Kosong:**
     * Percampuran niat mencetuskan kegelisahan batin dan kecelaruan hidup; jiwa yang tidak terurus tidak mampu memimpin perubahan di sekelilingnya.
-    * Membezakan secara tegas antara niat yang benar dengan angan-angan kosong (*al-umniyyah*) yang melahirkan sikap bertangguh dan melemahkan disiplin amal.
+    * Membezakan secara tegas antara niat yang benar dengan angan-angan kosong (*al-umniyah*) yang melahirkan sikap bertangguh dan melemahkan disiplin amal.
     * 🔑 **Kunci Amal:** Waspadai jerangkap riak dan angan-angan kosong yang mampu meleburkan pahala jihad puluhan tahun dalam sekelip mata.
   * **• Mengorak Langkah Mengharungi Kesukaran:**
     * Kesediaan mental dan rohani untuk menghadapi jalan dakwah yang sememangnya dipagari oleh kepayahan (*makārih*), cemuhan manusia, dan keletihan fizikal.
@@ -369,7 +369,7 @@
     * Mengimbangi antara tuntutan mencari rezeki dengan penumpuan jiwa kepada dakwah; dunia di tangan, akhirat di hati.
     * 🔑 **Kunci Amal:** Praktikkan neraca Hasan al-Basri: anggaplah setiap hari yang dilalui adalah harimu yang terakhir di atas muka bumi.
   * **• Madrasah Baghdad Cenderung kepada Kesederhanaan:**
-    * Dipelopori oleh Imam Ahmad bin Hanbal dan para muhaddisin; kesederhanaan hidup yang menewaskan fitnah kemewahan khalifah Abbasiyyah.
+    * Dipelopori oleh Imam Ahmad bin Hanbal dan para muhaddisin; kesederhanaan hidup yang menewaskan fitnah kemewahan khalifah Abbasiyah.
     * 🔑 **Kunci Amal:** Amalkan kesederhanaan dalam urusan kehidupan duniawi agar beban hisab menjadi ringan di mahkamah Ilahi.
   * **• Tarbiah Melalui Pengakuan & Selepas Itu...:**
     * Muhasabah harian secara jujur dan berterusan; pengakuan terhadap kelemahan diri di hadapan Allah melahirkan kekuatan luar biasa di medan masyarakat.
@@ -406,12 +406,12 @@
 ### *(Al-'Abd al-Hurr - العَبْدُ الحُرُّ)*
 
 * **Ringkasan Am Bab 11:**
-  Paradoks agung dalam Islam: seseorang insan hanya akan mencapai kemerdekaan hakiki apabila dia menzahirkan penghambaan mutlak (*'ubudiyyah*) kepada Allah Taala semata-mata. Hamba yang merdeka adalah insan yang jiwanya bebas daripada belenggu jahiliah dan hawa nafsu menerusi pemisahan prinsip (*al-mufāṣalah*), serta memiliki kemuliaan iman (*'izzah*) di hadapan penguasa dunia.
+  Paradoks agung dalam Islam: seseorang insan hanya akan mencapai kemerdekaan hakiki apabila dia menzahirkan penghambaan mutlak (*'ubudiyah*) kepada Allah Taala semata-mata. Hamba yang merdeka adalah insan yang jiwanya bebas daripada belenggu jahiliah dan hawa nafsu menerusi pemisahan prinsip (*al-mufāṣalah*), serta memiliki kemuliaan iman (*'izzah*) di hadapan penguasa dunia.
 
 * **Intisari Subtajuk:**
   * **• Pemisahan Prinsip dan Rukun Tasawur Islam:**
-    * Jiwa yang bangkit dengan keazaman tinggi (*al-himam al-'āliyah*) menyempurnakan kebangkitannya dengan pemisahan prinsip (*tamayyuz*).
-    * Empat rukun tasawur Sayyid Qutb: Kewarganegaraan = akidah, Tanah air = Dar al-Islam, Pemerintah = Allah, Perlembagaan = al-Quran; bersih daripada syirik bangsa, kaum, dan tanah air.
+    * Jiwa yang bangkit dengan keazaman tinggi (*al-himam al-'āliyah*) menyempurnakan kebangkitannya dengan pemisahan prinsip (*tamayuz*).
+    * Empat rukun tasawur Sayid Qutb: Kewarganegaraan = akidah, Tanah air = Dar al-Islam, Pemerintah = Allah, Perlembagaan = al-Quran; bersih daripada syirik bangsa, kaum, dan tanah air.
     * Surah Ghafir: 14 menegaskan tiada titik pertemuan antara iman dan kufur, menuntut da'i berpegang teguh tanpa mengharapkan keredaan orang kafir.
     * 🔑 **Kunci Amal:** Pertahankan ketulenan tasawur Islam tanpa mencampur-adukkan hakikat iman dengan fahaman sesat moden.
   * **• Pemisahan Nabawi dan Tarbiah Keluhuran Iman:**
@@ -434,7 +434,7 @@
     * Hakikat teladan Islam (*al-qudwah al-islāmiah*): peribadi yang merdeka dalam fikiran, akidah, dan amal; memancarkan ketenangan dan wibawa sebagai bukti keunggulan tarbiah Islam.
     * 🔑 **Kunci Amal:** Jadilah model teladan da'i yang merdeka jiwanya, berani menyatakan kebenaran dan tidak tunduk kepada ugutan taghut.
   * **• Izzah Seorang Mukmin Berdepan Penguasa Dunia:**
-    * Menyorot keberanian para ulama salaf (seperti Sa'id bin al-Musayyab dan Sa'id bin Jubair) yang berdiri teguh tanpa gentar di hadapan al-Hajjaj bin Yusuf dan raja-raja Bani Umayyah.
+    * Menyorot keberanian para ulama salaf (seperti Sa'id bin al-Musayab dan Sa'id bin Jubair) yang berdiri teguh tanpa gentar di hadapan al-Hajjaj bin Yusuf dan raja-raja Bani Umayah.
     * Kematian di jalan Allah adalah kemuncak kemerdekaan jiwa.
     * 🔑 **Kunci Amal:** Menzahirkan izzah keimanan dengan penuh keberanian di hadapan penguasa yang zalim tanpa gentar kehilangan nyawa atau kedudukan.
   * **• Kemanisan Ketaatan Hakiki:**
@@ -469,7 +469,7 @@
     * Abdullah bin Abbas RA tidur di hadapan pintu rumah sahabat demi menuntut hadis sehingga diselubungi debu angin panas.
     * 🔑 **Kunci Amal:** Bergembiralah dengan debu-debu yang melekat di pakaian dan wajahmu di jalan Allah kerana ia menjadi perisai daripada api neraka.
   * **• Kegemaran Mengangkat Beban yang Berat:**
-    * Kabilah al-Nakha' dalam perang al-Qadisiyyah berlumba-lumba memikul beban pertempuran paling sukar.
+    * Kabilah al-Nakha' dalam perang al-Qadisiyah berlumba-lumba memikul beban pertempuran paling sukar.
     * 🔑 **Kunci Amal:** Bersedialah memikul tugasan dakwah yang paling berat dan sukar sebagaimana kegemaran para pahlawan kabilah an-Nakha'.
   * **• Kubu Tarbiah al-Asadiah:**
     * Abu Wa'il Syaqiq membina kubu sempit di Kufah hanya untuk dirinya, kudanya dan senjatanya demi bersiap sedia untuk jihad.
@@ -501,7 +501,7 @@
 ---
 
 # 🌿 LAMPIRAN KHAS: SEKILAS TONGGAK AMALAN TARBIAH
-## Tiga Disiplin Ruhiyyah Asas Da'i Menurut Manhaj Salafussoleh
+## Tiga Disiplin Ruhiyah Asas Da'i Menurut Manhaj Salafussoleh
 *(Pilar Fizikal-Spiritual yang Menjadi Prasyarat Kelembutan Hati dalam Kitab Al-Raqā'iq)*
 
 > *"Sesungguhnya kelembutan hati (al-raqā'iq) bukanlah sekadar sentimen perasaan atau teori kerohanian yang terawang-awang; ia berdiri teguh di atas tiga tonggak amalan fizikal-spiritual salafussoleh: menghidupkan malam dengan tilawah al-Quran, mengekang syahwat pada siang hari dengan puasa, dan menakluk ketamakan duniawi dengan infaq serta mendahulukan orang lain (al-i'tsār)."*
@@ -537,9 +537,9 @@
   * **Neraca Siang Salafussoleh (Bab 2):**  
     > *"Siang generasi terdahulu sarat dengan kesungguhan (berpuasa, menuntut ilmu, dan berjihad), sedangkan siang orang selain mereka dipenuhi dengan melayan syahwat?"*
   * **Memecahkan Belenggu Kerehatan (Bab 10):**  
-    Syeikh al-Rasyid menegaskan bahawa cita-cita da'i yang tinggi laksana burung helang (*himmah shaqriyyah*) hanya dapat terbang apabila terputus rantai kelazatan makan minum dan tilam empuk.
+    Syeikh al-Rasyid menegaskan bahawa cita-cita da'i yang tinggi laksana burung helang (*himmah shaqriyah*) hanya dapat terbang apabila terputus rantai kelazatan makan minum dan tilam empuk.
 * **Preskripsi Amali Harian Da'i:**
-  1. Melazimi puasa sunat Isnin dan Khamis atau Hari-Hari Putih (13, 14, 15 hijrah / *Ayyām al-Bīḍ*).
+  1. Melazimi puasa sunat Isnin dan Khamis atau Hari-Hari Putih (13, 14, 15 hijrah / *Ayām al-Bīḍ*).
   2. Mengurangkan kekenyangan berlebihan bagi memelihara ketajaman akal fikiran dan kepekaan hati nurani.
   3. Menyibukkan waktu siang dengan dakwah dan khidmat ummah sebagai pelengkap kepada ibadah malam.
 

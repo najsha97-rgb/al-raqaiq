@@ -59,7 +59,7 @@ Ketenangan jiwa mukminah bukanlah kelemahan, sebaliknya kekuatan hening yang mel
 
 ---
 
-### 💎 Mutiara 5: Falsafah Materialis vs Hikmah Rabbaniyyah
+### 💎 Mutiara 5: Falsafah Materialis vs Hikmah Rabbaniyah
 
 > **«إِنَّمَا العَيْشُ فِي بَهِيمِيَّةِ اللَّذَّةِ لَا مَا يَقُولُهُ الفَلْسَفِي ... حُكْمُ كَأْسِ المَنُونِ أَنْ يَتَسَاوَى فِي حَسَاهَا الغَبِيُّ وَالأَلْمَعِي»**
 
@@ -120,7 +120,7 @@ Karakter asasi murabbi dan da'i rabbani ialah menumpukan tenaga membaiki kecacat
 *“Sesiapa yang sentiasa berulang-alik ke masjid, dia akan memperoleh salah satu daripada lapan kebaikan: ayat al-Quran yang kukuh hukumnya, sahabat yang memberi manfaat, ilmu pengetahuan baharu, rahmat yang dinanti-nantikan, kalimah yang membimbingnya ke arah petunjuk atau mencegahnya daripada kebinasaan, serta meninggalkan dosa sama ada kerana dorongan rasa malu ataupun kerana rasa takut kepada Allah SWT.”*
 
 **⚔️ Dimensi Fiqh Tarbawi Haraki & Pengajaran:**
-Masjid adalah markas latihan kader dakwah yang hakiki. Pemisahan aktivis dakwah daripada masjid menyebabkan kelumpuhan ruhiyyah dan memutuskan ukhuwwah di bawah naungan takwa.
+Masjid adalah markas latihan kader dakwah yang hakiki. Pemisahan aktivis dakwah daripada masjid menyebabkan kelumpuhan ruhiyah dan memutuskan ukhuwwah di bawah naungan takwa.
 
 ---
 
@@ -162,7 +162,7 @@ Pengurusan waktu lapang da'i: mengisi sela rehat dengan nafilah dan zikir memeli
 
 ---
 
-### 💎 Mutiara 13: Imam Sa'id bin al-Musayyab rahimahullah
+### 💎 Mutiara 13: Imam Sa'id bin al-Musayab rahimahullah
 
 > **«مَا أَذَّنَ المُؤَذِّنُ مُنْذُ ثَلَاثِينَ سَنَةً إِلَّا وَأَنَا فِي المَسْجِدِ، وَمَا نَظَرْتُ فِي قَفَا رَجُلٍ فِي الصَّلَاةِ مُنْذُ أَرْبَعِينَ سَنَةً.»**
 
@@ -182,7 +182,7 @@ Keteguhan disiplin spiritual: sesiapa yang mendahului muazin ke rumah Allah deng
 *“Sesungguhnya aku mendapati diriku bersikap gopoh dalam urusan solatku apabila waktunya telah tiba sehinggalah aku selesai mendirikannya; adapun dalam urusan selainnya, sifat tenang dan berhati-hati adalah lebih aku sukai.”*
 
 **⚔️ Dimensi Fiqh Tarbawi Haraki & Pengajaran:**
-Prinsip pemeringkatan keutamaan (awlawiyyat): tenang dan bersabar dalam percaturan strategi siasah, namun pantas dan bersegera menunaikan kewajipan solat fardhu tanpa menangguh.
+Prinsip pemeringkatan keutamaan (awlawiyat): tenang dan bersabar dalam percaturan strategi siasah, namun pantas dan bersegera menunaikan kewajipan solat fardhu tanpa menangguh.
 
 ---
 
@@ -300,7 +300,7 @@ Sumber cas bateri haraki: ketajaman lidah berbicara, keberanian di medan debat, 
 
 ---
 
-### 💎 Mutiara 24: Imam Ibnu al-Qayyim rahimahullah
+### 💎 Mutiara 24: Imam Ibnu al-Qayim rahimahullah
 
 > **«فِي اللَّيْلِ رُهْبَانٌ ، وَعِنْدَ جِهَادِهِمْ ... لِعَدُوِّهِمْ مِنْ أَشْجَعِ الأَبْطَالِ**<br>
 > **بِوُجُوهِهِمْ أَثَرُ السُّجُودِ لِرَبِّهِمْ ... وَبِهَا أَشِعَّةُ نُورِهِ المُتَلَالِي»**
@@ -399,11 +399,11 @@ Keberkatan projek dakwah: bukan terletak pada bajet kewangan yang besar atau pub
 *“Peliharalah cita-citamu, kerana cita-cita merupakan permulaan bagi segala sesuatu. Sesiapa yang baik cita-citanya dan jujur padanya, nescaya akan baiklah segala amalan selepasnya.”*
 
 **⚔️ Dimensi Fiqh Tarbawi Haraki & Pengajaran:**
-Lonjakan himmah harakiyyah: murabbi wajib menyuntik cita-cita agung menegakkan peradaban Islam ke dalam dada anak-anak usrah sejak pertemuan pertama, agar mereka tidak berpuas hati dengan amalan picisan.
+Lonjakan himmah harakiyah: murabbi wajib menyuntik cita-cita agung menegakkan peradaban Islam ke dalam dada anak-anak usrah sejak pertemuan pertama, agar mereka tidak berpuas hati dengan amalan picisan.
 
 ---
 
-### 💎 Mutiara 32: Imam Ibnu al-Qayyim rahimahullah
+### 💎 Mutiara 32: Imam Ibnu al-Qayim rahimahullah
 
 > **«مَثَلُ القَلْبِ مَثَلُ الطَّائِرِ؛ كُلَّمَا عَلَا بَعُدَ عَنِ الآفَاتِ، وَكُلَّمَا هَبَطَ احْتَوَشَتْهُ الآفَاتُ.»**
 
@@ -444,7 +444,7 @@ Prinsip Baiah al-'Aqabah: langkah pertama penyertaan ke dalam saf dakwah mestila
 
 ---
 
-### 💎 Mutiara 35: Imam Ibnu al-Qayyim rahimahullah
+### 💎 Mutiara 35: Imam Ibnu al-Qayim rahimahullah
 
 > **«يَقْطَعُ الكَيِّسُ بِهِمَّتِهِ وَحُسْنِ قَصْدِهِ وَصِدْقِ عَزْمِهِ مَعَ العَمَلِ القَلِيلِ: أَضْعَافَ مَا يَقْطَعُهُ الفَارِغُ مِنْ ذَلِكَ مَعَ كَثْرَةِ تَعَبِهِ وَرُكُوبِهِ المَشَاقَّ.»**
 
@@ -468,7 +468,7 @@ Hukum vakum jiwa: sekiranya tanzim tidak memenuhkan jadual harian da'i dengan pr
 
 ---
 
-### 💎 Mutiara 37: Asy-Syahid Sayyid Qutb rahimahullah
+### 💎 Mutiara 37: Asy-Syahid Sayid Qutb rahimahullah
 
 > **«لَا تَكْتَمِلُ حَقِيقَةُ الإِيمَانِ فِي قَلْبٍ حَتَّى يَخُوضَ مَعْرَكَةَ النَّاسِ فَيُجَاهِدَ فِيهَا، فَتَتَكَشَّفَ لَهُ آفَاقُ الإِيمَانِ الَّتِي لَا تَتَكَشَّفُ لِلْقَاعِدِينَ المُسْتَرِيحِينَ.»**
 
@@ -480,7 +480,7 @@ Tarbiah di medan tempur: kematangan fikrah dan keluhuran jiwa tidak lahir di bil
 
 ---
 
-### 💎 Mutiara 38: Penyair Abu al-Thayyib al-Mutanabbi
+### 💎 Mutiara 38: Penyair Abu al-Thayib al-Mutanabbi
 
 > **«وَإِذَا كَانَتِ النُّفُوسُ كِبَاراً ... تَعِبَتْ فِي مُرَادِهَا الأَجْسَامُ»**
 
@@ -536,7 +536,7 @@ Konsep 'Wakaf Jiwa': aktivis harakah memandang usianya sebagai amanah yang telah
 *“Sesungguhnya wajib wujud di dalam hati kamu api yang marak menyala, sekurang-kurangnya menyamai api yang menyala di dalam hati seorang bapa tatkala melihat anaknya sakit tenat lalu dia tidak berdiam diri sehinggalah dia mengheretnya berjumpa doktor.”*
 
 **⚔️ Dimensi Fiqh Tarbawi Haraki & Pengajaran:**
-Sensitiviti harakiyyah terhadap kerosakan ummah: keperitan melihat syariat diinjak dan umat terjajah wajib melahirkan tindakan konkrit tanpa henti, bukan sekadar keluhan di media sosial.
+Sensitiviti harakiyah terhadap kerosakan ummah: keperitan melihat syariat diinjak dan umat terjajah wajib melahirkan tindakan konkrit tanpa henti, bukan sekadar keluhan di media sosial.
 
 ---
 
@@ -654,7 +654,7 @@ Tuntutan rukun I'tsar (mendahulukan saudara): puncak persaudaraan haraki ialah r
 
 ---
 
-### 💎 Mutiara 52: Imam Ibnu al-Qayyim rahimahullah
+### 💎 Mutiara 52: Imam Ibnu al-Qayim rahimahullah
 
 > **«مُخَالَطَةُ النَّاسِ عَلَى أَرْبَعَةِ أَقْسَامٍ: كَالغِذَاءِ لَا يُسْتَغْنَى عَنْهُ، وَكَالدَّوَاءِ يُحْتَاجُ إِلَيْهِ عِنْدَ المَرَضِ، وَكَالدَّاءِ يَمْرَضُ بِمُخَالَطَتِهِ القَلْبُ، وَكَالهَلَاكِ وَهُوَ كَأَكْلِ السُّمِّ.»**
 
@@ -707,7 +707,7 @@ Pohon keteguhan (tsabat) dan ketenangan (al-uns): jiwa yang menanam pohon keiman
 
 ---
 
-### 💎 Mutiara 56: Imam Ibnu al-Qayyim rahimahullah
+### 💎 Mutiara 56: Imam Ibnu al-Qayim rahimahullah
 
 > **«شَجَرَةُ الإِيمَانِ أَصْلُهَا ثَابِتٌ فِي قَلْبِ المُؤْمِنِ مَعْرِفَةً وَتَصْدِيقاً، وَفَرْعُهَا فِي السَّمَاءِ عَمَلاً وَجِهَاداً، وَثَمَرَتُهَا طَيِّبُ الحَيَاةِ فِي الدُّنْيَا وَالخُلْدُ فِي الجَنَّةِ.»**
 
@@ -755,7 +755,7 @@ Fungsi mehnah dan ujian: ujian penindasan yang menimpa gerakan Islam bukanlah un
 
 ---
 
-### 💎 Mutiara 60: Abu Hayyan al-Tauhidi rahimahullah
+### 💎 Mutiara 60: Abu Hayan al-Tauhidi rahimahullah
 
 > **«اسْتِقْلَالُ الوَسِيلَةِ عِزَّةٌ لِلنَّفْسِ وَصِيَانَةٌ لِلْمُرُوءَةِ؛ وَمَنِ اعْتَمَدَ عَلَى شَجَرَةِ غَيْرِهِ طَالَ هَوَانُهُ.»**
 
@@ -1162,7 +1162,7 @@ Kemerdekaan ekonomi jiwa: da'i yang tidak dapat dibeli dengan wang ringgit atau 
 
 ---
 
-### 💎 Mutiara 92: Imam Ibnu al-Qayyim rahimahullah
+### 💎 Mutiara 92: Imam Ibnu al-Qayim rahimahullah
 
 > **«إِذَا اسْتَغْنَى النَّاسُ بِالدُّنْيَا فَاسْتَغْنِ أَنْتَ بِاللَّهِ، وَإِذَا فَرِحُوا بِالدُّنْيَا فَافْرَحْ أَنْتَ بِاللَّهِ، وَإِذَا أَنِسُوا بِأَحْبَابِهِمْ فَاجْعَلْ أُنْسَكَ بِاللَّهِ.»**
 
@@ -1170,7 +1170,7 @@ Kemerdekaan ekonomi jiwa: da'i yang tidak dapat dibeli dengan wang ringgit atau 
 *“Apabila manusia berasa kaya dengan dunia, maka hendaklah engkau merasa kaya dengan Allah; apabila mereka bergembira dengan dunia, maka hendaklah engkau bergembira dengan Allah; dan apabila mereka merasa tenteram bersama kekasih-kekasih mereka, maka jadikanlah ketenteramanmu semata-mata bersama Allah.”*
 
 **⚔️ Dimensi Fiqh Tarbawi Haraki & Pengajaran:**
-Memutuskan belenggu kebendaan bumi: istighna' billah (merasa cukup dengan Allah) melahirkan izzah harakiyyah yang menjadikan pendakwah tidak pernah menadah tangan meminta belas kasihan musuh.
+Memutuskan belenggu kebendaan bumi: istighna' billah (merasa cukup dengan Allah) melahirkan izzah harakiyah yang menjadikan pendakwah tidak pernah menadah tangan meminta belas kasihan musuh.
 
 ---
 
@@ -1211,7 +1211,7 @@ Simbolisme himmah sang da'i: orang-orang yang lemah mengajak da'i turun berkompr
 
 ---
 
-### 💎 Mutiara 96: Asy-Syahid Sayyid Qutb rahimahullah
+### 💎 Mutiara 96: Asy-Syahid Sayid Qutb rahimahullah
 
 > **«التَّثَاقُلُ إِلَى الأَرْضِ هُوَ هُبُوطُ الرُّوحِ إِلَى مَرْتَبَةِ الطِّينِ حِينَ يُنَادِيهَا الجِهَادُ؛ وَلَا يَثْقُلُ إِلَى الأَرْضِ إِلَّا مَنْ شَكَّ فِي مَوْعُودِ اللَّهِ أَوْ رَضِيَ بِالدُّونِ.»**
 
@@ -1265,12 +1265,12 @@ Lagu kebangkitan kafilah dakwah: memecahkan kemurungan dan kelesuan para pemuda 
 
 ---
 
-### 💎 Mutiara 100: Asy-Syahid Sayyid Qutb rahimahullah
+### 💎 Mutiara 100: Asy-Syahid Sayid Qutb rahimahullah
 
 > **«المُفَاصَلَةُ الشُّعُورِيَّةُ هِيَ مَفْرِقُ الطَّرِيقِ بَيْنَ عِبَادَةِ اللَّهِ وَعِبَادَةِ الطَّاغُوتِ؛ فَلَا تَلْقَى الجَاهِلِيَّةَ فِي مُنْتَصَفِ الطَّرِيقِ، بَلْ تَمَيَّزْ عَنْهَا بِعَقِيدَتِكَ وَقِيَمِكَ.»**
 
 **Terjemahan:**
-*“Pemisahan perasaan (al-mufasalah al-syu'uriyyah) adalah simpang pemisah jalan antara perhambaan kepada Allah dengan perhambaan kepada thaghut; maka jangan sekali-kali engkau bertemu dengan jahiliah di pertengahan jalan kompromi, sebaliknya tonjolkanlah keperibadianmu dengan akidah dan nilai-nilaimu yang tersendiri.”*
+*“Pemisahan perasaan (al-mufasalah al-syu'uriyah) adalah simpang pemisah jalan antara perhambaan kepada Allah dengan perhambaan kepada thaghut; maka jangan sekali-kali engkau bertemu dengan jahiliah di pertengahan jalan kompromi, sebaliknya tonjolkanlah keperibadianmu dengan akidah dan nilai-nilaimu yang tersendiri.”*
 
 **⚔️ Dimensi Fiqh Tarbawi Haraki & Pengajaran:**
 Integriti identiti Islam: penolakan terhadap asimilasi budaya barat dan ideologi sekular. Da'i wajib berbangga dengan manhaj Al-Quran tanpa rasa rendah diri (inferiority complex).
@@ -1337,7 +1337,7 @@ Penawar fobia penindasan (khauf al-baths): memurnikan rasa takut hanya kepada Al
 
 ---
 
-### 💎 Mutiara 106: Keteguhan Imam Sa'id bin al-Musayyab & Sa'id bin Jubair
+### 💎 Mutiara 106: Keteguhan Imam Sa'id bin al-Musayab & Sa'id bin Jubair
 
 > **«إِنَّ عِزَّةَ المُؤْمِنِ تَأْبَى الخُضُوعَ لِسَيْفِ الجَلَّادِ، وَلَا تَبِيعُ دِينَهَا بِدُنْيَا غَيْرِهَا؛ إِنَّمَا هِيَ رَأْسٌ وَاحِدَةٌ فَلْتَكُنْ فِي سَبِيلِ اللَّهِ!»**
 
@@ -1431,7 +1431,7 @@ Tawaduk menuntut ilmu: keturunan bangsawan Rasulullah rela tidur di atas debu de
 > **«حَمَلَ جِرَابَهُ عَلَى ظَهْرِهِ رَاجِلاً مِنَ الرَّيِّ إِلَى بَغْدَادَ وَأَحْمَدَ فِي الحَبْسِ، فَلَمَّا خَرَجَ عَرَضَ عَلَيْهِ مَسَائِلَهُ؛ فَقَالَ أَحْمَدُ: (يَرْحَمُ اللَّهُ إِسْحَاقَ! مَا أَعْظَمَ حِرْصَهُ عَلَى العِلْمِ!).»**
 
 **Terjemahan:**
-*“Beliau memikul uncang kitabnya di atas belakangnya dengan berjalan kaki meredah perjalanan beribu batu daripada kota Rayy menuju Baghdad tatkala Imam Ahmad di penjara; maka apabila Imam Ahmad dibebaskan, beliau membentangkan masalah-masalah ilmunya. Lalu Imam Ahmad berkata: ‘Semoga Allah merahmati Ishaq! Alangkah agungnya kegigihannya terhadap ilmu!’”*
+*“Beliau memikul uncang kitabnya di atas belakangnya dengan berjalan kaki meredah perjalanan beribu batu daripada kota Ray menuju Baghdad tatkala Imam Ahmad di penjara; maka apabila Imam Ahmad dibebaskan, beliau membentangkan masalah-masalah ilmunya. Lalu Imam Ahmad berkata: ‘Semoga Allah merahmati Ishaq! Alangkah agungnya kegigihannya terhadap ilmu!’”*
 
 **⚔️ Dimensi Fiqh Tarbawi Haraki & Pengajaran:**
 Kembara rijal memburu ketulenan ilmu: kegigihan ulama salaf berjalan kaki ribuan batu demi mengesahkan fatwa menjadi tamparan kepada aktivis moden yang malas menelaah kitab rujukan muktabar.
@@ -1443,7 +1443,7 @@ Kembara rijal memburu ketulenan ilmu: kegigihan ulama salaf berjalan kaki ribuan
 > **«كَانَ حِصْناً حَصِيناً فِي القِيَامِ وَالجِهَادِ، حَضَرَ القَادِسِيَّةَ وَمَا بَعْدَهَا، وَكَانَ إِذَا دَخَلَ فِي صَلَاتِهِ كَأَنَّهُ خَشَبَةٌ مَنْصُوبَةٌ لَا تَتَحَرَّكُ مِنْ خَوْفِ اللَّهِ.»**
 
 **Terjemahan:**
-*“Beliau merupakan sebuah kubu pertahanan yang amat kukuh dalam ibadah malam dan jihad; beliau hadir menyertai Perang al-Qadisiyyah dan pertempuran-pertempuran selepasnya. Apabila beliau melangkah masuk ke dalam solatnya, seolah-olah beliau adalah sebatang kayu yang terpacak tegak tidak bergerak kerana takutkan Allah.”*
+*“Beliau merupakan sebuah kubu pertahanan yang amat kukuh dalam ibadah malam dan jihad; beliau hadir menyertai Perang al-Qadisiyah dan pertempuran-pertempuran selepasnya. Apabila beliau melangkah masuk ke dalam solatnya, seolah-olah beliau adalah sebatang kayu yang terpacak tegak tidak bergerak kerana takutkan Allah.”*
 
 **⚔️ Dimensi Fiqh Tarbawi Haraki & Pengajaran:**
 Kombinasi kubu ibadah dan benteng pertahanan: kehebatan di medan tempur lahir daripada kekhusyukan sujud yang tidak berganjak di mihrab.

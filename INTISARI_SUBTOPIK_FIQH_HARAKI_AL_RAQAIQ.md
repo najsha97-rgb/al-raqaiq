@@ -92,7 +92,7 @@
 
 ### 6. Subtopik: *Ketinggian Iman Mendepani Falsafah Bahimiah (Kehaiwanan)*
 * **1. Diagnosis Halangan / Rawatan Jiwa:**  
-  *Racun Pemikiran Nihilisme & Materialisme (Ateisme)* — Menganggap hidup sekadar melampiaskan kelazatan haiwani (*bahimiyyah*) dan maut memadamkan segala perbezaan.
+  *Racun Pemikiran Nihilisme & Materialisme (Ateisme)* — Menganggap hidup sekadar melampiaskan kelazatan haiwani (*bahimiyah*) dan maut memadamkan segala perbezaan.
 * **2. Modus Operandi & Gejala Penyelusupan:**  
   Menyebarkan syubhah bahawa orang soleh dan orang jahat sama sahaja kesudahannya di bawah tanah.
 * **3. Implikasi Terhadap Saf Haraki:**  
@@ -188,7 +188,7 @@
 * **3. Implikasi Terhadap Saf Haraki:**  
   Masjid yang menjadi markas penyatuan roh para rijal bertukar sunyi daripada saf-saf pejuang dakwah, memutuskan hubungan ukhuwah batiniah yang terbina di bawah panji sujud bersama.
 * **4. Preskripsi Penawar (*Fiqh as-Sulūk*) & Petunjuk Salaf:**  
-  *Teladan Sa'id bin al-Musayyab rahimahullah*: Mencontohi tokoh salaf yang selama 40 tahun muazzin tidak pernah melaungkan azan melainkan beliau telah sedia berada di dalam masjid, dan tidak pernah melihat belakang kepala jemaah lain kerana sentiasa di saf pertama. Menangisi luputnya takbiratul ihram laksana tangisan ditimpa musibah kematian anak.
+  *Teladan Sa'id bin al-Musayab rahimahullah*: Mencontohi tokoh salaf yang selama 40 tahun muazzin tidak pernah melaungkan azan melainkan beliau telah sedia berada di dalam masjid, dan tidak pernah melihat belakang kepala jemaah lain kerana sentiasa di saf pertama. Menangisi luputnya takbiratul ihram laksana tangisan ditimpa musibah kematian anak.
 * **5. Kunci Amal Haraki:**  
   🔑 Pelihara takbiratul ihram solat berjemaah dan rasai kerugian jiwa tatkala terlepas saf pertama.
 
@@ -281,7 +281,7 @@
 
 ### 2. subtajuk: *Niat yang Bebas Ikhlas*
 * **1. Diagnosis Halangan / Rawatan Jiwa:**  
-  *Penyakit Riak, Sum'ah & Kehendak Tersembunyi (Syahwat Khafiyyah)* — Keinginan agar diri dipandang hebat, dipuji di atas pentas, atau diangkat sebagai rujukan utama.
+  *Penyakit Riak, Sum'ah & Kehendak Tersembunyi (Syahwat Khafiyah)* — Keinginan agar diri dipandang hebat, dipuji di atas pentas, atau diangkat sebagai rujukan utama.
 * **2. Modus Operandi & Gejala Penyelusupan:**  
   Aktivis amat bersemangat bekerja sekiranya tugasan tersebut mendapat sorotan kamera atau tepukan umum, tetapi bermalas-malasan apabila ditugaskan di bahagian logistik atau dapur yang tersembunyi daripada pandangan manusia.
 * **3. Implikasi Terhadap Saf Haraki:**  
@@ -293,13 +293,13 @@
 
 ### 3. subtajuk: *Kecelaruan Niat dan Jerangkap Angan-Angan Kosong*
 * **1. Diagnosis Halangan / Rawatan Jiwa:**  
-  *Pencemaran Niat & Angan-Angan Kosong (Al-Umniyyah)* — Percampuran antara niat ikhlas lillahi Taala dengan kepentingan peribadi, serta tertipu dengan angan-angan kosong bahawa cita-cita dakwah boleh dicapai tanpa disiplin dan kesungguhan jiwa.
+  *Pencemaran Niat & Angan-Angan Kosong (Al-Umniyah)* — Percampuran antara niat ikhlas lillahi Taala dengan kepentingan peribadi, serta tertipu dengan angan-angan kosong bahawa cita-cita dakwah boleh dicapai tanpa disiplin dan kesungguhan jiwa.
 * **2. Modus Operandi & Gejala Penyelusupan:**  
   Jiwa menjadi bercelaru (*takhalluṭ*); aktivis sibuk menyusun dan mengatur urusan di sekelilingnya tetapi membiarkan batinnya sendiri kacau-bilau. Sering berkhayal tentang kemenangan besar tetapi sentiasa menangguh-nangguhkan tindakan harian (*taswīf*).
 * **3. Implikasi Terhadap Saf Haraki:**  
   Kehilangan keberkatan dan kemanisan amal; lahir aktivis yang pandai berteori dan berangan-angan tetapi sifar dari segi produktiviti lapangan, menyebabkan saf kaku dan tidak bergerak ke hadapan.
 * **4. Preskripsi Penawar (*Fiqh as-Sulūk*) & Petunjuk Salaf:**  
-  *Kalam Tabi'in Mutharrif bin al-Syikhkhir:* *"Baiknya amalan bergantung pada baiknya hati, dan baiknya hati bergantung pada baiknya niat."* Membezakan secara tegas antara niat yang benar (*al-niyyah al-sādiqah*) dengan angan-angan kosong (*al-umniyyah*), serta membuang sikap berlengah-lengah dengan menyegerakan ketaatan.
+  *Kalam Tabi'in Mutharrif bin al-Syikhkhir:* *"Baiknya amalan bergantung pada baiknya hati, dan baiknya hati bergantung pada baiknya niat."* Membezakan secara tegas antara niat yang benar (*al-niyah al-sādiqah*) dengan angan-angan kosong (*al-umniyah*), serta membuang sikap berlengah-lengah dengan menyegerakan ketaatan.
 
 ---
 
@@ -421,7 +421,7 @@
 * **3. Implikasi Terhadap Saf Haraki:**  
   Saf diserang penyakit kemalasan dan kelambatan bertindak; kubu dakwah terdedah kepada serangan musuh kerana pengawal di perbatasan tertidur dalam lena kelalaian.
 * **4. Preskripsi Penawar (*Fiqh as-Sulūk*) & Petunjuk Salaf:**  
-  *Ketetapan Kaum Salaf:* Menghayati kaedah: *“Kerehatan bagi pejuang merupakan suatu kelalaian”* (الرَّاحَةُ لِلرِّجَالِ غَفْلَةٌ) dan pesanan imam hadis Syu'bah: *“Janganlah kamu duduk membuang masa tanpa berbuat apa-apa, kerana kematian sentiasa mencarimu.”* Serta petunjuk Ibnu al-Qayyim: jadilah pejuang yang peka seperti tidur ayam di benteng kewaspadaan.
+  *Ketetapan Kaum Salaf:* Menghayati kaedah: *“Kerehatan bagi pejuang merupakan suatu kelalaian”* (الرَّاحَةُ لِلرِّجَالِ غَفْلَةٌ) dan pesanan imam hadis Syu'bah: *“Janganlah kamu duduk membuang masa tanpa berbuat apa-apa, kerana kematian sentiasa mencarimu.”* Serta petunjuk Ibnu al-Qayim: jadilah pejuang yang peka seperti tidur ayam di benteng kewaspadaan.
 
 ---
 
@@ -457,7 +457,7 @@
 * **3. Implikasi Terhadap Saf Haraki:**  
   Fenomena gugur di jalan dakwah (*tasāqut*) di usia matang; tanzim kehilangan kader-kader berpengalaman yang sepatutnya menjadi tempat rujukan dan benteng thabat.
 * **4. Preskripsi Penawar (*Fiqh as-Sulūk*) & Petunjuk Salaf:**  
-  *Jawapan Abadi Imam Ahmad:* *"Tatkala tapak kakimu yang pertama melangkah masuk ke dalam Syurga!"* Memahami rumusan Ibnu al-Qayyim bahawa sesiapa yang memandang fajar ganjaran pahala di akhirat, nescaya segala kegelapan keletihan taklif dunia terasa amat ringan dan manis.
+  *Jawapan Abadi Imam Ahmad:* *"Tatkala tapak kakimu yang pertama melangkah masuk ke dalam Syurga!"* Memahami rumusan Ibnu al-Qayim bahawa sesiapa yang memandang fajar ganjaran pahala di akhirat, nescaya segala kegelapan keletihan taklif dunia terasa amat ringan dan manis.
 
 ---
 
@@ -762,7 +762,7 @@
 * **2. Modus Operandi & Gejala Penyelusupan:**  
   Dunia menyelinap secara halus melalui alasan "tanggungjawab keluarga" dan keperluan rehat; da'i mula merasa berat untuk menghadiri program tarbiah, memberi infaq, atau memikul beban jihad.
 * **3. Implikasi Terhadap Saf Haraki:**  
-  Hilangnya ruh pengorbanan (*tadhiyyah*), saf dakwah menjadi rapuh kerana aktivis mengutamakan keselamatan dan kesenangan peribadi melebihi maslahat perjuangan Islam.
+  Hilangnya ruh pengorbanan (*tadhiyah*), saf dakwah menjadi rapuh kerana aktivis mengutamakan keselamatan dan kesenangan peribadi melebihi maslahat perjuangan Islam.
 * **4. Preskripsi Penawar (*Fiqh as-Sulūk*) & Petunjuk Salaf:**  
   Menolak lembah kehinaan dan menegakkan kemerdekaan hati daripada perhambaan syahwat; mencontohi keperibadian da'i sejati yang berani dan bebas daripada rasa takut sebagaimana disifatkan oleh Allamah Iqbal.
 
@@ -818,7 +818,7 @@
 * **1. Diagnosis Halangan / Rawatan Jiwa:**  
   *Kekaburan Manhaj & Kompromi dengan Jahiliah* — Da'i yang terperangkap dalam tuntutan mencari keredaan orang-orang kafir atau terpengaruh dengan idea ciptaan bumi.
 * **2. Modus Operandi & Gejala Penyelusupan:**  
-  Menyusupkan syirik tersembunyi (kebangsaan, assabiyyah kaum, kepentingan sempit) ke dalam manhaj dakwah.
+  Menyusupkan syirik tersembunyi (kebangsaan, assabiyah kaum, kepentingan sempit) ke dalam manhaj dakwah.
 * **3. Implikasi Terhadap Saf Haraki:**  
   Kehilangan ketulenan manhaj; gerakan dakwah menjadi kabur identitinya dan kehilangan pimpinan Rabbani.
 * **4. Preskripsi Penawar (*Fiqh as-Sulūk*) & Petunjuk Salaf:**  
@@ -874,8 +874,8 @@
 
 ---
 
-### 6. subtajuk: *Izzah Seorang Mukmin Berdepan Penguasa Dunia (Kisah Sa'id bin al-Musayyab & Sa'id bin Jubair)*
-### 6. subtajuk: *Izzah Seorang Mukmin Berdepan Penguasa Dunia (Kisah Sa'id bin al-Musayyab & Sa'id bin Jubair)*
+### 6. subtajuk: *Izzah Seorang Mukmin Berdepan Penguasa Dunia (Kisah Sa'id bin al-Musayab & Sa'id bin Jubair)*
+### 6. subtajuk: *Izzah Seorang Mukmin Berdepan Penguasa Dunia (Kisah Sa'id bin al-Musayab & Sa'id bin Jubair)*
 * **1. Diagnosis Halangan / Rawatan Jiwa:**  
   *Ketakutan Melampau Terhadap Penjara dan Algojo Thaghut* — Berdiam diri daripada nahi mungkar kerana takut diseksa, disingkirkan jawatan, atau dibunuh.
 * **2. Modus Operandi & Gejala Penyelusupan:**  
@@ -895,7 +895,7 @@
 * **3. Implikasi Terhadap Saf Haraki:**  
   Ketandusan roh dalam seluruh aktiviti harakah; usrah dan daurah terasa dingin dan membebankan.
 * **4. Preskripsi Penawar (*Fiqh as-Sulūk*) & Petunjuk Salaf:**  
-  *Menikmati Syurga Ibadah di Dunia*: Sebagaimana kata Ibnu Taimiyyah rahimahullah: *"Sesungguhnya di dunia ini terdapat syurga; sesiapa yang tidak memasukinya nescaya dia tidak akan memasuki syurga akhirat — iaitu syurga ma'rifatullah dan kemanisan mentaati-Nya."* Menjadikan sujud sebagai tempat berehat yang paling didambakan.
+  *Menikmati Syurga Ibadah di Dunia*: Sebagaimana kata Ibnu Taimiyah rahimahullah: *"Sesungguhnya di dunia ini terdapat syurga; sesiapa yang tidak memasukinya nescaya dia tidak akan memasuki syurga akhirat — iaitu syurga ma'rifatullah dan kemanisan mentaati-Nya."* Menjadikan sujud sebagai tempat berehat yang paling didambakan.
 
 ---
 
@@ -915,7 +915,7 @@
 * **2. Modus Operandi & Gejala Penyelusupan:**  
   Hanyut dalam gaya hidup hedonisme dengan justifikasi "Islam meraikan hiburan", sehingga mengabaikan zikir dan qiamullail.
 * **3. Implikasi Terhadap Saf Haraki:**  
-  Kelesuan jiwa para perajurit; hilangnya ketajaman semangat kepahlawanan (*al-ruhul jundiyyah*).
+  Kelesuan jiwa para perajurit; hilangnya ketajaman semangat kepahlawanan (*al-ruhul jundiyah*).
 * **4. Preskripsi Penawar (*Fiqh as-Sulūk*) & Petunjuk Salaf:**  
   *Menghayati Falsafah "Lahw al-Du'at"*: Merasai nikmat kegembiraan yang luar biasa tatkala berjaya mentarbiah seorang pemuda, mengkhatamkan sebuah kitab rujukan, atau berkhidmat menolong orang susah. Itulah hiburan da'i yang hakiki!
 
@@ -965,7 +965,7 @@
 * **3. Implikasi Terhadap Saf Haraki:**  
   Kelesuan dan ketiadaan respon kecemasan tatkala krisis melanda umat.
 * **4. Preskripsi Penawar (*Fiqh as-Sulūk*) & Petunjuk Salaf:**  
-  *Kewaspadaan Sayyidina Abu Bakar RA*: Tatkala gelombang murtad menggoncang Madinah, Abu Bakar tidak lena tidur sehingga bermimpi. Beliau menghunus pedang sambil berkata: *"Adakah agama ini akan berkurang sedangkan aku masih hidup?!"* Beban risalah menyingkirkan rasa mengantuk daripada kelopak mata para perajurit.
+  *Kewaspadaan Sayidina Abu Bakar RA*: Tatkala gelombang murtad menggoncang Madinah, Abu Bakar tidak lena tidur sehingga bermimpi. Beliau menghunus pedang sambil berkata: *"Adakah agama ini akan berkurang sedangkan aku masih hidup?!"* Beban risalah menyingkirkan rasa mengantuk daripada kelopak mata para perajurit.
 
 ---
 
@@ -989,7 +989,7 @@
 * **3. Implikasi Terhadap Saf Haraki:**  
   Amanah berat tidak tertanggung; kemaraan dakwah terhenti di pintu-pintu benteng musuh.
 * **4. Preskripsi Penawar (*Fiqh as-Sulūk*) & Petunjuk Salaf:**  
-  *Kepahlawanan Kabilah An-Nakha' di Yarmuk & Qadisiyyah*: Mereka berebut-rebut mahu berada di posisi paling genting di mana panah musuh paling lebat menghujani barisan. Abu Wa'il Syaqiq membina kubu sempit yang hanya memuatkan dirinya, pedangnya, dan kudanya demi sentiasa bersiap sedia untuk seruan perang fisabilillah.
+  *Kepahlawanan Kabilah An-Nakha' di Yarmuk & Qadisiyah*: Mereka berebut-rebut mahu berada di posisi paling genting di mana panah musuh paling lebat menghujani barisan. Abu Wa'il Syaqiq membina kubu sempit yang hanya memuatkan dirinya, pedangnya, dan kudanya demi sentiasa bersiap sedia untuk seruan perang fisabilillah.
 
 ---
 

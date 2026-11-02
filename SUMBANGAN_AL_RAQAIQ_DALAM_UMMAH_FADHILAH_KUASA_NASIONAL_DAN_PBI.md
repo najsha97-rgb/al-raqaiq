@@ -1,7 +1,7 @@
 # SUMBANGAN KITAB AL-RAQĀ'IQ DALAM PEMBINAAN UMMAH FADHILAH, KUASA NASIONAL & PERADABAN BARU ISLAM
-## *Pelembut Hati, Enjin Ruhiyyah & Pembinaan Komuniti Rabbani*
+## *Pelembut Hati, Enjin Ruhiyah & Pembinaan Komuniti Rabbani*
 **Karya Asal:** As-Syeikh Muhammad Ahmad al-Rasyid *rahimahullah*  
-**Modul PWA & Bot Telegram:** Pangkalan Data Tazkiyah Ruhiyyah & Enjin Batin Pejuang
+**Modul PWA & Bot Telegram:** Pangkalan Data Tazkiyah Ruhiyah & Enjin Batin Pejuang
 
 ---
 

@@ -296,7 +296,7 @@ Lihatlah kecerahan hati dan kehalusan perasaan dalam simbolik ini yang menyingka
 
 Amat jelas di sini bahawa penyair ateis tersebut mendakwa bahawa makna-makna yang benar itu kononnya ialah hujah ahli falsafah, bukannya nasihat pendakwah Muslim; kononnya bagi mengelak dirinya daripada dituduh murtad terkeluar daripada agama.
 
-Abu Hayyan al-Tauhidi berkata: Abu Sulaiman Muhammad bin Tahir al-Sijistani al-Mantiqi pernah mendengar bait-bait syair ini lalu beliau mengulas:
+Abu Hayan al-Tauhidi berkata: Abu Sulaiman Muhammad bin Tahir al-Sijistani al-Mantiqi pernah mendengar bait-bait syair ini lalu beliau mengulas:
 
 > *“Corak pemikiran seperti ini merosakkan para pemuda yang masih mentah, iaitu mereka yang belum memiliki pandangan mata hati yang tajam dalam menilai sesuatu urusan. Mereka menjadi hamba kepada perasaan yang datang daripada adat resam yang rosak, serta iktikad yang buruk hasil doktrin rakan-rakan yang jahat. Orang yang mengungkapkannya telah menentang agama, mencabut tali rasa malu, menzahirkan kerosakan, berpaling daripada hikmah, dan menyalakan api syubhah ke dalam jiwa yang lemah serta akal yang cetek.*
 >
@@ -531,10 +531,10 @@ Sesungguhnya amalan saling berpesan untuk memelihara solat merupakan suatu kebai
 [2] Al-Rafi'i, *Wahy al-Qalam*, jld. 1, hlm. 357–358.  
 [3] *Ibid.*  
 [4] Yasin Khalil, majalah *al-Tarbiah al-Islamiah* (Iraq), jld. 5, hlm. 600.  
-[5] Al-Subki, *Tabaqat al-Syafi'iyyah*, jld. 1, hlm. 286.  
+[5] Al-Subki, *Tabaqat al-Syafi'iyah*, jld. 1, hlm. 286.  
 [6] Majalah *al-Da'wah*, keluaran pertama, bil. 8, tahun 1951.  
 [7] Badi'uzzaman Said al-Nursi, *al-Mathnawi al-'Arabi*, hlm. 283.  
-[8] Al-Maududi, *al-Usus al-Akhlaqiyyah li al-Harakah al-Islamiah*, hlm. 72.  
+[8] Al-Maududi, *al-Usus al-Akhlaqiyah li al-Harakah al-Islamiah*, hlm. 72.  
 [9] *Sahih Muslim*, jld. 2, hlm. 131.  
 [10] *Sahih al-Bukhari*, jld. 1, hlm. 157–159.  
 [11] *Ibid.*  
@@ -595,13 +595,13 @@ Dalam satu rakaat, engkau mengingati Nabi SAW dan para sahabat Baginda yang suci
 
 Dalam rakaat yang lain, engkau mengingati Nabi Hud AS dan Nabi Saleh AS sebagai contoh bagi mereka yang dikurniakan nikmat; serta kaum 'Ad dan Thamud daripada kalangan mereka yang dibinasakan.
 
-Dalam rakaat yang lain pula, engkau mengingati al-Hasan al-Basri, Ibnu Sirin, dan Ibnu al-Musayyib daripada kalangan mereka yang diberikan nikmat; serta golongan murtad, al-Jahm bin Safwan, dan al-Ja'd bin Dirham daripada kalangan mereka yang sesat terkapai-kapai.
+Dalam rakaat yang lain pula, engkau mengingati al-Hasan al-Basri, Ibnu Sirin, dan Ibnu al-Musayib daripada kalangan mereka yang diberikan nikmat; serta golongan murtad, al-Jahm bin Safwan, dan al-Ja'd bin Dirham daripada kalangan mereka yang sesat terkapai-kapai.
 
 Dalam rakaat yang lain, engkau mengingati Imam Ahmad bin Hanbal bersama kelompok ahli hadis yang dipimpin taufik; serta Bisyr al-Marisi dan Ibnu Abi Daud daripada kalangan golongan yang zalim.
 
-Dalam rakaat yang lain, engkau mengingati Ibnu Taimiyah, Ibnu al-Qayyim, dan Ibnu al-Jauzi daripada kalangan tokoh pembaharu (*muslihin*); serta golongan penganut *wahdatul wujud*, fana khayalan, ucapan melampau (*syathahat*), dan bid'ah daripada kalangan pemalsu agama.
+Dalam rakaat yang lain, engkau mengingati Ibnu Taimiyah, Ibnu al-Qayim, dan Ibnu al-Jauzi daripada kalangan tokoh pembaharu (*muslihin*); serta golongan penganut *wahdatul wujud*, fana khayalan, ucapan melampau (*syathahat*), dan bid'ah daripada kalangan pemalsu agama.
 
-Dalam rakaat yang lain, engkau mengingati Imam Hasan al-Banna, Abdul Qadir 'Audah, dan Sayyid Qutb, serta keteguhan mereka mendepani para thaghut yang sombong menindas.
+Dalam rakaat yang lain, engkau mengingati Imam Hasan al-Banna, Abdul Qadir 'Audah, dan Sayid Qutb, serta keteguhan mereka mendepani para thaghut yang sombong menindas.
 
 Dengan cara ini, engkau benar-benar memikirkan solatmu—kerana seseorang insan tidak memperoleh bahagian daripada solatnya melainkan apa yang difahaminya. Engkau memperbaharui janjimu bersama generasi orang-orang beriman, serta menolak golongan perosak. Itulah hakikat pergerakan iman, kerana keimanan yang hakiki tidak akan mengambil kesetiaanmu melainkan ia turut meninggalkanmu di atas prinsip berlepas diri (*al-mufashalah*).
 
@@ -637,7 +637,7 @@ Inilah pengalaman penyair Muhammad Iqbal yang diringkaskannya seraya berkata:
 **تَصْطَلِي رُوحِي بِحُزْنٍ وَأَلَمْ**  
 **وِرْدُ «يَا قَيُّومُ» أُنْسِي فِي الظُّلَمْ**  
 *Rohku membara dengan kedukaan dan keperitan,*  
-*wirid «Ya Qayyum» menjadi penemanku dalam kegelapan.*  
+*wirid «Ya Qayum» menjadi penemanku dalam kegelapan.*  
 
 **أَنَا كَالشَّمْعِ دُمُوعِي غُسْلِي**  
 **فِي ظَلاَمِ اللَّيْلِ أُذْكِي شُعَلِي**  
@@ -649,7 +649,7 @@ Inilah pengalaman penyair Muhammad Iqbal yang diringkaskannya seraya berkata:
 *Perhimpunan manusia berseri-seri dengan cahayaku,*  
 *aku menyebarkan cahaya sedang diriku sendiri terbakar lebur.* [4]
 
-Gerakan dakwah Islam pada hari ini tidak akan mampu melonjak naik melainkan para pendakwahnya menyalakan obor mereka pada waktu malam; dan cahayanya tidak akan bersinar menyinari kegelapan jahiliah kurun kedua puluh ini selagi mana lidah mereka tidak basah berzikir dengan seruan: *(Ya Qayyum)*.
+Gerakan dakwah Islam pada hari ini tidak akan mampu melonjak naik melainkan para pendakwahnya menyalakan obor mereka pada waktu malam; dan cahayanya tidak akan bersinar menyinari kegelapan jahiliah kurun kedua puluh ini selagi mana lidah mereka tidak basah berzikir dengan seruan: *(Ya Qayum)*.
 
 Kita tidak menuturkan perkara ini buat kali pertama, bahkan ia merupakan wasiat Imam Hasan al-Banna ketika berbicara kepada para pendakwah seraya berkata:
 
@@ -725,7 +725,7 @@ Sesungguhnya kelembutan hati seorang fakih yang zuhud, Abu Sahl al-Su'luki rahim
 *Demi Allah aku berdusta! Kalaulah aku ini berakal waras,*  
 *tidak mungkin burung merpati mendahuluiku meratap menangis.* [7]
 
-Sesungguhnya dosa itu tidak dapat dibersihkan melainkan dengan titisan air mata, dan keberanian itu disiram dengan tangisan pada waktu malam. Sejarah Islam tidak mengenali para tokohnya melainkan dengan sifat sedemikian. Benarlah bait-bait Ibnu al-Qayyim rahimahullah ketika menggambarkan perihal mereka:
+Sesungguhnya dosa itu tidak dapat dibersihkan melainkan dengan titisan air mata, dan keberanian itu disiram dengan tangisan pada waktu malam. Sejarah Islam tidak mengenali para tokohnya melainkan dengan sifat sedemikian. Benarlah bait-bait Ibnu al-Qayim rahimahullah ketika menggambarkan perihal mereka:
 
 **يُحْيُونَ لَيْلَهُمُ بِطَاعَةِ رَبِّهِمْ**  
 **بِتِلاَوَةٍ ، وَتَضَرُّعٍ ، وَسُؤَالِ**  
@@ -813,8 +813,8 @@ Mereka turut membimbing orang-orang berdosa yang tersilap langkah menuju ke jala
 [4] Muhammad Iqbal, *Diwan al-Asrar wa al-Rumuz*, hlm. 79.  
 [5] Majalah *al-Da'wah*, keluaran lama, bil. 63.  
 [6] Walid al-A'zami, *Aghani al-Ma'rakah*, hlm. 38.  
-[7] Al-Subki, *Tabaqat al-Syafi'iyyah*, jld. 3, hlm. 171.  
-[8] Ibnu al-Qayyim, *Ighathat al-Lahfan*, hlm. 255.  
+[7] Al-Subki, *Tabaqat al-Syafi'iyah*, jld. 3, hlm. 171.  
+[8] Ibnu al-Qayim, *Ighathat al-Lahfan*, hlm. 255.  
 [9] Abdul Wahhab 'Azzam, *Diwan al-Mathani*, hlm. 35.  
 [10] Walid al-A'zami, majalah *al-Tarbiah al-Islamiah*, jld. 7, hlm. 636.  
 [11] Walid al-A'zami, *Aghani al-Ma'rakah*, hlm. 94.
@@ -892,7 +892,7 @@ Apa yang mereka maksudkan dengan kejernihan permulaan merangkumi dua pengertian 
 
 *Jiwa yang memancarkan cahaya* merupakan kata kiasan bagi jiwa yang sarat dengan niat yang murni; ia menyinari persekitarannya menerusi kejernihan yang dimilikinya.
 
-Ia merupakan *'niat yang bebas'* (*al-niyyah al-hurrah*) yang turut disebut oleh al-Buhturi dalam bait yang lain, [2] di mana beliau menyifatkannya dengan begitu indah dan tepat. Seolah-olah niat itu bebas merdeka daripada segala belenggu hawa nafsu, ketamakan, dan kepentingan peribadi yang membelenggu orang lain. Ia tidak diperhambakan oleh dirham mahupun dinar, tidak ditundukkan oleh kecantikan wanita, dan tidak menjadi hamba kepada jawatan mahupun runtunan syahwat.
+Ia merupakan *'niat yang bebas'* (*al-niyah al-hurrah*) yang turut disebut oleh al-Buhturi dalam bait yang lain, [2] di mana beliau menyifatkannya dengan begitu indah dan tepat. Seolah-olah niat itu bebas merdeka daripada segala belenggu hawa nafsu, ketamakan, dan kepentingan peribadi yang membelenggu orang lain. Ia tidak diperhambakan oleh dirham mahupun dinar, tidak ditundukkan oleh kecantikan wanita, dan tidak menjadi hamba kepada jawatan mahupun runtunan syahwat.
 
 Oleh itu, seorang pendakwah tidak sekali-kali bertindak atas dorongan syahwat, dan tidak pula kerana mencari habuan kepentingan diri. Sebaliknya, pada setiap gerak dan diamnya terkandung pandangan yang mengharapkan ganjaran pahala di sisi Allah SWT semata-mata.
 
@@ -936,7 +936,7 @@ Kenalilah seni mengurus jiwa ini wahai pendakwah, dan kuasailah pintu masuknya s
 
 sebagaimana yang pernah diungkapkan.
 
-Di sana terdapat niat, dan di sana juga terdapat angan-angan kosong (*al-umniyyah*). Hakikatnya adalah persis dengan apa yang ditegaskan oleh Yahya bin Mu'az rahimahullah:
+Di sana terdapat niat, dan di sana juga terdapat angan-angan kosong (*al-umniyah*). Hakikatnya adalah persis dengan apa yang ditegaskan oleh Yahya bin Mu'az rahimahullah:
 
 > *“Seorang hamba akan sentiasa diiringi oleh sikap berlengah-lengah, selagi mana dia terus berpaut pada janji angan-angan kosong.”* [7]
 
@@ -952,7 +952,7 @@ Cita-cita yang tinggi (*al-himmah*) merupakan pasangan kembar kepada niat yang i
 
 > *“Peliharalah cita-citamu, kerana cita-cita merupakan permulaan bagi segala sesuatu. Sesiapa yang baik cita-citanya dan jujur padanya, nescaya akan baiklah segala amalan selepasnya.”*
 
-Ibnu al-Qayyim rahimahullah memberikan satu perumpamaan yang indah mengenainya seraya berkata:
+Ibnu al-Qayim rahimahullah memberikan satu perumpamaan yang indah mengenainya seraya berkata:
 
 > *“Perumpamaan hati itu sama seperti seekor burung. Setiap kali ia terbang tinggi, ia semakin jauh daripada bahaya kebinasaan; dan setiap kali ia terbang rendah, ia akan dikerumuni oleh pelbagai malapetaka.”* [8]
 
@@ -985,7 +985,7 @@ Daripada generasi salafussoleh inilah, generasi pembaharu pada kurun ini menimba
 [5] Abdul Qadir al-Kailani, *al-Fath al-Rabbani*, hlm. 64.  
 [6] Mustafa Sadiq al-Rafi'i, *Wahy al-Qalam*, jld. 2, hlm. 44.  
 [7] Al-Khatib al-Baghdadi, *Tarikh Baghdad*, jld. 5, hlm. 184.  
-[8] Ibnu al-Qayyim, *al-Jawab al-Kafi*, hlm. 70.  
+[8] Ibnu al-Qayim, *al-Jawab al-Kafi*, hlm. 70.  
 [9] Al-Khatib al-Baghdadi, *Tarikh Baghdad*, jld. 1, hlm. 352.  
 [10] Hasan al-Banna, *Muzakkirat al-Da'wah wa al-Da'iyah*, hlm. 233.
 
@@ -1013,7 +1013,7 @@ Nabi SAW bersabda seraya mengisyaratkan ke arah dada Baginda:
 التَّقْوَى هَا هُنَا
 > *“Ketakwaan itu di sini.”*
 
-Ibnu al-Qayyim rahimahullah menghuraikan:
+Ibnu al-Qayim rahimahullah menghuraikan:
 
 > *“Orang yang bijak mampu menempuh perjalanan yang jauh dengan ketinggian cita-cita, keteguhan tekad, dan keikhlasan niat—walaupun dengan amalan yang sedikit—berlipat kali ganda lebih jauh daripada apa yang ditempuh oleh orang yang kosong daripada sifat-sifat tersebut, walaupun dia banyak berpenat lelah.”* [1]
 
@@ -1051,7 +1051,7 @@ Dr. Abdul Wahhab 'Azzam memberikan amaran kepadamu dan menyedarkanmu bahawa:
 
 ### Engkau Pemilik Iman
 
-Sayyid Qutb rahimahullah menegaskan:
+Sayid Qutb rahimahullah menegaskan:
 
 > *“Hakikat keimanan tidak akan mencapai kesempurnaan di dalam sesuatu hati sehinggalah ia terjun ke kancah perjuangan mendepani manusia demi menegakkan urusan iman ini. Hal ini kerana seseorang itu pada hakikatnya turut bermujahadah melawan nafsunya sendiri ketika dia berjuang mendepani manusia.*
 >
@@ -1149,7 +1149,7 @@ Lalu beliau menjawab:
 
 > *“Pada dirimu telah sedia ada kelalaian yang mencukupi untuknya!”* [10]
 
-Sekiranya ada pihak yang membantah, kita bawakan kepadanya kata-kata Ibnu al-Qayyim rahimahullah tatkala beliau berkata: 
+Sekiranya ada pihak yang membantah, kita bawakan kepadanya kata-kata Ibnu al-Qayim rahimahullah tatkala beliau berkata: 
 
 > *“Mestilah ada saatnya rasa mengantuk dan lena kelalaian itu datang; tetapi jadilah insan yang tidur ayam (sentiasa peka dan mudah terjaga).”* [11]
 
@@ -1234,7 +1234,7 @@ Tatkala seorang insan yang lalai merasa pelik terhadap seorang pejuang yang berk
 
 > *“Kerehatan jua yang kuinginkan!”* [17]
 
-Ibnu al-Qayyim rahimahullah menyimpulkan:
+Ibnu al-Qayim rahimahullah menyimpulkan:
 
 > *“Penuntut yang jujur dalam pencariannya: setiap kali ada sesuatu yang runtuh daripada keduniaannya, dia menjadikannya sebagai pembina bagi hati dan rohnya. Setiap kali berkurang sesuatu daripada urusan dunianya, dia menjadikannya sebagai pertambahan bagi akhiratnya. Setiap kali dihalang sesuatu daripada kelazatan dunianya, dia menjadikannya sebagai pertambahan bagi kelazatan akhiratnya. Dan setiap kali dia ditimpa kegelisahan, kesedihan, atau kedukaan di dunia, dia menjadikannya sebagai pelaburan bagi kegembiraan-kegembiraan akhiratnya.”* [18]
 
@@ -1246,23 +1246,23 @@ Demi Allah! Taklif itu bukanlah satu kegelapan, namun ia hanyalah bahasa kiasan 
 
 ### Nota Kaki:
 
-[1] Ibnu al-Qayyim, *al-Fawa'id*, hlm. 140.  
+[1] Ibnu al-Qayim, *al-Fawa'id*, hlm. 140.  
 [2] Majalah *al-Muslimun*, jld. 1, hlm. 595.  
-[3] Sayyid Qutb, *Haza al-Din*, hlm. 10.  
+[3] Sayid Qutb, *Haza al-Din*, hlm. 10.  
 [4] Mustafa Sadiq al-Rafi'i, *Wahy al-Qalam*, jld. 1, hlm. 65.  
 [5] Abu al-Hasan al-Nadwi, kata pengantar untuk *Muzakkirat al-Da'wah wa al-Da'iyah*.  
-[6] Ibnu al-Qayyim, *al-Fawa'id*, hlm. 19.  
+[6] Ibnu al-Qayim, *al-Fawa'id*, hlm. 19.  
 [7] Al-Maududi, *Tazkirah Du'at al-Islam*, hlm. 57.  
 [8] *Ibid.*, hlm. 59.  
 [9] Al-Mawardi, *Adab al-Dunya wa al-Din*, hlm. 82.  
 [10] Ibnu Rajab, *Zail Tabaqat al-Hanabilah*, jld. 1, hlm. 422.  
-[11] Ibnu al-Qayyim, *al-Fawa'id*, hlm. 41.  
+[11] Ibnu al-Qayim, *al-Fawa'id*, hlm. 41.  
 [12] Hasan al-Banna, *Majmu'ah Rasa'il al-Imam*, hlm. 498.  
 [13] Al-Khatib al-Baghdadi, *Tarikh Baghdad*, jld. 3, hlm. 75.  
 [14] Ibnu al-Jauzi, *Manaqib al-Imam Ahmad*, hlm. 339.  
 [15] Al-Buhturi, *Diwan al-Buhturi*, jld. 1, hlm. 172.  
 [16] Ibnu Abi Ya'la, *Tabaqat al-Hanabilah*, jld. 1, hlm. 293.  
-[17] Ibnu al-Qayyim, *al-Fawa'id*, hlm. 42.  
+[17] Ibnu al-Qayim, *al-Fawa'id*, hlm. 42.  
 [18] *Ibid.*, hlm. 189.
 
 
@@ -1297,7 +1297,7 @@ Inilah yang dijelmakan oleh keimanan, iaitu dengan menegakkan tasawur yang benar
 
 Seterusnya, keimanan juga amat dituntut agar para da'i memiliki sifat yang sentiasa menyeru kepada kebaikan, mengajak kepada yang ma'ruf dan mencegah daripada yang munkar; agar mereka terus melangkah di jalan yang sukar ini sambil menanggung segala bebannya. Mereka berhadapan dengan thaghut kejahatan dalam puncak keangkuhan dan kesombongannya; menghadapi gelora nafsu syahwat dalam kedahsyatan dan keterlanjurannya; serta berhadapan dengan kelesuan jiwa dan kelemahan tekad manusia. Bekalan mereka hanyalah keimanan, persediaan senjata mereka ialah keimanan, dan sandaran mereka ialah Allah SWT semata-mata. Setiap bekalan selain keimanan pasti akan habis, setiap persediaan senjata selain keimanan pasti tumpul, dan setiap sandaran selain Allah pasti runtuh rebah. [3]
 
-Iqbal menceritakan kepada kita tentang apa yang telah dihasilkan oleh penyatuan tasawur melalui keimanan ini — iaitu perkara yang disedari dan digariskan oleh Sayyid Qutb *rahimahullah* — seraya melantunkan:
+Iqbal menceritakan kepada kita tentang apa yang telah dihasilkan oleh penyatuan tasawur melalui keimanan ini — iaitu perkara yang disedari dan digariskan oleh Sayid Qutb *rahimahullah* — seraya melantunkan:
 
 **وَحَّدَ الرَّأْيَ لَنَا وَالفِكْرَة**
 **كَسِهَامٍ جَمَعَتْهَا جَعْبَة**
@@ -1389,7 +1389,7 @@ Oleh sebab itulah golongan al-Salaf *rahimahumullah* amat banyak berpesan agar m
 
 ( "Sesungguhnya engkau akan mendapat bahagian daripada kawan rapatmu, dan engkau akan beroleh bahagian daripada sebutan nama orang yang engkau cintai; oleh itu, pilihlah dengan cermat saudara-saudara, sahabat handai dan majlis-majlis pergaulan." ) [12]
 
-Pertama sekali, mereka meletakkan kriteria kebaikan (*al-khairiyyah*) secara mutlak sebagai neraca pemilihan, dan mereka mengungkapkan hal tersebut melalui bait syair:
+Pertama sekali, mereka meletakkan kriteria kebaikan (*al-khairiyah*) secara mutlak sebagai neraca pemilihan, dan mereka mengungkapkan hal tersebut melalui bait syair:
 
 **أَنْتَ فِي النَّاسِ تُقَاسُ**
 **بِالَّذِي اخْتَرْتَ خَلِيْلَا**
@@ -1490,7 +1490,7 @@ Jadikanlah dia saudaramu, cintailah dia, dampingilah dia, dan berikanlah kepadan
 
 Oleh itu, carilah saudara-saudara seakidah, nescaya kami akan menggugurkan sifat lemah itu daripada dirimu.
 
-Ibnu al-Qayyim *rahimahullah* mempunyai ulasan yang ringkas namun menyeluruh mengenai perkara ini, yang membuktikan pengalaman seorang da'i daripada kalangan orang yang memiliki kesedaran tinggi. Beliau mendiagnosis bahaya-bahaya yang wujud dalam majlis pergaulan seraya berkata:
+Ibnu al-Qayim *rahimahullah* mempunyai ulasan yang ringkas namun menyeluruh mengenai perkara ini, yang membuktikan pengalaman seorang da'i daripada kalangan orang yang memiliki kesedaran tinggi. Beliau mendiagnosis bahaya-bahaya yang wujud dalam majlis pergaulan seraya berkata:
 
 ( "Pertemuan sesama saudara seakidah terbahagi kepada dua bahagian:
 
@@ -1502,7 +1502,7 @@ Pertama: Sebahagian mereka berhias-hias (berpura-pura menzahirkan kebaikan) untu
 Kedua: Berbual dan bergaul melebihi kadar keperluan.
 Ketiga: Pertemuan itu berubah menjadi suatu syahwat (keinginan nafsu) dan kebiasaan yang memutuskannya daripada matlamat asal." ) [22]
 
-Apa yang mendukacitakan ialah kebimbangan Ibnu al-Qayyim ini telah bertukar menjadi suatu realiti yang sedang dialami oleh sebahagian majlis para da'i pada masa kini: sikap berhias-hias mencari jalan untuk muncul dalam kalangan kita, manakala pergaulan sesama da'i meningkat melebihi kadar yang diperlukan oleh dakwah, lalu bertukar menjadi seakan-akan pengangguran dan kehendak nafsu yang melalaikan daripada matlamat sebenar perhimpunan kita dalam memantau kerja bersama generasi muda dan anggota-anggota baharu, serta melangkah mara merentas masyarakat umum untuk menyampaikan kalimah Islam kepada mereka.
+Apa yang mendukacitakan ialah kebimbangan Ibnu al-Qayim ini telah bertukar menjadi suatu realiti yang sedang dialami oleh sebahagian majlis para da'i pada masa kini: sikap berhias-hias mencari jalan untuk muncul dalam kalangan kita, manakala pergaulan sesama da'i meningkat melebihi kadar yang diperlukan oleh dakwah, lalu bertukar menjadi seakan-akan pengangguran dan kehendak nafsu yang melalaikan daripada matlamat sebenar perhimpunan kita dalam memantau kerja bersama generasi muda dan anggota-anggota baharu, serta melangkah mara merentas masyarakat umum untuk menyampaikan kalimah Islam kepada mereka.
 
 • **Seseorang Berasa Hairan dengan Kesalahan Kecil Orang Lain!**
 
@@ -1570,11 +1570,11 @@ Maka engkau dituntut, wahai da'i Muslim, agar memenuhi hatimu dengan perasaan pe
 
 ### Nota Kaki:
 
-[1] Sayyid Qutb, *Fī Zhilāl al-Qur'ān*, jld. 4, hlm. 22–32.  
+[1] Sayid Qutb, *Fī Zhilāl al-Qur'ān*, jld. 4, hlm. 22–32.  
 [2] *Ibid.*  
 [3] *Ibid.*  
 [4] Muhammad Iqbal, *Dīwān al-Asrār wa al-Rumūz*, hlm. 89.  
-[5] Sayyid Qutb, *Fī Zhilāl al-Qur'ān*, jld. 4, hlm. 23–28.  
+[5] Sayid Qutb, *Fī Zhilāl al-Qur'ān*, jld. 4, hlm. 23–28.  
 [6] *Ibid.*  
 [7] Muhammad Iqbal, *Dīwān al-Asrār wa al-Rumūz*, hlm. 89.  
 [8] Ibnu Taimiyah, *Majmū' Fatāwā*, jld. 11, hlm. 101.  
@@ -1591,7 +1591,7 @@ Maka engkau dituntut, wahai da'i Muslim, agar memenuhi hatimu dengan perasaan pe
 [19] Majalah *al-Tarbiah al-Islāmiah*, jld. 7, hlm. 55.  
 [20] Ibnu Hajar, *Tahzib al-Tahzib*, jld. 3, hlm. 396.  
 [21] Muhammad Iqbal, *Dīwān al-Asrār wa al-Rumūz*, hlm. 72.  
-[22] Ibnu al-Qayyim, *al-Fawā'id*, hlm. 51.  
+[22] Ibnu al-Qayim, *al-Fawā'id*, hlm. 51.  
 [23] Abdul Wahhab 'Azzam, *Dīwān al-Mathānī*, hlm. 38.
 
 
@@ -1640,7 +1640,7 @@ Abdul Wahhab 'Azzam merupakan orang pertama yang menyahut seruannya, lalu beliau
 
 Semua ini memperkukuh bahawa langkah ini memperbaharui manhaj terdahulu dan tradisi yang telah berakar umbi pada generasi awal umat Islam. Mereka meluangkan masa sejenak daripada kesibukan gerakan mengajar dan belajar, amar ma'ruf nahi munkar, serta tuntutan mencari nafkah; lalu keluar menyendiri dan bertumpu di pinggir kota mereka, duduk di celah-celah tanaman, dengan harapan jiwa mereka beroleh panduan batin dan peringatan.
 
-Ibnu al-Qayyim *rahimahullah* meriwayatkan bahawa gurunya, Ibnu Taimiyah *rahimahullah* sering meninggalkan mereka pada waktu pagi selepas solat subuh berulang kali. Ibnu al-Qayyim memerhatikannya, lalu mendapati beliau menyendiri di kawasan kebun dan ladang Damsyik, sehinggalah hal tersebut menjadi suatu kebiasaan baginya.
+Ibnu al-Qayim *rahimahullah* meriwayatkan bahawa gurunya, Ibnu Taimiyah *rahimahullah* sering meninggalkan mereka pada waktu pagi selepas solat subuh berulang kali. Ibnu al-Qayim memerhatikannya, lalu mendapati beliau menyendiri di kawasan kebun dan ladang Damsyik, sehinggalah hal tersebut menjadi suatu kebiasaan baginya.
 
 Perkara ini bukanlah sesuatu yang asing daripada gaya pengungkapan al-Quran, bukan pula daripada simbol-simbol nas hadis yang mulia serta perumpamaannya; bahkan ia merupakan hubung kait yang nyata antara kehijauan alam dengan pekerti fitrah, yang meninggalkan kesannya pada kaedah pengungkapan dan perumpamaan orang-orang yang beriman. Hal ini menunjukkan kepada hati-hati yang memahami keserasian ini, menangkap isyaratnya, serta menyaksikan ikatan menyeluruh antara pertemuan dengan pepohonan dan makna-makna keimanan.
 
@@ -1652,13 +1652,13 @@ Ia adalah pohon yang ditanam sendiri oleh al-Quran; engkau berehat di bawah rant
 
 *(Tidakkah engkau melihat bagaimana Allah membuat perumpamaan kalimah yang baik adalah seperti sebatang pohon yang baik, akarnya teguh terpacak dan cabangnya menjulang ke langit? Ia mengeluarkan buahnya pada setiap musim dengan izin Tuhannya; dan Allah membuat perumpamaan-perumpamaan itu untuk manusia agar mereka beringat.)*
 
-Ibnu al-Qayyim berkata:
+Ibnu al-Qayim berkata:
 
 ( "Sesungguhnya Allah SWT menyamakan pohon tauhid di dalam hati dengan pohon yang baik yang akarnya teguh terpacak dan cabangnya menjulang tinggi ke langit, yang sentiasa membuahkan hasilnya pada setiap masa. Sekiranya engkau merenungi perumpamaan ini, nescaya engkau mendapati ia bertepatan persis dengan pohon tauhid yang kukuh tertanam di dalam hati, yang mana cabang-cabangnya berupa amal-amal soleh yang naik menjulang ke langit. Pohon ini sentiasa membuahkan amal-amal soleh pada setiap waktu, setaraf dengan keteguhannya di dalam hati, kecintaan hati terhadapnya, keikhlasan padanya, makrifat terhadap hakikatnya, serta pelaksanaan hak-haknya dan penjagaannya dengan sebaik-baik penjagaan." ) [4]
 
 Sebahagian ulama salaf menyatakan bahawa: pohon yang baik tersebut ialah pokok kurma (tamar), dan hal ini disokong oleh hadis Ibnu Umar RA dalam kitab *Sahih*; manakala al-Rabi' bin Anas *rahimahullah* pula berkata: ( "Itu adalah perumpamaan orang yang beriman; asas amalnya teguh terpacak di bumi, dan sebutan namanya menjulang di langit." )
 
-Ibnu al-Qayyim mengulas:
+Ibnu al-Qayim mengulas:
 
 ( "Tiada percanggahan antara kedua-dua pandangan tersebut, kerana maksud perumpamaan ini ialah: orang yang beriman diserupakan dengan pokok tamar, manakala pokok tamar diserupakan dengannya." ) [5]
 
@@ -1738,7 +1738,7 @@ Maka si suami menjawab: "Pasti aku akan melakukannya esok hari."
 
 Keesokan harinya, tatkala tetamu itu telah memakan separuh daripada gugusan anggur tersebut, si suami menghulurkan tangannya lalu mengambil sebutir buah anggur; tiba-tiba dia mendapati rasanya amat masam sehingga tidak tertelan, lalu dia meludahkannya, mengerutkan dahinya dan menzahirkan kehairanannya terhadap kesabaran tetamunya yang mampu memakan buah-buah yang masam seperti itu!
 
-Abu Hayyan al-Tauhidi menceritakan: Maka si tetamu itu berkata:
+Abu Hayan al-Tauhidi menceritakan: Maka si tetamu itu berkata:
 
 ( "Sesungguhnya aku telah berkali-kali memakan buah yang manis daripada tanganmu selama hari-hari yang lalu; maka aku tidak suka untuk memperlihatkan kepadamu rasa tidak senang hatiku yang boleh mencemarkan kemurnian pemberianmu yang terdahulu." ) [11]
 
@@ -1801,14 +1801,14 @@ Oleh yang demikian, tiada sebatang pohon pun yang tegak berdiri melainkan ia men
 [1] Al-Ṭabarī, *Jāmi' al-Bayān* (*Tafsīr al-Ṭabarī*), jld. 1, hlm. 516 (cetakan Dar al-Ma'arif).  
 [2] Muhammad Iqbal, *Payām-i Mashriq* (*Dīwān Risālah al-Mashriq*), hlm. 30.  
 [3] Abdul Wahhab 'Azzam, *Dīwān al-Mathānī*, hlm. 117.  
-[4] Ibnu al-Qayyim, *I'lām al-Muwaqqi'īn 'an Rabb al-'Ālamīn*, jld. 1, hlm. 188 (cetakan al-Wakil).  
+[4] Ibnu al-Qayim, *I'lām al-Muwaqqi'īn 'an Rabb al-'Ālamīn*, jld. 1, hlm. 188 (cetakan al-Wakil).  
 [5] *Ibid.*  
 [6] *Ṣaḥīḥ al-Bukhārī*, jld. 2, hlm. 11.  
 [7] *Ṣaḥīḥ al-Bukhārī*, jld. 9, hlm. 65.  
 [8] *Ṣaḥīḥ al-Bukhārī*, jld. 9, hlm. 58.  
 [9] *Ṣaḥīḥ al-Bukhārī*, jld. 2, hlm. 14.  
 [10] *Ṣaḥīḥ Muslim*, jld. 5, hlm. 201.  
-[11] Abū Ḥayyān al-Tawḥīdī, *al-Imtā' wa al-Mu'ānasah*, jld. 2, hlm. 121.
+[11] Abū Ḥayān al-Tawḥīdī, *al-Imtā' wa al-Mu'ānasah*, jld. 2, hlm. 121.
 
 
 ---
@@ -1903,7 +1903,7 @@ Akan tetapi, kalaulah dia memandang dengan mata hatinya, nescaya dia mengetahui 
 
 Melalui pandangan dan penantian seumpama inilah — yang disemai oleh para nabi 'alaihimussalam ke dalam jiwa para pejuang rabbani yang berjuang bersama mereka — jiwa-jiwa mereka menjadi jernih, lalu mereka beroleh keteguhan di atas paksi ketenangan jiwa yang mantap. Apabila goncangan keresahan reda dan lenyap, mereka melihat batasan hakikat debu bagi syahwat keduniaan, maka padamlah sebarang ketamakan yang melampau.
 
-Keteguhan dalam menghadapi angan-angan palsu ini laksana keteguhan Nabi Ibrahim 'Alaihissalam tatkala melihat bintang, bulan dan matahari yang terbenam, lalu baginda menegaskan bahawa baginda tidak menyukai perkara yang lenyap; dan saki-baki ajaran hanif baginda hampir-hampir bersambung dengan perutusan Nabi kita Muhammad SAW tatkala hakikat kehidupan ini diperlihatkan kepada Umayyah bin Abi al-Shalt sehingga dia hampir-hampir memeluk Islam. Lalu dia melaungkan di tengah masyarakat jahiliah di sekelilingnya:
+Keteguhan dalam menghadapi angan-angan palsu ini laksana keteguhan Nabi Ibrahim 'Alaihissalam tatkala melihat bintang, bulan dan matahari yang terbenam, lalu baginda menegaskan bahawa baginda tidak menyukai perkara yang lenyap; dan saki-baki ajaran hanif baginda hampir-hampir bersambung dengan perutusan Nabi kita Muhammad SAW tatkala hakikat kehidupan ini diperlihatkan kepada Umayah bin Abi al-Shalt sehingga dia hampir-hampir memeluk Islam. Lalu dia melaungkan di tengah masyarakat jahiliah di sekelilingnya:
 
 **اقْتَرَبَ الوَعْدُ ، وَالقُلُوْبُ إِلَى اللَّهْوِ**  
 *Makin hampirlah saat yang dijanjikan, sedang hati-hati asyik lalai,*  
@@ -2442,7 +2442,7 @@ Demikianlah kehendak Allah SWT memberikan peranan kepada Madrasah Kufah selepas 
 
 • **Muncullah Umar bin Abdul Aziz di Syam**
 
-Apa yang kita riwayatkan mengenai usaha pembetulan Umar bin Abdul Aziz pada akhir kurun pertama merupakan satu mata rantai dalam lingkungan dakwah golongan saki-baki (*al-baqiyyah*) yang mengawasi perjalanan kurun-kurun zaman. Mata rantai ini berhubung dengan madrasah Kufah Ali RA melalui perantaraan 'Aun bin Abdillah, Umar bin Dzar, dan penyair A'sya Hamdan yang telah disebutkan sebelum ini; suatu perhubungan biasa sebagaimana lumrah peredaran ilmu di pelbagai negeri, dan lumrah golongan saki-baki pembimbing dalam peralihan zaman. Akan tetapi, ia merupakan satu mata rantai yang berjaya menguasai dua keistimewaan luar biasa yang tidak mampu dicapai oleh mata rantai selepasnya:
+Apa yang kita riwayatkan mengenai usaha pembetulan Umar bin Abdul Aziz pada akhir kurun pertama merupakan satu mata rantai dalam lingkungan dakwah golongan saki-baki (*al-baqiyah*) yang mengawasi perjalanan kurun-kurun zaman. Mata rantai ini berhubung dengan madrasah Kufah Ali RA melalui perantaraan 'Aun bin Abdillah, Umar bin Dzar, dan penyair A'sya Hamdan yang telah disebutkan sebelum ini; suatu perhubungan biasa sebagaimana lumrah peredaran ilmu di pelbagai negeri, dan lumrah golongan saki-baki pembimbing dalam peralihan zaman. Akan tetapi, ia merupakan satu mata rantai yang berjaya menguasai dua keistimewaan luar biasa yang tidak mampu dicapai oleh mata rantai selepasnya:
 
 * Keistimewaan pertama: diperoleh melalui kedudukan khilafah yang tinggi, lalu tertegaklah teladan kepimpinan yang digeruni dan disegani setelah sekian lama terputus. Maka usaha pembaikan bergerak pantas, masa dipendekkan, dan tempoh yang singkat itu memberi kesan yang mendalam merentasi zaman yang amat panjang.
 * Keistimewaan kedua: keistimewaan balaghah yang lahir daripada ketajaman renungan dan tafakur Umar, serta didikan irama kefasihan Arab yang sentiasa mengalir indah daripada lisannya. Dengannya, beliau membongkar keaiban generasinya yang bersenang-senang dengan rampasan harta orang-orang yang binasa; dan dengannya juga, beliau mengutus berita kematian kepada generasi-generasi selepasnya yang diyakini oleh firasatnya bakal tergolong dalam kalangan orang-orang yang leka dan lalai. Lalu beliau berbicara kepada mereka dengan bicara kebenaran tentang:
@@ -2487,7 +2487,7 @@ Ia merupakan neraca yang mewakili sebahagian daripada apa yang ditambahkan oleh 
 
 Rasa takut segera di sisinya, yang membawa kepada ketakwaan, dan seterusnya membuahkan keamanan yang abadi di bawah naungan syurga: adalah jauh lebih baik daripada pandangan luas yang hanya memandang kepada sifat-sifat Allah SWT dalam hal rahmat, kelembutan, dan keampunan semata-mata.
 
-Kedua-dua keadaan itu sememangnya dituntut, dan hakikat perkara ini terikat dengan prinsip nisbi (*nisbiyyah*) yang jelas; yang kadangkala mewajibkan kita meringankan rasa gerun sebahagian jiwa dengan membuka pintu-pintu harapan (*rajā'*) yang tertutup rapat disebabkan rasa takut (*khasyyah*) yang melampau. Namun, jiwa yang sedemikian amatlah langka, sedangkan tipu daya angan-angan duniawi menyelubungi majoriti besar manusia; dan tiada ubat baginya melainkan menimbulkan rasa gerun melalui kisah busut-busut perkuburan yang kaku membisu.
+Kedua-dua keadaan itu sememangnya dituntut, dan hakikat perkara ini terikat dengan prinsip nisbi (*nisbiyah*) yang jelas; yang kadangkala mewajibkan kita meringankan rasa gerun sebahagian jiwa dengan membuka pintu-pintu harapan (*rajā'*) yang tertutup rapat disebabkan rasa takut (*khasyah*) yang melampau. Namun, jiwa yang sedemikian amatlah langka, sedangkan tipu daya angan-angan duniawi menyelubungi majoriti besar manusia; dan tiada ubat baginya melainkan menimbulkan rasa gerun melalui kisah busut-busut perkuburan yang kaku membisu.
 
 Bagi mengingatkan tentang prinsip nisbi ini, Ibnu al-Jauzi berkata:
 
@@ -2522,7 +2522,7 @@ Para murabbi selepas Imam Ahmad dan al-Hasan al-Jarawi mula mengamalkan dua pend
 
 Sesiapa yang mencapai kedudukan martabat Ahmad dari segi kezuhudan, kewarakan, dan hidupnya mata hati: dia mencontohi sikap diamnya, lalu membiarkan keadaannya berbicara kepada pandangan mata orang ramai.
 
-Manakala sesiapa yang tidak mencapai keluhuran seperti Ahmad dan berada di bawah tahap itu: dia menempuh pendekatan pengakuan (*ṭarīqah al-i'tirāf*), lalu dia menggoncang pendengaran manusia. Sebagaimana yang pernah digoncangkan oleh Khalifah Abbasiyyah, al-Radi billah, tatkala beliau menghimpunkan orang-orang yang lalai di Baghdad, dan berusaha — selepas zaman al-Mutawakkil — untuk menyerupai Ali RA dan Umar bin Abdul Aziz serta mencontohi pendekatan mereka berdua. Beliau mula melantunkan bait-bait syair gubahannya di hadapan mereka:
+Manakala sesiapa yang tidak mencapai keluhuran seperti Ahmad dan berada di bawah tahap itu: dia menempuh pendekatan pengakuan (*ṭarīqah al-i'tirāf*), lalu dia menggoncang pendengaran manusia. Sebagaimana yang pernah digoncangkan oleh Khalifah Abbasiyah, al-Radi billah, tatkala beliau menghimpunkan orang-orang yang lalai di Baghdad, dan berusaha — selepas zaman al-Mutawakkil — untuk menyerupai Ali RA dan Umar bin Abdul Aziz serta mencontohi pendekatan mereka berdua. Beliau mula melantunkan bait-bait syair gubahannya di hadapan mereka:
 
 **كُلُّ صَفْوٍ إِلَى كَدَرْ**  
 *Setiap kejernihan pasti berakhir dengan kekeruhan,*  
@@ -2663,7 +2663,7 @@ Sesungguhnya jika engkau mengetahui bahawa kami adalah sebaik-baik golongan yang
 
 > *“Sesungguhnya rasa sesal, kesakitan jiwa, dan helaian nafas keluhan tidak lebih daripada sekadar wasilah pasif yang langsung tidak mencederakan kekuatan kebatilan — bahkan tidak mampu mencalarkannya sedikit pun —. Ia sememangnya tidak mengapa pada awalnya, namun ia akan bertukar menjadi suatu perkara yang amat berbahaya sekiranya ia tidak disusuli oleh amal positif yang membuahkan hasil. Ini kerana keluhan pasif tersebut akan menjadi alat untuk menyerap kemarahan terhadap suasana yang rosak, lalu membawa kepada sikap berpeluk tubuh dan pasrah kepadanya. Dan dalam keadaan yang paling baik sekalipun: kemarahan ini berterusan dalam bentuk yang kaku tanpa ada kehidupan padanya, yang akhirnya melumpuhkan pergerakan. Dan tiada perkara yang lebih menguntungkan bagi kuasa-kuasa kebatilan selain daripada suasana sebegini.”* [3]
 
-Sebaliknya, apa yang benar pada setiap masa adalah engkau menempuh jalan *himmah* (cita-cita dan keazaman tinggi). Itulah jalan yang disifatkan oleh ikutan bumi Iraq pada penghujung zaman Abbasiyyah, Syeikh Abdul Qadir al-Kailani rahimahullah, tatkala beliau menyeru penduduk Baghdad dengan suaranya yang menggegar:
+Sebaliknya, apa yang benar pada setiap masa adalah engkau menempuh jalan *himmah* (cita-cita dan keazaman tinggi). Itulah jalan yang disifatkan oleh ikutan bumi Iraq pada penghujung zaman Abbasiyah, Syeikh Abdul Qadir al-Kailani rahimahullah, tatkala beliau menyeru penduduk Baghdad dengan suaranya yang menggegar:
 
 > *“Berjalanlah kamu bersama pemilik himmah yang tinggi!”* [4]
 
@@ -2802,7 +2802,7 @@ Allah Taala berfirman:
 
 *“Wahai orang-orang yang beriman! Mengapa apabila dikatakan kepada kamu: 'Berangkatlah (untuk berperang) pada jalan Allah', kamu berasa berat dan condong ke bumi? Adakah kamu reda dengan kehidupan dunia berbanding akhirat? Padahal kenikmatan hidup dunia ini (jika dibandingkan dengan) akhirat hanyalah sedikit.”*
 
-Sayyid Qutb rahimahullah berkata:
+Sayid Qutb rahimahullah berkata:
 
 > *“Ia adalah bebanan tarikan bumi, ketamakan bumi, dan gambaran-gambaran bumi. Bebanan takut terhadap keselamatan nyawa, takut kehilangan harta, dan takut kehilangan kelazatan, kemaslahatan, serta keseronokan. Bebanan ketenangan, kerehatan, dan kestabilan. Bebanan diri yang fana, ajal yang terbatas, dan matlamat jangka pendek yang dekat. Bebanan daging, darah, dan tanah debu. Ungkapan ini melontarkan seluruh bayangannya melalui alunan lafaznya: 'Ith-thāqaltum' — ini adalah qiraat Hafs, dan ia lebih mendalam gambarannya berbanding bacaan lain yang menyebut 'tathāqaltum' —. Melalui alunan sebutannya, ia menggambarkan sekujur tubuh yang rebah layu lagi berat; diangkat oleh orang-orang yang mengangkatnya dengan bersusah payah, lalu ia terlepas jatuh semula daripada pegangan mereka dalam keadaan berat terhempas. Dan ia melontarkannya melalui makna lafaznya 'berasa berat condong ke bumi' bersama segala daya tarikan gravitinya yang menarik kuat ke bawah serta melawan kepakan sayap roh dan pelepasan gelora kerinduan.*  
 > *Sesungguhnya keberangkatan untuk berjihad pada jalan Allah adalah pelepasan daripada belenggu bumi, pengangkatan darjat mengatasi bebanan daging dan darah, serta penzahiran makna keluhuran pada diri insan; mendominasikan unsur kerinduan yang bersayap di dalam dirinya mengatasi unsur ikatan dan keterpaksaan, serta menatap jauh ke arah keabadian yang membentang luas, dan kebebasan daripada kebinasaan yang terbatas:*
@@ -2876,20 +2876,20 @@ Nota Kaki:
 [2] Mahmud Al Ja'far, *Ḥanīn ilā al-Fajr*, hlm. 140.  
 [3] Salahuddin Majid, majalah *al-Tarbiah al-Islāmiah*, jld. 5, hlm. 594.  
 [4] Abdul Qadir al-Kailani, *al-Fatḥ al-Rabbānī*, hlm. 298.  
-[5] Ibnu al-Qayyim, *Miftāḥ Dār al-Sa'ādah*, jld. 1, hlm. 35.  
+[5] Ibnu al-Qayim, *Miftāḥ Dār al-Sa'ādah*, jld. 1, hlm. 35.  
 [6] Muhammad Iqbal, *Dīwān al-Asrār wa al-Rumūz*, hlm. 39.  
-[7] Ibnu al-Qayyim, *Miftāḥ Dār al-Sa'ādah*, jld. 1, hlm. 46.  
+[7] Ibnu al-Qayim, *Miftāḥ Dār al-Sa'ādah*, jld. 1, hlm. 46.  
 [8] Ibnu Taimiyah, *Majmū' Fatāwā*, jld. 10, hlm. 186.  
 [9] Surah al-Mujādilah, ayat 11.  
 [10] Surah al-Anfāl, ayat 2–4.  
 [11] Surah Ṭāhā, ayat 75.  
 [12] Surah al-Nisā', ayat 95–96.  
-[13] Ibnu al-Qayyim, *Miftāḥ Dār al-Sa'ādah*, jld. 1, hlm. 50.  
+[13] Ibnu al-Qayim, *Miftāḥ Dār al-Sa'ādah*, jld. 1, hlm. 50.  
 [14] Hasan al-Banna, *Risālah al-Ta'ālīm* dlm. *Majmū'ah Rasā'il al-Imām*, hlm. 24.  
 [15] Abdul Wahhab 'Azzam, *Dīwān al-Mathānī*, hlm. 35.  
 [16] Surah al-Tawbah, ayat 38.  
 [17] Surah al-Tawbah, ayat 39.  
-[18] Sayyid Qutb, *Fī Zhilāl al-Qur'ān*, jld. 10, hlm. 223.  
+[18] Sayid Qutb, *Fī Zhilāl al-Qur'ān*, jld. 10, hlm. 223.  
 [19] Al-Maududi, *Tadhkirah Du'āt al-Islām*, hlm. 56.  
 [20] Walid al-A'zami, *Aghānī al-Ma'rakah*, hlm. 76.  
 [21] Walid al-A'zami, *Aghānī al-Ma'rakah*, hlm. 106.
@@ -2900,9 +2900,9 @@ Nota Kaki:
 
 • **Pemisahan Prinsip dan Rukun Tasawur Islam**
 
-Sesungguhnya seorang Muslim yang diseru untuk berjalan bersama keazaman yang tinggi (*al-himam al-'āliyah*), lalu dia bangkit tersentak, melepaskan diri daripada belenggu-belenggu tarikan bumi, dan terbang melayang dengan sayap kemuliaan (*'izzah*): dia adalah seorang Muslim yang sewajarnya menyempurnakan kebangkitannya itu dengan langkah pemisahan prinsip (*tamayyuz*) yang jelas dan nyata.
+Sesungguhnya seorang Muslim yang diseru untuk berjalan bersama keazaman yang tinggi (*al-himam al-'āliyah*), lalu dia bangkit tersentak, melepaskan diri daripada belenggu-belenggu tarikan bumi, dan terbang melayang dengan sayap kemuliaan (*'izzah*): dia adalah seorang Muslim yang sewajarnya menyempurnakan kebangkitannya itu dengan langkah pemisahan prinsip (*tamayuz*) yang jelas dan nyata.
 
-Atau sebagaimana yang diungkapkan oleh Sayyid Qutb rahimahullah:
+Atau sebagaimana yang diungkapkan oleh Sayid Qutb rahimahullah:
 
 > *“Sesungguhnya langkah pertama di jalan ini ialah manhaj ini mestilah berbeza dan unik, para pendukungnya tidak menerima sebarang bimbingan dan arahan daripada jahiliah yang melanda di sekeliling mereka; agar manhaj ini kekal bersih dan murni, sehinggalah Allah mengizinkan kepimpinannya ke atas umat manusia sekali lagi.”* [1]
 
@@ -2927,7 +2927,7 @@ Para pembawa panji Islam hanyasanya bertolak daripada kefahaman Islam yang jelas
 
 Selagi mana kesimpulan ini adalah suatu ketetapan yang pasti — bahawa orang-orang kafir tidak akan pernah reda kepada orang-orang beriman — maka hendaklah para da'i menempuh mukadimah yang serasi dengannya, iaitu mukadimah yang membalas penolakan kufur dan kedegilannya terhadap iman.
 
-Dan tindak balas ini tidak lain hanyalah penzahiran perbezaan prinsip (*al-tamayyuz*) dan pemisahan (*al-infiṣāl*) daripadanya.
+Dan tindak balas ini tidak lain hanyalah penzahiran perbezaan prinsip (*al-tamayuz*) dan pemisahan (*al-infiṣāl*) daripadanya.
 
 ---
 
@@ -2989,7 +2989,7 @@ Hal ini bererti bahawa unsur kemunafikan dan dorongan mengikut hawa nafsu, setia
 
 Oleh yang demikian, dakwah Islam pada hari ini — dalam menghadapi pertambahan kemunafikan, kefasikan, dan pengikut hawa nafsu di dalam masyarakat masa kini — tidak dapat tidak mesti menegakkan pemisahan ini dan penzahiran perbezaan prinsip ini secara jelas dan terang-terangan. Ini penting agar gambaran Islam itu kekal cemerlang dan nyata pada gilirannya; dapat dilihat oleh sesiapa yang ingin memerhatikannya dalam kalangan mereka yang disuntik semangatnya oleh kata-kata para da'i untuk meneroka dimensi gambaran ini, mencarinya, dan menatap teladan praktikalnya.
 
-Hakikatnya, sekalipun para da'i pada kurun ini ketiadaan gambaran pemerintahan Islam yang layak dijadikan contoh bagi pelaksanaan Islam, namun contoh teladan ini boleh terjelma pada beberapa orang individu dalam kalangan para pendakwah. Di dalam diri merekalah terserlah makna-makna Islam yang hakiki; mereka meraih sebahagian daripada kewibawaannya, dan mencapai puncak ketinggian dalam keimanan, *tajarrud* (keikhlasan total), serta pelaksanaan Sunnah Nabawiyyah yang mulia.
+Hakikatnya, sekalipun para da'i pada kurun ini ketiadaan gambaran pemerintahan Islam yang layak dijadikan contoh bagi pelaksanaan Islam, namun contoh teladan ini boleh terjelma pada beberapa orang individu dalam kalangan para pendakwah. Di dalam diri merekalah terserlah makna-makna Islam yang hakiki; mereka meraih sebahagian daripada kewibawaannya, dan mencapai puncak ketinggian dalam keimanan, *tajarrud* (keikhlasan total), serta pelaksanaan Sunnah Nabawiyah yang mulia.
 
 Dan inilah makna *qudwah* (teladan) dalam bentuknya yang murni.
 
@@ -2997,17 +2997,17 @@ Sesungguhnya kewujudan teladan Islam (*al-qudwah al-islāmiah*) bererti wujudnya
 
 • **Izzah Seorang Mukmin Berdepan Penguasa Dunia**
 
-Abu al-Qasim al-Junaid rahimahullah mengungkapkan pemisahan teladan Islam ini dengan ungkapan: *“Kemerdekaan daripada segala sesuatu selain Allah”* (*al-ḥurriyyah 'ammā siwā Allāh*); iaitu tiada antara dirinya dengan apa jua selain Allah sebarang ikatan, belenggu, keturunan, kecenderungan, mahupun keinginan nafsu. Bahkan ia adalah kemerdekaan dengan pengertian yang difahami oleh setiap insan yang berjiwa merdeka, seraya beliau berkata:
+Abu al-Qasim al-Junaid rahimahullah mengungkapkan pemisahan teladan Islam ini dengan ungkapan: *“Kemerdekaan daripada segala sesuatu selain Allah”* (*al-ḥurriyah 'ammā siwā Allāh*); iaitu tiada antara dirinya dengan apa jua selain Allah sebarang ikatan, belenggu, keturunan, kecenderungan, mahupun keinginan nafsu. Bahkan ia adalah kemerdekaan dengan pengertian yang difahami oleh setiap insan yang berjiwa merdeka, seraya beliau berkata:
 
 > *“Seseorang hamba itu tidak akan menjadi hamba yang sebenar (kepada Allah) sehinggalah dia merdeka daripada segala sesuatu selain Allah Taala!”* [8]
 
-Beliau mengungkapkan pemisahan ini sekali lagi sebagai *“penghambaan orang-orang yang merdeka”* (*'ubūdiyyah al-aḥrār*) atau *“kemerdekaan para hamba”* (*ḥurriyyah al-'abīd*). Lalu beliau merumuskan sebaris ayat yang amat indah dan bernilai tinggi yang menyamai sepuluh jilid kitab, seraya berkata:
+Beliau mengungkapkan pemisahan ini sekali lagi sebagai *“penghambaan orang-orang yang merdeka”* (*'ubūdiyah al-aḥrār*) atau *“kemerdekaan para hamba”* (*ḥurriyah al-'abīd*). Lalu beliau merumuskan sebaris ayat yang amat indah dan bernilai tinggi yang menyamai sepuluh jilid kitab, seraya berkata:
 
 > *“Sesungguhnya engkau tidak akan sampai kepada kemerdekaan yang hakiki selagi mana pada dirimu masih berbaki hakikat penghambaan kepada selain-Nya!”*
 
 Oleh kerana seluruh intipati Islam adalah penghambaan diri kepada Allah Taala semata-mata, maka seorang hamba yang sempurna penghambaannya — yang dinamakan oleh al-Junaid — dialah satu-satunya insan yang benar-benar merdeka di alam wujud ini, berbeza dengan orang-orang selainnya yang menjadi tawanan syahwat dan tawanan ijtihad akal fikiran manusia yang serba cetek.
 
-Ungkapan yang indah ini diwarisi oleh al-Junaid daripada sebaik-baik tokoh ahli zuhud dan ahli ibadah: al-Fudhail bin 'Iyadh rahimahullah. Al-Fudhail telah menonjolkan — sebagai timbal balik kepada kemerdekaan daripada selain Allah — kewajipan seorang Muslim dalam memurnikan kepatuhan ketuhanan (*al-rabbāniyyah*) hanya untuk Allah semata-mata, serta mencampakkan segala ketuanan makhluk yang cuba dipaksakan ke atasnya dengan bayaran kebendaan, mahupun melalui kekerasan dan paksaan. Al-Fudhail berkata:
+Ungkapan yang indah ini diwarisi oleh al-Junaid daripada sebaik-baik tokoh ahli zuhud dan ahli ibadah: al-Fudhail bin 'Iyadh rahimahullah. Al-Fudhail telah menonjolkan — sebagai timbal balik kepada kemerdekaan daripada selain Allah — kewajipan seorang Muslim dalam memurnikan kepatuhan ketuhanan (*al-rabbāniyah*) hanya untuk Allah semata-mata, serta mencampakkan segala ketuanan makhluk yang cuba dipaksakan ke atasnya dengan bayaran kebendaan, mahupun melalui kekerasan dan paksaan. Al-Fudhail berkata:
 
 > *“Demi Allah! Belum benar-benar jujur penghambaan diri seseorang kepada Allah sekiranya masih ada bagi salah seorang daripada makhluk ini hak ketuanan ke atas dirinya!”* [9]
 
@@ -3017,7 +3017,7 @@ Maka seorang Muslim memurnikan ibadah hanya untuk Allah semata-mata. Dan pemurni
 
 *“Sesungguhnya aku menjadikan Allah sebagai saksiku, dan saksikanlah oleh kamu bahawa sesungguhnya aku berlepas diri daripada apa yang kamu sekutukan, selain daripada Allah. Oleh itu, jalankanlah rancangan jahat kamu semua terhadapku, dan janganlah kamu tangguh-tangguhkannya lagi. Sesungguhnya aku bertawakal kepada Allah, Tuhanku dan Tuhan kamu! Tiada satu pun makhluk yang bernyawa di bumi ini melainkan Dialah yang memegang ubun-ubunnya. Sesungguhnya Tuhanku berada di atas jalan yang lurus. Jika kamu berpaling, maka sesungguhnya aku telah menyampaikan kepada kamu apa yang diutuskan dengannya kepadaku, dan Tuhanku akan menggantikan kamu dengan kaum yang lain, sedang kamu tidak dapat mendatangkan kemudaratan kepada-Nya sedikit pun. Sesungguhnya Tuhanku Maha Memelihara segala sesuatu.”*
 
-Sayyid Qutb rahimahullah menghuraikan:
+Sayid Qutb rahimahullah menghuraikan:
 
 > *“Ia adalah kebangkitan melepaskan diri daripada kaumnya — sedangkan baginda dahulunya sebahagian daripada mereka dan saudara mereka —; kebangkitan rasa takut untuk terus kekal bersama mereka tatkala mereka menempuh jalan selain jalan Allah; dan kebangkitan pemisahan prinsip (*al-mufāṣalah*) antara dua kelompok yang tidak mungkin bertemu di atas sebarang pertalian, setelah terputusnya pertalian akidah antara kedua-duanya.*  
 > *Baginda mempersaksikan Allah Tuhannya atas pelepasan dirinya daripada kaumnya yang sesat dan pemisahannya daripada mereka; dan baginda turut mempersaksikan mereka sendiri secara bersemuka atas pelepasan dirinya ini, agar tidak berbaki sedikit pun kesamaran dalam diri mereka mengenai kebenciannya dan ketakutannya untuk tergolong bersama mereka.*  
@@ -3031,7 +3031,7 @@ Sayyid Qutb rahimahullah menghuraikan:
 *Ia adalah lambang kekuatan, istiqamah, dan keazaman.*  
 *Dan melalui kalimah-kalimah yang tegas dan tuntas ini, kita memahami rahsia keluhuran (*al-isti'lā'*) tersebut dan rahsia cabaran tersebut. Ia melakarkan gambaran hakikat yang ditemui oleh Nabi Allah Hud AS di dalam dirinya daripada Tuhannya; baginda mendapati hakikat ini begitu jelas, bahawa Tuhannya dan Tuhan seluruh makhluk Maha Perkasa lagi Maha Menguasai: 'Tiada satu pun makhluk bernyawa melainkan Dialah yang memegang ubun-ubunnya'. Dan orang-orang yang bengis serta gagah daripada kaumnya itu tidak lain hanyalah sebahagian daripada binatang melata yang dipegang ubun-ubunnya oleh Tuhannya dan ditundukkan dengan kekuasaan-Nya secara mutlak. Maka apakah yang perlu ditakutkan daripada binatang melata ini, dan mengapakah perlu dipedulikan mereka, sedangkan mereka tidak mampu menguasainya — sekiranya mereka diberi kuasa — melainkan dengan izin Tuhannya semata-mata? Dan mengapakah baginda perlu kekal bersama mereka sedangkan jalan hidupnya telah berbeza daripada jalan mereka?*  
 *Sesungguhnya hakikat ini yang ditemui oleh seorang pendukung dakwah di dalam dirinya tidak meninggalkan sebarang ruang keraguan di hatinya terhadap kesudahan urusannya, dan tiada ruang untuk teragak-agak daripada meneruskan perjalanannya.*  
-*Ia adalah hakikat ketuhanan (*al-ulūhiyyah*) sebagaimana ia terpancar di dalam hati saf mukminin yang terpilih selama-lamanya!”* [11]
+*Ia adalah hakikat ketuhanan (*al-ulūhiyah*) sebagaimana ia terpancar di dalam hati saf mukminin yang terpilih selama-lamanya!”* [11]
 
 Imam Hasan al-Banna rahimahullah turut memahami teori pemisahan prinsip ini, lalu beliau menyeru kepada kewajipan mendidik generasi muda mengikut makna-maknanya, dan menerangkan bahawa masa depan Islam bergantung kepada:
 
@@ -3041,7 +3041,7 @@ Beliau telah mengungkapkan pemisahan prinsip ini dengan istilah *kemerdekaan/keb
 
 • **Kemanisan Ketaatan Hakiki**
 
-Maka kemerdekaan jiwa dan hati adalah pemisahan perasaan (*al-mufāṣalah al-syu'ūriyyah*) di dalam hati sanubari, kemuliaan, dan keluhuran jiwa.  
+Maka kemerdekaan jiwa dan hati adalah pemisahan perasaan (*al-mufāṣalah al-syu'ūriyah*) di dalam hati sanubari, kemuliaan, dan keluhuran jiwa.  
 Manakala kemerdekaan pemikiran adalah tidak mencampuradukkan syariat dengan tasawur-tasawur ciptaan bumi yang bidaah, yang telah menyesatkan pelbagai parti dan golongan.  
 Dan kemerdekaan amal adalah penzahiran keunikan diri di dalam saf dakwah, serta meninggalkan perikatan-perikatan yang merugikan.
 
@@ -3065,17 +3065,17 @@ Maka perelokkanlah permulaan langkahmu dan sempurnakannya dengan sebaik-baiknya,
 
 Nota Kaki:
 
-[1] Sayyid Qutb, *Fī Zhilāl al-Qur'ān*, jld. 4, hlm. 21.  
-[2] Sayyid Qutb, *Ma'ālim fī al-Ṭarīq*, hlm. 146.  
-[3] Sayyid Qutb, *Fī Zhilāl al-Qur'ān*, jld. 24, hlm. 60.  
+[1] Sayid Qutb, *Fī Zhilāl al-Qur'ān*, jld. 4, hlm. 21.  
+[2] Sayid Qutb, *Ma'ālim fī al-Ṭarīq*, hlm. 146.  
+[3] Sayid Qutb, *Fī Zhilāl al-Qur'ān*, jld. 24, hlm. 60.  
 [4] *Ṣaḥīḥ Muslim*, jld. 2, hlm. 115, 117.  
-[5] Sayyid Qutb, *Ma'ālim fī al-Ṭarīq*, hlm. 9.  
-[6] Sayyid Qutb, *Fī Zhilāl al-Qur'ān*, jld. 9, hlm. 280.  
+[5] Sayid Qutb, *Ma'ālim fī al-Ṭarīq*, hlm. 9.  
+[6] Sayid Qutb, *Fī Zhilāl al-Qur'ān*, jld. 9, hlm. 280.  
 [7] Abu Yusuf, *Kitāb al-Kharāj*, hlm. 13.  
 [8] Ibnu Taimiyah, *Majmū' Fatāwā*, jld. 10, hlm. 598.  
 [9] *Ibid.*, jld. 10, hlm. 599.  
 [10] Surah Hūd, ayat 54–57.  
-[11] Sayyid Qutb, *Fī Zhilāl al-Qur'ān*, jld. 12, hlm. 97–98.  
+[11] Sayid Qutb, *Fī Zhilāl al-Qur'ān*, jld. 12, hlm. 97–98.  
 [12] Hasan al-Banna, *Taḥta Rāyah al-Qur'ān* dlm. *Majmū'ah Rasā'il al-Imām*, hlm. 319, 321.  
 [13] *Ibid.*
 
@@ -3152,7 +3152,7 @@ Al-Siddiq Abu Bakar RA mendekati darjat mereka, sehinggakan beliau berkata ketik
 
 > *“Demi Allah, aku tidak pernah tidur lalu bermimpi, dan tidak pula aku berangan-angan lalu menjadi lalai; dan sesungguhnya aku sentiasa berada di atas jalan yang lurus tanpa pernah menyimpang.”* [3]
 
-Maksudnya bahawa perang memerangi golongan riddah (murtad) dan pembukaan-pembukaan wilayah Islam telah menyibukkan beliau, dan penegakan struktur pemerintahan negara telah memenatkan beliau, sehinggakan beliau tidak tidur dengan nyenyak yang memungkinkan beliau bermimpi. Beliau sentiasa meningkat maju selepas kewafatan Nabi SAW dalam makam kebenaran (al-siddiqiyyah) agar Allah Taala mengurniakan kewaspadaan yang berterusan di tengah-tengah kepenatan ini, yang menjauhkan beliau daripada lintasan sangkaan dan kelalaian.
+Maksudnya bahawa perang memerangi golongan riddah (murtad) dan pembukaan-pembukaan wilayah Islam telah menyibukkan beliau, dan penegakan struktur pemerintahan negara telah memenatkan beliau, sehinggakan beliau tidak tidur dengan nyenyak yang memungkinkan beliau bermimpi. Beliau sentiasa meningkat maju selepas kewafatan Nabi SAW dalam makam kebenaran (al-siddiqiyah) agar Allah Taala mengurniakan kewaspadaan yang berterusan di tengah-tengah kepenatan ini, yang menjauhkan beliau daripada lintasan sangkaan dan kelalaian.
 
 • **Debu... !**
 
@@ -3166,17 +3166,17 @@ Sekiranya beliau mahu, beliau boleh sahaja meminta orang membangunkannya dan sah
 
 • **Kegemaran Mengangkat Beban yang Berat**
 
-Da'i yang bijaksana sentiasa berlumba-lumba mendahului para sahabatnya untuk memikul segala urusan yang berat; agar pada hari perhimpunan kelak dia menjadi pemilik neraca timbangan yang sarat memberat, sebagaimana kabilah al-Nakha' berlumba-lumba dalam perang al-Qadisiyyah.
+Da'i yang bijaksana sentiasa berlumba-lumba mendahului para sahabatnya untuk memikul segala urusan yang berat; agar pada hari perhimpunan kelak dia menjadi pemilik neraca timbangan yang sarat memberat, sebagaimana kabilah al-Nakha' berlumba-lumba dalam perang al-Qadisiyah.
 
 Salah seorang sahabat daripada kalangan mereka menceritakan:
 
-> *“Kami datang ke medan al-Qadisiyyah, lalu ramailah orang daripada kalangan kami yang gugur terkorban, manakala daripada kalangan manusia yang lain hanya sedikit.”*
+> *“Kami datang ke medan al-Qadisiyah, lalu ramailah orang daripada kalangan kami yang gugur terkorban, manakala daripada kalangan manusia yang lain hanya sedikit.”*
 
 Maka Umar RA ditanya tentang perkara itu, lalu beliau menjawab:
 
 > *“Sesungguhnya kabilah al-Nakha' memikul sendiri bebanan urusan yang besar itu.”* [5]
 
-Tiada seorang pun daripada mereka yang hadir di al-Qadisiyyah melainkan telah berjuang habis-habisan; akan tetapi para da'i yang ikhlas kepada Allah mempunyai kecenderungan dan kegemaran untuk berlumba-lumba mengangkat bebanan yang paling berat.
+Tiada seorang pun daripada mereka yang hadir di al-Qadisiyah melainkan telah berjuang habis-habisan; akan tetapi para da'i yang ikhlas kepada Allah mempunyai kecenderungan dan kegemaran untuk berlumba-lumba mengangkat bebanan yang paling berat.
 
 • **Kubu Tarbiah al-Asadiah**
 
@@ -3289,7 +3289,7 @@ Dan demikianlah Kami kisahkan kisah-kisah ini kepada para da'i Islam, moga-moga 
 [10] Al-Zahabi, *Tazkirat al-Huffaz*, jld. 2, hlm. 524.
 [11] Ibnu Rajab al-Hanbali, *Zail Tabaqat al-Hanabilah*, jld. 1, hlm. 146; jld. 2, hlm. 361.
 [12] *Ibid.*
-[13] Hasan al-Banna, *Ila Ayyi Syai'in Nad'u al-Nas*, Majmu'ah Rasa'il, hlm. 129.
+[13] Hasan al-Banna, *Ila Ayi Syai'in Nad'u al-Nas*, Majmu'ah Rasa'il, hlm. 129.
 
 
 ---

@@ -514,7 +514,7 @@ document.addEventListener('DOMContentLoaded', () => {
             return;
           }
 
-          // 1. Direct Custom HTML Block (e.g. Lauhah Khithathiyyah Infographic)
+          // 1. Direct Custom HTML Block (e.g. Lauhah Khithathiyah Infographic)
           if (trimmed.startsWith('<div') || trimmed.startsWith('<section')) {
             const wrapper = document.createElement('div');
             wrapper.className = 'custom-html-block';
@@ -1364,9 +1364,9 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // 2. Highlight potential names (dengan ejaan standard kemas kini)
     const names = [
-      'Imam Hasan al-Banna', 'Hasan al-Banna', 'Sayyid Qutb',
+      'Imam Hasan al-Banna', 'Hasan al-Banna', 'Sayid Qutb',
       'Umar bin al-Khattab', 'Abu al-Dardak', "Abu ad-Darda'",
-      'Ibn al-Qayyim', 'Ibnu Taimiyah', 
+      'Ibn al-Qayim', 'Ibnu Taimiyah', 
       "Yahya bin Mu'az", 'Abdullah bin Wahab', 'al-Ma’mun',
       'Rasulullah SAW', 'Nabi SAW',
       'Iqbal', 'Muhammad Iqbal', 'Hasan al-Hudhaibi'
