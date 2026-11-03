@@ -312,7 +312,7 @@ Abu Hayan al-Tauhidi berkata: Abu Sulaiman Muhammad bin Tahir al-Sijistani al-Ma
 
 Melalui dua contoh bait puisi ini berserta ulasannya, terserlah sebahagian daripada kancah pertembungan yang berterusan antara keimanan dengan pelbagai rupa kesesatan.
 
-Di dalam kitab seperti inilah terkandung nasihat-nasihat pelembut hati, ketundukan jiwa, dan penambahan keyakinan....
+Dalam kitab seperti inilah terkandung nasihat-nasihat pelembut hati, ketundukan jiwa, dan penambahan keyakinan....
 
 ---
 
