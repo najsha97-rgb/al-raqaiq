@@ -1,4 +1,4 @@
-const CACHE_NAME = 'alraqaiq-v77-kepungan-angan-art';
+const CACHE_NAME = 'alraqaiq-v78-tazkiah-jiwa-preview';
 const ASSETS_TO_CACHE = [
   './',
   './index.html',

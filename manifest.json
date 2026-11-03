@@ -1,7 +1,7 @@
 {
-  "name": "Al-Raqaiq (الرقائق) - Pelembut-pelembut Hati",
+  "name": "Al-Raqaiq (الرقائق) - Pelembut-pelembut Hati Para Da'i",
   "short_name": "Al-Raqaiq",
-  "description": "Aplikasi PWA Al-Raqaiq (Pelembut-pelembut Hati) karya As-Syeikh Muhammad Ahmad ar-Rasyid rahimahullah.",
+  "description": "Aplikasi PWA Al-Raqaiq (الرَّقَـائِق) - Tazkiah Jiwa, Pelembut Hati & Bekalan Rohani Para Da'i Harakah Islamiyah karya As-Syeikh Muhammad Ahmad ar-Rasyid rahimahullah.",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#052e16",
