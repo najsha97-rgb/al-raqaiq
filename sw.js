@@ -1,4 +1,4 @@
-const CACHE_NAME = 'alraqaiq-v79-pembetulan-tatabahasa-mukadimah-st6';
+const CACHE_NAME = 'alraqaiq-v80-edisi-sempurna-tetralogi';
 const ASSETS_TO_CACHE = [
   './',
   './index.html',

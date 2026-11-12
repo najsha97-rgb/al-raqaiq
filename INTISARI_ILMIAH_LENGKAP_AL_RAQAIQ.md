@@ -492,11 +492,12 @@
     * 🔑 **Kunci Amal:** Kejarlah husnul khatimah dengan menghembuskan nafas terakhir dalam keadaan teguh berbaiah dan beramal di jalan Allah.
 ---
 
-## 📌 KHATIMAH: NANTIKANLAH KITAB «AL-BAWARIQ»
-### *(Wa Intazhir «al-Bawāriq» - وَانْتَظِرْ «البَوَارِقَ»)*
+## 📌 KHATIMAH: MENUJU KEMUNCAK TETRALOGI «AL-MASAR»
+### *(Ilā Dhirwati «al-Masār» - إِلَى ذِرْوَةِ «المَسَارِ»)*
 
 * **Intisari Penutup Agung:**
-  Syeikh Muhammad Ahmad al-Rasyid menutup mahakarya *al-Raqā'iq* ini dengan menjanjikan kemunculan siri seterusnya: **«Al-Bawāriq»** (Kilauan Pedang Perjuangan) — sebuah naskhah dokumentasi mengenai kehangatan semangat jihad (*al-hamāsah*), fiqh pengorbanan, kepahlawanan ulama, serta penggemblengan pemuda Islam untuk mencegah kemungkaran dan menumbangkan kezaliman golongan thaghut di muka bumi.
+  Syeikh Muhammad Ahmad al-Rasyid menutup mahakarya *al-Raqā'iq* ini sebagai bekalan penyucian jiwa pejuang (*tazkiyah ruhiyyah*) sebelum melangkah ke siri kemuncak Tetralogi: **«Al-Masār»** (Seni Bina Perancangan, Polisi Pentadbiran, Strategi Harakah & Wawasan Pembinaan Peradaban Baru Islam). Jiwa yang telah dilembutkan oleh *al-Raqā'iq* kini bersedia menggalas amanah kepimpinan, merangka polisi siyasah syar'iyyah, dan memandu bahtera perubahan ummah.  
+  *(Nota Ilmiah: Di akhir naskhah asal, ungkapan metafora 'وَانْتَظِرْ «البَوَارِقَ»' digunakan sebagai isyarat kilauan pedang perjuangan, manakala siri kanun rasmi keempat yang melengkapkan Tetralogi Fiqh Haraki ini ialah kitab «Al-Masār»).*
 
 ---
 

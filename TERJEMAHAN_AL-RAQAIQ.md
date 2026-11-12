@@ -129,7 +129,7 @@ BAB 12: KISAH-KISAH "HIBURAN" PARA DA'I (قصص من لهو الدعاة) ......
    • Ulama Mazhab Hanbali Memelihara Keterampilan dan Wibawa ........................... 105
    • Sahabat-Sahabat Imam al-Banna Memperbaharui Jejak Ini ........................ 105
    • Kemuliaan Tatkala Saat Kematian...! ...................................... 106
-   • KHATIMAH: Nantikanlah Kitab «al-Bawariq» ..................................... 107
+   • KHATIMAH: Menuju Kemuncak Tetralogi «al-Masār» ................................. 107
 ```
 
 ---
@@ -3291,5 +3291,18 @@ Dan demikianlah Kami kisahkan kisah-kisah ini kepada para da'i Islam, moga-moga 
 [12] *Ibid.*
 [13] Hasan al-Banna, *Ila Ayi Syai'in Nad'u al-Nas*, Majmu'ah Rasa'il, hlm. 129.
 
+---
+
+# KHATIMAH: MENUJU KEMUNCAK TETRALOGI «AL-MASĀR»
+### *(Ilā Dhirwati «al-Masār» - إِلَى ذِرْوَةِ «المَسَارِ»)*
+
+> **«فَهَذِهِ رَقَائِقُنَا قَدْ تَمَّتْ كَلِمَاتُهَا، لِتَلِينَ بِهَا القُلُوبُ، وَتَصْفُوَ النُّفُوسُ... وَانْتَظِرْ «البَوَارِقَ» لِتَسْتَعِدَّ لِلنِّزَالِ!»**  
+> *"Maka inilah santapan pelembut jiwa (al-raqā'iq) kita telah sempurna kalamnya, agar dengannya hati-hati menjadi lembut dan jiwa-jiwa menjadi jernih... dan nantikanlah kilauan pedang perjuangan agar engkau bersiap sedia untuk turun ke medan pertempuran!"*  
+> — **As-Syeikh Muhammad Ahmad ar-Rasyid** *(رحمه الله)*
+
+### Intisari Penutup & Jambatan Menuju «Al-Masār»:
+Syeikh Muhammad Ahmad al-Rasyid menutup mahakarya *al-Raqā'iq* ini sebagai bekalan penyucian jiwa pejuang (*tazkiyah ruhiyyah*) sebelum melangkah ke siri kemuncak Tetralogi Fiqh Haraki: **«Al-Masār»** (Seni Bina Perancangan, Polisi Pentadbiran, Strategi Harakah & Wawasan Pembinaan Peradaban Baru Islam). Jiwa yang telah dilembutkan dan dimurnikan oleh *al-Raqā'iq* kini bersedia menggalas amanah kepimpinan, merangka polisi siyasah syar'iyyah, dan memandu bahtera kebangkitan ummah.
+
+*(Nota Ilmiah Penyelidikan: Di akhir naskhah asal, ungkapan metafora 'وَانْتَظِرْ «البَوَارِقَ»' digunakan sebagai isyarat kilauan pedang perjuangan, manakala naskhah kanun rasmi keempat yang diterbitkan melengkapkan siri fiqh dakwah ini ialah kitab agung «Al-Masār»).*
 
 ---

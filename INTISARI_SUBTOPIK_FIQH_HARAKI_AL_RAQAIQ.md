@@ -1029,12 +1029,12 @@
 
 ---
 
-# ⚡ KHATIMAH: NANTIKANLAH KITAB «AL-BAWARIQ»
-### *(Wa Intazhir «al-Bawāriq» - وَانْتَظِرْ «البَوَارِقَ»)*
+# ⚡ KHATIMAH: MENUJU KEMUNCAK TETRALOGI «AL-MASAR»
+### *(Ilā Dhirwati «al-Masār» - إِلَى ذِرْوَةِ «المَسَارِ»)*
 
 * **💎 Mutiara Kata Hikmah:**  
   > «فَهَذِهِ رَقَائِقُنَا قَدْ تَمَّتْ كَلِمَاتُهَا، لِتَلِينَ بِهَا القُلُوبُ، وَتَصْفُوَ النُّفُوسُ... وَانْتَظِرْ «البَوَارِقَ» لِتَسْتَعِدَّ لِلنِّزَالِ!»  
-  **Terjemahan:** *"Maka inilah santapan pelembut jiwa (al-raqā'iq) kita telah sempurna kalamnya, agar dengannya hati-hati menjadi lembut dan jiwa-jiwa menjadi jernih... dan nantikanlah kemunculan «Al-Bawāriq» (Kilauan Pedang Perjuangan) agar engkau bersiap sedia untuk turun ke medan pertempuran!"* — **(Syeikh Muhammad Ahmad al-Rasyid rahimahullah)**  
-  *Dimensi Haraki:* Tazkiyah jiwa bukanlah matlamat pasif yang berhenti pada zikir sendirian, sebaliknya ia adalah bekalan rohani yang menyalakan kilauan pedang jihad dan mencegah kemungkaran golongan taghut di muka bumi.
+  **Terjemahan:** *"Maka inilah santapan pelembut jiwa (al-raqā'iq) kita telah sempurna kalamnya, agar dengannya hati-hati menjadi lembut dan jiwa-jiwa menjadi jernih... dan nantikanlah kilauan pedang perjuangan agar engkau bersiap sedia untuk turun ke medan pertempuran!"* — **(Syeikh Muhammad Ahmad al-Rasyid rahimahullah)**  
+  *Dimensi Haraki & Tetralogi:* Tazkiyah jiwa bukanlah matlamat pasif yang berhenti pada zikir sendirian, sebaliknya ia adalah bekalan rohani yang menyalakan azam perjuangan sebelum melangkah ke kemuncak siri Tetralogi: **«Al-Masār»** (Seni Bina Perancangan, Polisi Pentadbiran, Strategi Harakah & Wawasan Pembinaan Peradaban Baru Islam). *(Nota Penyelidikan: Naskhah kanun keempat siri Ihya' Fiqh al-Da'wah yang menyempurnakan Tetralogi al-Rasyid ialah «Al-Masār», manakala karya berasingan «Bawāriq al-'Irāq» hanya terbit kemudian sekitar tahun 2006).*
 
 ---
